@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://dwong.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Going The Wong Way
+subtitle: I'm ALWAYS going the Wong way.
+author: Derek Wong
 simple_search: http://google.com/search
 description:
 
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: dwong
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
