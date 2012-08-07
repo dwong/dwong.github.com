@@ -1,6 +1,6 @@
 ---
 alias:
-- /thats-not-why-i-pay-taxes/166/index.html
+- /166/thats-not-why-i-pay-taxes/index.html
 - /2007/06/25/thats-not-why-i-pay-taxes/index.html
 comments: true
 date: 2007-06-25 11:15:02

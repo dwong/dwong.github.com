@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-world-needs-more-hugs/130/index.html
+- /130/the-world-needs-more-hugs/index.html
 - /2007/06/08/the-world-needs-more-hugs/index.html
 comments: true
 date: 2007-06-08 10:30:24

@@ -1,6 +1,6 @@
 ---
 alias:
-- /busyness/171/index.html
+- /171/busyness/index.html
 - /2007/07/03/busyness/index.html
 comments: true
 date: 2007-07-03 08:44:43

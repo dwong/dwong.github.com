@@ -1,6 +1,6 @@
 ---
 alias:
-- /tiddlywiki-for-the-world/249/index.html
+- /249/tiddlywiki-for-the-world/index.html
 - /2008/04/15/tiddlywiki-for-the-world/index.html
 comments: true
 date: 2008-04-15 00:10:26

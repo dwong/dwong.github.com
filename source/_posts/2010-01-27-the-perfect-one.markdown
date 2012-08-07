@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-perfect-one/782/index.html
+- /782/the-perfect-one/index.html
 - /2010/01/27/the-perfect-one/index.html
 comments: true
 date: 2010-01-27 00:14:22

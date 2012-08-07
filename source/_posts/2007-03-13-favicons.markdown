@@ -1,6 +1,6 @@
 ---
 alias:
-- /favicons/35/index.html
+- /35/favicons/index.html
 - /2007/03/13/favicons/index.html
 comments: true
 date: 2007-03-13 13:43:46

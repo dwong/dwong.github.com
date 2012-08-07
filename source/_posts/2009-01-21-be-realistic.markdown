@@ -1,6 +1,6 @@
 ---
 alias:
-- /be-realistic/499/index.html
+- /499/be-realistic/index.html
 - /2009/01/21/be-realistic/index.html
 comments: true
 date: 2009-01-21 00:15:10

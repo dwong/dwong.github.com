@@ -1,6 +1,6 @@
 ---
 alias:
-- /recycling-is-good-on-many-fronts/123/index.html
+- /123/recycling-is-good-on-many-fronts/index.html
 - /2007/06/02/recycling-is-good-on-many-fronts/index.html
 comments: true
 date: 2007-06-02 20:50:38

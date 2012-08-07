@@ -1,6 +1,6 @@
 ---
 alias:
-- /you-have-to-love-irony/127/index.html
+- /127/you-have-to-love-irony/index.html
 - /2007/06/06/you-have-to-love-irony/index.html
 comments: true
 date: 2007-06-06 08:30:30

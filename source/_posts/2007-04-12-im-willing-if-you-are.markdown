@@ -1,6 +1,6 @@
 ---
 alias:
-- /im-willing-if-you-are/69/index.html
+- /69/im-willing-if-you-are/index.html
 - /2007/04/12/im-willing-if-you-are/index.html
 comments: true
 date: 2007-04-12 11:56:04

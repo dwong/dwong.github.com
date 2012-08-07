@@ -1,6 +1,6 @@
 ---
 alias:
-- /take-it-easy-old-fella/791/index.html
+- /791/take-it-easy-old-fella/index.html
 - /2010/03/26/take-it-easy-old-fella/index.html
 comments: true
 date: 2010-03-26 00:15:03

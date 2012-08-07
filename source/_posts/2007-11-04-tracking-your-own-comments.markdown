@@ -1,6 +1,6 @@
 ---
 alias:
-- /tracking-your-own-comments/207/index.html
+- /207/tracking-your-own-comments/index.html
 - /2007/11/04/tracking-your-own-comments/index.html
 comments: true
 date: 2007-11-04 11:30:29

@@ -1,6 +1,6 @@
 ---
 alias:
-- /lovely-civic-duty/115/index.html
+- /115/lovely-civic-duty/index.html
 - /2007/05/24/lovely-civic-duty/index.html
 comments: true
 date: 2007-05-24 07:30:06

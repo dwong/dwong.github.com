@@ -1,6 +1,6 @@
 ---
 alias:
-- /pleasantly-surprised-horribly-disappointed/255/index.html
+- /255/pleasantly-surprised-horribly-disappointed/index.html
 - /2008/05/22/pleasantly-surprised-horribly-disappointed/index.html
 comments: true
 date: 2008-05-22 00:10:46

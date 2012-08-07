@@ -1,6 +1,6 @@
 ---
 alias:
-- /unboxing-my-macbook-pro/205/index.html
+- /205/unboxing-my-macbook-pro/index.html
 - /2007/09/23/unboxing-my-macbook-pro/index.html
 comments: true
 date: 2007-09-23 16:30:33

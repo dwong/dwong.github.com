@@ -1,6 +1,6 @@
 ---
 alias:
-- /ignorance-bliss/306/index.html
+- /306/ignorance-bliss/index.html
 - /2008/08/06/ignorance-bliss/index.html
 comments: true
 date: 2008-08-06 00:20:07

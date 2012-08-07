@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-path-more-easily-chosen/981/index.html
+- /981/the-path-more-easily-chosen/index.html
 - /2011/07/02/the-path-more-easily-chosen/index.html
 comments: true
 date: 2011-07-02 00:34:40

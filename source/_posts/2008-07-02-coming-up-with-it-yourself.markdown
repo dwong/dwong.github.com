@@ -1,6 +1,6 @@
 ---
 alias:
-- /coming-up-with-it-yourself/266/index.html
+- /266/coming-up-with-it-yourself/index.html
 - /2008/07/02/coming-up-with-it-yourself/index.html
 comments: true
 date: 2008-07-02 00:20:25

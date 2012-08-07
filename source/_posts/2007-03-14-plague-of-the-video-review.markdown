@@ -1,6 +1,6 @@
 ---
 alias:
-- /plague-of-the-video-review/38/index.html
+- /38/plague-of-the-video-review/index.html
 - /2007/03/14/plague-of-the-video-review/index.html
 comments: true
 date: 2007-03-14 14:08:43

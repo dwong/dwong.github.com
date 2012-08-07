@@ -1,6 +1,6 @@
 ---
 alias:
-- /adage/148/index.html
+- /148/adage/index.html
 - /2007/05/07/adage/index.html
 comments: true
 date: 2007-05-07 10:30:01

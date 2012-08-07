@@ -1,6 +1,6 @@
 ---
 alias:
-- /more-favorite-posts/158/index.html
+- /158/more-favorite-posts/index.html
 - /2007/06/16/more-favorite-posts/index.html
 comments: true
 date: 2007-06-16 14:30:04

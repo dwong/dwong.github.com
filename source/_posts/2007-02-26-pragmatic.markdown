@@ -1,6 +1,6 @@
 ---
 alias:
-- /pragmatic/138/index.html
+- /138/pragmatic/index.html
 - /2007/02/26/pragmatic/index.html
 comments: true
 date: 2007-02-26 10:30:56

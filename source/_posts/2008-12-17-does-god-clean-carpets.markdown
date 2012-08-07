@@ -1,6 +1,6 @@
 ---
 alias:
-- /does-god-clean-carpets/442/index.html
+- /442/does-god-clean-carpets/index.html
 - /2008/12/17/does-god-clean-carpets/index.html
 comments: true
 date: 2008-12-17 00:34:17

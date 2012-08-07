@@ -1,6 +1,6 @@
 ---
 alias:
-- /paying-for-software/944/index.html
+- /944/paying-for-software/index.html
 - /2011/06/16/paying-for-software/index.html
 comments: true
 date: 2011-06-16 00:14:37

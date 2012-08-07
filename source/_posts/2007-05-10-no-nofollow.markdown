@@ -1,6 +1,6 @@
 ---
 alias:
-- /no-nofollow/97/index.html
+- /97/no-nofollow/index.html
 - /2007/05/10/no-nofollow/index.html
 comments: true
 date: 2007-05-10 08:15:26

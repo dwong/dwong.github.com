@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-possibly-new-idea-for-american-idol/59/index.html
+- /59/a-possibly-new-idea-for-american-idol/index.html
 - /2007/04/04/a-possibly-new-idea-for-american-idol/index.html
 comments: true
 date: 2007-04-04 20:51:07

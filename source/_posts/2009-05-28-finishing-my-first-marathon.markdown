@@ -1,6 +1,6 @@
 ---
 alias:
-- /finishing-my-first-marathon/596/index.html
+- /596/finishing-my-first-marathon/index.html
 - /2009/05/28/finishing-my-first-marathon/index.html
 comments: true
 date: 2009-05-28 00:03:24

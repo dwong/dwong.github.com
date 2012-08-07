@@ -1,6 +1,6 @@
 ---
 alias:
-- /having-the-desire/476/index.html
+- /476/having-the-desire/index.html
 - /2009/03/04/having-the-desire/index.html
 comments: true
 date: 2009-03-04 00:14:18

@@ -1,6 +1,6 @@
 ---
 alias:
-- /san-diego/1121/index.html
+- /1121/san-diego/index.html
 - /2011/12/16/san-diego/index.html
 comments: true
 date: 2011-12-16 00:27:22

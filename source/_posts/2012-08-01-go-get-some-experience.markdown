@@ -1,6 +1,6 @@
 ---
 alias:
-- /go-get-some-experience/1209/index.html
+- /1209/go-get-some-experience/index.html
 - /2012/08/01/go-get-some-experience/index.html
 comments: true
 date: 2012-08-01 00:10:21

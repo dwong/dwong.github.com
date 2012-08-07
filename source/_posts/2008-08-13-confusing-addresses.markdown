@@ -1,6 +1,6 @@
 ---
 alias:
-- /confusing-addresses/316/index.html
+- /316/confusing-addresses/index.html
 - /2008/08/13/confusing-addresses/index.html
 comments: true
 date: 2008-08-13 00:20:06

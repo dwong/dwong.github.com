@@ -1,6 +1,6 @@
 ---
 alias:
-- /group-friendship/253/index.html
+- /253/group-friendship/index.html
 - /2008/05/15/group-friendship/index.html
 comments: true
 date: 2008-05-15 00:20:27

@@ -1,6 +1,6 @@
 ---
 alias:
-- /finish-line-mirage/338/index.html
+- /338/finish-line-mirage/index.html
 - /2008/09/04/finish-line-mirage/index.html
 comments: true
 date: 2008-09-04 00:15:25

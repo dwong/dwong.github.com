@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-most-obvious-place/248/index.html
+- /248/the-most-obvious-place/index.html
 - /2008/04/01/the-most-obvious-place/index.html
 comments: true
 date: 2008-04-01 00:15:03

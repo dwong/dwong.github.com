@@ -1,6 +1,6 @@
 ---
 alias:
-- /even-worse/40/index.html
+- /40/even-worse/index.html
 - /2007/03/20/even-worse/index.html
 comments: true
 date: 2007-03-20 11:26:51

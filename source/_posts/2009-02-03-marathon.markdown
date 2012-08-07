@@ -1,6 +1,6 @@
 ---
 alias:
-- /marathon/513/index.html
+- /513/marathon/index.html
 - /2009/02/03/marathon/index.html
 comments: true
 date: 2009-02-03 00:08:46

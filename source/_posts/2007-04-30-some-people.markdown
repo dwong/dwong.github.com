@@ -1,6 +1,6 @@
 ---
 alias:
-- /some-people/85/index.html
+- /85/some-people/index.html
 - /2007/04/30/some-people/index.html
 comments: true
 date: 2007-04-30 11:04:24

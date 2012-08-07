@@ -1,6 +1,6 @@
 ---
 alias:
-- /police-on-phone/630/index.html
+- /630/police-on-phone/index.html
 - /2009/07/31/police-on-phone/index.html
 comments: true
 date: 2009-07-31 00:15:13

@@ -1,6 +1,6 @@
 ---
 alias:
-- /i-like-those-posts/133/index.html
+- /133/i-like-those-posts/index.html
 - /2007/06/07/i-like-those-posts/index.html
 comments: true
 date: 2007-06-07 20:30:45

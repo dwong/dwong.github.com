@@ -1,6 +1,6 @@
 ---
 alias:
-- /getting-paid-under-the-table/839/index.html
+- /839/getting-paid-under-the-table/index.html
 - /2010/08/05/getting-paid-under-the-table/index.html
 comments: true
 date: 2010-08-05 00:53:23

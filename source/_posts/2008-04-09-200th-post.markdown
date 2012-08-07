@@ -1,6 +1,6 @@
 ---
 alias:
-- /200th-post/250/index.html
+- /250/200th-post/index.html
 - /2008/04/09/200th-post/index.html
 comments: true
 date: 2008-04-09 00:10:31

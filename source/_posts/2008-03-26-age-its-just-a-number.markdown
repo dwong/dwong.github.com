@@ -1,6 +1,6 @@
 ---
 alias:
-- /age-its-just-a-number/244/index.html
+- /244/age-its-just-a-number/index.html
 - /2008/03/26/age-its-just-a-number/index.html
 comments: true
 date: 2008-03-26 00:20:31

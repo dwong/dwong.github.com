@@ -1,6 +1,6 @@
 ---
 alias:
-- /miscellaneous-happenings/961/index.html
+- /961/miscellaneous-happenings/index.html
 - /2011/03/03/miscellaneous-happenings/index.html
 comments: true
 date: 2011-03-03 00:06:41

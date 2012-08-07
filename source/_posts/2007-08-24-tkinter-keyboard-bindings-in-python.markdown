@@ -1,6 +1,6 @@
 ---
 alias:
-- /tkinter-keyboard-bindings-in-python/195/index.html
+- /195/tkinter-keyboard-bindings-in-python/index.html
 - /2007/08/24/tkinter-keyboard-bindings-in-python/index.html
 comments: true
 date: 2007-08-24 10:00:36

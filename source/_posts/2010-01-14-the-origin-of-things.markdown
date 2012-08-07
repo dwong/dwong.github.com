@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-origin-of-things/773/index.html
+- /773/the-origin-of-things/index.html
 - /2010/01/14/the-origin-of-things/index.html
 comments: true
 date: 2010-01-14 00:14:48

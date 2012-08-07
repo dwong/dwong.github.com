@@ -1,6 +1,6 @@
 ---
 alias:
-- /important-vs-urgent/789/index.html
+- /789/important-vs-urgent/index.html
 - /2010/03/31/important-vs-urgent/index.html
 comments: true
 date: 2010-03-31 00:25:39

@@ -1,6 +1,6 @@
 ---
 alias:
-- /big-government/845/index.html
+- /845/big-government/index.html
 - /2010/08/18/big-government/index.html
 comments: true
 date: 2010-08-18 00:31:29

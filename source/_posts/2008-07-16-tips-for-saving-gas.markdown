@@ -1,6 +1,6 @@
 ---
 alias:
-- /tips-for-saving-gas/269/index.html
+- /269/tips-for-saving-gas/index.html
 - /2008/07/16/tips-for-saving-gas/index.html
 comments: true
 date: 2008-07-16 00:22:38

@@ -1,6 +1,6 @@
 ---
 alias:
-- /music-piracy-makes-people-stupid/99/index.html
+- /99/music-piracy-makes-people-stupid/index.html
 - /2007/05/14/music-piracy-makes-people-stupid/index.html
 comments: true
 date: 2007-05-14 12:12:06

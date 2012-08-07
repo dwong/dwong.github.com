@@ -1,6 +1,6 @@
 ---
 alias:
-- /crom-the-one-who-loveshates-his-girlfriend/916/index.html
+- /916/crom-the-one-who-loveshates-his-girlfriend/index.html
 - /2011/11/15/crom-the-one-who-loveshates-his-girlfriend/index.html
 comments: true
 date: 2011-11-15 01:10:39

@@ -1,6 +1,6 @@
 ---
 alias:
-- /rss-2/19/index.html
+- /19/rss-2/index.html
 - /2007/02/15/rss-2/index.html
 comments: true
 date: 2007-02-15 14:19:47

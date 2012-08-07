@@ -1,6 +1,6 @@
 ---
 alias:
-- /3-little-tips-to-save/200/index.html
+- /200/3-little-tips-to-save/index.html
 - /2007/09/18/3-little-tips-to-save/index.html
 comments: true
 date: 2007-09-18 10:37:52

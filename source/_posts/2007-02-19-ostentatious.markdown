@@ -1,6 +1,6 @@
 ---
 alias:
-- /ostentatious/137/index.html
+- /137/ostentatious/index.html
 - /2007/02/19/ostentatious/index.html
 comments: true
 date: 2007-02-19 10:30:37

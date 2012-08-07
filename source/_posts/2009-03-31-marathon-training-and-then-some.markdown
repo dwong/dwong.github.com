@@ -1,6 +1,6 @@
 ---
 alias:
-- /marathon-training-and-then-some/559/index.html
+- /559/marathon-training-and-then-some/index.html
 - /2009/03/31/marathon-training-and-then-some/index.html
 comments: true
 date: 2009-03-31 00:20:40

@@ -1,6 +1,6 @@
 ---
 alias:
-- /word-up/677/index.html
+- /677/word-up/index.html
 - /2009/09/16/word-up/index.html
 comments: true
 date: 2009-09-16 00:24:36

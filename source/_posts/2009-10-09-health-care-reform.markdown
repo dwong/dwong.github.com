@@ -1,6 +1,6 @@
 ---
 alias:
-- /health-care-reform/675/index.html
+- /675/health-care-reform/index.html
 - /2009/10/09/health-care-reform/index.html
 comments: true
 date: 2009-10-09 00:10:07

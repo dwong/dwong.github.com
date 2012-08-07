@@ -1,6 +1,6 @@
 ---
 alias:
-- /that-hide-me-right-now-please-feeling/235/index.html
+- /235/that-hide-me-right-now-please-feeling/index.html
 - /2008/01/05/that-hide-me-right-now-please-feeling/index.html
 comments: true
 date: 2008-01-05 22:18:06

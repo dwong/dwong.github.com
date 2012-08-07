@@ -1,6 +1,6 @@
 ---
 alias:
-- /interesting-dates-rule/629/index.html
+- /629/interesting-dates-rule/index.html
 - /2009/08/21/interesting-dates-rule/index.html
 comments: true
 date: 2009-08-21 00:19:45

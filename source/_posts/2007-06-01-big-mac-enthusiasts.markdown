@@ -1,6 +1,6 @@
 ---
 alias:
-- /big-mac-enthusiasts/122/index.html
+- /122/big-mac-enthusiasts/index.html
 - /2007/06/01/big-mac-enthusiasts/index.html
 comments: true
 date: 2007-06-01 08:45:53

@@ -1,6 +1,6 @@
 ---
 alias:
-- /making-money-by-blogging/89/index.html
+- /89/making-money-by-blogging/index.html
 - /2007/05/13/making-money-by-blogging/index.html
 comments: true
 date: 2007-05-13 21:34:43

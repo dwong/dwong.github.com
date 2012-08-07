@@ -1,6 +1,6 @@
 ---
 alias:
-- /silver-surfer-contests/119/index.html
+- /119/silver-surfer-contests/index.html
 - /2007/05/29/silver-surfer-contests/index.html
 comments: true
 date: 2007-05-29 18:00:00

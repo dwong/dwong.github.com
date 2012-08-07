@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-quote-about-true-friends/228/index.html
+- /228/a-quote-about-true-friends/index.html
 - /2007/12/03/a-quote-about-true-friends/index.html
 comments: true
 date: 2007-12-03 11:44:45

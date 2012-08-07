@@ -1,6 +1,6 @@
 ---
 alias:
-- /cross-post/21/index.html
+- /21/cross-post/index.html
 - /2007/02/22/cross-post/index.html
 comments: true
 date: 2007-02-22 21:50:43

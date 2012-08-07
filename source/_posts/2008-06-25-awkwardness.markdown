@@ -1,6 +1,6 @@
 ---
 alias:
-- /awkwardness/264/index.html
+- /264/awkwardness/index.html
 - /2008/06/25/awkwardness/index.html
 comments: true
 date: 2008-06-25 00:25:27

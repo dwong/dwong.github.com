@@ -1,6 +1,6 @@
 ---
 alias:
-- /even-worse-than-at-first-glance/70/index.html
+- /70/even-worse-than-at-first-glance/index.html
 - /2007/04/14/even-worse-than-at-first-glance/index.html
 comments: true
 date: 2007-04-14 22:12:58

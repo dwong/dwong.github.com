@@ -1,6 +1,6 @@
 ---
 alias:
-- /unsolicited-advice/781/index.html
+- /781/unsolicited-advice/index.html
 - /2010/05/21/unsolicited-advice/index.html
 comments: true
 date: 2010-05-21 00:10:21

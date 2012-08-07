@@ -1,6 +1,6 @@
 ---
 alias:
-- /extra-extra-check-out-the-new-theme/221/index.html
+- /221/extra-extra-check-out-the-new-theme/index.html
 - /2007/11/01/extra-extra-check-out-the-new-theme/index.html
 comments: true
 date: 2007-11-01 08:00:17

@@ -1,6 +1,6 @@
 ---
 alias:
-- /difference-between-nerd-geek-and-dork/208/index.html
+- /208/difference-between-nerd-geek-and-dork/index.html
 - /2008/02/15/difference-between-nerd-geek-and-dork/index.html
 comments: true
 date: 2008-02-15 09:42:44

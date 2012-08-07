@@ -1,6 +1,6 @@
 ---
 alias:
-- /cost-and-benefits-of-running-your-own-server/101/index.html
+- /101/cost-and-benefits-of-running-your-own-server/index.html
 - /2007/05/15/cost-and-benefits-of-running-your-own-server/index.html
 comments: true
 date: 2007-05-15 19:15:39

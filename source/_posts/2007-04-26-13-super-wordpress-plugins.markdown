@@ -1,6 +1,6 @@
 ---
 alias:
-- /13-super-wordpress-plugins/60/index.html
+- /60/13-super-wordpress-plugins/index.html
 - /2007/04/26/13-super-wordpress-plugins/index.html
 comments: true
 date: 2007-04-26 09:46:43

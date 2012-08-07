@@ -1,6 +1,6 @@
 ---
 alias:
-- /fortune-cookies-suck/251/index.html
+- /251/fortune-cookies-suck/index.html
 - /2008/04/07/fortune-cookies-suck/index.html
 comments: true
 date: 2008-04-07 10:35:58

@@ -1,6 +1,6 @@
 ---
 alias:
-- /precocious/143/index.html
+- /143/precocious/index.html
 - /2007/04/02/precocious/index.html
 comments: true
 date: 2007-04-02 10:30:37

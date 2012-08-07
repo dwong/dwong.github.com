@@ -1,6 +1,6 @@
 ---
 alias:
-- /noticing-wedding-gifts/829/index.html
+- /829/noticing-wedding-gifts/index.html
 - /2010/07/21/noticing-wedding-gifts/index.html
 comments: true
 date: 2010-07-21 00:43:14

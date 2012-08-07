@@ -1,6 +1,6 @@
 ---
 alias:
-- /sell-your-porsche/724/index.html
+- /724/sell-your-porsche/index.html
 - /2007/01/11/sell-your-porsche/index.html
 comments: true
 date: 2007-01-11 09:57:40

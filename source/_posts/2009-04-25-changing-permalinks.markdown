@@ -1,6 +1,6 @@
 ---
 alias:
-- /changing-permalinks/574/index.html
+- /574/changing-permalinks/index.html
 - /2009/04/25/changing-permalinks/index.html
 comments: true
 date: 2009-04-25 09:30:40

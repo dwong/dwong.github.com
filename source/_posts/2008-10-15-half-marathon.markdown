@@ -1,6 +1,6 @@
 ---
 alias:
-- /half-marathon/389/index.html
+- /389/half-marathon/index.html
 - /2008/10/15/half-marathon/index.html
 comments: true
 date: 2008-10-15 00:13:40

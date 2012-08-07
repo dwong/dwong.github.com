@@ -1,6 +1,6 @@
 ---
 alias:
-- /winning-with-blingo/209/index.html
+- /209/winning-with-blingo/index.html
 - /2007/09/28/winning-with-blingo/index.html
 comments: true
 date: 2007-09-28 14:42:45

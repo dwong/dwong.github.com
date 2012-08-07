@@ -1,6 +1,6 @@
 ---
 alias:
-- /sneezing-coughingkeep-it-to-yourself/196/index.html
+- /196/sneezing-coughingkeep-it-to-yourself/index.html
 - /2007/08/28/sneezing-coughingkeep-it-to-yourself/index.html
 comments: true
 date: 2007-08-28 09:58:24

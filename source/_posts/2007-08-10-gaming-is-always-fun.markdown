@@ -1,6 +1,6 @@
 ---
 alias:
-- /gaming-is-always-fun/184/index.html
+- /184/gaming-is-always-fun/index.html
 - /2007/08/10/gaming-is-always-fun/index.html
 comments: true
 date: 2007-08-10 09:29:21

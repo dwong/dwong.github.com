@@ -1,6 +1,6 @@
 ---
 alias:
-- /finding-out-who-you-are/223/index.html
+- /223/finding-out-who-you-are/index.html
 - /2007/11/14/finding-out-who-you-are/index.html
 comments: true
 date: 2007-11-14 12:16:36

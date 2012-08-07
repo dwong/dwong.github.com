@@ -1,6 +1,6 @@
 ---
 alias:
-- /bag-of-crap/931/index.html
+- /931/bag-of-crap/index.html
 - /2010/12/21/bag-of-crap/index.html
 comments: true
 date: 2010-12-21 00:37:58

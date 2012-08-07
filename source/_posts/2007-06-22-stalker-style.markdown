@@ -1,6 +1,6 @@
 ---
 alias:
-- /stalker-style/163/index.html
+- /163/stalker-style/index.html
 - /2007/06/22/stalker-style/index.html
 comments: true
 date: 2007-06-22 09:30:39

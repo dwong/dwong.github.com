@@ -1,6 +1,6 @@
 ---
 alias:
-- /up-or-down-same-difference/154/index.html
+- /154/up-or-down-same-difference/index.html
 - /2007/04/13/up-or-down-same-difference/index.html
 comments: true
 date: 2007-04-13 08:50:21

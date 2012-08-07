@@ -1,6 +1,6 @@
 ---
 alias:
-- /disaster/32/index.html
+- /32/disaster/index.html
 - /2007/03/11/disaster/index.html
 comments: true
 date: 2007-03-11 16:42:57

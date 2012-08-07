@@ -1,6 +1,6 @@
 ---
 alias:
-- /experience-matters/366/index.html
+- /366/experience-matters/index.html
 - /2008/10/01/experience-matters/index.html
 comments: true
 date: 2008-10-01 00:20:43

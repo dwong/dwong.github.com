@@ -1,6 +1,6 @@
 ---
 alias:
-- /yay-for-frequent-commentators/194/index.html
+- /194/yay-for-frequent-commentators/index.html
 - /2007/09/06/yay-for-frequent-commentators/index.html
 comments: true
 date: 2007-09-06 16:24:24

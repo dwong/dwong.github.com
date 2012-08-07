@@ -1,6 +1,6 @@
 ---
 alias:
-- /diy-camera-strap/1036/index.html
+- /1036/diy-camera-strap/index.html
 - /2011/09/30/diy-camera-strap/index.html
 comments: true
 date: 2011-09-30 06:05:32

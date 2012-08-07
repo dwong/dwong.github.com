@@ -1,6 +1,6 @@
 ---
 alias:
-- /not-what-i-do/172/index.html
+- /172/not-what-i-do/index.html
 - /2007/07/05/not-what-i-do/index.html
 comments: true
 date: 2007-07-05 09:16:23

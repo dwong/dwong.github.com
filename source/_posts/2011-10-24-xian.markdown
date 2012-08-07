@@ -1,6 +1,6 @@
 ---
 alias:
-- /xian/1076/index.html
+- /1076/xian/index.html
 - /2011/10/24/xian/index.html
 comments: true
 date: 2011-10-24 00:04:49

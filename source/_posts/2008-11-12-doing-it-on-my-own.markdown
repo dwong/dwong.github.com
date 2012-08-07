@@ -1,6 +1,6 @@
 ---
 alias:
-- /doing-it-on-my-own/413/index.html
+- /413/doing-it-on-my-own/index.html
 - /2008/11/12/doing-it-on-my-own/index.html
 comments: true
 date: 2008-11-12 00:10:50

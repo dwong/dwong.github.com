@@ -1,6 +1,6 @@
 ---
 alias:
-- /tweedle-dee-twitter-dumb/83/index.html
+- /83/tweedle-dee-twitter-dumb/index.html
 - /2007/05/01/tweedle-dee-twitter-dumb/index.html
 comments: true
 date: 2007-05-01 11:25:41

@@ -1,6 +1,6 @@
 ---
 alias:
-- /new-hopefully-better-favicon/190/index.html
+- /190/new-hopefully-better-favicon/index.html
 - /2007/08/17/new-hopefully-better-favicon/index.html
 comments: true
 date: 2007-08-17 10:01:09

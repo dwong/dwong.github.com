@@ -1,6 +1,6 @@
 ---
 alias:
-- /what-are-you-trying-to-pull-here/383/index.html
+- /383/what-are-you-trying-to-pull-here/index.html
 - /2008/10/10/what-are-you-trying-to-pull-here/index.html
 comments: true
 date: 2008-10-10 00:20:33

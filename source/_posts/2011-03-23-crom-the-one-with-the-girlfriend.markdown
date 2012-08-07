@@ -1,6 +1,6 @@
 ---
 alias:
-- /crom-the-one-with-the-girlfriend/914/index.html
+- /914/crom-the-one-with-the-girlfriend/index.html
 - /2011/03/23/crom-the-one-with-the-girlfriend/index.html
 comments: true
 date: 2011-03-23 00:22:38

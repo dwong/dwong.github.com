@@ -1,6 +1,6 @@
 ---
 alias:
-- /break-the-fast-twice/61/index.html
+- /61/break-the-fast-twice/index.html
 - /2007/04/06/break-the-fast-twice/index.html
 comments: true
 date: 2007-04-06 11:15:20

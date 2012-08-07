@@ -1,6 +1,6 @@
 ---
 alias:
-- /wavering-importance/815/index.html
+- /815/wavering-importance/index.html
 - /2010/06/28/wavering-importance/index.html
 comments: true
 date: 2010-06-28 00:45:11

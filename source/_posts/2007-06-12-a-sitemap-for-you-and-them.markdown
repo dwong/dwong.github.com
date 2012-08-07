@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-sitemap-for-you-and-them/134/index.html
+- /134/a-sitemap-for-you-and-them/index.html
 - /2007/06/12/a-sitemap-for-you-and-them/index.html
 comments: true
 date: 2007-06-12 10:34:53

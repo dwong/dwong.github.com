@@ -1,6 +1,6 @@
 ---
 alias:
-- /christian-rap/404/index.html
+- /404/christian-rap/index.html
 - /2008/10/29/christian-rap/index.html
 comments: true
 date: 2008-10-29 00:30:39

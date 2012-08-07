@@ -1,6 +1,6 @@
 ---
 alias:
-- /facetious/139/index.html
+- /139/facetious/index.html
 - /2007/03/05/facetious/index.html
 comments: true
 date: 2007-03-05 10:30:10

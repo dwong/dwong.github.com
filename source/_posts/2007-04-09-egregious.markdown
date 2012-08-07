@@ -1,6 +1,6 @@
 ---
 alias:
-- /egregious/144/index.html
+- /144/egregious/index.html
 - /2007/04/09/egregious/index.html
 comments: true
 date: 2007-04-09 10:30:16

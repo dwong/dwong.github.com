@@ -1,6 +1,6 @@
 ---
 alias:
-- /i-hate-murphy/594/index.html
+- /594/i-hate-murphy/index.html
 - /2009/05/21/i-hate-murphy/index.html
 comments: true
 date: 2009-05-21 21:30:45

@@ -1,6 +1,6 @@
 ---
 alias:
-- /how-are-magazine-advertisements-worthwhile/126/index.html
+- /126/how-are-magazine-advertisements-worthwhile/index.html
 - /2007/06/05/how-are-magazine-advertisements-worthwhile/index.html
 comments: true
 date: 2007-06-05 11:10:16

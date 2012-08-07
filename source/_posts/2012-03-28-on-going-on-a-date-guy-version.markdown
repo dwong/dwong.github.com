@@ -1,6 +1,6 @@
 ---
 alias:
-- /on-going-on-a-date-guy-version/258/index.html
+- /258/on-going-on-a-date-guy-version/index.html
 - /2012/03/28/on-going-on-a-date-guy-version/index.html
 comments: true
 date: 2012-03-28 00:21:54

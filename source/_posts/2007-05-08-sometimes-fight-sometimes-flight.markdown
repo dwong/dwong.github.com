@@ -1,6 +1,6 @@
 ---
 alias:
-- /sometimes-fight-sometimes-flight/95/index.html
+- /95/sometimes-fight-sometimes-flight/index.html
 - /2007/05/08/sometimes-fight-sometimes-flight/index.html
 comments: true
 date: 2007-05-08 13:47:49

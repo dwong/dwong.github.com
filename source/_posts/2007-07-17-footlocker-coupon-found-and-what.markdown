@@ -1,6 +1,6 @@
 ---
 alias:
-- /footlocker-coupon-found-and-what/177/index.html
+- /177/footlocker-coupon-found-and-what/index.html
 - /2007/07/17/footlocker-coupon-found-and-what/index.html
 comments: true
 date: 2007-07-17 10:04:04

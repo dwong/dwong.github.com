@@ -1,6 +1,6 @@
 ---
 alias:
-- /tagging/66/index.html
+- /66/tagging/index.html
 - /2007/04/10/tagging/index.html
 comments: true
 date: 2007-04-10 12:45:40

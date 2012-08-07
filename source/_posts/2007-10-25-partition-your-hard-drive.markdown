@@ -1,6 +1,6 @@
 ---
 alias:
-- /partition-your-hard-drive/218/index.html
+- /218/partition-your-hard-drive/index.html
 - /2007/10/25/partition-your-hard-drive/index.html
 comments: true
 date: 2007-10-25 11:20:56

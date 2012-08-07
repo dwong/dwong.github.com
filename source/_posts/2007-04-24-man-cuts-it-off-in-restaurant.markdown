@@ -1,6 +1,6 @@
 ---
 alias:
-- /man-cuts-it-off-in-restaurant/79/index.html
+- /79/man-cuts-it-off-in-restaurant/index.html
 - /2007/04/24/man-cuts-it-off-in-restaurant/index.html
 comments: true
 date: 2007-04-24 13:45:07

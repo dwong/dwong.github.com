@@ -1,6 +1,6 @@
 ---
 alias:
-- /your-word/898/index.html
+- /898/your-word/index.html
 - /2012/01/25/your-word/index.html
 comments: true
 date: 2012-01-25 05:56:47

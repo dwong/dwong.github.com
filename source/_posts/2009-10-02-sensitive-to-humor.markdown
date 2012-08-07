@@ -1,6 +1,6 @@
 ---
 alias:
-- /sensitive-to-humor/693/index.html
+- /693/sensitive-to-humor/index.html
 - /2009/10/02/sensitive-to-humor/index.html
 comments: true
 date: 2009-10-02 00:20:26

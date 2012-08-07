@@ -1,6 +1,6 @@
 ---
 alias:
-- /maybe-ill-miss-that-pit/616/index.html
+- /616/maybe-ill-miss-that-pit/index.html
 - /2009/06/20/maybe-ill-miss-that-pit/index.html
 comments: true
 date: 2009-06-20 00:40:28

@@ -1,6 +1,6 @@
 ---
 alias:
-- /beijing/1016/index.html
+- /1016/beijing/index.html
 - /2011/09/01/beijing/index.html
 comments: true
 date: 2011-09-01 00:57:36

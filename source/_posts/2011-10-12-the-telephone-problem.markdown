@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-telephone-problem/769/index.html
+- /769/the-telephone-problem/index.html
 - /2011/10/12/the-telephone-problem/index.html
 comments: true
 date: 2011-10-12 00:44:56

@@ -1,6 +1,6 @@
 ---
 alias:
-- /dodgeball/1164/index.html
+- /1164/dodgeball/index.html
 - /2012/02/16/dodgeball/index.html
 comments: true
 date: 2012-02-16 00:45:53

@@ -1,6 +1,6 @@
 ---
 alias:
-- /i-dont-follow-celebrities-lives/247/index.html
+- /247/i-dont-follow-celebrities-lives/index.html
 - /2008/04/30/i-dont-follow-celebrities-lives/index.html
 comments: true
 date: 2008-04-30 00:15:31

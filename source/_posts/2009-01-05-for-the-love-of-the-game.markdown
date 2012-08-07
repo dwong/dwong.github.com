@@ -1,6 +1,6 @@
 ---
 alias:
-- /for-the-love-of-the-game/458/index.html
+- /458/for-the-love-of-the-game/index.html
 - /2009/01/05/for-the-love-of-the-game/index.html
 comments: true
 date: 2009-01-05 00:21:21

@@ -1,6 +1,6 @@
 ---
 alias:
-- /ninjas-not-pirates/242/index.html
+- /242/ninjas-not-pirates/index.html
 - /2008/04/23/ninjas-not-pirates/index.html
 comments: true
 date: 2008-04-23 00:10:06

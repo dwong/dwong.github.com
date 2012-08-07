@@ -1,6 +1,6 @@
 ---
 alias:
-- /cheatin-chinese/91/index.html
+- /91/cheatin-chinese/index.html
 - /2007/05/04/cheatin-chinese/index.html
 comments: true
 date: 2007-05-04 10:08:17

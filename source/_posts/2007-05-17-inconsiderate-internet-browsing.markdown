@@ -1,6 +1,6 @@
 ---
 alias:
-- /inconsiderate-internet-browsing/103/index.html
+- /103/inconsiderate-internet-browsing/index.html
 - /2007/05/17/inconsiderate-internet-browsing/index.html
 comments: true
 date: 2007-05-17 12:30:59

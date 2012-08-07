@@ -1,6 +1,6 @@
 ---
 alias:
-- /what-is-marriage/604/index.html
+- /604/what-is-marriage/index.html
 - /2009/06/11/what-is-marriage/index.html
 comments: true
 date: 2009-06-11 10:40:41

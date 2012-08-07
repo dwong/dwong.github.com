@@ -1,6 +1,6 @@
 ---
 alias:
-- /do-it-arnold/625/index.html
+- /625/do-it-arnold/index.html
 - /2009/07/01/do-it-arnold/index.html
 comments: true
 date: 2009-07-01 00:14:13

@@ -1,6 +1,6 @@
 ---
 alias:
-- /10th-amendment/512/index.html
+- /512/10th-amendment/index.html
 - /2009/02/13/10th-amendment/index.html
 comments: true
 date: 2009-02-13 00:10:35

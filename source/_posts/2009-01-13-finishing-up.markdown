@@ -1,6 +1,6 @@
 ---
 alias:
-- /finishing-up/486/index.html
+- /486/finishing-up/index.html
 - /2009/01/13/finishing-up/index.html
 comments: true
 date: 2009-01-13 00:10:51

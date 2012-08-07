@@ -1,6 +1,6 @@
 ---
 alias:
-- /your-own-b-u-s-i-n-e-s-s/33/index.html
+- /33/your-own-b-u-s-i-n-e-s-s/index.html
 - /2007/03/09/your-own-b-u-s-i-n-e-s-s/index.html
 comments: true
 date: 2007-03-09 16:57:03

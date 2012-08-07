@@ -1,6 +1,6 @@
 ---
 alias:
-- /proud-of-nothing/229/index.html
+- /229/proud-of-nothing/index.html
 - /2008/01/13/proud-of-nothing/index.html
 comments: true
 date: 2008-01-13 22:58:13

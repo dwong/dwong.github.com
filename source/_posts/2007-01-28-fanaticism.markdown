@@ -1,6 +1,6 @@
 ---
 alias:
-- /fanaticism/10/index.html
+- /10/fanaticism/index.html
 - /2007/01/28/fanaticism/index.html
 comments: true
 date: 2007-01-28 16:42:01

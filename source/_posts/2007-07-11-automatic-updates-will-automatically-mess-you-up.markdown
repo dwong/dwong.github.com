@@ -1,6 +1,6 @@
 ---
 alias:
-- /automatic-updates-will-automatically-mess-you-up/175/index.html
+- /175/automatic-updates-will-automatically-mess-you-up/index.html
 - /2007/07/11/automatic-updates-will-automatically-mess-you-up/index.html
 comments: true
 date: 2007-07-11 10:01:40

@@ -1,6 +1,6 @@
 ---
 alias:
-- /difference-between-childish-and-child-like/263/index.html
+- /263/difference-between-childish-and-child-like/index.html
 - /2008/06/18/difference-between-childish-and-child-like/index.html
 comments: true
 date: 2008-06-18 00:12:01

@@ -1,6 +1,6 @@
 ---
 alias:
-- /passport-pictures/77/index.html
+- /77/passport-pictures/index.html
 - /2007/04/24/passport-pictures/index.html
 comments: true
 date: 2007-04-24 10:09:19

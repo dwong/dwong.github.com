@@ -1,6 +1,6 @@
 ---
 alias:
-- /driving-playing-the-stock-market/299/index.html
+- /299/driving-playing-the-stock-market/index.html
 - /2008/07/31/driving-playing-the-stock-market/index.html
 comments: true
 date: 2008-07-31 00:15:09

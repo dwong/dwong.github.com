@@ -1,6 +1,6 @@
 ---
 alias:
-- /on-the-other-hand/187/index.html
+- /187/on-the-other-hand/index.html
 - /2007/08/13/on-the-other-hand/index.html
 comments: true
 date: 2007-08-13 07:30:45

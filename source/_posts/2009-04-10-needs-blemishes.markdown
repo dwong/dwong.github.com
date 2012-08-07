@@ -1,6 +1,6 @@
 ---
 alias:
-- /needs-blemishes/546/index.html
+- /546/needs-blemishes/index.html
 - /2009/04/10/needs-blemishes/index.html
 comments: true
 date: 2009-04-10 17:00:36

@@ -1,6 +1,6 @@
 ---
 alias:
-- /willing-to-change/368/index.html
+- /368/willing-to-change/index.html
 - /2008/10/08/willing-to-change/index.html
 comments: true
 date: 2008-10-08 00:15:39

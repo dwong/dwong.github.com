@@ -1,6 +1,6 @@
 ---
 alias:
-- /jury-duty-is-good/116/index.html
+- /116/jury-duty-is-good/index.html
 - /2007/05/25/jury-duty-is-good/index.html
 comments: true
 date: 2007-05-25 09:00:07

@@ -1,6 +1,6 @@
 ---
 alias:
-- /just-looking-at-you/219/index.html
+- /219/just-looking-at-you/index.html
 - /2007/10/28/just-looking-at-you/index.html
 comments: true
 date: 2007-10-28 15:30:01

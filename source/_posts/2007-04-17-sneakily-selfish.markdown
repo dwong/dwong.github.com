@@ -1,6 +1,6 @@
 ---
 alias:
-- /sneakily-selfish/72/index.html
+- /72/sneakily-selfish/index.html
 - /2007/04/17/sneakily-selfish/index.html
 comments: true
 date: 2007-04-17 08:55:43

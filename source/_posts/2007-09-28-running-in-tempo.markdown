@@ -1,6 +1,6 @@
 ---
 alias:
-- /running-in-tempo/203/index.html
+- /203/running-in-tempo/index.html
 - /2007/09/28/running-in-tempo/index.html
 comments: true
 date: 2007-09-28 11:57:00

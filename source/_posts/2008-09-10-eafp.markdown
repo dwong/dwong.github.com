@@ -1,6 +1,6 @@
 ---
 alias:
-- /eafp/335/index.html
+- /335/eafp/index.html
 - /2008/09/10/eafp/index.html
 comments: true
 date: 2008-09-10 00:09:23

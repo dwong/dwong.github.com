@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-government-union/756/index.html
+- /756/the-government-union/index.html
 - /2009/12/12/the-government-union/index.html
 comments: true
 date: 2009-12-12 00:40:33

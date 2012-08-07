@@ -1,6 +1,6 @@
 ---
 alias:
-- /profanity-without-using-curse-words/241/index.html
+- /241/profanity-without-using-curse-words/index.html
 - /2008/02/26/profanity-without-using-curse-words/index.html
 comments: true
 date: 2008-02-26 08:15:40

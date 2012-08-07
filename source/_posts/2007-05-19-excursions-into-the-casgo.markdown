@@ -1,6 +1,6 @@
 ---
 alias:
-- /excursions-into-the-casgo/106/index.html
+- /106/excursions-into-the-casgo/index.html
 - /2007/05/19/excursions-into-the-casgo/index.html
 comments: true
 date: 2007-05-19 16:54:14

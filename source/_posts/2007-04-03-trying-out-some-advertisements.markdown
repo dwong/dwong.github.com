@@ -1,6 +1,6 @@
 ---
 alias:
-- /trying-out-some-advertisements/46/index.html
+- /46/trying-out-some-advertisements/index.html
 - /2007/04/03/trying-out-some-advertisements/index.html
 comments: true
 date: 2007-04-03 11:42:01

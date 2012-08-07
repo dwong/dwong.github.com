@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-few-the-proud-native-californians/34/index.html
+- /34/the-few-the-proud-native-californians/index.html
 - /2007/03/12/the-few-the-proud-native-californians/index.html
 comments: true
 date: 2007-03-12 11:48:34

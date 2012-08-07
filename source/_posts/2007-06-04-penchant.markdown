@@ -1,6 +1,6 @@
 ---
 alias:
-- /penchant/153/index.html
+- /153/penchant/index.html
 - /2007/06/04/penchant/index.html
 comments: true
 date: 2007-06-04 10:30:45

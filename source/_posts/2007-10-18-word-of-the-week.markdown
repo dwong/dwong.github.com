@@ -1,6 +1,6 @@
 ---
 alias:
-- /word-of-the-week/217/index.html
+- /217/word-of-the-week/index.html
 - /2007/10/18/word-of-the-week/index.html
 comments: true
 date: 2007-10-18 10:25:40

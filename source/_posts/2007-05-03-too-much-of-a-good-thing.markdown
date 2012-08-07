@@ -1,6 +1,6 @@
 ---
 alias:
-- /too-much-of-a-good-thing/90/index.html
+- /90/too-much-of-a-good-thing/index.html
 - /2007/05/03/too-much-of-a-good-thing/index.html
 comments: true
 date: 2007-05-03 20:54:32

@@ -1,6 +1,6 @@
 ---
 alias:
-- /cut-up-and-not-loving-it/215/index.html
+- /215/cut-up-and-not-loving-it/index.html
 - /2007/10/10/cut-up-and-not-loving-it/index.html
 comments: true
 date: 2007-10-10 13:03:16

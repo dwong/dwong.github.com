@@ -1,6 +1,6 @@
 ---
 alias:
-- /amazing-feats/39/index.html
+- /39/amazing-feats/index.html
 - /2007/03/19/amazing-feats/index.html
 comments: true
 date: 2007-03-19 08:52:37

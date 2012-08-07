@@ -1,6 +1,6 @@
 ---
 alias:
-- /package-waste/236/index.html
+- /236/package-waste/index.html
 - /2008/02/07/package-waste/index.html
 comments: true
 date: 2008-02-07 09:40:21

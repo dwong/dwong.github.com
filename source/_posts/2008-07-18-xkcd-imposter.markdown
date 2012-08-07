@@ -1,6 +1,6 @@
 ---
 alias:
-- /xkcd-imposter/280/index.html
+- /280/xkcd-imposter/index.html
 - /2008/07/18/xkcd-imposter/index.html
 comments: true
 date: 2008-07-18 10:17:20

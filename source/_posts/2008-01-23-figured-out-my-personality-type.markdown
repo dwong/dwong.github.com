@@ -1,6 +1,6 @@
 ---
 alias:
-- /figured-out-my-personality-type/238/index.html
+- /238/figured-out-my-personality-type/index.html
 - /2008/01/23/figured-out-my-personality-type/index.html
 comments: true
 date: 2008-01-23 13:33:06

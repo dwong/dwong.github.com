@@ -1,6 +1,6 @@
 ---
 alias:
-- /back/82/index.html
+- /82/back/index.html
 - /2007/04/27/back/index.html
 comments: true
 date: 2007-04-27 17:49:00

@@ -1,6 +1,6 @@
 ---
 alias:
-- /separate-yourself/30/index.html
+- /30/separate-yourself/index.html
 - /2007/03/15/separate-yourself/index.html
 comments: true
 date: 2007-03-15 11:16:42

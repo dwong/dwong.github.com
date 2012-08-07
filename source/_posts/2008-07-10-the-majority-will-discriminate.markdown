@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-majority-will-discriminate/265/index.html
+- /265/the-majority-will-discriminate/index.html
 - /2008/07/10/the-majority-will-discriminate/index.html
 comments: true
 date: 2008-07-10 00:20:21

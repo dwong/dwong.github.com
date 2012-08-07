@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-complainers-irritation/26/index.html
+- /26/the-complainers-irritation/index.html
 - /2007/03/05/the-complainers-irritation/index.html
 comments: true
 date: 2007-03-05 14:32:54

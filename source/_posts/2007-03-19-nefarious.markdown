@@ -1,6 +1,6 @@
 ---
 alias:
-- /nefarious/141/index.html
+- /141/nefarious/index.html
 - /2007/03/19/nefarious/index.html
 comments: true
 date: 2007-03-19 10:30:41

@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-long-and-short-of-it/68/index.html
+- /68/the-long-and-short-of-it/index.html
 - /2007/04/20/the-long-and-short-of-it/index.html
 comments: true
 date: 2007-04-20 13:43:09

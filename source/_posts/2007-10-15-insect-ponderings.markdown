@@ -1,6 +1,6 @@
 ---
 alias:
-- /insect-ponderings/214/index.html
+- /214/insect-ponderings/index.html
 - /2007/10/15/insect-ponderings/index.html
 comments: true
 date: 2007-10-15 11:57:43

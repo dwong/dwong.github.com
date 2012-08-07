@@ -1,6 +1,6 @@
 ---
 alias:
-- /google-code-jam-2008/268/index.html
+- /268/google-code-jam-2008/index.html
 - /2008/06/28/google-code-jam-2008/index.html
 comments: true
 date: 2008-06-28 00:20:44

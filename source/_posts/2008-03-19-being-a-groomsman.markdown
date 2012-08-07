@@ -1,6 +1,6 @@
 ---
 alias:
-- /being-a-groomsman/245/index.html
+- /245/being-a-groomsman/index.html
 - /2008/03/19/being-a-groomsman/index.html
 comments: true
 date: 2008-03-19 00:35:35

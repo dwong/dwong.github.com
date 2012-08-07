@@ -1,6 +1,6 @@
 ---
 alias:
-- /asinine/151/index.html
+- /151/asinine/index.html
 - /2007/05/28/asinine/index.html
 comments: true
 date: 2007-05-28 10:30:02

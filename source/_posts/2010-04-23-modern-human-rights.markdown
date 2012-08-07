@@ -1,6 +1,6 @@
 ---
 alias:
-- /modern-human-rights/790/index.html
+- /790/modern-human-rights/index.html
 - /2010/04/23/modern-human-rights/index.html
 comments: true
 date: 2010-04-23 00:27:23

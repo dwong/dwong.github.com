@@ -1,6 +1,6 @@
 ---
 alias:
-- /in-your-own-world/36/index.html
+- /36/in-your-own-world/index.html
 - /2007/03/16/in-your-own-world/index.html
 comments: true
 date: 2007-03-16 11:53:08

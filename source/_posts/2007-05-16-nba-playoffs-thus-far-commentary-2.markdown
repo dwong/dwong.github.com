@@ -1,6 +1,6 @@
 ---
 alias:
-- /nba-playoffs-thus-far-commentary-2/104/index.html
+- /104/nba-playoffs-thus-far-commentary-2/index.html
 - /2007/05/16/nba-playoffs-thus-far-commentary-2/index.html
 comments: true
 date: 2007-05-16 18:30:16

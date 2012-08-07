@@ -1,6 +1,6 @@
 ---
 alias:
-- /music-remedies-menial-tasks/231/index.html
+- /231/music-remedies-menial-tasks/index.html
 - /2007/12/19/music-remedies-menial-tasks/index.html
 comments: true
 date: 2007-12-19 08:10:14

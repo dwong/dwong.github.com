@@ -1,6 +1,6 @@
 ---
 alias:
-- /professional-integrity/24/index.html
+- /24/professional-integrity/index.html
 - /2007/02/28/professional-integrity/index.html
 comments: true
 date: 2007-02-28 14:34:26

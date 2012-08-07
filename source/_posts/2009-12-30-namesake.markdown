@@ -1,6 +1,6 @@
 ---
 alias:
-- /namesake/765/index.html
+- /765/namesake/index.html
 - /2009/12/30/namesake/index.html
 comments: true
 date: 2009-12-30 08:41:26

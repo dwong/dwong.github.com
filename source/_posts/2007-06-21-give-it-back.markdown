@@ -1,6 +1,6 @@
 ---
 alias:
-- /give-it-back/162/index.html
+- /162/give-it-back/index.html
 - /2007/06/21/give-it-back/index.html
 comments: true
 date: 2007-06-21 10:00:29

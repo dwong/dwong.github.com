@@ -1,6 +1,6 @@
 ---
 alias:
-- /dont-say-yes/659/index.html
+- /659/dont-say-yes/index.html
 - /2009/08/26/dont-say-yes/index.html
 comments: true
 date: 2009-08-26 00:08:49

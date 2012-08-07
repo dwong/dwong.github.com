@@ -1,6 +1,6 @@
 ---
 alias:
-- /castigate/145/index.html
+- /145/castigate/index.html
 - /2007/04/16/castigate/index.html
 comments: true
 date: 2007-04-16 10:30:24

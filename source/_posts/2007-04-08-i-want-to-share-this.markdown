@@ -1,6 +1,6 @@
 ---
 alias:
-- /i-want-to-share-this/62/index.html
+- /62/i-want-to-share-this/index.html
 - /2007/04/08/i-want-to-share-this/index.html
 comments: true
 date: 2007-04-08 18:37:06

@@ -1,6 +1,6 @@
 ---
 alias:
-- /contests-with-prizes-are-great/211/index.html
+- /211/contests-with-prizes-are-great/index.html
 - /2007/10/04/contests-with-prizes-are-great/index.html
 comments: true
 date: 2007-10-04 12:20:50

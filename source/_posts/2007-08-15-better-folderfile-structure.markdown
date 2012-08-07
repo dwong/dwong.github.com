@@ -1,6 +1,6 @@
 ---
 alias:
-- /better-folderfile-structure/189/index.html
+- /189/better-folderfile-structure/index.html
 - /2007/08/15/better-folderfile-structure/index.html
 comments: true
 date: 2007-08-15 09:44:16

@@ -1,6 +1,6 @@
 ---
 alias:
-- /cheap-and-wonderful/855/index.html
+- /855/cheap-and-wonderful/index.html
 - /2010/08/27/cheap-and-wonderful/index.html
 comments: true
 date: 2010-08-27 00:10:57

@@ -1,6 +1,6 @@
 ---
 alias:
-- /soda-fountain-thief/974/index.html
+- /974/soda-fountain-thief/index.html
 - /2011/03/29/soda-fountain-thief/index.html
 comments: true
 date: 2011-03-29 00:10:56

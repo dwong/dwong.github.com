@@ -1,6 +1,6 @@
 ---
 alias:
-- /nicknames-are-fun/114/index.html
+- /114/nicknames-are-fun/index.html
 - /2007/05/23/nicknames-are-fun/index.html
 comments: true
 date: 2007-05-23 13:29:55

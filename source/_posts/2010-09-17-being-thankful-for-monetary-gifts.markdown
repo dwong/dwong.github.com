@@ -1,6 +1,6 @@
 ---
 alias:
-- /being-thankful-for-monetary-gifts/809/index.html
+- /809/being-thankful-for-monetary-gifts/index.html
 - /2010/09/17/being-thankful-for-monetary-gifts/index.html
 comments: true
 date: 2010-09-17 00:18:22

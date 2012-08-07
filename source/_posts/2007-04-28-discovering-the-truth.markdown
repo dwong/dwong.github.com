@@ -1,6 +1,6 @@
 ---
 alias:
-- /discovering-the-truth/81/index.html
+- /81/discovering-the-truth/index.html
 - /2007/04/28/discovering-the-truth/index.html
 comments: true
 date: 2007-04-28 16:15:51

@@ -1,6 +1,6 @@
 ---
 alias:
-- /now-now-children/185/index.html
+- /185/now-now-children/index.html
 - /2007/08/06/now-now-children/index.html
 comments: true
 date: 2007-08-06 10:45:22

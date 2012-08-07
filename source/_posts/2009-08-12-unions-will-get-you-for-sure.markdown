@@ -1,6 +1,6 @@
 ---
 alias:
-- /unions-will-get-you-for-sure/519/index.html
+- /519/unions-will-get-you-for-sure/index.html
 - /2009/08/12/unions-will-get-you-for-sure/index.html
 comments: true
 date: 2009-08-12 00:08:44

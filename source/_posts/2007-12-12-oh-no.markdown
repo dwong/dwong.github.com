@@ -1,6 +1,6 @@
 ---
 alias:
-- /oh-no/230/index.html
+- /230/oh-no/index.html
 - /2007/12/12/oh-no/index.html
 comments: true
 date: 2007-12-12 15:17:14

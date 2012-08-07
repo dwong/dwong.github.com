@@ -1,6 +1,6 @@
 ---
 alias:
-- /hello-world-2/723/index.html
+- /723/hello-world-2/index.html
 - /2007/01/05/hello-world-2/index.html
 comments: true
 date: 2007-01-05 23:49:43

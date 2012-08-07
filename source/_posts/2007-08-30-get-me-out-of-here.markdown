@@ -1,6 +1,6 @@
 ---
 alias:
-- /get-me-out-of-here/197/index.html
+- /197/get-me-out-of-here/index.html
 - /2007/08/30/get-me-out-of-here/index.html
 comments: true
 date: 2007-08-30 13:14:10

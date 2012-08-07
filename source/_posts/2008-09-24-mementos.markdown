@@ -1,6 +1,6 @@
 ---
 alias:
-- /mementos/351/index.html
+- /351/mementos/index.html
 - /2008/09/24/mementos/index.html
 comments: true
 date: 2008-09-24 00:20:18

@@ -1,6 +1,6 @@
 ---
 alias:
-- /iphone-attention-deficit/710/index.html
+- /710/iphone-attention-deficit/index.html
 - /2009/10/16/iphone-attention-deficit/index.html
 comments: true
 date: 2009-10-16 00:14:12

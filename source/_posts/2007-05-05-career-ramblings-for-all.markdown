@@ -1,6 +1,6 @@
 ---
 alias:
-- /career-ramblings-for-all/93/index.html
+- /93/career-ramblings-for-all/index.html
 - /2007/05/05/career-ramblings-for-all/index.html
 comments: true
 date: 2007-05-05 16:46:20

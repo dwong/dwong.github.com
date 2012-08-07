@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-right-leader/44/index.html
+- /44/the-right-leader/index.html
 - /2007/03/31/the-right-leader/index.html
 comments: true
 date: 2007-03-31 16:40:44

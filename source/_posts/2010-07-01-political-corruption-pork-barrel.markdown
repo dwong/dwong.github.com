@@ -1,6 +1,6 @@
 ---
 alias:
-- /political-corruption-pork-barrel/820/index.html
+- /820/political-corruption-pork-barrel/index.html
 - /2010/07/01/political-corruption-pork-barrel/index.html
 comments: true
 date: 2010-07-01 00:24:56

@@ -1,6 +1,6 @@
 ---
 alias:
-- /2011-los-angeles-13-1-race-report/948/index.html
+- /948/2011-los-angeles-13-1-race-report/index.html
 - /2011/01/16/2011-los-angeles-13-1-race-report/index.html
 comments: true
 date: 2011-01-16 14:37:32

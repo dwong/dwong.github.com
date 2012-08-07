@@ -1,6 +1,6 @@
 ---
 alias:
-- /chopped-returns-in-perl/102/index.html
+- /102/chopped-returns-in-perl/index.html
 - /2007/05/16/chopped-returns-in-perl/index.html
 comments: true
 date: 2007-05-16 09:45:43

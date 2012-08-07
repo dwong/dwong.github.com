@@ -1,6 +1,6 @@
 ---
 alias:
-- /back-at-one/131/index.html
+- /131/back-at-one/index.html
 - /2007/06/07/back-at-one/index.html
 comments: true
 date: 2007-06-07 15:45:22

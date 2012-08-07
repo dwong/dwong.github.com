@@ -1,6 +1,6 @@
 ---
 alias:
-- /stinking-default-template/63/index.html
+- /63/stinking-default-template/index.html
 - /2007/04/08/stinking-default-template/index.html
 comments: true
 date: 2007-04-08 18:56:44

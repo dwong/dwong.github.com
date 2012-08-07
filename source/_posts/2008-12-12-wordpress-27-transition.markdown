@@ -1,6 +1,6 @@
 ---
 alias:
-- /wordpress-27-transition/461/index.html
+- /461/wordpress-27-transition/index.html
 - /2008/12/12/wordpress-27-transition/index.html
 comments: true
 date: 2008-12-12 14:44:49

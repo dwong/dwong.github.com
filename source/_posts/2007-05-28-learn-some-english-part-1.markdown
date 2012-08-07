@@ -1,6 +1,6 @@
 ---
 alias:
-- /learn-some-english-part-1/107/index.html
+- /107/learn-some-english-part-1/index.html
 - /2007/05/28/learn-some-english-part-1/index.html
 comments: true
 date: 2007-05-28 10:30:47

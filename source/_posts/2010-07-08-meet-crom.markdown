@@ -1,6 +1,6 @@
 ---
 alias:
-- /meet-crom/817/index.html
+- /817/meet-crom/index.html
 - /2010/07/08/meet-crom/index.html
 comments: true
 date: 2010-07-08 00:20:24

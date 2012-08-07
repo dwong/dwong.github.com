@@ -1,6 +1,6 @@
 ---
 alias:
-- /diy-camera-bag/643/index.html
+- /643/diy-camera-bag/index.html
 - /2009/07/15/diy-camera-bag/index.html
 comments: true
 date: 2009-07-15 00:12:20

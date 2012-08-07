@@ -1,6 +1,6 @@
 ---
 alias:
-- /self-branding/976/index.html
+- /976/self-branding/index.html
 - /2011/06/02/self-branding/index.html
 comments: true
 date: 2011-06-02 00:37:57

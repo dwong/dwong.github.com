@@ -1,6 +1,6 @@
 ---
 alias:
-- /unsightly-hair/318/index.html
+- /318/unsightly-hair/index.html
 - /2008/11/06/unsightly-hair/index.html
 comments: true
 date: 2008-11-06 00:10:00

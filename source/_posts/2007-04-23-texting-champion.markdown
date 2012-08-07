@@ -1,6 +1,6 @@
 ---
 alias:
-- /texting-champion/74/index.html
+- /74/texting-champion/index.html
 - /2007/04/23/texting-champion/index.html
 comments: true
 date: 2007-04-23 08:36:12

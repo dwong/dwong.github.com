@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-37-tv-would-do-quite-nicely-right-here/182/index.html
+- /182/a-37-tv-would-do-quite-nicely-right-here/index.html
 - /2007/07/28/a-37-tv-would-do-quite-nicely-right-here/index.html
 comments: true
 date: 2007-07-28 21:29:27

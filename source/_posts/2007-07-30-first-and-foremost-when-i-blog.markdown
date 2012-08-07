@@ -1,6 +1,6 @@
 ---
 alias:
-- /first-and-foremost-when-i-blog/181/index.html
+- /181/first-and-foremost-when-i-blog/index.html
 - /2007/07/30/first-and-foremost-when-i-blog/index.html
 comments: true
 date: 2007-07-30 11:00:29

@@ -1,6 +1,6 @@
 ---
 alias:
-- /crom-the-one-who-is-all-up-in-your-business/911/index.html
+- /911/crom-the-one-who-is-all-up-in-your-business/index.html
 - /2011/09/15/crom-the-one-who-is-all-up-in-your-business/index.html
 comments: true
 date: 2011-09-15 00:20:31

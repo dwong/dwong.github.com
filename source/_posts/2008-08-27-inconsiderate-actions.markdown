@@ -1,6 +1,6 @@
 ---
 alias:
-- /inconsiderate-actions/330/index.html
+- /330/inconsiderate-actions/index.html
 - /2008/08/27/inconsiderate-actions/index.html
 comments: true
 date: 2008-08-27 00:10:12

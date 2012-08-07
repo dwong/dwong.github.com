@@ -1,6 +1,6 @@
 ---
 alias:
-- /superbowl/13/index.html
+- /13/superbowl/index.html
 - /2007/02/04/superbowl/index.html
 comments: true
 date: 2007-02-04 23:16:10

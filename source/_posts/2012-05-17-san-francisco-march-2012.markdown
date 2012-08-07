@@ -1,6 +1,6 @@
 ---
 alias:
-- /san-francisco-march-2012/1171/index.html
+- /1171/san-francisco-march-2012/index.html
 - /2012/05/17/san-francisco-march-2012/index.html
 comments: true
 date: 2012-05-17 00:24:17

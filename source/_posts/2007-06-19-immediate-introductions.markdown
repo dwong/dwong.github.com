@@ -1,6 +1,6 @@
 ---
 alias:
-- /immediate-introductions/160/index.html
+- /160/immediate-introductions/index.html
 - /2007/06/19/immediate-introductions/index.html
 comments: true
 date: 2007-06-19 13:29:28

@@ -1,6 +1,6 @@
 ---
 alias:
-- /eight-things-count-em-up/170/index.html
+- /170/eight-things-count-em-up/index.html
 - /2007/06/29/eight-things-count-em-up/index.html
 comments: true
 date: 2007-06-29 23:39:45

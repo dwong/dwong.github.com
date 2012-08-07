@@ -1,6 +1,6 @@
 ---
 alias:
-- /understanding-domains/424/index.html
+- /424/understanding-domains/index.html
 - /2009/09/03/understanding-domains/index.html
 comments: true
 date: 2009-09-03 00:12:24

@@ -1,6 +1,6 @@
 ---
 alias:
-- /neighborhood-dogs/257/index.html
+- /257/neighborhood-dogs/index.html
 - /2008/05/28/neighborhood-dogs/index.html
 comments: true
 date: 2008-05-28 00:10:13

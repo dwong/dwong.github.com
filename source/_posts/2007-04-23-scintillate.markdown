@@ -1,6 +1,6 @@
 ---
 alias:
-- /scintillate/146/index.html
+- /146/scintillate/index.html
 - /2007/04/23/scintillate/index.html
 comments: true
 date: 2007-04-23 10:30:59

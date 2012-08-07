@@ -1,6 +1,6 @@
 ---
 alias:
-- /somethings-not-right/20/index.html
+- /20/somethings-not-right/index.html
 - /2007/02/21/somethings-not-right/index.html
 comments: true
 date: 2007-02-21 09:38:46

@@ -1,6 +1,6 @@
 ---
 alias:
-- /why-hype-up-the-iphone/165/index.html
+- /165/why-hype-up-the-iphone/index.html
 - /2007/06/23/why-hype-up-the-iphone/index.html
 comments: true
 date: 2007-06-23 12:00:30

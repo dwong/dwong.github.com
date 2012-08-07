@@ -1,6 +1,6 @@
 ---
 alias:
-- /behind-the-words/135/index.html
+- /135/behind-the-words/index.html
 - /2007/06/09/behind-the-words/index.html
 comments: true
 date: 2007-06-09 17:48:56

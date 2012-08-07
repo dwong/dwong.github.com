@@ -1,6 +1,6 @@
 ---
 alias:
-- /i-dont-want-your-smoke/954/index.html
+- /954/i-dont-want-your-smoke/index.html
 - /2011/02/21/i-dont-want-your-smoke/index.html
 comments: true
 date: 2011-02-21 00:07:55

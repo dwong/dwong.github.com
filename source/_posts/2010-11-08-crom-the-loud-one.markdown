@@ -1,6 +1,6 @@
 ---
 alias:
-- /crom-the-loud-one/893/index.html
+- /893/crom-the-loud-one/index.html
 - /2010/11/08/crom-the-loud-one/index.html
 comments: true
 date: 2010-11-08 00:20:53

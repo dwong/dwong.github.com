@@ -1,6 +1,6 @@
 ---
 alias:
-- /nba-playoffs-final-thoughts/157/index.html
+- /157/nba-playoffs-final-thoughts/index.html
 - /2007/06/15/nba-playoffs-final-thoughts/index.html
 comments: true
 date: 2007-06-15 12:15:56

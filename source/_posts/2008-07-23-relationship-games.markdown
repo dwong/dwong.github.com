@@ -1,6 +1,6 @@
 ---
 alias:
-- /relationship-games/259/index.html
+- /259/relationship-games/index.html
 - /2008/07/23/relationship-games/index.html
 comments: true
 date: 2008-07-23 00:09:58

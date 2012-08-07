@@ -1,6 +1,6 @@
 ---
 alias:
-- /what-happened-usher-raymond-iv/344/index.html
+- /344/what-happened-usher-raymond-iv/index.html
 - /2008/09/14/what-happened-usher-raymond-iv/index.html
 comments: true
 date: 2008-09-14 22:49:41

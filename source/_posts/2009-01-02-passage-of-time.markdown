@@ -1,6 +1,6 @@
 ---
 alias:
-- /passage-of-time/477/index.html
+- /477/passage-of-time/index.html
 - /2009/01/02/passage-of-time/index.html
 comments: true
 date: 2009-01-02 00:29:16

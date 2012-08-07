@@ -1,6 +1,6 @@
 ---
 alias:
-- /are-you-smarter-than-a-5th-grader/25/index.html
+- /25/are-you-smarter-than-a-5th-grader/index.html
 - /2007/03/01/are-you-smarter-than-a-5th-grader/index.html
 comments: true
 date: 2007-03-01 14:38:22

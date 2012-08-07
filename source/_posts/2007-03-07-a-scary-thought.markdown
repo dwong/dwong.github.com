@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-scary-thought/28/index.html
+- /28/a-scary-thought/index.html
 - /2007/03/07/a-scary-thought/index.html
 comments: true
 date: 2007-03-07 13:32:05

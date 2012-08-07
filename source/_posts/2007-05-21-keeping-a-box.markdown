@@ -1,6 +1,6 @@
 ---
 alias:
-- /keeping-a-box/108/index.html
+- /108/keeping-a-box/index.html
 - /2007/05/21/keeping-a-box/index.html
 comments: true
 date: 2007-05-21 08:00:02

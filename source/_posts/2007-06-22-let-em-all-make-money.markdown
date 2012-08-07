@@ -1,6 +1,6 @@
 ---
 alias:
-- /let-em-all-make-money/164/index.html
+- /164/let-em-all-make-money/index.html
 - /2007/06/22/let-em-all-make-money/index.html
 comments: true
 date: 2007-06-22 20:30:57

@@ -1,6 +1,6 @@
 ---
 alias:
-- /stupid/27/index.html
+- /27/stupid/index.html
 - /2007/03/06/stupid/index.html
 comments: true
 date: 2007-03-06 11:28:55

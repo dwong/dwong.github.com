@@ -1,6 +1,6 @@
 ---
 alias:
-- /useful-emacs-tips/945/index.html
+- /945/useful-emacs-tips/index.html
 - /2007/02/20/useful-emacs-tips/index.html
 comments: true
 date: 2007-02-20 11:35:24

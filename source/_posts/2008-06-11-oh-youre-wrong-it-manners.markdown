@@ -1,6 +1,6 @@
 ---
 alias:
-- /oh-youre-wrong-it-manners/260/index.html
+- /260/oh-youre-wrong-it-manners/index.html
 - /2008/06/11/oh-youre-wrong-it-manners/index.html
 comments: true
 date: 2008-06-11 00:18:50

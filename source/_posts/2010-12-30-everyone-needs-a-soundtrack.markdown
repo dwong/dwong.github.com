@@ -1,6 +1,6 @@
 ---
 alias:
-- /everyone-needs-a-soundtrack/909/index.html
+- /909/everyone-needs-a-soundtrack/index.html
 - /2010/12/30/everyone-needs-a-soundtrack/index.html
 comments: true
 date: 2010-12-30 00:15:56

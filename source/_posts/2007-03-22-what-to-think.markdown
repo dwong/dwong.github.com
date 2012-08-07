@@ -1,6 +1,6 @@
 ---
 alias:
-- /what-to-think/43/index.html
+- /43/what-to-think/index.html
 - /2007/03/22/what-to-think/index.html
 comments: true
 date: 2007-03-22 12:45:41

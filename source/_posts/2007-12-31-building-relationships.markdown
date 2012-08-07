@@ -1,6 +1,6 @@
 ---
 alias:
-- /building-relationships/232/index.html
+- /232/building-relationships/index.html
 - /2007/12/31/building-relationships/index.html
 comments: true
 date: 2007-12-31 15:53:44

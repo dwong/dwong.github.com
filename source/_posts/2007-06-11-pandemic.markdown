@@ -1,6 +1,6 @@
 ---
 alias:
-- /pandemic/136/index.html
+- /136/pandemic/index.html
 - /2007/06/11/pandemic/index.html
 comments: true
 date: 2007-06-11 10:34:00

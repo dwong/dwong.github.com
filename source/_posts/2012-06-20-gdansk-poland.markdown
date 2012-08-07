@@ -1,6 +1,6 @@
 ---
 alias:
-- /gdansk-poland/1187/index.html
+- /1187/gdansk-poland/index.html
 - /2012/06/20/gdansk-poland/index.html
 comments: true
 date: 2012-06-20 00:12:39

@@ -1,6 +1,6 @@
 ---
 alias:
-- /the-lost-library/14/index.html
+- /14/the-lost-library/index.html
 - /2007/02/08/the-lost-library/index.html
 comments: true
 date: 2007-02-08 11:49:48

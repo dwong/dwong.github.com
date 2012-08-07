@@ -1,6 +1,6 @@
 ---
 alias:
-- /wedding-daze/430/index.html
+- /430/wedding-daze/index.html
 - /2008/11/24/wedding-daze/index.html
 comments: true
 date: 2008-11-24 00:20:11

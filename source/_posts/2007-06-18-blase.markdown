@@ -1,6 +1,6 @@
 ---
 alias:
-- /blase/159/index.html
+- /159/blase/index.html
 - /2007/06/18/blase/index.html
 comments: true
 date: 2007-06-18 10:30:21

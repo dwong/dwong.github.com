@@ -1,6 +1,6 @@
 ---
 alias:
-- /on-bathroom-behavior/176/index.html
+- /176/on-bathroom-behavior/index.html
 - /2007/07/13/on-bathroom-behavior/index.html
 comments: true
 date: 2007-07-13 14:29:39

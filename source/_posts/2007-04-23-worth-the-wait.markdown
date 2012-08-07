@@ -1,6 +1,6 @@
 ---
 alias:
-- /worth-the-wait/76/index.html
+- /76/worth-the-wait/index.html
 - /2007/04/23/worth-the-wait/index.html
 comments: true
 date: 2007-04-23 14:25:15

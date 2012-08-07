@@ -1,6 +1,6 @@
 ---
 alias:
-- /serious-gaming/684/index.html
+- /684/serious-gaming/index.html
 - /2009/09/24/serious-gaming/index.html
 comments: true
 date: 2009-09-24 00:05:49

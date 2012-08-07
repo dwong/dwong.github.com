@@ -1,6 +1,6 @@
 ---
 alias:
-- /watching-a-whole-crowd/222/index.html
+- /222/watching-a-whole-crowd/index.html
 - /2007/11/09/watching-a-whole-crowd/index.html
 comments: true
 date: 2007-11-09 08:15:48

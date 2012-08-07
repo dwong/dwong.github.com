@@ -1,6 +1,6 @@
 ---
 alias:
-- /getting-outside/173/index.html
+- /173/getting-outside/index.html
 - /2007/07/09/getting-outside/index.html
 comments: true
 date: 2007-07-09 10:53:51

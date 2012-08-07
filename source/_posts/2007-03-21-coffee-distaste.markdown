@@ -1,6 +1,6 @@
 ---
 alias:
-- /coffee-distaste/41/index.html
+- /41/coffee-distaste/index.html
 - /2007/03/21/coffee-distaste/index.html
 comments: true
 date: 2007-03-21 11:06:02

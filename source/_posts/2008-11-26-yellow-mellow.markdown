@@ -1,6 +1,6 @@
 ---
 alias:
-- /yellow-mellow/433/index.html
+- /433/yellow-mellow/index.html
 - /2008/11/26/yellow-mellow/index.html
 comments: true
 date: 2008-11-26 00:10:42

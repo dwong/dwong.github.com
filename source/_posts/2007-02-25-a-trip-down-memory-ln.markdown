@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-trip-down-memory-ln/22/index.html
+- /22/a-trip-down-memory-ln/index.html
 - /2007/02/25/a-trip-down-memory-ln/index.html
 comments: true
 date: 2007-02-25 15:03:41

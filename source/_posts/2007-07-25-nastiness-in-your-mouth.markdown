@@ -1,6 +1,6 @@
 ---
 alias:
-- /nastiness-in-your-mouth/180/index.html
+- /180/nastiness-in-your-mouth/index.html
 - /2007/07/25/nastiness-in-your-mouth/index.html
 comments: true
 date: 2007-07-25 10:46:59

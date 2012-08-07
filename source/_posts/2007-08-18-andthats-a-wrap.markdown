@@ -1,6 +1,6 @@
 ---
 alias:
-- /andthats-a-wrap/192/index.html
+- /192/andthats-a-wrap/index.html
 - /2007/08/18/andthats-a-wrap/index.html
 comments: true
 date: 2007-08-18 17:53:43

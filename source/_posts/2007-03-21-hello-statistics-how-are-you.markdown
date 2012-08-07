@@ -1,6 +1,6 @@
 ---
 alias:
-- /hello-statistics-how-are-you/42/index.html
+- /42/hello-statistics-how-are-you/index.html
 - /2007/03/21/hello-statistics-how-are-you/index.html
 comments: true
 date: 2007-03-21 15:05:37

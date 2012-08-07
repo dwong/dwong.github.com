@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-quote-for-regret-and-rejection/225/index.html
+- /225/a-quote-for-regret-and-rejection/index.html
 - /2007/11/26/a-quote-for-regret-and-rejection/index.html
 comments: true
 date: 2007-11-26 14:41:10

@@ -1,6 +1,6 @@
 ---
 alias:
-- /only-one-first/353/index.html
+- /353/only-one-first/index.html
 - /2008/09/18/only-one-first/index.html
 comments: true
 date: 2008-09-18 00:10:35

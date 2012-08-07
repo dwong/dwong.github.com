@@ -1,6 +1,6 @@
 ---
 alias:
-- /theyll-always-be-the-same/73/index.html
+- /73/theyll-always-be-the-same/index.html
 - /2007/04/18/theyll-always-be-the-same/index.html
 comments: true
 date: 2007-04-18 13:01:31

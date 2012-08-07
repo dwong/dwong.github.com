@@ -1,6 +1,6 @@
 ---
 alias:
-- /amusing-searches/113/index.html
+- /113/amusing-searches/index.html
 - /2007/05/22/amusing-searches/index.html
 comments: true
 date: 2007-05-22 12:15:36

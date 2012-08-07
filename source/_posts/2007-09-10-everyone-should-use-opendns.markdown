@@ -1,6 +1,6 @@
 ---
 alias:
-- /everyone-should-use-opendns/198/index.html
+- /198/everyone-should-use-opendns/index.html
 - /2007/09/10/everyone-should-use-opendns/index.html
 comments: true
 date: 2007-09-10 17:56:59

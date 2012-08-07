@@ -1,6 +1,6 @@
 ---
 alias:
-- /now-a-little-fish/602/index.html
+- /602/now-a-little-fish/index.html
 - /2009/06/03/now-a-little-fish/index.html
 comments: true
 date: 2009-06-03 00:20:35

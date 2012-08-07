@@ -1,6 +1,6 @@
 ---
 alias:
-- /middle-names/450/index.html
+- /450/middle-names/index.html
 - /2009/03/25/middle-names/index.html
 comments: true
 date: 2009-03-25 00:10:32

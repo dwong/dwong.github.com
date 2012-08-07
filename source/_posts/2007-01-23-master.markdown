@@ -1,6 +1,6 @@
 ---
 alias:
-- /master/1112/index.html
+- /1112/master/index.html
 - /2007/01/23/master/index.html
 comments: true
 date: 2007-01-23 13:19:17

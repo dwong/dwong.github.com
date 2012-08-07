@@ -1,6 +1,6 @@
 ---
 alias:
-- /pretty-powerful-hoses/202/index.html
+- /202/pretty-powerful-hoses/index.html
 - /2007/09/13/pretty-powerful-hoses/index.html
 comments: true
 date: 2007-09-13 09:12:26

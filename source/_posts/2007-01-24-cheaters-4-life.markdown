@@ -1,6 +1,6 @@
 ---
 alias:
-- /cheaters-4-life/1111/index.html
+- /1111/cheaters-4-life/index.html
 - /2007/01/24/cheaters-4-life/index.html
 comments: true
 date: 2007-01-24 12:40:31

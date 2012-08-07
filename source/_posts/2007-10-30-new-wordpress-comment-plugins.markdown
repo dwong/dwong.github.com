@@ -1,6 +1,6 @@
 ---
 alias:
-- /new-wordpress-comment-plugins/220/index.html
+- /220/new-wordpress-comment-plugins/index.html
 - /2007/10/30/new-wordpress-comment-plugins/index.html
 comments: true
 date: 2007-10-30 11:34:16

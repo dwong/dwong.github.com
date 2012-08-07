@@ -1,6 +1,6 @@
 ---
 alias:
-- /fun-error-messages/204/index.html
+- /204/fun-error-messages/index.html
 - /2007/09/20/fun-error-messages/index.html
 comments: true
 date: 2007-09-20 16:35:38

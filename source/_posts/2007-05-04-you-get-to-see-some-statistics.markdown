@@ -1,6 +1,6 @@
 ---
 alias:
-- /you-get-to-see-some-statistics/92/index.html
+- /92/you-get-to-see-some-statistics/index.html
 - /2007/05/04/you-get-to-see-some-statistics/index.html
 comments: true
 date: 2007-05-04 21:38:13

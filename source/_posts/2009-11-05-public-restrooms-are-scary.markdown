@@ -1,6 +1,6 @@
 ---
 alias:
-- /public-restrooms-are-scary/736/index.html
+- /736/public-restrooms-are-scary/index.html
 - /2009/11/05/public-restrooms-are-scary/index.html
 comments: true
 date: 2009-11-05 12:16:24

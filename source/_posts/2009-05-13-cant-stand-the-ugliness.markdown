@@ -1,6 +1,6 @@
 ---
 alias:
-- /cant-stand-the-ugliness/555/index.html
+- /555/cant-stand-the-ugliness/index.html
 - /2009/05/13/cant-stand-the-ugliness/index.html
 comments: true
 date: 2009-05-13 00:10:50

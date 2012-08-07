@@ -1,6 +1,6 @@
 ---
 alias:
-- /chaffing-cracks-and-other-fun/566/index.html
+- /566/chaffing-cracks-and-other-fun/index.html
 - /2009/04/16/chaffing-cracks-and-other-fun/index.html
 comments: true
 date: 2009-04-16 12:16:14

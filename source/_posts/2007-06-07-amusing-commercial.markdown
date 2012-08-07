@@ -1,6 +1,6 @@
 ---
 alias:
-- /amusing-commercial/129/index.html
+- /129/amusing-commercial/index.html
 - /2007/06/07/amusing-commercial/index.html
 comments: true
 date: 2007-06-07 10:30:54

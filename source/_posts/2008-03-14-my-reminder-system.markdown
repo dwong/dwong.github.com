@@ -1,6 +1,6 @@
 ---
 alias:
-- /my-reminder-system/243/index.html
+- /243/my-reminder-system/index.html
 - /2008/03/14/my-reminder-system/index.html
 comments: true
 date: 2008-03-14 00:10:25

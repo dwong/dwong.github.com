@@ -1,6 +1,6 @@
 ---
 alias:
-- /just-a-word/760/index.html
+- /760/just-a-word/index.html
 - /2009/12/22/just-a-word/index.html
 comments: true
 date: 2009-12-22 14:20:27

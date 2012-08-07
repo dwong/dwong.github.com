@@ -1,6 +1,6 @@
 ---
 alias:
-- /team-world-vision/582/index.html
+- /582/team-world-vision/index.html
 - /2009/04/27/team-world-vision/index.html
 comments: true
 date: 2009-04-27 00:20:26

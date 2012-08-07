@@ -1,6 +1,6 @@
 ---
 alias:
-- /only-the-bad-things/121/index.html
+- /121/only-the-bad-things/index.html
 - /2007/05/30/only-the-bad-things/index.html
 comments: true
 date: 2007-05-30 13:15:19

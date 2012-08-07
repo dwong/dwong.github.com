@@ -1,6 +1,6 @@
 ---
 alias:
-- /dance-circles/436/index.html
+- /436/dance-circles/index.html
 - /2008/12/03/dance-circles/index.html
 comments: true
 date: 2008-12-03 00:30:12

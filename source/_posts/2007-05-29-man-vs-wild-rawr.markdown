@@ -1,6 +1,6 @@
 ---
 alias:
-- /man-vs-wild-rawr/105/index.html
+- /105/man-vs-wild-rawr/index.html
 - /2007/05/29/man-vs-wild-rawr/index.html
 comments: true
 date: 2007-05-29 12:11:32

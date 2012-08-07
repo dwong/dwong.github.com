@@ -1,6 +1,6 @@
 ---
 alias:
-- /being-surpassed/224/index.html
+- /224/being-surpassed/index.html
 - /2007/11/21/being-surpassed/index.html
 comments: true
 date: 2007-11-21 13:14:37

@@ -1,6 +1,6 @@
 ---
 alias:
-- /applegeeks-coachgirls/179/index.html
+- /179/applegeeks-coachgirls/index.html
 - /2007/07/22/applegeeks-coachgirls/index.html
 comments: true
 date: 2007-07-22 19:45:19

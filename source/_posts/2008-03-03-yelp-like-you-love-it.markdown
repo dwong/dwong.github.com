@@ -1,6 +1,6 @@
 ---
 alias:
-- /yelp-like-you-love-it/168/index.html
+- /168/yelp-like-you-love-it/index.html
 - /2008/03/03/yelp-like-you-love-it/index.html
 comments: true
 date: 2008-03-03 19:30:16

@@ -1,6 +1,6 @@
 ---
 alias:
-- /experience-required/896/index.html
+- /896/experience-required/index.html
 - /2010/10/16/experience-required/index.html
 comments: true
 date: 2010-10-16 00:15:03

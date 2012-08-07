@@ -1,6 +1,6 @@
 ---
 alias:
-- /budgeteeer-vs-budget/109/index.html
+- /109/budgeteeer-vs-budget/index.html
 - /2007/05/21/budgeteeer-vs-budget/index.html
 comments: true
 date: 2007-05-21 15:45:35

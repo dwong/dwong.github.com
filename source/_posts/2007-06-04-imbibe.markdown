@@ -1,6 +1,6 @@
 ---
 alias:
-- /imbibe/152/index.html
+- /152/imbibe/index.html
 - /2007/06/04/imbibe/index.html
 comments: true
 date: 2007-06-04 10:30:34

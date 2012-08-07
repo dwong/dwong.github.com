@@ -1,6 +1,6 @@
 ---
 alias:
-- /talking-to-strangers/440/index.html
+- /440/talking-to-strangers/index.html
 - /2009/09/08/talking-to-strangers/index.html
 comments: true
 date: 2009-09-08 00:32:57

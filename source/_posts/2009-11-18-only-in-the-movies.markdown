@@ -1,6 +1,6 @@
 ---
 alias:
-- /only-in-the-movies/667/index.html
+- /667/only-in-the-movies/index.html
 - /2009/11/18/only-in-the-movies/index.html
 comments: true
 date: 2009-11-18 00:14:38

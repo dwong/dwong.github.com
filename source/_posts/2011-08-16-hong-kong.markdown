@@ -1,6 +1,6 @@
 ---
 alias:
-- /hong-kong/1003/index.html
+- /1003/hong-kong/index.html
 - /2011/08/16/hong-kong/index.html
 comments: true
 date: 2011-08-16 00:46:51

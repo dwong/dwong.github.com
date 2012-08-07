@@ -1,6 +1,6 @@
 ---
 alias:
-- /on-asking-a-girl-out/254/index.html
+- /254/on-asking-a-girl-out/index.html
 - /2008/06/04/on-asking-a-girl-out/index.html
 comments: true
 date: 2008-06-04 00:25:47

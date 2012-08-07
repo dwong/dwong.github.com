@@ -1,6 +1,6 @@
 ---
 alias:
-- /googles-taking-over-the-worldand-i-dont-like-it/216/index.html
+- /216/googles-taking-over-the-worldand-i-dont-like-it/index.html
 - /2007/10/22/googles-taking-over-the-worldand-i-dont-like-it/index.html
 comments: true
 date: 2007-10-22 16:20:04

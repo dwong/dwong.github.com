@@ -1,6 +1,6 @@
 ---
 alias:
-- /car-salesmen-definitely-earn-their-reputation/80/index.html
+- /80/car-salesmen-definitely-earn-their-reputation/index.html
 - /2007/04/25/car-salesmen-definitely-earn-their-reputation/index.html
 comments: true
 date: 2007-04-25 10:30:15

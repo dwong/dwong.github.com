@@ -1,6 +1,6 @@
 ---
 alias:
-- /barefoot-running/631/index.html
+- /631/barefoot-running/index.html
 - /2009/07/10/barefoot-running/index.html
 comments: true
 date: 2009-07-10 00:10:25

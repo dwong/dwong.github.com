@@ -1,6 +1,6 @@
 ---
 alias:
-- /bowling-high/530/index.html
+- /530/bowling-high/index.html
 - /2009/02/20/bowling-high/index.html
 comments: true
 date: 2009-02-20 00:10:10

@@ -1,6 +1,6 @@
 ---
 alias:
-- /a-bad-sign-of-online-usage/124/index.html
+- /124/a-bad-sign-of-online-usage/index.html
 - /2007/06/04/a-bad-sign-of-online-usage/index.html
 comments: true
 date: 2007-06-04 10:05:27

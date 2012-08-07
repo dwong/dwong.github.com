@@ -1,6 +1,6 @@
 ---
 alias:
-- /imagine-a-world-without-fire/227/index.html
+- /227/imagine-a-world-without-fire/index.html
 - /2007/12/11/imagine-a-world-without-fire/index.html
 comments: true
 date: 2007-12-11 07:23:08

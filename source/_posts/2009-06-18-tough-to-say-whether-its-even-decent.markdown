@@ -1,6 +1,6 @@
 ---
 alias:
-- /tough-to-say-whether-its-even-decent/609/index.html
+- /609/tough-to-say-whether-its-even-decent/index.html
 - /2009/06/18/tough-to-say-whether-its-even-decent/index.html
 comments: true
 date: 2009-06-18 00:20:33

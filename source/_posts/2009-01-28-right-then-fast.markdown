@@ -1,6 +1,6 @@
 ---
 alias:
-- /right-then-fast/488/index.html
+- /488/right-then-fast/index.html
 - /2009/01/28/right-then-fast/index.html
 comments: true
 date: 2009-01-28 00:22:21

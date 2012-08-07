@@ -1,6 +1,6 @@
 ---
 alias:
-- /pull-your-pants-up-boy/212/index.html
+- /212/pull-your-pants-up-boy/index.html
 - /2007/10/05/pull-your-pants-up-boy/index.html
 comments: true
 date: 2007-10-05 12:40:13

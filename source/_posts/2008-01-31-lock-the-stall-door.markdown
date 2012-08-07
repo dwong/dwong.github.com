@@ -1,6 +1,6 @@
 ---
 alias:
-- /lock-the-stall-door/239/index.html
+- /239/lock-the-stall-door/index.html
 - /2008/01/31/lock-the-stall-door/index.html
 comments: true
 date: 2008-01-31 10:30:28
