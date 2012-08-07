@@ -1,0 +1,1 @@
+/Users/derek/Programming/jekyll_alias_generator/_plugins/alias_generator.rb
