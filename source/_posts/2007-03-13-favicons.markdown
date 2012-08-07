@@ -1,0 +1,37 @@
+---
+alias:
+- /favicons/35/index.html
+- /2007/03/13/favicons/index.html
+comments: true
+date: 2007-03-13 13:43:46
+layout: post
+slug: favicons
+title: Favicon(s)!
+wordpress_id: 35
+categories:
+- Blog
+- Nerd
+tags:
+- Blog
+- Geek
+- Learn
+- Software
+- Useful
+---
+
+Just in time for the unveiling of a favicon for this site:
+A post about favicons!  :D
+
+Okay so just what is a "favicon"?  Well it is basically that small icon that you see next to the url when you go to a site.  There are different icons for different sites as I'm sure most of you have noticed.  This is basically a special "ico" file that is a tiny picture format.  
+
+It's very easy to create one.  At the very simplest you can just go to [a pretty good online favicon generator](http://www.html-kit.com/favicon/) and submit a picture to convert.  They'll allow you to download the resulting file.  Then to use this file with your site, you have to upload or somehow place the file on your server, and add this:
+
+`<link rel="shortcut icon" 
+href="http://example.com/favicon.ico" type="image/x-icon">
+</link>
+`
+to the page that your users will see (typically something like index.html) in between "<head>" and "</head>".  Then you would replace the "http://example.com/favicon.ico" with the corresponding path to get to your file.  And that's it!
+
+Of course you could do things like edit it in the excellent [gimp](http://gimp.org/) and add some transparency, etc before you convert it.  And you can obviously use [adobe's expensive product](http://www.adobe.com/products/photoshop/) to do this (although if you already ponied up for this you better know how to make favicons :P).
+
+That's it, you have a nice little personal touch for your website!  Enjoy!

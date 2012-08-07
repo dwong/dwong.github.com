@@ -1,0 +1,37 @@
+---
+alias:
+- /culpable/150/index.html
+- /2007/05/21/culpable/index.html
+comments: true
+date: 2007-05-21 10:30:40
+layout: post
+slug: culpable
+title: Culpable
+wordpress_id: 150
+categories:
+- Learn
+tags:
+- Word-Of-The-Week
+---
+
+[**kuhl**-p_uh_-b_uh_ l]
+
+
+#### Definition:
+
+
+Rightfully deserving of blame or penalty
+
+
+
+#### Example of usage:
+
+
+Planning and scheming for those many weeks was harmless fun, but once the thieves stepped onto the property of the bank that fateful night, they were culpable for their crimes.
+
+
+
+#### Comments:
+
+
+This is a fairly oft-encountered word I think.  It's definitely not used all of the time (because of its definition).  However there aren't too many words that could take its place.  And thus if you ever need a word with a definition like this word's, you need to know this one.

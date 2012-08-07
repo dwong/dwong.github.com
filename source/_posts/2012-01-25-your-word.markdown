@@ -1,0 +1,44 @@
+---
+alias:
+- /your-word/898/index.html
+- /2012/01/25/your-word/index.html
+comments: true
+date: 2012-01-25 05:56:47
+layout: post
+slug: your-word
+title: Your Word
+wordpress_id: 898
+categories:
+- Life
+tags:
+- life in code
+- Python
+---
+
+<span style="color: #b22222;"># trusting_others.py</span>
+    <span style="color: #b22222;">#</span>
+    <span style="color: #b22222;"># How our words affect our interaction with others. You're only as good as your word!</span>
+    <span style="color: #b22222;">#</span>
+    <span style="color: #b22222;"># Psuedocode:</span>
+    <span style="color: #b22222;"># </span>
+    <span style="color: #b22222;"># Maintain list of trust that others have, which is unknown to you</span>
+    <span style="color: #b22222;"># Interact with people each day</span>
+    <span style="color: #b22222;"># Alter trust with your words</span>
+    
+    <span style="color: #b22222;"># Trust quotient is a quantifier for one person's trust for another </span>
+    <span style="color: #a0522d;">TRUST_REWARD</span> = 1
+    <span style="color: #a0522d;">TRUST_PENALTY</span> = 15
+    
+    <span style="color: #b22222;"># Dictionary containing name and trust quotient values that other people have for you </span>
+    <span style="color: #a0522d;">trust</span> = {}
+    
+    <span style="color: #a020f0;">for</span> day <span style="color: #a020f0;">in</span> days:
+        <span style="color: #a020f0;">for</span> person <span style="color: #a020f0;">in</span> interactions(day):
+            <span style="color: #a020f0;">if</span> person <span style="color: #a020f0;">not</span> <span style="color: #a020f0;">in</span> trust:
+                <span style="color: #b22222;"># Other people's trust depends on some variables </span>
+                trust[person] = default_trust(person.upbringing, person.genes)
+    
+            <span style="color: #a020f0;">if</span> speak() == <span style="color: #8b2252;">'TRUTH'</span>:
+                trust[person] += TRUST_REWARD;
+            <span style="color: #a020f0;">elif</span> speak() == <span style="color: #8b2252;">'FALSEHOOD'</span>:
+                trust[person] -= TRUST_PENALTY

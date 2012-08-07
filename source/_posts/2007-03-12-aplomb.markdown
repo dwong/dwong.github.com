@@ -1,0 +1,37 @@
+---
+alias:
+- /aplomb/140/index.html
+- /2007/03/12/aplomb/index.html
+comments: true
+date: 2007-03-12 10:30:12
+layout: post
+slug: aplomb
+title: Aplomb
+wordpress_id: 140
+categories:
+- Learn
+tags:
+- Word-Of-The-Week
+---
+
+[uh-**plom**, uh-**pluhm**]
+
+
+#### Definition:
+
+
+Poise, composure, or self-assurance.
+
+
+
+#### Example of usage:
+
+
+Having to process 1,000 cases in 2 hours was daunting to say the least, but she handled it with aplomb.
+
+
+
+#### Comments:
+
+
+This word is a much more interesting word to use than others, and it seems to be somewhat colloquial in its rather specific uses.  Nonetheless it is an interesting word whose simple structure does not betray its true meaning to the uninitiated (translation: you probably can't figure out what it means if you don't already know what it means).  It's usually used when talking about facing difficult circumstances.

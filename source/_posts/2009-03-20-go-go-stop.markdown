@@ -1,0 +1,22 @@
+---
+alias:
+- /go-go-stop/485/index.html
+- /2009/03/20/go-go-stop/index.html
+comments: true
+date: 2009-03-20 00:06:26
+layout: post
+slug: go-go-stop
+title: Go, Go, Stop!
+wordpress_id: 485
+categories:
+- Nerd
+tags:
+- Geek
+- Seen-Around
+---
+
+I often like to think about things that I take for granted.  It makes me more appreciative of what I have, and I don't think that's a bad thing at all.  A while back, I was thinking about how great the yellow light is.  For me, more often than not it's a sign that says, "figure out if you can make this light!"  Sometimes this is a resounding yes, and sometimes it's a resounding no.  Sometimes it's even "you better get going pronto!"  Can you imagine, though, what it would be like without yellow lights?  Drivers would be moseying along thinking that they're good to go, when all of a sudden they need to slam on their brakes.  Accidents would abound because brakes cannot stop you instantly.
+
+Recently, I even got to experience a similar kind of fun.  Many of the lights along a street that I commute on were out.  So as expected all of the cars treated each malfunctioning light as an all-way stop intersection.  And that wrecked havoc on my commute.  Boy am I glad for signals!
+
+Oddly enough, this reminded me of a problem that I am dealing with at work.  The problem is that I am trying to make a single database access for every single object that I want to create.  That would be analogous to a stop sign which lets everyone through one at a time.  Ideally I am trying to code things that will allow for multiple objects with a single database connection.  This would be with the lights that let multiple cars through.  I do enjoy finding out how [good software practices relate to life](http://www.goingthewongway.com/2007/08/21/how-good-programming-practices-help-in-real-life/).

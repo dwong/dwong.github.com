@@ -1,0 +1,37 @@
+---
+alias:
+- /renege/149/index.html
+- /2007/05/14/renege/index.html
+comments: true
+date: 2007-05-14 10:30:18
+layout: post
+slug: renege
+title: Renege
+wordpress_id: 149
+categories:
+- Learn
+tags:
+- Word-Of-The-Week
+---
+
+[ri-**nig**, -**neg**, -**neeg**]
+
+
+#### Definition:
+
+
+To break a rule, go back on one's word, cheat (especially at cards)
+
+
+
+#### Example of usage:
+
+
+When you play hearts, you need to follow suit if you have the suit that is first played.  If someone plays a spade and you have a spade but you play a diamond instead, you just reneged.
+
+
+
+#### Comments:
+
+
+I learned this word in 11th grade honors English because we learned how to play [Ombre](http://en.wikipedia.org/wiki/Ombre) after reading [Rape Of The Lock](http://en.wikipedia.org/wiki/Rape_of_the_lock) by [Alexander Pope](http://en.wikipedia.org/wiki/Alexander_Pope).  Pretty random huh?  Anyways, it's a slightly archaic word, but I have still found that it can be used on occasion.  For all the card players, it will be an especially useful word to use because it is often used in that context.

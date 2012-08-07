@@ -1,0 +1,25 @@
+---
+alias:
+- /eafp/335/index.html
+- /2008/09/10/eafp/index.html
+comments: true
+date: 2008-09-10 00:09:23
+layout: post
+slug: eafp
+title: EAFP
+wordpress_id: 335
+categories:
+- Life
+tags:
+- Life
+- Programming
+- Python
+---
+
+There are a couple of types of people in the world.  There are some that want to make sure that all is well before they proceed and then there are those that will just do things without thinking about the consequences.
+
+There is a related idea in computer programming.  You can check all of the variables, program state, and other circumstances.  When everything is kosher, you go for it.  And hopefully you are successful.  The problem with this, though, is that you might forget to check something.  Perhaps you haven't accounted for everything as you should have.  Then what?  Then disaster!  (Or something like that.)
+
+On the other hand, there is another idea that can be used.  It is the idea (at least in [Python](http://python.org/)) that it is **E**asier to **A**sk for **F**orgiveness than **P**ermission (i.e., EAFP).  This way of dealing with errors is to go for the gusto and then deal with problems as they arise.
+
+I need a little more EAFP.
