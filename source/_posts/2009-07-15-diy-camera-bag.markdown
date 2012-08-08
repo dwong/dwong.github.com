@@ -19,38 +19,19 @@ tags:
 
 So I recently purchased a Canon 40D. And there is a whole world of accessories out there. For the first couple of weeks I was keeping my camera in a FedEx bag because it is:
 
-
-
-	
   1. inconspicuous
-
-	
   2. cheap
-
-	
   3. slightly padded
-
-	
   4. water resistant
-
 
 That seems like a pretty good list to me! But alas I knew that it could not last. Unfortunately, bags (from companies that market them as camera bags) are fairly overpriced. Okay they're not terribly expensive compared to the actual camera, but I rather enjoyed some of the unique aspects of my FedEx bag. I wanted to keep most of its positive attributes without having to bear the shame of actually holding a FedEx bag all of the time. Here is my bag.
 
 First I got:
 
-	
   1. a canvas bag from my local Army/Navy military surplus store, which was a lot less rugged than I would have imagined
-
-	
   2. craft foam and ripstop nylon fabric from JoAnn Fabric and Crafts (the higher quality foam that I wanted to buy online had an unfortunately prohibitive shipping cost that was higher than the foam itself)
-
-	
   3. cardboard from a shipping box that I already had
-
-	
   4. my sewing machine (which isn't actually mine and which I had never used before this project)
-
-	
   5. velcro with adhesive backing (I already had this)
 
 
