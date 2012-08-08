@@ -22,17 +22,9 @@ Lately I feel like I have been encountering people who are getting paid under th
 
 Unfortunately there is a loser in this transaction.  And that loser is everyone else.  Everyone who **does** pay their taxes loses because:
 
-
-
-
   1. they could be paying less
-
-
   2. they could receive more benefits if everyone paid their taxes
-
-
   3. the national debt (which at the time of writing stands at over $13 trillion - [check it out](http://www.brillig.com/debt_clock/)) could be lower
-
 
 
 Instead it is left to the taxpayers to pick up their slack.  Yes, even though they (the ones involved in this nefarious transaction) are likely working members of society who do not see themselves as being a burden (they are making their own money after all), their presence on the roads, need for protection (e.g., police, fire), and receipt of other benefits are proof that they have an impact on us.
