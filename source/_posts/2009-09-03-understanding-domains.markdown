@@ -19,19 +19,9 @@ tags:
 
 If I could have your attention, I would rather like to quickly rant about something that I see all of the time.
 
-
-
-
-
   1. People pay for their own domain name
-
-
   2. Those same people want to get e-mail
-
-
   3. Those people proceed to register an e-mail address with some free webmail (e.g., Yahoo!, Google, etc)
-
-
 
 Why does require a rant?  Because they paid for their own domain!  Instead of having to register SomeOrganizationSomeGroup@gmail.com, they could very well just decide that they want to get SomeGroup@TheirDomain.com.  Doesn't that seem more appealing?  Isn't that more professional and more enjoyable?  Yes, yes I think that we can all agree to that.  
 
