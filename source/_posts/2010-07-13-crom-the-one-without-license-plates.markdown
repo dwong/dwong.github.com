@@ -20,26 +20,12 @@ Crom bought a new hybrid vehicle approximately 1 year ago.  When he bought it I 
 
 After a year of owning the car, he still does not have license plates on it.  It appears to those who do not know that it is a new car.  When I noticed that this was happening (it's hard not to notice after a few months) I was very curious as to why someone would want to do this.  My pondering led me to the following:
 
-
-
-
   1. The license plates that he received were 6BAD666, 1SAD120, etc or which he otherwise found offensive.
-
-
   2. He is in love with the dealer that sold him his vehicle
-
-
   3. Now he has the ability to run red lights or drive toll roads without paying
-
-
   4. He desires to remain as unique as possible (i.e., a recently purchased Toyota)
-
-
   5. He actually purchases a new model of the same car every couple of months
-
-
   6. The Department of Motor Vehicles has made its first ever mistake
-
 
 
 I am of a mind to tear his precious new car papers just to see what happens.  Or maybe just draw a happy face with a Sharpie marker.
