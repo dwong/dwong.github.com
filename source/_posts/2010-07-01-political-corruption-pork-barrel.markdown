@@ -3,7 +3,7 @@ alias:
 - /820/political-corruption-pork-barrel/index.html
 - /2010/07/01/political-corruption-pork-barrel/index.html
 comments: true
-date: 2010-07-01 00:24:56
+date: 2010-07-01 08:24:56
 layout: post
 slug: political-corruption-pork-barrel
 title: 'Political Corruption: Pork Barrel'

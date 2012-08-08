@@ -3,7 +3,7 @@ alias:
 - /976/self-branding/index.html
 - /2011/06/02/self-branding/index.html
 comments: true
-date: 2011-06-02 00:37:57
+date: 2011-06-02 08:37:57
 layout: post
 slug: self-branding
 title: Self Branding

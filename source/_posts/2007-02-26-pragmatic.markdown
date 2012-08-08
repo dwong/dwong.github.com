@@ -3,7 +3,7 @@ alias:
 - /138/pragmatic/index.html
 - /2007/02/26/pragmatic/index.html
 comments: true
-date: 2007-02-26 10:30:56
+date: 2007-02-26 18:30:56
 layout: post
 slug: pragmatic
 title: Pragmatic

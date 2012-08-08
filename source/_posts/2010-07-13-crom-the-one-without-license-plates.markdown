@@ -3,7 +3,7 @@ alias:
 - /825/crom-the-one-without-license-plates/index.html
 - /2010/07/13/crom-the-one-without-license-plates/index.html
 comments: true
-date: 2010-07-13 00:32:25
+date: 2010-07-13 08:32:25
 layout: post
 slug: crom-the-one-without-license-plates
 title: Crom, The One Without License Plates

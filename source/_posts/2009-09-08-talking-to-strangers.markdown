@@ -3,7 +3,7 @@ alias:
 - /440/talking-to-strangers/index.html
 - /2009/09/08/talking-to-strangers/index.html
 comments: true
-date: 2009-09-08 00:32:57
+date: 2009-09-08 08:32:57
 layout: post
 slug: talking-to-strangers
 title: Talking To Strangers

@@ -3,7 +3,7 @@ alias:
 - /249/tiddlywiki-for-the-world/index.html
 - /2008/04/15/tiddlywiki-for-the-world/index.html
 comments: true
-date: 2008-04-15 00:10:26
+date: 2008-04-15 08:10:26
 layout: post
 slug: tiddlywiki-for-the-world
 title: TiddlyWiki For The World!

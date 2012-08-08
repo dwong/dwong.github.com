@@ -3,7 +3,7 @@ alias:
 - /202/pretty-powerful-hoses/index.html
 - /2007/09/13/pretty-powerful-hoses/index.html
 comments: true
-date: 2007-09-13 09:12:26
+date: 2007-09-13 17:12:26
 layout: post
 slug: pretty-powerful-hoses
 title: Pretty Powerful Hoses

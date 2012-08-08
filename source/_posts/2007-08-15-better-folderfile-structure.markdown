@@ -3,7 +3,7 @@ alias:
 - /189/better-folderfile-structure/index.html
 - /2007/08/15/better-folderfile-structure/index.html
 comments: true
-date: 2007-08-15 09:44:16
+date: 2007-08-15 17:44:16
 layout: post
 slug: better-folderfile-structure
 title: Better Folder/File Structure

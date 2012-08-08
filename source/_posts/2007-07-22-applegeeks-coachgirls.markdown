@@ -3,7 +3,7 @@ alias:
 - /179/applegeeks-coachgirls/index.html
 - /2007/07/22/applegeeks-coachgirls/index.html
 comments: true
-date: 2007-07-22 19:45:19
+date: 2007-07-23 03:45:19
 layout: post
 slug: applegeeks-coachgirls
 title: 'Apple:Geeks :: Coach:Girls'

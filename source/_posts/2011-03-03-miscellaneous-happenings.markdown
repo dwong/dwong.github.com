@@ -3,7 +3,7 @@ alias:
 - /961/miscellaneous-happenings/index.html
 - /2011/03/03/miscellaneous-happenings/index.html
 comments: true
-date: 2011-03-03 00:06:41
+date: 2011-03-03 08:06:41
 layout: post
 slug: miscellaneous-happenings
 title: Miscellaneous Happenings

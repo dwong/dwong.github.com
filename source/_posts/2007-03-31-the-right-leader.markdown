@@ -3,7 +3,7 @@ alias:
 - /44/the-right-leader/index.html
 - /2007/03/31/the-right-leader/index.html
 comments: true
-date: 2007-03-31 16:40:44
+date: 2007-04-01 00:40:44
 layout: post
 slug: the-right-leader
 title: The Right Leader

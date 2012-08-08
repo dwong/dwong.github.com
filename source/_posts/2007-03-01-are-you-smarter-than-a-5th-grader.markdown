@@ -3,7 +3,7 @@ alias:
 - /25/are-you-smarter-than-a-5th-grader/index.html
 - /2007/03/01/are-you-smarter-than-a-5th-grader/index.html
 comments: true
-date: 2007-03-01 14:38:22
+date: 2007-03-01 22:38:22
 layout: post
 slug: are-you-smarter-than-a-5th-grader
 title: Are YOU Smarter Than A 5th Grader?

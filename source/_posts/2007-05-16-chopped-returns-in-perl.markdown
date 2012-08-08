@@ -3,7 +3,7 @@ alias:
 - /102/chopped-returns-in-perl/index.html
 - /2007/05/16/chopped-returns-in-perl/index.html
 comments: true
-date: 2007-05-16 09:45:43
+date: 2007-05-16 17:45:43
 layout: post
 slug: chopped-returns-in-perl
 title: Chopped Returns (In Perl)

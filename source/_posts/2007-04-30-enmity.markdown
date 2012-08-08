@@ -3,7 +3,7 @@ alias:
 - /147/enmity/index.html
 - /2007/04/30/enmity/index.html
 comments: true
-date: 2007-04-30 10:30:21
+date: 2007-04-30 18:30:21
 layout: post
 slug: enmity
 title: Enmity

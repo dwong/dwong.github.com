@@ -3,7 +3,7 @@ alias:
 - /69/im-willing-if-you-are/index.html
 - /2007/04/12/im-willing-if-you-are/index.html
 comments: true
-date: 2007-04-12 11:56:04
+date: 2007-04-12 19:56:04
 layout: post
 slug: im-willing-if-you-are
 title: I'm Willing If You Are

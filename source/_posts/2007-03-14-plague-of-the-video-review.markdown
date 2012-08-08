@@ -3,7 +3,7 @@ alias:
 - /38/plague-of-the-video-review/index.html
 - /2007/03/14/plague-of-the-video-review/index.html
 comments: true
-date: 2007-03-14 14:08:43
+date: 2007-03-14 22:08:43
 layout: post
 slug: plague-of-the-video-review
 title: Plague Of The Video Review

@@ -3,7 +3,7 @@ alias:
 - /237/get-my-name-right/index.html
 - /2008/01/30/get-my-name-right/index.html
 comments: true
-date: 2008-01-30 11:33:56
+date: 2008-01-30 19:33:56
 layout: post
 slug: get-my-name-right
 title: Get My Name Right

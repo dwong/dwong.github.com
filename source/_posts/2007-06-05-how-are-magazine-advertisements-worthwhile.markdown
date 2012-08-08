@@ -3,7 +3,7 @@ alias:
 - /126/how-are-magazine-advertisements-worthwhile/index.html
 - /2007/06/05/how-are-magazine-advertisements-worthwhile/index.html
 comments: true
-date: 2007-06-05 11:10:16
+date: 2007-06-05 19:10:16
 layout: post
 slug: how-are-magazine-advertisements-worthwhile
 title: How Are Magazine Advertisements Worthwhile?

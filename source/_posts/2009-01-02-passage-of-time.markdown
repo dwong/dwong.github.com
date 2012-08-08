@@ -3,7 +3,7 @@ alias:
 - /477/passage-of-time/index.html
 - /2009/01/02/passage-of-time/index.html
 comments: true
-date: 2009-01-02 00:29:16
+date: 2009-01-02 08:29:16
 layout: post
 slug: passage-of-time
 title: Passage Of Time

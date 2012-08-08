@@ -3,7 +3,7 @@ alias:
 - /461/wordpress-27-transition/index.html
 - /2008/12/12/wordpress-27-transition/index.html
 comments: true
-date: 2008-12-12 14:44:49
+date: 2008-12-12 22:44:49
 layout: post
 slug: wordpress-27-transition
 title: Wordpress 2.7 Transition

@@ -3,7 +3,7 @@ alias:
 - /12/dns-confusion/index.html
 - /2007/02/02/dns-confusion/index.html
 comments: true
-date: 2007-02-02 09:38:15
+date: 2007-02-02 17:38:15
 layout: post
 slug: dns-confusion
 title: DNS Confusion

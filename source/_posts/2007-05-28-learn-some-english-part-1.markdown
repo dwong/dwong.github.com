@@ -3,7 +3,7 @@ alias:
 - /107/learn-some-english-part-1/index.html
 - /2007/05/28/learn-some-english-part-1/index.html
 comments: true
-date: 2007-05-28 10:30:47
+date: 2007-05-28 18:30:47
 layout: post
 slug: learn-some-english-part-1
 title: Learn Some English (Part 1)

@@ -3,7 +3,7 @@ alias:
 - /238/figured-out-my-personality-type/index.html
 - /2008/01/23/figured-out-my-personality-type/index.html
 comments: true
-date: 2008-01-23 13:33:06
+date: 2008-01-23 21:33:06
 layout: post
 slug: figured-out-my-personality-type
 title: Figured Out My Personality Type?

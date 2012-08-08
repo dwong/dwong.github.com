@@ -3,7 +3,7 @@ alias:
 - /677/word-up/index.html
 - /2009/09/16/word-up/index.html
 comments: true
-date: 2009-09-16 00:24:36
+date: 2009-09-16 08:24:36
 layout: post
 slug: word-up
 title: Word Up

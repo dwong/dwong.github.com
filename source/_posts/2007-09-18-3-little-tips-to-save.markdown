@@ -3,7 +3,7 @@ alias:
 - /200/3-little-tips-to-save/index.html
 - /2007/09/18/3-little-tips-to-save/index.html
 comments: true
-date: 2007-09-18 10:37:52
+date: 2007-09-18 18:37:52
 layout: post
 slug: 3-little-tips-to-save
 title: 3 Little Tips To Save

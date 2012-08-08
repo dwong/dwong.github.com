@@ -3,7 +3,7 @@ alias:
 - /241/profanity-without-using-curse-words/index.html
 - /2008/02/26/profanity-without-using-curse-words/index.html
 comments: true
-date: 2008-02-26 08:15:40
+date: 2008-02-26 16:15:40
 layout: post
 slug: profanity-without-using-curse-words
 title: Profanity Without Using Curse Words

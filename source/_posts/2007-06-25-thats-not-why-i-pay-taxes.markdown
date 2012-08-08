@@ -3,7 +3,7 @@ alias:
 - /166/thats-not-why-i-pay-taxes/index.html
 - /2007/06/25/thats-not-why-i-pay-taxes/index.html
 comments: true
-date: 2007-06-25 11:15:02
+date: 2007-06-25 19:15:02
 layout: post
 slug: thats-not-why-i-pay-taxes
 title: That's Not Why I Pay Taxes

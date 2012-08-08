@@ -3,7 +3,7 @@ alias:
 - /835/crom-the-one-who-cuts-his-toenails-at-work/index.html
 - /2010/07/28/crom-the-one-who-cuts-his-toenails-at-work/index.html
 comments: true
-date: 2010-07-28 00:19:54
+date: 2010-07-28 08:19:54
 layout: post
 slug: crom-the-one-who-cuts-his-toenails-at-work
 title: Crom, The One Who Cuts His Toenails At Work

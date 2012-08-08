@@ -3,7 +3,7 @@ alias:
 - /736/public-restrooms-are-scary/index.html
 - /2009/11/05/public-restrooms-are-scary/index.html
 comments: true
-date: 2009-11-05 12:16:24
+date: 2009-11-05 20:16:24
 layout: post
 slug: public-restrooms-are-scary
 title: Public Restrooms Are Scary

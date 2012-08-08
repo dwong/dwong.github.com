@@ -3,7 +3,7 @@ alias:
 - /512/10th-amendment/index.html
 - /2009/02/13/10th-amendment/index.html
 comments: true
-date: 2009-02-13 00:10:35
+date: 2009-02-13 08:10:35
 layout: post
 slug: 10th-amendment
 title: 10th Amendment

@@ -3,7 +3,7 @@ alias:
 - /104/nba-playoffs-thus-far-commentary-2/index.html
 - /2007/05/16/nba-playoffs-thus-far-commentary-2/index.html
 comments: true
-date: 2007-05-16 18:30:16
+date: 2007-05-17 02:30:16
 layout: post
 slug: nba-playoffs-thus-far-commentary-2
 title: 'NBA Playoffs (Thus Far Commentary #2)'

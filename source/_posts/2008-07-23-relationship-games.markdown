@@ -3,7 +3,7 @@ alias:
 - /259/relationship-games/index.html
 - /2008/07/23/relationship-games/index.html
 comments: true
-date: 2008-07-23 00:09:58
+date: 2008-07-23 08:09:58
 layout: post
 slug: relationship-games
 title: Relationship Games

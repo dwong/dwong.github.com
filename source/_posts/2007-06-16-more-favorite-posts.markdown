@@ -3,7 +3,7 @@ alias:
 - /158/more-favorite-posts/index.html
 - /2007/06/16/more-favorite-posts/index.html
 comments: true
-date: 2007-06-16 14:30:04
+date: 2007-06-16 22:30:04
 layout: post
 slug: more-favorite-posts
 title: More Favorite Posts

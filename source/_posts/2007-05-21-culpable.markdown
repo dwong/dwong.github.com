@@ -3,7 +3,7 @@ alias:
 - /150/culpable/index.html
 - /2007/05/21/culpable/index.html
 comments: true
-date: 2007-05-21 10:30:40
+date: 2007-05-21 18:30:40
 layout: post
 slug: culpable
 title: Culpable

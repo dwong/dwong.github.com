@@ -3,7 +3,7 @@ alias:
 - /232/building-relationships/index.html
 - /2007/12/31/building-relationships/index.html
 comments: true
-date: 2007-12-31 15:53:44
+date: 2007-12-31 23:53:44
 layout: post
 slug: building-relationships
 title: Building Relationships

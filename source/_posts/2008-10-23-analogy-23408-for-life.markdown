@@ -3,7 +3,7 @@ alias:
 - /395/analogy-23408-for-life/index.html
 - /2008/10/23/analogy-23408-for-life/index.html
 comments: true
-date: 2008-10-23 14:37:39
+date: 2008-10-23 22:37:39
 layout: post
 slug: analogy-23408-for-life
 title: 'Analogy #23408 For Life'

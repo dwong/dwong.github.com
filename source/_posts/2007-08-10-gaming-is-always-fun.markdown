@@ -3,7 +3,7 @@ alias:
 - /184/gaming-is-always-fun/index.html
 - /2007/08/10/gaming-is-always-fun/index.html
 comments: true
-date: 2007-08-10 09:29:21
+date: 2007-08-10 17:29:21
 layout: post
 slug: gaming-is-always-fun
 title: Gaming Is Always Fun

@@ -3,7 +3,7 @@ alias:
 - /205/unboxing-my-macbook-pro/index.html
 - /2007/09/23/unboxing-my-macbook-pro/index.html
 comments: true
-date: 2007-09-23 16:30:33
+date: 2007-09-24 00:30:33
 layout: post
 slug: unboxing-my-macbook-pro
 title: Unboxing My MacBook Pro

@@ -3,7 +3,7 @@ alias:
 - /74/texting-champion/index.html
 - /2007/04/23/texting-champion/index.html
 comments: true
-date: 2007-04-23 08:36:12
+date: 2007-04-23 16:36:12
 layout: post
 slug: texting-champion
 title: Texting Champion

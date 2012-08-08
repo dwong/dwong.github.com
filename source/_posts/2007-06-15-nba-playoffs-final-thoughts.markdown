@@ -3,7 +3,7 @@ alias:
 - /157/nba-playoffs-final-thoughts/index.html
 - /2007/06/15/nba-playoffs-final-thoughts/index.html
 comments: true
-date: 2007-06-15 12:15:56
+date: 2007-06-15 20:15:56
 layout: post
 slug: nba-playoffs-final-thoughts
 title: NBA Playoffs (Final Thoughts)

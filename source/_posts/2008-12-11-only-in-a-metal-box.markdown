@@ -3,7 +3,7 @@ alias:
 - /378/only-in-a-metal-box/index.html
 - /2008/12/11/only-in-a-metal-box/index.html
 comments: true
-date: 2008-12-11 00:35:49
+date: 2008-12-11 08:35:49
 layout: post
 slug: only-in-a-metal-box
 title: Only In A Metal Box

@@ -3,7 +3,7 @@ alias:
 - /203/running-in-tempo/index.html
 - /2007/09/28/running-in-tempo/index.html
 comments: true
-date: 2007-09-28 11:57:00
+date: 2007-09-28 19:57:00
 layout: post
 slug: running-in-tempo
 title: Running In Tempo

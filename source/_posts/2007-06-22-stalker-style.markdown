@@ -3,7 +3,7 @@ alias:
 - /163/stalker-style/index.html
 - /2007/06/22/stalker-style/index.html
 comments: true
-date: 2007-06-22 09:30:39
+date: 2007-06-22 17:30:39
 layout: post
 slug: stalker-style
 title: Stalker Style

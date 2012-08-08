@@ -3,7 +3,7 @@ alias:
 - /181/first-and-foremost-when-i-blog/index.html
 - /2007/07/30/first-and-foremost-when-i-blog/index.html
 comments: true
-date: 2007-07-30 11:00:29
+date: 2007-07-30 19:00:29
 layout: post
 slug: first-and-foremost-when-i-blog
 title: First And Foremost When I Blog

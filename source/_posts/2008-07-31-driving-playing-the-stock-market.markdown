@@ -3,7 +3,7 @@ alias:
 - /299/driving-playing-the-stock-market/index.html
 - /2008/07/31/driving-playing-the-stock-market/index.html
 comments: true
-date: 2008-07-31 00:15:09
+date: 2008-07-31 08:15:09
 layout: post
 slug: driving-playing-the-stock-market
 title: Driving ~ Playing The Stock Market

@@ -3,7 +3,7 @@ alias:
 - /87/staying-relevant-with-sphere/index.html
 - /2007/05/07/staying-relevant-with-sphere/index.html
 comments: true
-date: 2007-05-07 13:12:22
+date: 2007-05-07 21:12:22
 layout: post
 slug: staying-relevant-with-sphere
 title: Staying Relevant With Sphere

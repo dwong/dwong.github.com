@@ -3,7 +3,7 @@ alias:
 - /101/cost-and-benefits-of-running-your-own-server/index.html
 - /2007/05/15/cost-and-benefits-of-running-your-own-server/index.html
 comments: true
-date: 2007-05-15 19:15:39
+date: 2007-05-16 03:15:39
 layout: post
 slug: cost-and-benefits-of-running-your-own-server
 title: Cost And Benefits Of Running Your Own Server

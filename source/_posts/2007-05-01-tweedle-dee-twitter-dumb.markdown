@@ -3,7 +3,7 @@ alias:
 - /83/tweedle-dee-twitter-dumb/index.html
 - /2007/05/01/tweedle-dee-twitter-dumb/index.html
 comments: true
-date: 2007-05-01 11:25:41
+date: 2007-05-01 19:25:41
 layout: post
 slug: tweedle-dee-twitter-dumb
 title: Tweedle Dee, Twitter Dumb

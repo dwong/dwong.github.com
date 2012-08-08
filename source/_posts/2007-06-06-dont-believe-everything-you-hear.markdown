@@ -3,7 +3,7 @@ alias:
 - /128/dont-believe-everything-you-hear/index.html
 - /2007/06/06/dont-believe-everything-you-hear/index.html
 comments: true
-date: 2007-06-06 14:15:29
+date: 2007-06-06 22:15:29
 layout: post
 slug: dont-believe-everything-you-hear
 title: Don't Believe Everything You Hear

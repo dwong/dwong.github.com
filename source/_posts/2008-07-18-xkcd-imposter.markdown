@@ -3,7 +3,7 @@ alias:
 - /280/xkcd-imposter/index.html
 - /2008/07/18/xkcd-imposter/index.html
 comments: true
-date: 2008-07-18 10:17:20
+date: 2008-07-18 18:17:20
 layout: post
 slug: xkcd-imposter
 title: 'xkcd: Imposter'

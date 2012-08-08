@@ -3,7 +3,7 @@ alias:
 - /254/on-asking-a-girl-out/index.html
 - /2008/06/04/on-asking-a-girl-out/index.html
 comments: true
-date: 2008-06-04 00:25:47
+date: 2008-06-04 08:25:47
 layout: post
 slug: on-asking-a-girl-out
 title: On Asking A Girl Out

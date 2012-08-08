@@ -3,7 +3,7 @@ alias:
 - /486/finishing-up/index.html
 - /2009/01/13/finishing-up/index.html
 comments: true
-date: 2009-01-13 00:10:51
+date: 2009-01-13 08:10:51
 layout: post
 slug: finishing-up
 title: Finishing Up

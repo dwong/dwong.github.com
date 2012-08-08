@@ -3,7 +3,7 @@ alias:
 - /880/acronyms/index.html
 - /2010/09/01/acronyms/index.html
 comments: true
-date: 2010-09-01 00:29:50
+date: 2010-09-01 08:29:50
 layout: post
 slug: acronyms
 title: Acronyms

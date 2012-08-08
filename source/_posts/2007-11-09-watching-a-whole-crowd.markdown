@@ -3,7 +3,7 @@ alias:
 - /222/watching-a-whole-crowd/index.html
 - /2007/11/09/watching-a-whole-crowd/index.html
 comments: true
-date: 2007-11-09 08:15:48
+date: 2007-11-09 16:15:48
 layout: post
 slug: watching-a-whole-crowd
 title: Watching A Whole Crowd

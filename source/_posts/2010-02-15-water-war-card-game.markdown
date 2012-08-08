@@ -3,7 +3,7 @@ alias:
 - /771/water-war-card-game/index.html
 - /2010/02/15/water-war-card-game/index.html
 comments: true
-date: 2010-02-15 00:20:01
+date: 2010-02-15 08:20:01
 layout: post
 slug: water-war-card-game
 title: Water War (Card Game)

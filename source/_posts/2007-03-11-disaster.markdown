@@ -3,7 +3,7 @@ alias:
 - /32/disaster/index.html
 - /2007/03/11/disaster/index.html
 comments: true
-date: 2007-03-11 16:42:57
+date: 2007-03-12 00:42:57
 layout: post
 slug: disaster
 title: Disaster

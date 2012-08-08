@@ -3,7 +3,7 @@ alias:
 - /20/somethings-not-right/index.html
 - /2007/02/21/somethings-not-right/index.html
 comments: true
-date: 2007-02-21 09:38:46
+date: 2007-02-21 17:38:46
 layout: post
 slug: somethings-not-right
 title: Something's Not Right

@@ -3,7 +3,7 @@ alias:
 - /134/a-sitemap-for-you-and-them/index.html
 - /2007/06/12/a-sitemap-for-you-and-them/index.html
 comments: true
-date: 2007-06-12 10:34:53
+date: 2007-06-12 18:34:53
 layout: post
 slug: a-sitemap-for-you-and-them
 title: A Sitemap For You (And Them)

@@ -3,7 +3,7 @@ alias:
 - /46/trying-out-some-advertisements/index.html
 - /2007/04/03/trying-out-some-advertisements/index.html
 comments: true
-date: 2007-04-03 11:42:01
+date: 2007-04-03 19:42:01
 layout: post
 slug: trying-out-some-advertisements
 title: Trying Out Some Advertisements

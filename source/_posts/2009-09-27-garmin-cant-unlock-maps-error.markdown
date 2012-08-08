@@ -3,7 +3,7 @@ alias:
 - /689/garmin-cant-unlock-maps-error/index.html
 - /2009/09/27/garmin-cant-unlock-maps-error/index.html
 comments: true
-date: 2009-09-27 00:40:12
+date: 2009-09-27 08:40:12
 layout: post
 slug: garmin-cant-unlock-maps-error
 title: Garmin - Can't Unlock Maps Error

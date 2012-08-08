@@ -3,7 +3,7 @@ alias:
 - /216/googles-taking-over-the-worldand-i-dont-like-it/index.html
 - /2007/10/22/googles-taking-over-the-worldand-i-dont-like-it/index.html
 comments: true
-date: 2007-10-22 16:20:04
+date: 2007-10-23 00:20:04
 layout: post
 slug: googles-taking-over-the-worldand-i-dont-like-it
 title: Google's Taking Over The World...And I Don't Like It

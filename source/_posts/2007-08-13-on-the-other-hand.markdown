@@ -3,7 +3,7 @@ alias:
 - /187/on-the-other-hand/index.html
 - /2007/08/13/on-the-other-hand/index.html
 comments: true
-date: 2007-08-13 07:30:45
+date: 2007-08-13 15:30:45
 layout: post
 slug: on-the-other-hand
 title: On The Other Hand

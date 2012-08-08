@@ -3,7 +3,7 @@ alias:
 - /155/favorite-open-source-apps/index.html
 - /2007/06/13/favorite-open-source-apps/index.html
 comments: true
-date: 2007-06-13 11:53:37
+date: 2007-06-13 19:53:37
 layout: post
 slug: favorite-open-source-apps
 title: Favorite Open Source Apps

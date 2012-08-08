@@ -3,7 +3,7 @@ alias:
 - /353/only-one-first/index.html
 - /2008/09/18/only-one-first/index.html
 comments: true
-date: 2008-09-18 00:10:35
+date: 2008-09-18 08:10:35
 layout: post
 slug: only-one-first
 title: Only One First

@@ -3,7 +3,7 @@ alias:
 - /604/what-is-marriage/index.html
 - /2009/06/11/what-is-marriage/index.html
 comments: true
-date: 2009-06-11 10:40:41
+date: 2009-06-11 18:40:41
 layout: post
 slug: what-is-marriage
 title: What Is Marriage?

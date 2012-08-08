@@ -3,7 +3,7 @@ alias:
 - /243/my-reminder-system/index.html
 - /2008/03/14/my-reminder-system/index.html
 comments: true
-date: 2008-03-14 00:10:25
+date: 2008-03-14 08:10:25
 layout: post
 slug: my-reminder-system
 title: My Reminder System

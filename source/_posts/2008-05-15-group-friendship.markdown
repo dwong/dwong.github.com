@@ -3,7 +3,7 @@ alias:
 - /253/group-friendship/index.html
 - /2008/05/15/group-friendship/index.html
 comments: true
-date: 2008-05-15 00:20:27
+date: 2008-05-15 08:20:27
 layout: post
 slug: group-friendship
 title: Group Friendship

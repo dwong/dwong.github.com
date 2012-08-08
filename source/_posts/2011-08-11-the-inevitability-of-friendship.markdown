@@ -3,7 +3,7 @@ alias:
 - /994/the-inevitability-of-friendship/index.html
 - /2011/08/11/the-inevitability-of-friendship/index.html
 comments: true
-date: 2011-08-11 00:50:24
+date: 2011-08-11 08:50:24
 layout: post
 slug: the-inevitability-of-friendship
 title: The Inevitability Of Friendship

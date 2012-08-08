@@ -3,7 +3,7 @@ alias:
 - /159/blase/index.html
 - /2007/06/18/blase/index.html
 comments: true
-date: 2007-06-18 10:30:21
+date: 2007-06-18 18:30:21
 layout: post
 slug: blase
 title: Blasé

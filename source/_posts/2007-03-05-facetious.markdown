@@ -3,7 +3,7 @@ alias:
 - /139/facetious/index.html
 - /2007/03/05/facetious/index.html
 comments: true
-date: 2007-03-05 10:30:10
+date: 2007-03-05 18:30:10
 layout: post
 slug: facetious
 title: Facetious

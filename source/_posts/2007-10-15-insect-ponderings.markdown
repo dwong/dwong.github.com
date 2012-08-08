@@ -3,7 +3,7 @@ alias:
 - /214/insect-ponderings/index.html
 - /2007/10/15/insect-ponderings/index.html
 comments: true
-date: 2007-10-15 11:57:43
+date: 2007-10-15 19:57:43
 layout: post
 slug: insect-ponderings
 title: Insect Ponderings

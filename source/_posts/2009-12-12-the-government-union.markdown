@@ -3,7 +3,7 @@ alias:
 - /756/the-government-union/index.html
 - /2009/12/12/the-government-union/index.html
 comments: true
-date: 2009-12-12 00:40:33
+date: 2009-12-12 08:40:33
 layout: post
 slug: the-government-union
 title: The Government Union

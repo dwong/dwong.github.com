@@ -3,7 +3,7 @@ alias:
 - /260/oh-youre-wrong-it-manners/index.html
 - /2008/06/11/oh-youre-wrong-it-manners/index.html
 comments: true
-date: 2008-06-11 00:18:50
+date: 2008-06-11 08:18:50
 layout: post
 slug: oh-youre-wrong-it-manners
 title: Oh You're Wrong, It Manners

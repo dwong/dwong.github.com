@@ -3,7 +3,7 @@ alias:
 - /119/silver-surfer-contests/index.html
 - /2007/05/29/silver-surfer-contests/index.html
 comments: true
-date: 2007-05-29 18:00:00
+date: 2007-05-30 02:00:00
 layout: post
 slug: silver-surfer-contests
 title: Silver Surfer Contests

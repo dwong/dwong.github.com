@@ -3,7 +3,7 @@ alias:
 - /245/being-a-groomsman/index.html
 - /2008/03/19/being-a-groomsman/index.html
 comments: true
-date: 2008-03-19 00:35:35
+date: 2008-03-19 08:35:35
 layout: post
 slug: being-a-groomsman
 title: Being A Groomsman

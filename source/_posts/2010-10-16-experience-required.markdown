@@ -3,7 +3,7 @@ alias:
 - /896/experience-required/index.html
 - /2010/10/16/experience-required/index.html
 comments: true
-date: 2010-10-16 00:15:03
+date: 2010-10-16 08:15:03
 layout: post
 slug: experience-required
 title: Experience Required

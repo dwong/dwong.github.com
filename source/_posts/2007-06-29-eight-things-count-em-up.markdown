@@ -3,7 +3,7 @@ alias:
 - /170/eight-things-count-em-up/index.html
 - /2007/06/29/eight-things-count-em-up/index.html
 comments: true
-date: 2007-06-29 23:39:45
+date: 2007-06-30 07:39:45
 layout: post
 slug: eight-things-count-em-up
 title: Eight Things, Count 'Em Up

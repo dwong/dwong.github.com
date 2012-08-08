@@ -3,7 +3,7 @@ alias:
 - /227/imagine-a-world-without-fire/index.html
 - /2007/12/11/imagine-a-world-without-fire/index.html
 comments: true
-date: 2007-12-11 07:23:08
+date: 2007-12-11 15:23:08
 layout: post
 slug: imagine-a-world-without-fire
 title: 'Imagine A World Without: Fire'

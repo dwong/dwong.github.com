@@ -3,7 +3,7 @@ alias:
 - /710/iphone-attention-deficit/index.html
 - /2009/10/16/iphone-attention-deficit/index.html
 comments: true
-date: 2009-10-16 00:14:12
+date: 2009-10-16 08:14:12
 layout: post
 slug: iphone-attention-deficit
 title: iPhone Attention Deficit

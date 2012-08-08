@@ -3,7 +3,7 @@ alias:
 - /675/health-care-reform/index.html
 - /2009/10/09/health-care-reform/index.html
 comments: true
-date: 2009-10-09 00:10:07
+date: 2009-10-09 08:10:07
 layout: post
 slug: health-care-reform
 title: Health Care Reform

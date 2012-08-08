@@ -3,7 +3,7 @@ alias:
 - /96/macs-have-emacs-key-bindings/index.html
 - /2007/05/18/macs-have-emacs-key-bindings/index.html
 comments: true
-date: 2007-05-18 12:53:13
+date: 2007-05-18 20:53:13
 layout: post
 slug: macs-have-emacs-key-bindings
 title: Macs Have Emacs Key Bindings?

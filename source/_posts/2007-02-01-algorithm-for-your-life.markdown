@@ -3,7 +3,7 @@ alias:
 - /725/algorithm-for-your-life/index.html
 - /2007/02/01/algorithm-for-your-life/index.html
 comments: true
-date: 2007-02-01 15:58:46
+date: 2007-02-01 23:58:46
 layout: post
 slug: algorithm-for-your-life
 title: Algorithm For Your Life

@@ -3,7 +3,7 @@ alias:
 - /268/google-code-jam-2008/index.html
 - /2008/06/28/google-code-jam-2008/index.html
 comments: true
-date: 2008-06-28 00:20:44
+date: 2008-06-28 08:20:44
 layout: post
 slug: google-code-jam-2008
 title: Google Code Jam 2008

@@ -3,7 +3,7 @@ alias:
 - /108/keeping-a-box/index.html
 - /2007/05/21/keeping-a-box/index.html
 comments: true
-date: 2007-05-21 08:00:02
+date: 2007-05-21 16:00:02
 layout: post
 slug: keeping-a-box
 title: Keeping A Box

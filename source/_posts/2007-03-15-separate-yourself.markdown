@@ -3,7 +3,7 @@ alias:
 - /30/separate-yourself/index.html
 - /2007/03/15/separate-yourself/index.html
 comments: true
-date: 2007-03-15 11:16:42
+date: 2007-03-15 19:16:42
 layout: post
 slug: separate-yourself
 title: Separate Yourself

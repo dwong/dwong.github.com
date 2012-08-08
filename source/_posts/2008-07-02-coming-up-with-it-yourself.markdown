@@ -3,7 +3,7 @@ alias:
 - /266/coming-up-with-it-yourself/index.html
 - /2008/07/02/coming-up-with-it-yourself/index.html
 comments: true
-date: 2008-07-02 00:20:25
+date: 2008-07-02 08:20:25
 layout: post
 slug: coming-up-with-it-yourself
 title: Coming Up With It Yourself

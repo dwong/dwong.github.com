@@ -3,7 +3,7 @@ alias:
 - /519/unions-will-get-you-for-sure/index.html
 - /2009/08/12/unions-will-get-you-for-sure/index.html
 comments: true
-date: 2009-08-12 00:08:44
+date: 2009-08-12 08:08:44
 layout: post
 slug: unions-will-get-you-for-sure
 title: Unions Will Get You For Sure

@@ -3,7 +3,7 @@ alias:
 - /183/lovely-junk-or-useful-pain/index.html
 - /2007/08/03/lovely-junk-or-useful-pain/index.html
 comments: true
-date: 2007-08-03 09:10:56
+date: 2007-08-03 17:10:56
 layout: post
 slug: lovely-junk-or-useful-pain
 title: Lovely Junk Or Useful Pain

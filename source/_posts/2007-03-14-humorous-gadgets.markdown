@@ -3,7 +3,7 @@ alias:
 - /31/humorous-gadgets/index.html
 - /2007/03/14/humorous-gadgets/index.html
 comments: true
-date: 2007-03-14 10:28:16
+date: 2007-03-14 18:28:16
 layout: post
 slug: humorous-gadgets
 title: Humorous Gadgets

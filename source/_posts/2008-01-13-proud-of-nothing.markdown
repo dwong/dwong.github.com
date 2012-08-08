@@ -3,7 +3,7 @@ alias:
 - /229/proud-of-nothing/index.html
 - /2008/01/13/proud-of-nothing/index.html
 comments: true
-date: 2008-01-13 22:58:13
+date: 2008-01-14 06:58:13
 layout: post
 slug: proud-of-nothing
 title: Proud Of Nothing

@@ -3,7 +3,7 @@ alias:
 - /221/extra-extra-check-out-the-new-theme/index.html
 - /2007/11/01/extra-extra-check-out-the-new-theme/index.html
 comments: true
-date: 2007-11-01 08:00:17
+date: 2007-11-01 16:00:17
 layout: post
 slug: extra-extra-check-out-the-new-theme
 title: Extra!  Extra!  Check Out The New Theme!

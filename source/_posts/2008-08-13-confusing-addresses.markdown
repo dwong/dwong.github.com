@@ -3,7 +3,7 @@ alias:
 - /316/confusing-addresses/index.html
 - /2008/08/13/confusing-addresses/index.html
 comments: true
-date: 2008-08-13 00:20:06
+date: 2008-08-13 08:20:06
 layout: post
 slug: confusing-addresses
 title: Confusing Addresses

@@ -3,7 +3,7 @@ alias:
 - /89/making-money-by-blogging/index.html
 - /2007/05/13/making-money-by-blogging/index.html
 comments: true
-date: 2007-05-13 21:34:43
+date: 2007-05-14 05:34:43
 layout: post
 slug: making-money-by-blogging
 title: Making Money By Blogging

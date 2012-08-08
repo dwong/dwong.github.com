@@ -3,7 +3,7 @@ alias:
 - /68/the-long-and-short-of-it/index.html
 - /2007/04/20/the-long-and-short-of-it/index.html
 comments: true
-date: 2007-04-20 13:43:09
+date: 2007-04-20 21:43:09
 layout: post
 slug: the-long-and-short-of-it
 title: The Long And Short Of It

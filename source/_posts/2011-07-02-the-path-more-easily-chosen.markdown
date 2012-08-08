@@ -3,7 +3,7 @@ alias:
 - /981/the-path-more-easily-chosen/index.html
 - /2011/07/02/the-path-more-easily-chosen/index.html
 comments: true
-date: 2011-07-02 00:34:40
+date: 2011-07-02 08:34:40
 layout: post
 slug: the-path-more-easily-chosen
 title: The Path More Easily Chosen

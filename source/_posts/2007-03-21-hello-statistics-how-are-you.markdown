@@ -3,7 +3,7 @@ alias:
 - /42/hello-statistics-how-are-you/index.html
 - /2007/03/21/hello-statistics-how-are-you/index.html
 comments: true
-date: 2007-03-21 15:05:37
+date: 2007-03-21 23:05:37
 layout: post
 slug: hello-statistics-how-are-you
 title: Hello Statistics, How Are You?

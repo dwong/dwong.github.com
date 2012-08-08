@@ -3,7 +3,7 @@ alias:
 - /136/pandemic/index.html
 - /2007/06/11/pandemic/index.html
 comments: true
-date: 2007-06-11 10:34:00
+date: 2007-06-11 18:34:00
 layout: post
 slug: pandemic
 title: Pandemic

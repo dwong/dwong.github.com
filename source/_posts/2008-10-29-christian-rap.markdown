@@ -3,7 +3,7 @@ alias:
 - /404/christian-rap/index.html
 - /2008/10/29/christian-rap/index.html
 comments: true
-date: 2008-10-29 00:30:39
+date: 2008-10-29 08:30:39
 layout: post
 slug: christian-rap
 title: Christian Rap

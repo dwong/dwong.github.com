@@ -3,7 +3,7 @@ alias:
 - /855/cheap-and-wonderful/index.html
 - /2010/08/27/cheap-and-wonderful/index.html
 comments: true
-date: 2010-08-27 00:10:57
+date: 2010-08-27 08:10:57
 layout: post
 slug: cheap-and-wonderful
 title: Cheap And Wonderful

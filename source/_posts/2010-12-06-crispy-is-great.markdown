@@ -3,7 +3,7 @@ alias:
 - /925/crispy-is-great/index.html
 - /2010/12/06/crispy-is-great/index.html
 comments: true
-date: 2010-12-06 00:42:49
+date: 2010-12-06 08:42:49
 layout: post
 slug: crispy-is-great
 title: Crispy Is Great

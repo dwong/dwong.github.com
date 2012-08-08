@@ -3,7 +3,7 @@ alias:
 - /452/vicarious-living/index.html
 - /2009/05/06/vicarious-living/index.html
 comments: true
-date: 2009-05-06 00:20:04
+date: 2009-05-06 08:20:04
 layout: post
 slug: vicarious-living
 title: Vicarious Living

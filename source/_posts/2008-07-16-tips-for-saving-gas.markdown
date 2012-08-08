@@ -3,7 +3,7 @@ alias:
 - /269/tips-for-saving-gas/index.html
 - /2008/07/16/tips-for-saving-gas/index.html
 comments: true
-date: 2008-07-16 00:22:38
+date: 2008-07-16 08:22:38
 layout: post
 slug: tips-for-saving-gas
 title: Tips For Saving Gas

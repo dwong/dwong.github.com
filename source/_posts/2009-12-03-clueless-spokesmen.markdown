@@ -3,7 +3,7 @@ alias:
 - /735/clueless-spokesmen/index.html
 - /2009/12/03/clueless-spokesmen/index.html
 comments: true
-date: 2009-12-03 00:12:37
+date: 2009-12-03 08:12:37
 layout: post
 slug: clueless-spokesmen
 title: Clueless Spokesmen

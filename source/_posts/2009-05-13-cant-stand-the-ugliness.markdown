@@ -3,7 +3,7 @@ alias:
 - /555/cant-stand-the-ugliness/index.html
 - /2009/05/13/cant-stand-the-ugliness/index.html
 comments: true
-date: 2009-05-13 00:10:50
+date: 2009-05-13 08:10:50
 layout: post
 slug: cant-stand-the-ugliness
 title: Can't Stand The Ugliness

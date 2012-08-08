@@ -3,7 +3,7 @@ alias:
 - /916/crom-the-one-who-loveshates-his-girlfriend/index.html
 - /2011/11/15/crom-the-one-who-loveshates-his-girlfriend/index.html
 comments: true
-date: 2011-11-15 01:10:39
+date: 2011-11-15 09:10:39
 layout: post
 slug: crom-the-one-who-loveshates-his-girlfriend
 title: Crom, The One Who Loves/Hates His Girlfriend

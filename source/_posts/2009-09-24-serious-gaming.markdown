@@ -3,7 +3,7 @@ alias:
 - /684/serious-gaming/index.html
 - /2009/09/24/serious-gaming/index.html
 comments: true
-date: 2009-09-24 00:05:49
+date: 2009-09-24 08:05:49
 layout: post
 slug: serious-gaming
 title: Serious Gaming

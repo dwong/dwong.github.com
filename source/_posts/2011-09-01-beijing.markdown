@@ -3,7 +3,7 @@ alias:
 - /1016/beijing/index.html
 - /2011/09/01/beijing/index.html
 comments: true
-date: 2011-09-01 00:57:36
+date: 2011-09-01 08:57:36
 layout: post
 slug: beijing
 title: Beijing

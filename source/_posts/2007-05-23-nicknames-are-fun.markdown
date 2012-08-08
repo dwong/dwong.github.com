@@ -3,7 +3,7 @@ alias:
 - /114/nicknames-are-fun/index.html
 - /2007/05/23/nicknames-are-fun/index.html
 comments: true
-date: 2007-05-23 13:29:55
+date: 2007-05-23 21:29:55
 layout: post
 slug: nicknames-are-fun
 title: Nicknames Are Fun

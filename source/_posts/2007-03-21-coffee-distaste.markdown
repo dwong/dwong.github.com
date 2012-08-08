@@ -3,7 +3,7 @@ alias:
 - /41/coffee-distaste/index.html
 - /2007/03/21/coffee-distaste/index.html
 comments: true
-date: 2007-03-21 11:06:02
+date: 2007-03-21 19:06:02
 layout: post
 slug: coffee-distaste
 title: Coffee Distaste

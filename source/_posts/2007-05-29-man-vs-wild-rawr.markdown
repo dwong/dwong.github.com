@@ -3,7 +3,7 @@ alias:
 - /105/man-vs-wild-rawr/index.html
 - /2007/05/29/man-vs-wild-rawr/index.html
 comments: true
-date: 2007-05-29 12:11:32
+date: 2007-05-29 20:11:32
 layout: post
 slug: man-vs-wild-rawr
 title: Man Vs. Wild (rawr!)

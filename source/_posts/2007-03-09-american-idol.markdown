@@ -3,7 +3,7 @@ alias:
 - /29/american-idol/index.html
 - /2007/03/09/american-idol/index.html
 comments: true
-date: 2007-03-09 11:26:03
+date: 2007-03-09 19:26:03
 layout: post
 slug: american-idol
 title: American Idol

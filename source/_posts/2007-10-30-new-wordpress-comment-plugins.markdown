@@ -3,7 +3,7 @@ alias:
 - /220/new-wordpress-comment-plugins/index.html
 - /2007/10/30/new-wordpress-comment-plugins/index.html
 comments: true
-date: 2007-10-30 11:34:16
+date: 2007-10-30 19:34:16
 layout: post
 slug: new-wordpress-comment-plugins
 title: New Wordpress Comment Plugins

@@ -3,7 +3,7 @@ alias:
 - /24/professional-integrity/index.html
 - /2007/02/28/professional-integrity/index.html
 comments: true
-date: 2007-02-28 14:34:26
+date: 2007-02-28 22:34:26
 layout: post
 slug: professional-integrity
 title: Professional Integrity

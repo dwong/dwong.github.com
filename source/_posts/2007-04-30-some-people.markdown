@@ -3,7 +3,7 @@ alias:
 - /85/some-people/index.html
 - /2007/04/30/some-people/index.html
 comments: true
-date: 2007-04-30 11:04:24
+date: 2007-04-30 19:04:24
 layout: post
 slug: some-people
 title: Some People

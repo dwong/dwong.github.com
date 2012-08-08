@@ -3,7 +3,7 @@ alias:
 - /207/tracking-your-own-comments/index.html
 - /2007/11/04/tracking-your-own-comments/index.html
 comments: true
-date: 2007-11-04 11:30:29
+date: 2007-11-04 19:30:29
 layout: post
 slug: tracking-your-own-comments
 title: Tracking Your Own Comments

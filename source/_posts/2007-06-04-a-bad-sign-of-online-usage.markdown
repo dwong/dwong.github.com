@@ -3,7 +3,7 @@ alias:
 - /124/a-bad-sign-of-online-usage/index.html
 - /2007/06/04/a-bad-sign-of-online-usage/index.html
 comments: true
-date: 2007-06-04 10:05:27
+date: 2007-06-04 18:05:27
 layout: post
 slug: a-bad-sign-of-online-usage
 title: A Bad Sign Of Online Usage

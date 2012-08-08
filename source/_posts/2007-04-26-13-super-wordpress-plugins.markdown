@@ -3,7 +3,7 @@ alias:
 - /60/13-super-wordpress-plugins/index.html
 - /2007/04/26/13-super-wordpress-plugins/index.html
 comments: true
-date: 2007-04-26 09:46:43
+date: 2007-04-26 17:46:43
 layout: post
 slug: 13-super-wordpress-plugins
 title: 13 Super Wordpress Plugins

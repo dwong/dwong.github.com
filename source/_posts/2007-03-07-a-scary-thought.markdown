@@ -3,7 +3,7 @@ alias:
 - /28/a-scary-thought/index.html
 - /2007/03/07/a-scary-thought/index.html
 comments: true
-date: 2007-03-07 13:32:05
+date: 2007-03-07 21:32:05
 layout: post
 slug: a-scary-thought
 title: A Scary Thought

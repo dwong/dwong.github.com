@@ -3,7 +3,7 @@ alias:
 - /123/recycling-is-good-on-many-fronts/index.html
 - /2007/06/02/recycling-is-good-on-many-fronts/index.html
 comments: true
-date: 2007-06-02 20:50:38
+date: 2007-06-03 04:50:38
 layout: post
 slug: recycling-is-good-on-many-fronts
 title: Recycling Is Good On Many Fronts

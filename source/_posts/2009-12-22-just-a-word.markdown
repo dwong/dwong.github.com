@@ -3,7 +3,7 @@ alias:
 - /760/just-a-word/index.html
 - /2009/12/22/just-a-word/index.html
 comments: true
-date: 2009-12-22 14:20:27
+date: 2009-12-22 22:20:27
 layout: post
 slug: just-a-word
 title: Just A Word

@@ -3,7 +3,7 @@ alias:
 - /436/dance-circles/index.html
 - /2008/12/03/dance-circles/index.html
 comments: true
-date: 2008-12-03 00:30:12
+date: 2008-12-03 08:30:12
 layout: post
 slug: dance-circles
 title: Dance Circles

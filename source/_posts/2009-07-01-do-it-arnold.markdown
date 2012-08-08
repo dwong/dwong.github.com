@@ -3,7 +3,7 @@ alias:
 - /625/do-it-arnold/index.html
 - /2009/07/01/do-it-arnold/index.html
 comments: true
-date: 2009-07-01 00:14:13
+date: 2009-07-01 08:14:13
 layout: post
 slug: do-it-arnold
 title: Do It, Arnold

@@ -3,7 +3,7 @@ alias:
 - /98/what-ants/index.html
 - /2007/05/11/what-ants/index.html
 comments: true
-date: 2007-05-11 08:15:40
+date: 2007-05-11 16:15:40
 layout: post
 slug: what-ants
 title: What? Ants?!

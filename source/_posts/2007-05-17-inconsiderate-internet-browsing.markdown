@@ -3,7 +3,7 @@ alias:
 - /103/inconsiderate-internet-browsing/index.html
 - /2007/05/17/inconsiderate-internet-browsing/index.html
 comments: true
-date: 2007-05-17 12:30:59
+date: 2007-05-17 20:30:59
 layout: post
 slug: inconsiderate-internet-browsing
 title: Inconsiderate Internet Browsing

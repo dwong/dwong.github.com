@@ -3,7 +3,7 @@ alias:
 - /218/partition-your-hard-drive/index.html
 - /2007/10/25/partition-your-hard-drive/index.html
 comments: true
-date: 2007-10-25 11:20:56
+date: 2007-10-25 19:20:56
 layout: post
 slug: partition-your-hard-drive
 title: Partition Your Hard Drive

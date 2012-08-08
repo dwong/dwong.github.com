@@ -3,7 +3,7 @@ alias:
 - /458/for-the-love-of-the-game/index.html
 - /2009/01/05/for-the-love-of-the-game/index.html
 comments: true
-date: 2009-01-05 00:21:21
+date: 2009-01-05 08:21:21
 layout: post
 slug: for-the-love-of-the-game
 title: For The Love Of The Game

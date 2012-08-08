@@ -3,7 +3,7 @@ alias:
 - /113/amusing-searches/index.html
 - /2007/05/22/amusing-searches/index.html
 comments: true
-date: 2007-05-22 12:15:36
+date: 2007-05-22 20:15:36
 layout: post
 slug: amusing-searches
 title: Amusing Searches

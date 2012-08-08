@@ -3,7 +3,7 @@ alias:
 - /165/why-hype-up-the-iphone/index.html
 - /2007/06/23/why-hype-up-the-iphone/index.html
 comments: true
-date: 2007-06-23 12:00:30
+date: 2007-06-23 20:00:30
 layout: post
 slug: why-hype-up-the-iphone
 title: Why Hype Up The iPhone?

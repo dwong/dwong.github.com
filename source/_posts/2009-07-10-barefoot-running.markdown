@@ -3,7 +3,7 @@ alias:
 - /631/barefoot-running/index.html
 - /2009/07/10/barefoot-running/index.html
 comments: true
-date: 2009-07-10 00:10:25
+date: 2009-07-10 08:10:25
 layout: post
 slug: barefoot-running
 title: Barefoot Running

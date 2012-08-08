@@ -3,7 +3,7 @@ alias:
 - /351/mementos/index.html
 - /2008/09/24/mementos/index.html
 comments: true
-date: 2008-09-24 00:20:18
+date: 2008-09-24 08:20:18
 layout: post
 slug: mementos
 title: Mementos

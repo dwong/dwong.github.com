@@ -3,7 +3,7 @@ alias:
 - /90/too-much-of-a-good-thing/index.html
 - /2007/05/03/too-much-of-a-good-thing/index.html
 comments: true
-date: 2007-05-03 20:54:32
+date: 2007-05-04 04:54:32
 layout: post
 slug: too-much-of-a-good-thing
 title: Too Much Of A Good Thing

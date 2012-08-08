@@ -3,7 +3,7 @@ alias:
 - /22/a-trip-down-memory-ln/index.html
 - /2007/02/25/a-trip-down-memory-ln/index.html
 comments: true
-date: 2007-02-25 15:03:41
+date: 2007-02-25 23:03:41
 layout: post
 slug: a-trip-down-memory-ln
 title: A Trip (Down Memory Ln)

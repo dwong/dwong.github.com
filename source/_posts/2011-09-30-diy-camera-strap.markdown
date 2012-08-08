@@ -3,7 +3,7 @@ alias:
 - /1036/diy-camera-strap/index.html
 - /2011/09/30/diy-camera-strap/index.html
 comments: true
-date: 2011-09-30 06:05:32
+date: 2011-09-30 14:05:32
 layout: post
 slug: diy-camera-strap
 title: DIY Camera Strap

@@ -3,7 +3,7 @@ alias:
 - /199/is-the-40-30-20-10-rule-too-ideal/index.html
 - /2007/09/04/is-the-40-30-20-10-rule-too-ideal/index.html
 comments: true
-date: 2007-09-04 09:28:20
+date: 2007-09-04 17:28:20
 layout: post
 slug: is-the-40-30-20-10-rule-too-ideal
 title: Is The 40-30-20-10 Rule Too Ideal?

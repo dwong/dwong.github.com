@@ -3,7 +3,7 @@ alias:
 - /72/sneakily-selfish/index.html
 - /2007/04/17/sneakily-selfish/index.html
 comments: true
-date: 2007-04-17 08:55:43
+date: 2007-04-17 16:55:43
 layout: post
 slug: sneakily-selfish
 title: Sneakily Selfish

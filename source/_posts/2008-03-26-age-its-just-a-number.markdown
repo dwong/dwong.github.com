@@ -3,7 +3,7 @@ alias:
 - /244/age-its-just-a-number/index.html
 - /2008/03/26/age-its-just-a-number/index.html
 comments: true
-date: 2008-03-26 00:20:31
+date: 2008-03-26 08:20:31
 layout: post
 slug: age-its-just-a-number
 title: Age - It's Just A Number

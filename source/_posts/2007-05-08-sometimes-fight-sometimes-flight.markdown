@@ -3,7 +3,7 @@ alias:
 - /95/sometimes-fight-sometimes-flight/index.html
 - /2007/05/08/sometimes-fight-sometimes-flight/index.html
 comments: true
-date: 2007-05-08 13:47:49
+date: 2007-05-08 21:47:49
 layout: post
 slug: sometimes-fight-sometimes-flight
 title: Sometimes Fight, Sometimes Flight

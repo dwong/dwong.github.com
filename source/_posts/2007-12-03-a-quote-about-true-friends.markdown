@@ -3,7 +3,7 @@ alias:
 - /228/a-quote-about-true-friends/index.html
 - /2007/12/03/a-quote-about-true-friends/index.html
 comments: true
-date: 2007-12-03 11:44:45
+date: 2007-12-03 19:44:45
 layout: post
 slug: a-quote-about-true-friends
 title: A Quote About True Friends

@@ -3,7 +3,7 @@ alias:
 - /59/a-possibly-new-idea-for-american-idol/index.html
 - /2007/04/04/a-possibly-new-idea-for-american-idol/index.html
 comments: true
-date: 2007-04-04 20:51:07
+date: 2007-04-05 04:51:07
 layout: post
 slug: a-possibly-new-idea-for-american-idol
 title: A (Possibly) New Idea For American Idol

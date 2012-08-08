@@ -3,7 +3,7 @@ alias:
 - /252/the-real-better-half/index.html
 - /2008/05/07/the-real-better-half/index.html
 comments: true
-date: 2008-05-07 00:20:10
+date: 2008-05-07 08:20:10
 layout: post
 slug: the-real-better-half
 title: The Real Better Half

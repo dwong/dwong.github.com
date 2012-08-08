@@ -3,7 +3,7 @@ alias:
 - /530/bowling-high/index.html
 - /2009/02/20/bowling-high/index.html
 comments: true
-date: 2009-02-20 00:10:10
+date: 2009-02-20 08:10:10
 layout: post
 slug: bowling-high
 title: Bowling High

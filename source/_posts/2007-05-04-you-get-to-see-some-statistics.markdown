@@ -3,7 +3,7 @@ alias:
 - /92/you-get-to-see-some-statistics/index.html
 - /2007/05/04/you-get-to-see-some-statistics/index.html
 comments: true
-date: 2007-05-04 21:38:13
+date: 2007-05-05 05:38:13
 layout: post
 slug: you-get-to-see-some-statistics
 title: You Get To See Some Statistics

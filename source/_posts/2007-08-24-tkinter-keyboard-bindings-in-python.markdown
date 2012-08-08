@@ -3,7 +3,7 @@ alias:
 - /195/tkinter-keyboard-bindings-in-python/index.html
 - /2007/08/24/tkinter-keyboard-bindings-in-python/index.html
 comments: true
-date: 2007-08-24 10:00:36
+date: 2007-08-24 18:00:36
 layout: post
 slug: tkinter-keyboard-bindings-in-python
 title: Tkinter Keyboard Bindings (In Python)

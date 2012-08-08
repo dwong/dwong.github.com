@@ -3,7 +3,7 @@ alias:
 - /383/what-are-you-trying-to-pull-here/index.html
 - /2008/10/10/what-are-you-trying-to-pull-here/index.html
 comments: true
-date: 2008-10-10 00:20:33
+date: 2008-10-10 08:20:33
 layout: post
 slug: what-are-you-trying-to-pull-here
 title: What Are You Trying To Pull Here?

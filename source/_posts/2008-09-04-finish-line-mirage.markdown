@@ -3,7 +3,7 @@ alias:
 - /338/finish-line-mirage/index.html
 - /2008/09/04/finish-line-mirage/index.html
 comments: true
-date: 2008-09-04 00:15:25
+date: 2008-09-04 08:15:25
 layout: post
 slug: finish-line-mirage
 title: Finish Line Mirage

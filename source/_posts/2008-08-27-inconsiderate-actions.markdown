@@ -3,7 +3,7 @@ alias:
 - /330/inconsiderate-actions/index.html
 - /2008/08/27/inconsiderate-actions/index.html
 comments: true
-date: 2008-08-27 00:10:12
+date: 2008-08-27 08:10:12
 layout: post
 slug: inconsiderate-actions
 title: Inconsiderate Actions

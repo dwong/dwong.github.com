@@ -3,7 +3,7 @@ alias:
 - /1121/san-diego/index.html
 - /2011/12/16/san-diego/index.html
 comments: true
-date: 2011-12-16 00:27:22
+date: 2011-12-16 08:27:22
 layout: post
 slug: san-diego
 title: San Diego

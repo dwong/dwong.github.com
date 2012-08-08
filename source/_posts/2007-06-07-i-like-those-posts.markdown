@@ -3,7 +3,7 @@ alias:
 - /133/i-like-those-posts/index.html
 - /2007/06/07/i-like-those-posts/index.html
 comments: true
-date: 2007-06-07 20:30:45
+date: 2007-06-08 04:30:45
 layout: post
 slug: i-like-those-posts
 title: I Like Those Posts

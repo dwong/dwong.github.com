@@ -3,7 +3,7 @@ alias:
 - /206/17-must-have-mac-apps/index.html
 - /2007/09/25/17-must-have-mac-apps/index.html
 comments: true
-date: 2007-09-25 09:45:10
+date: 2007-09-25 17:45:10
 layout: post
 slug: 17-must-have-mac-apps
 title: 17 Must Have Mac Apps

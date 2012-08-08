@@ -3,7 +3,7 @@ alias:
 - /129/amusing-commercial/index.html
 - /2007/06/07/amusing-commercial/index.html
 comments: true
-date: 2007-06-07 10:30:54
+date: 2007-06-07 18:30:54
 layout: post
 slug: amusing-commercial
 title: Amusing Commercial

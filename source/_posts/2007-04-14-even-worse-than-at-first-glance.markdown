@@ -3,7 +3,7 @@ alias:
 - /70/even-worse-than-at-first-glance/index.html
 - /2007/04/14/even-worse-than-at-first-glance/index.html
 comments: true
-date: 2007-04-14 22:12:58
+date: 2007-04-15 06:12:58
 layout: post
 slug: even-worse-than-at-first-glance
 title: Even Worse Than At First Glance

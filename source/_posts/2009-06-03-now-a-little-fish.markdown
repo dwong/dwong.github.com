@@ -3,7 +3,7 @@ alias:
 - /602/now-a-little-fish/index.html
 - /2009/06/03/now-a-little-fish/index.html
 comments: true
-date: 2009-06-03 00:20:35
+date: 2009-06-03 08:20:35
 layout: post
 slug: now-a-little-fish
 title: Now A Little Fish

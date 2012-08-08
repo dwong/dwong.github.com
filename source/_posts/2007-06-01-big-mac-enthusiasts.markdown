@@ -3,7 +3,7 @@ alias:
 - /122/big-mac-enthusiasts/index.html
 - /2007/06/01/big-mac-enthusiasts/index.html
 comments: true
-date: 2007-06-01 08:45:53
+date: 2007-06-01 16:45:53
 layout: post
 slug: big-mac-enthusiasts
 title: (Big) Mac Enthusiasts

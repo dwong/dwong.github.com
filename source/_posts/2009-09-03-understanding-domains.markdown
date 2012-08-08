@@ -3,7 +3,7 @@ alias:
 - /424/understanding-domains/index.html
 - /2009/09/03/understanding-domains/index.html
 comments: true
-date: 2009-09-03 00:12:24
+date: 2009-09-03 08:12:24
 layout: post
 slug: understanding-domains
 title: Understanding Domains

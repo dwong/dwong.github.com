@@ -3,7 +3,7 @@ alias:
 - /106/excursions-into-the-casgo/index.html
 - /2007/05/19/excursions-into-the-casgo/index.html
 comments: true
-date: 2007-05-19 16:54:14
+date: 2007-05-20 00:54:14
 layout: post
 slug: excursions-into-the-casgo
 title: Excursions Into The Casgo

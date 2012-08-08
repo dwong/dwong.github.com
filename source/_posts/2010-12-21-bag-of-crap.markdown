@@ -3,7 +3,7 @@ alias:
 - /931/bag-of-crap/index.html
 - /2010/12/21/bag-of-crap/index.html
 comments: true
-date: 2010-12-21 00:37:58
+date: 2010-12-21 08:37:58
 layout: post
 slug: bag-of-crap
 title: Bag Of Crap

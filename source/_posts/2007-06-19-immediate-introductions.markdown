@@ -3,7 +3,7 @@ alias:
 - /160/immediate-introductions/index.html
 - /2007/06/19/immediate-introductions/index.html
 comments: true
-date: 2007-06-19 13:29:28
+date: 2007-06-19 21:29:28
 layout: post
 slug: immediate-introductions
 title: Immediate Introductions

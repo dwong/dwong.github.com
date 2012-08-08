@@ -3,7 +3,7 @@ alias:
 - /188/how-good-programming-practices-help-in-real-life/index.html
 - /2007/08/21/how-good-programming-practices-help-in-real-life/index.html
 comments: true
-date: 2007-08-21 11:10:29
+date: 2007-08-21 19:10:29
 layout: post
 slug: how-good-programming-practices-help-in-real-life
 title: How Good Programming Practices Help In Real Life

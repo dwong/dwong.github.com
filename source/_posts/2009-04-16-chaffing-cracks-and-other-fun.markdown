@@ -3,7 +3,7 @@ alias:
 - /566/chaffing-cracks-and-other-fun/index.html
 - /2009/04/16/chaffing-cracks-and-other-fun/index.html
 comments: true
-date: 2009-04-16 12:16:14
+date: 2009-04-16 20:16:14
 layout: post
 slug: chaffing-cracks-and-other-fun
 title: Chaffing, Cracks And Other Fun

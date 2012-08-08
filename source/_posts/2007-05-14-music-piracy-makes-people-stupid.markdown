@@ -3,7 +3,7 @@ alias:
 - /99/music-piracy-makes-people-stupid/index.html
 - /2007/05/14/music-piracy-makes-people-stupid/index.html
 comments: true
-date: 2007-05-14 12:12:06
+date: 2007-05-14 20:12:06
 layout: post
 slug: music-piracy-makes-people-stupid
 title: Music Piracy Makes People Stupid

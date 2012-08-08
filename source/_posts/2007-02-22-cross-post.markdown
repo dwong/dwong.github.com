@@ -3,7 +3,7 @@ alias:
 - /21/cross-post/index.html
 - /2007/02/22/cross-post/index.html
 comments: true
-date: 2007-02-22 21:50:43
+date: 2007-02-23 05:50:43
 layout: post
 slug: cross-post
 title: Cross-post

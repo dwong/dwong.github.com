@@ -3,7 +3,7 @@ alias:
 - /257/neighborhood-dogs/index.html
 - /2008/05/28/neighborhood-dogs/index.html
 comments: true
-date: 2008-05-28 00:10:13
+date: 2008-05-28 08:10:13
 layout: post
 slug: neighborhood-dogs
 title: Neighborhood Dogs

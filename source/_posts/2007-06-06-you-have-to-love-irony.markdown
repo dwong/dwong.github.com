@@ -3,7 +3,7 @@ alias:
 - /127/you-have-to-love-irony/index.html
 - /2007/06/06/you-have-to-love-irony/index.html
 comments: true
-date: 2007-06-06 08:30:30
+date: 2007-06-06 16:30:30
 layout: post
 slug: you-have-to-love-irony
 title: You Have To Love Irony

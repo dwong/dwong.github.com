@@ -3,7 +3,7 @@ alias:
 - /79/man-cuts-it-off-in-restaurant/index.html
 - /2007/04/24/man-cuts-it-off-in-restaurant/index.html
 comments: true
-date: 2007-04-24 13:45:07
+date: 2007-04-24 21:45:07
 layout: post
 slug: man-cuts-it-off-in-restaurant
 title: Man Cuts It Off In Restaurant

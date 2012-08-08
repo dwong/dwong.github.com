@@ -3,7 +3,7 @@ alias:
 - /596/finishing-my-first-marathon/index.html
 - /2009/05/28/finishing-my-first-marathon/index.html
 comments: true
-date: 2009-05-28 00:03:24
+date: 2009-05-28 08:03:24
 layout: post
 slug: finishing-my-first-marathon
 title: Finishing My First Marathon

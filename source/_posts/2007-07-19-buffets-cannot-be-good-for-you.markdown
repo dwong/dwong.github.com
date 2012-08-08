@@ -3,7 +3,7 @@ alias:
 - /178/buffets-cannot-be-good-for-you/index.html
 - /2007/07/19/buffets-cannot-be-good-for-you/index.html
 comments: true
-date: 2007-07-19 12:23:51
+date: 2007-07-19 20:23:51
 layout: post
 slug: buffets-cannot-be-good-for-you
 title: Buffets Cannot Be Good For You

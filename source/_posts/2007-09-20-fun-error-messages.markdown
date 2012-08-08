@@ -3,7 +3,7 @@ alias:
 - /204/fun-error-messages/index.html
 - /2007/09/20/fun-error-messages/index.html
 comments: true
-date: 2007-09-20 16:35:38
+date: 2007-09-21 00:35:38
 layout: post
 slug: fun-error-messages
 title: Fun Error Messages

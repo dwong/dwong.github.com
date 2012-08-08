@@ -3,7 +3,7 @@ alias:
 - /185/now-now-children/index.html
 - /2007/08/06/now-now-children/index.html
 comments: true
-date: 2007-08-06 10:45:22
+date: 2007-08-06 18:45:22
 layout: post
 slug: now-now-children
 title: Now Now Children

@@ -3,7 +3,7 @@ alias:
 - /171/busyness/index.html
 - /2007/07/03/busyness/index.html
 comments: true
-date: 2007-07-03 08:44:43
+date: 2007-07-03 16:44:43
 layout: post
 slug: busyness
 title: Busyness

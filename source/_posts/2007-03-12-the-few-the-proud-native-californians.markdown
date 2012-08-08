@@ -3,7 +3,7 @@ alias:
 - /34/the-few-the-proud-native-californians/index.html
 - /2007/03/12/the-few-the-proud-native-californians/index.html
 comments: true
-date: 2007-03-12 11:48:34
+date: 2007-03-12 19:48:34
 layout: post
 slug: the-few-the-proud-native-californians
 title: The Few, The Proud, Native Californians

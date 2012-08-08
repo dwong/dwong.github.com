@@ -3,7 +3,7 @@ alias:
 - /944/paying-for-software/index.html
 - /2011/06/16/paying-for-software/index.html
 comments: true
-date: 2011-06-16 00:14:37
+date: 2011-06-16 08:14:37
 layout: post
 slug: paying-for-software
 title: Paying For Software

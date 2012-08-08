@@ -3,7 +3,7 @@ alias:
 - /248/the-most-obvious-place/index.html
 - /2008/04/01/the-most-obvious-place/index.html
 comments: true
-date: 2008-04-01 00:15:03
+date: 2008-04-01 08:15:03
 layout: post
 slug: the-most-obvious-place
 title: The Most Obvious Place

@@ -3,7 +3,7 @@ alias:
 - /389/half-marathon/index.html
 - /2008/10/15/half-marathon/index.html
 comments: true
-date: 2008-10-15 00:13:40
+date: 2008-10-15 08:13:40
 layout: post
 slug: half-marathon
 title: Half Marathon

@@ -3,7 +3,7 @@ alias:
 - /121/only-the-bad-things/index.html
 - /2007/05/30/only-the-bad-things/index.html
 comments: true
-date: 2007-05-30 13:15:19
+date: 2007-05-30 21:15:19
 layout: post
 slug: only-the-bad-things
 title: Only The Bad Things

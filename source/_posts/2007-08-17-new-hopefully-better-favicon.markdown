@@ -3,7 +3,7 @@ alias:
 - /190/new-hopefully-better-favicon/index.html
 - /2007/08/17/new-hopefully-better-favicon/index.html
 comments: true
-date: 2007-08-17 10:01:09
+date: 2007-08-17 18:01:09
 layout: post
 slug: new-hopefully-better-favicon
 title: New (Hopefully Better) Favicon

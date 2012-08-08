@@ -3,7 +3,7 @@ alias:
 - /135/behind-the-words/index.html
 - /2007/06/09/behind-the-words/index.html
 comments: true
-date: 2007-06-09 17:48:56
+date: 2007-06-10 01:48:56
 layout: post
 slug: behind-the-words
 title: Behind The Words

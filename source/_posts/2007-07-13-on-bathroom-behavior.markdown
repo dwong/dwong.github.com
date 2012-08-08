@@ -3,7 +3,7 @@ alias:
 - /176/on-bathroom-behavior/index.html
 - /2007/07/13/on-bathroom-behavior/index.html
 comments: true
-date: 2007-07-13 14:29:39
+date: 2007-07-13 22:29:39
 layout: post
 slug: on-bathroom-behavior
 title: On Bathroom Behavior

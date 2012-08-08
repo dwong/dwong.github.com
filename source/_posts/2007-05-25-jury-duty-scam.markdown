@@ -3,7 +3,7 @@ alias:
 - /117/jury-duty-scam/index.html
 - /2007/05/25/jury-duty-scam/index.html
 comments: true
-date: 2007-05-25 13:45:34
+date: 2007-05-25 21:45:34
 layout: post
 slug: jury-duty-scam
 title: Jury Duty Scam

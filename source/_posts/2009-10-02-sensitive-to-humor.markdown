@@ -3,7 +3,7 @@ alias:
 - /693/sensitive-to-humor/index.html
 - /2009/10/02/sensitive-to-humor/index.html
 comments: true
-date: 2009-10-02 00:20:26
+date: 2009-10-02 08:20:26
 layout: post
 slug: sensitive-to-humor
 title: Sensitive To Humor

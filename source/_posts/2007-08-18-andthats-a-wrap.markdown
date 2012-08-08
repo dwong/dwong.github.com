@@ -3,7 +3,7 @@ alias:
 - /192/andthats-a-wrap/index.html
 - /2007/08/18/andthats-a-wrap/index.html
 comments: true
-date: 2007-08-18 17:53:43
+date: 2007-08-19 01:53:43
 layout: post
 slug: andthats-a-wrap
 title: And...That's A Wrap

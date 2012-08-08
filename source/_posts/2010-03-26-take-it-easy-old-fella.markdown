@@ -3,7 +3,7 @@ alias:
 - /791/take-it-easy-old-fella/index.html
 - /2010/03/26/take-it-easy-old-fella/index.html
 comments: true
-date: 2010-03-26 00:15:03
+date: 2010-03-26 08:15:03
 layout: post
 slug: take-it-easy-old-fella
 title: Take It Easy, Old Fella

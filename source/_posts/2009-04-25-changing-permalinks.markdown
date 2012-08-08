@@ -3,7 +3,7 @@ alias:
 - /574/changing-permalinks/index.html
 - /2009/04/25/changing-permalinks/index.html
 comments: true
-date: 2009-04-25 09:30:40
+date: 2009-04-25 17:30:40
 layout: post
 slug: changing-permalinks
 title: Changing Permalinks

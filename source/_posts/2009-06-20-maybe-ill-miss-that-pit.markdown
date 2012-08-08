@@ -3,7 +3,7 @@ alias:
 - /616/maybe-ill-miss-that-pit/index.html
 - /2009/06/20/maybe-ill-miss-that-pit/index.html
 comments: true
-date: 2009-06-20 00:40:28
+date: 2009-06-20 08:40:28
 layout: post
 slug: maybe-ill-miss-that-pit
 title: Maybe I'll Miss That Pit

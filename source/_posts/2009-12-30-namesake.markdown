@@ -3,7 +3,7 @@ alias:
 - /765/namesake/index.html
 - /2009/12/30/namesake/index.html
 comments: true
-date: 2009-12-30 08:41:26
+date: 2009-12-30 16:41:26
 layout: post
 slug: namesake
 title: Namesake

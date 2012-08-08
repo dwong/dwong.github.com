@@ -3,7 +3,7 @@ alias:
 - /499/be-realistic/index.html
 - /2009/01/21/be-realistic/index.html
 comments: true
-date: 2009-01-21 00:15:10
+date: 2009-01-21 08:15:10
 layout: post
 slug: be-realistic
 title: Be Realistic

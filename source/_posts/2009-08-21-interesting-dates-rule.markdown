@@ -3,7 +3,7 @@ alias:
 - /629/interesting-dates-rule/index.html
 - /2009/08/21/interesting-dates-rule/index.html
 comments: true
-date: 2009-08-21 00:19:45
+date: 2009-08-21 08:19:45
 layout: post
 slug: interesting-dates-rule
 title: Interesting Dates Rule

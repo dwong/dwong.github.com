@@ -3,7 +3,7 @@ alias:
 - /194/yay-for-frequent-commentators/index.html
 - /2007/09/06/yay-for-frequent-commentators/index.html
 comments: true
-date: 2007-09-06 16:24:24
+date: 2007-09-07 00:24:24
 layout: post
 slug: yay-for-frequent-commentators
 title: Yay For Frequent Commentators

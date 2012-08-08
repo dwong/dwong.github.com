@@ -3,7 +3,7 @@ alias:
 - /197/get-me-out-of-here/index.html
 - /2007/08/30/get-me-out-of-here/index.html
 comments: true
-date: 2007-08-30 13:14:10
+date: 2007-08-30 21:14:10
 layout: post
 slug: get-me-out-of-here
 title: Get Me Out Of Here

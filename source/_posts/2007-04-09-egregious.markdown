@@ -3,7 +3,7 @@ alias:
 - /144/egregious/index.html
 - /2007/04/09/egregious/index.html
 comments: true
-date: 2007-04-09 10:30:16
+date: 2007-04-09 18:30:16
 layout: post
 slug: egregious
 title: Egregious

@@ -3,7 +3,7 @@ alias:
 - /954/i-dont-want-your-smoke/index.html
 - /2011/02/21/i-dont-want-your-smoke/index.html
 comments: true
-date: 2011-02-21 00:07:55
+date: 2011-02-21 08:07:55
 layout: post
 slug: i-dont-want-your-smoke
 title: I Don't Want Your Smoke

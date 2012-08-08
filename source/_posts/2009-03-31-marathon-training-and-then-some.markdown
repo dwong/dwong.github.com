@@ -3,7 +3,7 @@ alias:
 - /559/marathon-training-and-then-some/index.html
 - /2009/03/31/marathon-training-and-then-some/index.html
 comments: true
-date: 2009-03-31 00:20:40
+date: 2009-03-31 08:20:40
 layout: post
 slug: marathon-training-and-then-some
 title: Marathon Training And Then Some

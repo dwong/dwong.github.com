@@ -3,7 +3,7 @@ alias:
 - /225/a-quote-for-regret-and-rejection/index.html
 - /2007/11/26/a-quote-for-regret-and-rejection/index.html
 comments: true
-date: 2007-11-26 14:41:10
+date: 2007-11-26 22:41:10
 layout: post
 slug: a-quote-for-regret-and-rejection
 title: A Quote For Regret And Rejection

@@ -3,7 +3,7 @@ alias:
 - /845/big-government/index.html
 - /2010/08/18/big-government/index.html
 comments: true
-date: 2010-08-18 00:31:29
+date: 2010-08-18 08:31:29
 layout: post
 slug: big-government
 title: Big Government

@@ -3,7 +3,7 @@ alias:
 - /368/willing-to-change/index.html
 - /2008/10/08/willing-to-change/index.html
 comments: true
-date: 2008-10-08 00:15:39
+date: 2008-10-08 08:15:39
 layout: post
 slug: willing-to-change
 title: Willing To Change

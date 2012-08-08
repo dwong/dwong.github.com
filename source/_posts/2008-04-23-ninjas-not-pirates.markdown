@@ -3,7 +3,7 @@ alias:
 - /242/ninjas-not-pirates/index.html
 - /2008/04/23/ninjas-not-pirates/index.html
 comments: true
-date: 2008-04-23 00:10:06
+date: 2008-04-23 08:10:06
 layout: post
 slug: ninjas-not-pirates
 title: Ninjas, Not Pirates

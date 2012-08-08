@@ -3,7 +3,7 @@ alias:
 - /143/precocious/index.html
 - /2007/04/02/precocious/index.html
 comments: true
-date: 2007-04-02 10:30:37
+date: 2007-04-02 18:30:37
 layout: post
 slug: precocious
 title: Precocious

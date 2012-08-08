@@ -3,7 +3,7 @@ alias:
 - /154/up-or-down-same-difference/index.html
 - /2007/04/13/up-or-down-same-difference/index.html
 comments: true
-date: 2007-04-13 08:50:21
+date: 2007-04-13 16:50:21
 layout: post
 slug: up-or-down-same-difference
 title: Up Or Down, Same Difference

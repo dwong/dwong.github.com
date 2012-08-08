@@ -3,7 +3,7 @@ alias:
 - /212/pull-your-pants-up-boy/index.html
 - /2007/10/05/pull-your-pants-up-boy/index.html
 comments: true
-date: 2007-10-05 12:40:13
+date: 2007-10-05 20:40:13
 layout: post
 slug: pull-your-pants-up-boy
 title: Pull Your Pants Up, Boy

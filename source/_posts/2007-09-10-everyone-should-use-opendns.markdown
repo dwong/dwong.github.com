@@ -3,7 +3,7 @@ alias:
 - /198/everyone-should-use-opendns/index.html
 - /2007/09/10/everyone-should-use-opendns/index.html
 comments: true
-date: 2007-09-10 17:56:59
+date: 2007-09-11 01:56:59
 layout: post
 slug: everyone-should-use-opendns
 title: Everyone Should Use OpenDNS

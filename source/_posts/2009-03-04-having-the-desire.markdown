@@ -3,7 +3,7 @@ alias:
 - /476/having-the-desire/index.html
 - /2009/03/04/having-the-desire/index.html
 comments: true
-date: 2009-03-04 00:14:18
+date: 2009-03-04 08:14:18
 layout: post
 slug: having-the-desire
 title: Having The Desire

@@ -3,7 +3,7 @@ alias:
 - /208/difference-between-nerd-geek-and-dork/index.html
 - /2008/02/15/difference-between-nerd-geek-and-dork/index.html
 comments: true
-date: 2008-02-15 09:42:44
+date: 2008-02-15 17:42:44
 layout: post
 slug: difference-between-nerd-geek-and-dork
 title: Difference Between Nerd, Geek, And Dork

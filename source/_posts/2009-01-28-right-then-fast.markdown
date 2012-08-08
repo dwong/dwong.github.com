@@ -3,7 +3,7 @@ alias:
 - /488/right-then-fast/index.html
 - /2009/01/28/right-then-fast/index.html
 comments: true
-date: 2009-01-28 00:22:21
+date: 2009-01-28 08:22:21
 layout: post
 slug: right-then-fast
 title: Right Then Fast

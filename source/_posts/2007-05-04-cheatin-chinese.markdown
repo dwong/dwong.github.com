@@ -3,7 +3,7 @@ alias:
 - /91/cheatin-chinese/index.html
 - /2007/05/04/cheatin-chinese/index.html
 comments: true
-date: 2007-05-04 10:08:17
+date: 2007-05-04 18:08:17
 layout: post
 slug: cheatin-chinese
 title: Cheatin' Chinese

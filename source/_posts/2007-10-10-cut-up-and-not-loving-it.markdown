@@ -3,7 +3,7 @@ alias:
 - /215/cut-up-and-not-loving-it/index.html
 - /2007/10/10/cut-up-and-not-loving-it/index.html
 comments: true
-date: 2007-10-10 13:03:16
+date: 2007-10-10 21:03:16
 layout: post
 slug: cut-up-and-not-loving-it
 title: Cut Up And Not Loving It

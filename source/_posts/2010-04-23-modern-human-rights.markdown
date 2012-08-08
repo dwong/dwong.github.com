@@ -3,7 +3,7 @@ alias:
 - /790/modern-human-rights/index.html
 - /2010/04/23/modern-human-rights/index.html
 comments: true
-date: 2010-04-23 00:27:23
+date: 2010-04-23 08:27:23
 layout: post
 slug: modern-human-rights
 title: Modern Human Rights

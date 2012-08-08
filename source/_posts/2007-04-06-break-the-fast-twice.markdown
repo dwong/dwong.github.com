@@ -3,7 +3,7 @@ alias:
 - /61/break-the-fast-twice/index.html
 - /2007/04/06/break-the-fast-twice/index.html
 comments: true
-date: 2007-04-06 11:15:20
+date: 2007-04-06 19:15:20
 layout: post
 slug: break-the-fast-twice
 title: Break The Fast...Twice

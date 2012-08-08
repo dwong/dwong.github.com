@@ -3,7 +3,7 @@ alias:
 - /156/ah-summer/index.html
 - /2007/06/14/ah-summer/index.html
 comments: true
-date: 2007-06-14 11:31:07
+date: 2007-06-14 19:31:07
 layout: post
 slug: ah-summer
 title: Ah Summer!

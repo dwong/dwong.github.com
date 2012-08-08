@@ -3,7 +3,7 @@ alias:
 - /236/package-waste/index.html
 - /2008/02/07/package-waste/index.html
 comments: true
-date: 2008-02-07 09:40:21
+date: 2008-02-07 17:40:21
 layout: post
 slug: package-waste
 title: Package Waste

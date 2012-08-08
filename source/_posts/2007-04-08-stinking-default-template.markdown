@@ -3,7 +3,7 @@ alias:
 - /63/stinking-default-template/index.html
 - /2007/04/08/stinking-default-template/index.html
 comments: true
-date: 2007-04-08 18:56:44
+date: 2007-04-09 02:56:44
 layout: post
 slug: stinking-default-template
 title: Stinking Default Template

@@ -3,7 +3,7 @@ alias:
 - /82/back/index.html
 - /2007/04/27/back/index.html
 comments: true
-date: 2007-04-27 17:49:00
+date: 2007-04-28 01:49:00
 layout: post
 slug: back
 title: Back!

@@ -3,7 +3,7 @@ alias:
 - /224/being-surpassed/index.html
 - /2007/11/21/being-surpassed/index.html
 comments: true
-date: 2007-11-21 13:14:37
+date: 2007-11-21 21:14:37
 layout: post
 slug: being-surpassed
 title: Being Surpassed

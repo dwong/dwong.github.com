@@ -3,7 +3,7 @@ alias:
 - /13/superbowl/index.html
 - /2007/02/04/superbowl/index.html
 comments: true
-date: 2007-02-04 23:16:10
+date: 2007-02-05 07:16:10
 layout: post
 slug: superbowl
 title: Superbowl

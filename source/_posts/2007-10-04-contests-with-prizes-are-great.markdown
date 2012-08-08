@@ -3,7 +3,7 @@ alias:
 - /211/contests-with-prizes-are-great/index.html
 - /2007/10/04/contests-with-prizes-are-great/index.html
 comments: true
-date: 2007-10-04 12:20:50
+date: 2007-10-04 20:20:50
 layout: post
 slug: contests-with-prizes-are-great
 title: Contests With Prizes Are Great

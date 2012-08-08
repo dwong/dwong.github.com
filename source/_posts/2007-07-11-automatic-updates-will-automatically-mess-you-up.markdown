@@ -3,7 +3,7 @@ alias:
 - /175/automatic-updates-will-automatically-mess-you-up/index.html
 - /2007/07/11/automatic-updates-will-automatically-mess-you-up/index.html
 comments: true
-date: 2007-07-11 10:01:40
+date: 2007-07-11 18:01:40
 layout: post
 slug: automatic-updates-will-automatically-mess-you-up
 title: Automatic Updates Will Automatically Mess You Up

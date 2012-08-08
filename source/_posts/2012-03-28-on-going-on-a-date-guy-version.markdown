@@ -3,7 +3,7 @@ alias:
 - /258/on-going-on-a-date-guy-version/index.html
 - /2012/03/28/on-going-on-a-date-guy-version/index.html
 comments: true
-date: 2012-03-28 00:21:54
+date: 2012-03-28 08:21:54
 layout: post
 slug: on-going-on-a-date-guy-version
 title: On Going On A Date (Guy Version)

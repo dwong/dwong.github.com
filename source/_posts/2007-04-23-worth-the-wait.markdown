@@ -3,7 +3,7 @@ alias:
 - /76/worth-the-wait/index.html
 - /2007/04/23/worth-the-wait/index.html
 comments: true
-date: 2007-04-23 14:25:15
+date: 2007-04-23 22:25:15
 layout: post
 slug: worth-the-wait
 title: Worth The Wait

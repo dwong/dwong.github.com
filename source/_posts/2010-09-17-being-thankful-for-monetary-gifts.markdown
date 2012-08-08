@@ -3,7 +3,7 @@ alias:
 - /809/being-thankful-for-monetary-gifts/index.html
 - /2010/09/17/being-thankful-for-monetary-gifts/index.html
 comments: true
-date: 2010-09-17 00:18:22
+date: 2010-09-17 08:18:22
 layout: post
 slug: being-thankful-for-monetary-gifts
 title: Being Thankful For Monetary Gifts

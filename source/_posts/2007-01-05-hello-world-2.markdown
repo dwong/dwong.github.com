@@ -3,7 +3,7 @@ alias:
 - /723/hello-world-2/index.html
 - /2007/01/05/hello-world-2/index.html
 comments: true
-date: 2007-01-05 23:49:43
+date: 2007-01-06 07:49:43
 layout: post
 slug: hello-world-2
 title: Hello world!

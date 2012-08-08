@@ -3,7 +3,7 @@ alias:
 - /643/diy-camera-bag/index.html
 - /2009/07/15/diy-camera-bag/index.html
 comments: true
-date: 2009-07-15 00:12:20
+date: 2009-07-15 08:12:20
 layout: post
 slug: diy-camera-bag
 title: DIY Camera Bag

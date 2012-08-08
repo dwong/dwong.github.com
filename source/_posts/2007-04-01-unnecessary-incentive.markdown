@@ -3,7 +3,7 @@ alias:
 - /45/unnecessary-incentive/index.html
 - /2007/04/01/unnecessary-incentive/index.html
 comments: true
-date: 2007-04-01 17:25:42
+date: 2007-04-02 01:25:42
 layout: post
 slug: unnecessary-incentive
 title: Unnecessary Incentive

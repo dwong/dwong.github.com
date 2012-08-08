@@ -3,7 +3,7 @@ alias:
 - /93/career-ramblings-for-all/index.html
 - /2007/05/05/career-ramblings-for-all/index.html
 comments: true
-date: 2007-05-05 16:46:20
+date: 2007-05-06 00:46:20
 layout: post
 slug: career-ramblings-for-all
 title: Career Ramblings For All

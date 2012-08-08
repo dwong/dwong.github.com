@@ -3,7 +3,7 @@ alias:
 - /177/footlocker-coupon-found-and-what/index.html
 - /2007/07/17/footlocker-coupon-found-and-what/index.html
 comments: true
-date: 2007-07-17 10:04:04
+date: 2007-07-17 18:04:04
 layout: post
 slug: footlocker-coupon-found-and-what
 title: Footlocker Coupon Found, And What?

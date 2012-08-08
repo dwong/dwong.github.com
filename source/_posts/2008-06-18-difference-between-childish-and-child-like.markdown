@@ -3,7 +3,7 @@ alias:
 - /263/difference-between-childish-and-child-like/index.html
 - /2008/06/18/difference-between-childish-and-child-like/index.html
 comments: true
-date: 2008-06-18 00:12:01
+date: 2008-06-18 08:12:01
 layout: post
 slug: difference-between-childish-and-child-like
 title: Difference Between Childish And Child-Like

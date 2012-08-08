@@ -3,7 +3,7 @@ alias:
 - /430/wedding-daze/index.html
 - /2008/11/24/wedding-daze/index.html
 comments: true
-date: 2008-11-24 00:20:11
+date: 2008-11-24 08:20:11
 layout: post
 slug: wedding-daze
 title: Wedding Daze

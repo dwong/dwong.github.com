@@ -3,7 +3,7 @@ alias:
 - /35/favicons/index.html
 - /2007/03/13/favicons/index.html
 comments: true
-date: 2007-03-13 13:43:46
+date: 2007-03-13 21:43:46
 layout: post
 slug: favicons
 title: Favicon(s)!

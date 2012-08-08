@@ -3,7 +3,7 @@ alias:
 - /146/scintillate/index.html
 - /2007/04/23/scintillate/index.html
 comments: true
-date: 2007-04-23 10:30:59
+date: 2007-04-23 18:30:59
 layout: post
 slug: scintillate
 title: Scintillate

@@ -3,7 +3,7 @@ alias:
 - /27/stupid/index.html
 - /2007/03/06/stupid/index.html
 comments: true
-date: 2007-03-06 11:28:55
+date: 2007-03-06 19:28:55
 layout: post
 slug: stupid
 title: Stupid?

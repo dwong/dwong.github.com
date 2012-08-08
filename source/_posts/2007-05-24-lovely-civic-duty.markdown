@@ -3,7 +3,7 @@ alias:
 - /115/lovely-civic-duty/index.html
 - /2007/05/24/lovely-civic-duty/index.html
 comments: true
-date: 2007-05-24 07:30:06
+date: 2007-05-24 15:30:06
 layout: post
 slug: lovely-civic-duty
 title: Lovely Civic Duty

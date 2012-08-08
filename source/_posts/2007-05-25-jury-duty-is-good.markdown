@@ -3,7 +3,7 @@ alias:
 - /116/jury-duty-is-good/index.html
 - /2007/05/25/jury-duty-is-good/index.html
 comments: true
-date: 2007-05-25 09:00:07
+date: 2007-05-25 17:00:07
 layout: post
 slug: jury-duty-is-good
 title: Jury Duty Is Good?

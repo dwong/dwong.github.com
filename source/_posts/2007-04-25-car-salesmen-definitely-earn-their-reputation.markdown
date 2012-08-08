@@ -3,7 +3,7 @@ alias:
 - /80/car-salesmen-definitely-earn-their-reputation/index.html
 - /2007/04/25/car-salesmen-definitely-earn-their-reputation/index.html
 comments: true
-date: 2007-04-25 10:30:15
+date: 2007-04-25 18:30:15
 layout: post
 slug: car-salesmen-definitely-earn-their-reputation
 title: Car Salesmen Definitely Earn Their Reputation

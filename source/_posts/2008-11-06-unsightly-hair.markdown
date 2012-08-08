@@ -3,7 +3,7 @@ alias:
 - /318/unsightly-hair/index.html
 - /2008/11/06/unsightly-hair/index.html
 comments: true
-date: 2008-11-06 00:10:00
+date: 2008-11-06 08:10:00
 layout: post
 slug: unsightly-hair
 title: Unsightly Hair

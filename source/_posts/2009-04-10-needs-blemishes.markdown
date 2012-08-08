@@ -3,7 +3,7 @@ alias:
 - /546/needs-blemishes/index.html
 - /2009/04/10/needs-blemishes/index.html
 comments: true
-date: 2009-04-10 17:00:36
+date: 2009-04-11 01:00:36
 layout: post
 slug: needs-blemishes
 title: Needs Blemishes

@@ -3,7 +3,7 @@ alias:
 - /815/wavering-importance/index.html
 - /2010/06/28/wavering-importance/index.html
 comments: true
-date: 2010-06-28 00:45:11
+date: 2010-06-28 08:45:11
 layout: post
 slug: wavering-importance
 title: Wavering Importance

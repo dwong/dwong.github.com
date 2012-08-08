@@ -3,7 +3,7 @@ alias:
 - /40/even-worse/index.html
 - /2007/03/20/even-worse/index.html
 comments: true
-date: 2007-03-20 11:26:51
+date: 2007-03-20 19:26:51
 layout: post
 slug: even-worse
 title: Even Worse

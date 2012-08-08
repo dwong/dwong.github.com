@@ -3,7 +3,7 @@ alias:
 - /335/eafp/index.html
 - /2008/09/10/eafp/index.html
 comments: true
-date: 2008-09-10 00:09:23
+date: 2008-09-10 08:09:23
 layout: post
 slug: eafp
 title: EAFP

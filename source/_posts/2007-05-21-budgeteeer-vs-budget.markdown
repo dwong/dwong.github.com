@@ -3,7 +3,7 @@ alias:
 - /109/budgeteeer-vs-budget/index.html
 - /2007/05/21/budgeteeer-vs-budget/index.html
 comments: true
-date: 2007-05-21 15:45:35
+date: 2007-05-21 23:45:35
 layout: post
 slug: budgeteeer-vs-budget
 title: Budgeteer vs Budget

@@ -3,7 +3,7 @@ alias:
 - /769/the-telephone-problem/index.html
 - /2011/10/12/the-telephone-problem/index.html
 comments: true
-date: 2011-10-12 00:44:56
+date: 2011-10-12 08:44:56
 layout: post
 slug: the-telephone-problem
 title: The Telephone Problem

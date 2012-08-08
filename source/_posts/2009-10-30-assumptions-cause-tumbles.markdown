@@ -3,7 +3,7 @@ alias:
 - /729/assumptions-cause-tumbles/index.html
 - /2009/10/30/assumptions-cause-tumbles/index.html
 comments: true
-date: 2009-10-30 14:01:20
+date: 2009-10-30 22:01:20
 layout: post
 slug: assumptions-cause-tumbles
 title: Assumptions Cause Tumbles

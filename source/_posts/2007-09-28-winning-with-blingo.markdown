@@ -3,7 +3,7 @@ alias:
 - /209/winning-with-blingo/index.html
 - /2007/09/28/winning-with-blingo/index.html
 comments: true
-date: 2007-09-28 14:42:45
+date: 2007-09-28 22:42:45
 layout: post
 slug: winning-with-blingo
 title: Winning With Blingo

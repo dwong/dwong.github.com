@@ -3,7 +3,7 @@ alias:
 - /173/getting-outside/index.html
 - /2007/07/09/getting-outside/index.html
 comments: true
-date: 2007-07-09 10:53:51
+date: 2007-07-09 18:53:51
 layout: post
 slug: getting-outside
 title: Getting Outside

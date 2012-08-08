@@ -3,7 +3,7 @@ alias:
 - /594/i-hate-murphy/index.html
 - /2009/05/21/i-hate-murphy/index.html
 comments: true
-date: 2009-05-21 21:30:45
+date: 2009-05-22 05:30:45
 layout: post
 slug: i-hate-murphy
 title: I Hate Murphy

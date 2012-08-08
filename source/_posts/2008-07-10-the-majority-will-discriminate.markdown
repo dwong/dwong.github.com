@@ -3,7 +3,7 @@ alias:
 - /265/the-majority-will-discriminate/index.html
 - /2008/07/10/the-majority-will-discriminate/index.html
 comments: true
-date: 2008-07-10 00:20:21
+date: 2008-07-10 08:20:21
 layout: post
 slug: the-majority-will-discriminate
 title: The Majority Will Discriminate

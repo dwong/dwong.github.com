@@ -3,7 +3,7 @@ alias:
 - /43/what-to-think/index.html
 - /2007/03/22/what-to-think/index.html
 comments: true
-date: 2007-03-22 12:45:41
+date: 2007-03-22 20:45:41
 layout: post
 slug: what-to-think
 title: What To Think?

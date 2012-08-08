@@ -3,7 +3,7 @@ alias:
 - /609/tough-to-say-whether-its-even-decent/index.html
 - /2009/06/18/tough-to-say-whether-its-even-decent/index.html
 comments: true
-date: 2009-06-18 00:20:33
+date: 2009-06-18 08:20:33
 layout: post
 slug: tough-to-say-whether-its-even-decent
 title: Tough To Say Whether It's Even Decent

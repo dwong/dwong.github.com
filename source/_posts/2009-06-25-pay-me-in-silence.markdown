@@ -3,7 +3,7 @@ alias:
 - /428/pay-me-in-silence/index.html
 - /2009/06/25/pay-me-in-silence/index.html
 comments: true
-date: 2009-06-25 00:10:47
+date: 2009-06-25 08:10:47
 layout: post
 slug: pay-me-in-silence
 title: Pay Me In Silence

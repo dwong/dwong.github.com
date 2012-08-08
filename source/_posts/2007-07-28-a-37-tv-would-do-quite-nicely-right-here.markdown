@@ -3,7 +3,7 @@ alias:
 - /182/a-37-tv-would-do-quite-nicely-right-here/index.html
 - /2007/07/28/a-37-tv-would-do-quite-nicely-right-here/index.html
 comments: true
-date: 2007-07-28 21:29:27
+date: 2007-07-29 05:29:27
 layout: post
 slug: a-37-tv-would-do-quite-nicely-right-here
 title: A 37" TV Would Do Quite Nicely Right Here

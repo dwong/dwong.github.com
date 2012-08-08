@@ -3,7 +3,7 @@ alias:
 - /366/experience-matters/index.html
 - /2008/10/01/experience-matters/index.html
 comments: true
-date: 2008-10-01 00:20:43
+date: 2008-10-01 08:20:43
 layout: post
 slug: experience-matters
 title: Experience Matters

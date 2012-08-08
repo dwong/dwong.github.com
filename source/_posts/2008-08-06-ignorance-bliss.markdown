@@ -3,7 +3,7 @@ alias:
 - /306/ignorance-bliss/index.html
 - /2008/08/06/ignorance-bliss/index.html
 comments: true
-date: 2008-08-06 00:20:07
+date: 2008-08-06 08:20:07
 layout: post
 slug: ignorance-bliss
 title: Ignorance =? Bliss

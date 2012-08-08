@@ -3,7 +3,7 @@ alias:
 - /442/does-god-clean-carpets/index.html
 - /2008/12/17/does-god-clean-carpets/index.html
 comments: true
-date: 2008-12-17 00:34:17
+date: 2008-12-17 08:34:17
 layout: post
 slug: does-god-clean-carpets
 title: Does God Clean Carpets?

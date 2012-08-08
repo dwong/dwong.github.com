@@ -3,7 +3,7 @@ alias:
 - /169/on-driving/index.html
 - /2007/06/27/on-driving/index.html
 comments: true
-date: 2007-06-27 09:40:23
+date: 2007-06-27 17:40:23
 layout: post
 slug: on-driving
 title: On Driving

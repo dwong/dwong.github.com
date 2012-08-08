@@ -3,7 +3,7 @@ alias:
 - /130/the-world-needs-more-hugs/index.html
 - /2007/06/08/the-world-needs-more-hugs/index.html
 comments: true
-date: 2007-06-08 10:30:24
+date: 2007-06-08 18:30:24
 layout: post
 slug: the-world-needs-more-hugs
 title: The World Needs More Hugs

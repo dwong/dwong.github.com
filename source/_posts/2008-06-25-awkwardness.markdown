@@ -3,7 +3,7 @@ alias:
 - /264/awkwardness/index.html
 - /2008/06/25/awkwardness/index.html
 comments: true
-date: 2008-06-25 00:25:27
+date: 2008-06-25 08:25:27
 layout: post
 slug: awkwardness
 title: Awkwardness
