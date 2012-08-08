@@ -27,12 +27,5 @@ Most people with iPhones seem to have an incessant need to check them. People ne
 
 I am slightly amused that I am writing such a thing for a couple of reasons:
 
-
-
-
   1. Hello this is a blog, which is an entirely digital medium.
-
-
   2. I am in front of a computer at least 8 hours a day as a [software engineer](http://www.goingthewongway.com/about/).  Usually more like 10, including off hours personal time.
-
-
