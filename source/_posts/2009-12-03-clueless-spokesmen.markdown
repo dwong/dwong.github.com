@@ -19,24 +19,11 @@ When there is a disaster happening, the affected agencies always seem to appoint
 
 I am rather tired of hearing the endless stream of:
 
-
-
-	
   * "I do not have that information"
-
-	
   * "We are not aware of that at this time"
-
-	
   * "I cannot say whether that is true or not"
-
-	
   * "I do not know the answer to that"
-
-	
   * "We have not heard of that rumor"
-
-
 
 I do not understand any of the people that are involved in putting these spokesmen out there!
 
