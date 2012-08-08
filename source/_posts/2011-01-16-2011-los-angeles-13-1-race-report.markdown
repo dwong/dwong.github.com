@@ -32,17 +32,7 @@ I did get to meet a nice older fellow who had run the race barefoot. He looked p
 I don't have too many pictures because honestly I only had 2 things on my mind. My right and my left feet. But the short story is:
 
 
-
-	
   * I did not train far enough in my distances.
-
-	
   * I did not train on the correct surfaces.
-
-	
   * I will be hobbling for a little while.
-
-	
   * [I did it.](http://results.active.com/pages/oneResult.jsp?pID=98847911&rsID=105097&pubID=3)
-
-
