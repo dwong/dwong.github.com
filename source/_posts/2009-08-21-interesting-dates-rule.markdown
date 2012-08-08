@@ -17,66 +17,59 @@ tags:
 - Seen-Around
 ---
 
-#### Marriage_Dating.py
+```Python
+# Marriage_Dating.py
+#
+# A better way of dating with the purpose of getting married
+#
+    
+too_long = 730 # days, which is 2 years
+
+while you.engaged == False:
+    # What state are you in?
+    if you.dating == False:
+        days_dating = 0
+        if you.find('PERSON')
+            you.dating = True
+            other_person = person_of_opposite_sex()
+    else:
+        days_dating += 1
+
+    # Date day, hooray!
+    if you.have('DATE'):
+
+        # Here's the juice
+        if dating.purpose == 'MARRIAGE':
+            result = you.go('DATE', 'INTERESTING', other_person)
+            if days_dating >= too_long:
+                you.dating = False
+        else:
+            result = you.go('DATE', 'BORING', other_person)
+
+        # Process the result of the date
+        if result == 'WELL':
+            pass # Just keep on going on those dates!
+        elif result == 'ENGAGED':
+            you.engaged = True
+        else:
+            you.dating = False
+
+    # Every other day of your (obviously) interesting life
+    else:
+        you.go('WORK')
+        you.go('HOME')
 
 
+you.go('WEDDING')
+other_person.go('WEDDING')
+you.married = True
 
+other_person.married = True
+you.celebrate()
+other_person.celebrate()
+```
     
-    
-    too_long <span style="font-weight: bold">= </span><span style="color: red">730 </span><span style="color: green; font-style: italic"># days, which is 2 years
-    
-    </span><span style="color: blue; font-weight: bold">while </span>you<span style="font-weight: bold">.</span>engaged <span style="font-weight: bold">== </span><span style="color: blue; font-weight: bold">False</span><span style="font-weight: bold">:</span>
-        <span style="color: green; font-style: italic"># What state are you in?
-        </span><span style="color: blue; font-weight: bold">if </span>you<span style="font-weight: bold">.</span>dating <span style="font-weight: bold">== </span><span style="color: blue; font-weight: bold">False</span><span style="font-weight: bold">:
-            </span>days_dating <span style="font-weight: bold">= </span><span style="color: red">0
-            </span><span style="color: blue; font-weight: bold">if </span>you<span style="font-weight: bold">.</span>find<span style="font-weight: bold">(</span><span style="color: red">'PERSON'</span><span style="font-weight: bold">)
-                </span>you<span style="font-weight: bold">.</span>dating <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">True
-                </span>other_person <span style="font-weight: bold">= </span>person_of_opposite_sex<span style="font-weight: bold">()
-        </span><span style="color: blue; font-weight: bold">else</span><span style="font-weight: bold">:
-            </span>days_dating <span style="font-weight: bold">+= </span><span style="color: red">1
-    
-        </span><span style="color: green; font-style: italic"># Date day, hooray!
-        </span><span style="color: blue; font-weight: bold">if </span>you<span style="font-weight: bold">.</span>have<span style="font-weight: bold">(</span><span style="color: red">'DATE'</span><span style="font-weight: bold">):
-    
-            </span><span style="color: green; font-style: italic"># Here's the juice
-            </span><span style="color: blue; font-weight: bold">if </span>dating<span style="font-weight: bold">.</span>purpose <span style="font-weight: bold">== </span><span style="color: red">'MARRIAGE'</span><span style="font-weight: bold">:
-                </span>result <span style="font-weight: bold">= </span>you<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'DATE'</span><span style="font-weight: bold">, </span><span style="color: red">'INTERESTING'</span><span style="font-weight: bold">, </span>other_person<span style="font-weight: bold">)
-                </span><span style="color: blue; font-weight: bold">if </span>days_dating <span style="font-weight: bold">>= </span>too_long<span style="font-weight: bold">:
-                    </span>you<span style="font-weight: bold">.</span>dating <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">False
-            else</span><span style="font-weight: bold">:
-                </span>result <span style="font-weight: bold">= </span>you<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'DATE'</span><span style="font-weight: bold">, </span><span style="color: red">'BORING'</span><span style="font-weight: bold">, </span>other_person<span style="font-weight: bold">)
-    
-            </span><span style="color: green; font-style: italic"># Process the result of the date
-            </span><span style="color: blue; font-weight: bold">if </span>result <span style="font-weight: bold">== </span><span style="color: red">'WELL'</span><span style="font-weight: bold">:
-                </span>pass<span style="color: green; font-style: italic"> # Just keep on going on those dates!</span><span style="color: blue; font-weight: bold">
-            elif </span>result <span style="font-weight: bold">== </span><span style="color: red">'ENGAGED'</span><span style="font-weight: bold">:
-                </span>you<span style="font-weight: bold">.</span>engaged <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">True
-            else</span><span style="font-weight: bold">:
-                </span>you<span style="font-weight: bold">.</span>dating <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">False
-    
-        </span><span style="color: green; font-style: italic"># Every other day of your (obviously) interesting life
-        </span><span style="color: blue; font-weight: bold">else</span><span style="font-weight: bold">:
-            </span>you<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'WORK'</span><span style="font-weight: bold">)
-            </span>you<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'HOME'</span><span style="font-weight: bold">)
-    
-    
-    </span>you<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'WEDDING'</span><span style="font-weight: bold">)
-    </span>other_person<span style="font-weight: bold">.</span>go<span style="font-weight: bold">(</span><span style="color: red">'WEDDING'</span><span style="font-weight: bold">)
-    </span>you<span style="font-weight: bold">.</span>married <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">True
-    
-    </span>other_person<span style="font-weight: bold">.</span>married <span style="font-weight: bold">= </span><span style="color: blue; font-weight: bold">True
-    </span>you<span style="font-weight: bold">.</span>celebrate<span style="font-weight: bold">()
-    </span>other_person<span style="font-weight: bold">.</span>celebrate<span style="font-weight: bold">()
-    </span>
-    
-
-
-
-
-
-
 #### README
-
 
 
 Here's some help for understanding this snippet of Python programming code.  While you are unmarried, you are either dating someone or you are not.  If you're not dating and happen to find someone that you want to date, then lucky you!  The next categorization is you are either actively pursuing marriage or you are not.  If you are, I think that you should want to go on interesting dates.
