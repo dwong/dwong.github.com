@@ -17,26 +17,12 @@ tags:
 
 I was having a hard time with this recently. Maybe I'm dense or maybe this will be helpful to someone out there. If you have a Garmin GPS device, and it gives you an error that says "Can't Unlock Maps" then try:
 
-
-
-	
   1. Register online at [myGarmin](/item?0,http://my.garmin.com/)
-
-	
   2. Find your unlock codes
-
-	
   3. Connect your device to your computer
-
-	
   4. Create a file gmapprom.unl and paste the unlock codes into it, one to a line
-
-	
   5. Put the file onto the Garmin device inside of the Garmin folder
-
-	
   6. It is probably also a good idea to install and update software as necessary
-
 
 It was a very odd error because it seemed to happen out of nowhere. One minute the device was working fine, and then turning it off and on seemed to somehow allow that file to magically disappear. Not good, Garmin, not good. Don't let it happen again!
 
