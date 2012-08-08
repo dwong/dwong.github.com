@@ -20,29 +20,14 @@ Inspired by [war](http://en.wikipedia.org/wiki/War_%28card_game%29), here is a f
 
 **Equipment**
 
-
-
-	
   * At least 1 deck of cards
-
-	
   * 2+ players
-
-	
   * 1 cup for each player
-
 
 **Gameplay**
 Deal all of the cards to each player (as in war).  Players are not to look at their cards.  Play occurs in rounds ("battles") with each player revealing the top card in their pile.  The highest card (ace is high) is the winner.  All players with cards lower than the highest relinquish their card to the player with the highest card as well as drink an arbitrarily small amount of water (i.e., a sip).  If the 2 players have equally high cards, they are now to engage in a "war" with each player placing their top 3 cards facedown and revealing the 4th card.  This continues until one of the players engaged in the "war" has a higher card.  The loser of the war must relinquish all cards as well as drink the rest of the water in their cup.  Once a player has lost all of their cards, they are eliminated.  Each loser must drink the number of cups of water relative to their standing (i.e., the first person eliminated with 6 players has a standing of 6th and will then drink 6 cups of water).
 
 **Alternate Versions:**
 
-
-
-	
   * Winner must drink the water
-
-	
   * Use food instead of water
-
-
