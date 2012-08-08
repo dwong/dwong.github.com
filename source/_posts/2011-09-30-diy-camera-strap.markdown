@@ -87,74 +87,29 @@ I love making things instead of buying them. First I made a [stealthy camera bag
 Here's a model to show you what it looks like in action.  As you can see, it is out of the way and not pulling down on the neck (in the bothersome way that the Canon strap does).
 
 
-
-
-
 #### Steps
-
-
-
-
-
 	
   1. Sew nylon strap through swiveling hook with a box stitch
-
-	
   2. Attach locking carabiner to swiveling hook
-
-	
   3. Thread shoulder strap through both nylon strap and carabiner
-
-	
   4. Cut original Canon strap, leaving enough room on the thick portion for a grommet
-
-	
   5. Cut hole in thick portion, not too close to the edges
-
-	
   6. Insert and attach grommet
-
-	
   7. Attach skinny nylon strap of the original Canon strap to the camera
-
-	
   8. Attach grommet on thick portion of original Canon strap to the swiveling hook
-
-
-
 
 #### Parts
 
-
-
-
-
-	
   * Grommet kit ($7, Michael's)
-
-	
   * Included Canon strap (free or less than $10, eBay)
-
-	
   * Swiveling hook ($4, Home Depot)
-
-	
   * [Locking carabiner](http://www.goingthewongway.com/item?1,B000E96RQI) ($5, Amazon)
-
-	
   * Nylon strap (free, cut from an old messenger bag)
-
-	
   * Thread (negligible, already had)
-
-	
   * Shoulder strap (free, already had)
 
 
-
-
 #### Conclusion
-
 
 I enjoyed making this, especially when compared to the ~$60 R-Strap.  It saved me some money.  (Then again, that small amount of money saved hardly gets me very far in terms of purchasing new lenses!)
 
