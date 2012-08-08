@@ -15,10 +15,9 @@ tags:
 - Relationships
 ---
 
-> They're pretty much married already.  What's the difference?
--former co-worker about an unmarried couple living together
-
-
+{% blockquote former co-worker about an unmarried couple living together %}
+They're pretty much married already.  What's the difference?
+{% endblockquote %}
 
 What is the difference, really?  That is, I have an idea of what the difference is.  To me there **is** a difference between marriage and just living together.  In fact there is a difference between marriage and any other state that one can be in (e.g., single, friends, partners)!
 
