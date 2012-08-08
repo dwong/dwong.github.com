@@ -37,6 +37,6 @@ I have been running barefoot for over 9 months now.  I started off running a few
 I run barefoot.  I enjoy it.
 
 References:
-[SportSci - Running Barefoot](http://www.sportsci.org/jour/0103/mw.htm)
-[The Painful Truth About Trainers](http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
-[Barefoot Rick](http://barefootrunner.org/) - I enjoyed reading some of his articles and thoughts about running barefoot.
+  * [SportSci - Running Barefoot](http://www.sportsci.org/jour/0103/mw.htm)
+  * [The Painful Truth About Trainers](http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
+  * [Barefoot Rick](http://barefootrunner.org/) - I enjoyed reading some of his articles and thoughts about running barefoot.
