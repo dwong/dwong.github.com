@@ -14,6 +14,7 @@ tags:
 - life in code
 - Python
 ---
+
 ```python
 # trusting_others.py
 #
@@ -43,3 +44,4 @@ for day in days:
             trust[person] += TRUST_REWARD;
         elif speak() == 'FALSEHOOD':
             trust[person] -= TRUST_PENALTY
+```

@@ -17,7 +17,7 @@ tags:
 - Seen-Around
 ---
 
-```Python
+```python
 # Marriage_Dating.py
 #
 # A better way of dating with the purpose of getting married
