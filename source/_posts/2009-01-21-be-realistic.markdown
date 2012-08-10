@@ -15,7 +15,8 @@ tags:
 - Political
 ---
 
-`while(date < '2013-01-20')
+```python
+while(date < '2013-01-20')
     if (date == '2009-01-20')
         crowd.release(pomp, circumstance)
         if (BarackObama != Jesus)
@@ -23,4 +24,4 @@ tags:
     else
         work = BarackObama.work()
         crowd.judges(work)
-``
+```
