@@ -15,7 +15,7 @@ tags:
 - Photography
 ---
 
-Dodgeball experienced a resurgence in popularity with the release of [Dodgeball - A True Underdog Story](http://www.goingthewongway.com/item?1,B0006419IM). It encourages us to relive the days of our youth. Its success continues because it is easy to understand, requires little investment in equipment, and is fantastic fun for all ages. So pick up a [small](http://www.goingthewongway.com/item?1,B000LXYKNO) or [large dodgeball set](http://www.goingthewongway.com/item?1,B000KIBRVI), grab some friends, and have some fun!
+Dodgeball experienced a resurgence in popularity with the release of [Dodgeball - A True Underdog Story](http://amzn.to/MnBO66). It encourages us to relive the days of our youth. Its success continues because it is easy to understand, requires little investment in equipment, and is fantastic fun for all ages. So pick up a [small](http://amzn.to/NoGjuR) or [large dodgeball set](http://amzn.to/MJm12S), grab some friends, and have some fun!
 
 **Note**: I did not take most of these pictures because I was actually playing in the tournament. Nevertheless I helped when I could, especially for the group shots. So thank my wife for the pictures.
 

@@ -69,7 +69,7 @@ My final step was to attach some velcro so that the pieces would hold their form
 
 It's fairly inconspicuous, modestly priced (total for everything is under $50 compared to over $100 for the bags that I wanted, and I have leftover material), padded, and now I have skills that I didn't have before!
 
-Of course, if after reading this you decide that it's still not worth it to sew all of the inserts yourself then you could just buy a commercial camera bag insert like [this one](/item?1,B003WQNLBY), and put it into whatever bag you want.
+Of course, if after reading this you decide that it's still not worth it to sew all of the inserts yourself then you could just buy a commercial camera bag insert like [this one](http://amzn.to/P6vRtH), and put it into whatever bag you want.
 
 Inspiration came from:
 [Wired - How To Make A Stealth Camera Bag](/item?0,http://howto.wired.com/wiki/Make_a_Stealth_Camera_Bag)

@@ -15,7 +15,7 @@ tags:
 - Photography
 ---
 
-I love making things instead of buying them. First I made a [stealthy camera bag](http://www.goingthewongway.com/643/diy-camera-bag/).  And here I am making a better strap for my DSLR.  I was inspired by looking around the Instructables website at other people's camera straps.  In particular, I was fond of the variants of the highly regarded [R-Strap by Black Rapid](http://www.goingthewongway.com/item?1,B002WR7VSS).
+I love making things instead of buying them. First I made a [stealthy camera bag](http://www.goingthewongway.com/643/diy-camera-bag/).  And here I am making a better strap for my DSLR.  I was inspired by looking around the Instructables website at other people's camera straps.  In particular, I was fond of the variants of the highly regarded [R-Strap by Black Rapid](http://amzn.to/NoFYby).
 
 
 [
@@ -103,7 +103,7 @@ Here's a model to show you what it looks like in action.  As you can see, it is
   * Grommet kit ($7, Michael's)
   * Included Canon strap (free or less than $10, eBay)
   * Swiveling hook ($4, Home Depot)
-  * [Locking carabiner](http://www.goingthewongway.com/item?1,B000E96RQI) ($5, Amazon)
+  * [Locking carabiner](http://amzn.to/Rz7V35) ($5, Amazon)
   * Nylon strap (free, cut from an old messenger bag)
   * Thread (negligible, already had)
   * Shoulder strap (free, already had)

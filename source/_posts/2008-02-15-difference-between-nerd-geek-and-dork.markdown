@@ -92,18 +92,8 @@ The funny thing is, **I'm all of these things.**
 
 So what can you do with this knowledge?  I have no idea, but here are some fun items to get while you figure it out:
 
-
-
-	
-  * [xkcd book (Vol. 0)](/item?1,0615314465)
-
-	
-  * All kinds of xkcd clothes ([a](/item?1,B005EGKYII) [few](/item?1,B0001TPCVM) [favorites](/item?1,B0001TOMNQ))
-
-	
-  * [Big old rimmed glasses](/item?1,B002M442LU)
-
-	
-  * [Fanny pack](/item?1,B000FOOT8A)
-
+  * [xkcd book (Vol. 0)](http://amzn.to/TpLLAn)
+  * All kinds of xkcd clothes ([a](http://amzn.to/Nt6saj) [few](http://amzn.to/QYbpPf) [favorites](http://amzn.to/Rz6vp6))
+  * [Big old rimmed glasses](http://amzn.to/N1iV5F)
+  * [Fanny pack](http://amzn.to/Od1p2S)
 
