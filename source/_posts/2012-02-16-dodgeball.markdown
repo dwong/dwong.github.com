@@ -19,33 +19,17 @@ Dodgeball experienced a resurgence in popularity with the release of [Dodgeball 
 
 **Note**: I did not take most of these pictures because I was actually playing in the tournament. Nevertheless I helped when I could, especially for the group shots. So thank my wife for the pictures.
 
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run23.JPG?m=1329282827)](http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run23.JPG?m=1329282827)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run4.JPG?m=132928274)](http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run4.JPG?m=132928274)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run25.JPG?m=132928284)](http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run25.JPG?m=132928284)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run15.JPG?m=132928280)](http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run15.JPG?m=132928280)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284)](http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284)
-
-
-
-
+<div class="galleria">
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run23.JPG?m=1329282827"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run23.JPG?m=1329282827"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run4.JPG?m=132928274"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run4.JPG?m=132928274"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run25.JPG?m=132928284"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run25.JPG?m=132928284"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run15.JPG?m=132928280"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run15.JPG?m=132928280"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284"></img></a>
+</div>
 
 Check out more pictures of the action at the [Hit And Run 111001 Gallery](http://www.goingthewongway.com/item?3,hnr).

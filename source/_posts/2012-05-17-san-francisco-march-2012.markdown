@@ -16,35 +16,19 @@ tags:
 
 Here are some pictures from a road trip that we took up to San Francisco a little while ago.  Most of the stuff that we did was standard for San Francisco, but it was still pleasant!
 
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%284%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%284%20of%2013%29.jpg?m=1337213587)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%285%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%285%20of%2013%29.jpg?m=1337213587)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%283%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%283%20of%2013%29.jpg?m=1337213587)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%286%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%286%20of%2013%29.jpg?m=1337213587)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%288%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%288%20of%2013%29.jpg?m=1337213587)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587)](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587)
-
-
-
+<div class="galleria">
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%284%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%284%20of%2013%29.jpg?m=1337213587"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%285%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%285%20of%2013%29.jpg?m=1337213587"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%283%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%283%20of%2013%29.jpg?m=1337213587"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%286%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%286%20of%2013%29.jpg?m=1337213587"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%288%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%288%20of%2013%29.jpg?m=1337213587"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587"></img></a>
+</div>
 
 Check out more pictures at the [San Francisco March 2012 gallery](http://www.goingthewongway.com/item?3,tsf1203)
