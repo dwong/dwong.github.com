@@ -8,10 +8,16 @@
 	box-shadow: none;
 }
 
-ol ul,
-ol ol,
-ul ul,
-ul ol {
-	margin-top: 0;
-	margin-bottom: 0;
+sub, sup {
+	line-height: 1.1;
+}
+@if $indented-lists {
+	ul, ul ul, ul ol, ol, ol ul, ol ol {
+		margin-left: 2em;
+	}
+}
+
+ol ul, ol ol, ul ul, ul ol {
+        margin-top: 0;
+        margin-bottom: 0;
 }
