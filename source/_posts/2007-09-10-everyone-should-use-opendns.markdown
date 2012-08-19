@@ -22,7 +22,7 @@ A real-world analogy would be looking up a phone number in a telephone book. You
 
 So each time you enter the address, your web browser has to ask a DNS server to give you the IP address. Very often, your ISP will have a DNS cache to more quickly give you the IP address.
 
-Something everyone should consider using is [OpenDNS](/item?0,http://www.opendns.com/). It is a couple of DNS servers that are able to specify on your own computer to always use instead of whatever it is that you would otherwise use. Why is it good? Well OpenDNS offers things like safety from malicious websites (e.g. a misspelled website that causes you to arrive at a malicious website) and speed (likely from optimized servers) to name a few. Try it out, and see if you can notice a difference. I have and I do!
+Something everyone should consider using is [OpenDNS](http://www.opendns.com/). It is a couple of DNS servers that are able to specify on your own computer to always use instead of whatever it is that you would otherwise use. Why is it good? Well OpenDNS offers things like safety from malicious websites (e.g. a misspelled website that causes you to arrive at a malicious website) and speed (likely from optimized servers) to name a few. Try it out, and see if you can notice a difference. I have and I do!
 
 There are instructions at the OpenDNS website for every operating system, and they take but a few minutes.
   *[IP]: Internet Protocol
