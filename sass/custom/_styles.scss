@@ -7,3 +7,11 @@
 	border-radius: 0;
 	box-shadow: none;
 }
+
+ol ul,
+ol ol,
+ul ul,
+ul ol {
+	margin-top: 0;
+	margin-bottom: 0;
+}
