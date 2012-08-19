@@ -15,7 +15,7 @@ tags:
 - Seen-Around
 ---
 
-I was watching [Monty Python and the Holy Grail](http://www.amazon.com/gp/product/B00005O3VC?ie=UTF8&tag=gtww-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00005O3VC) recently with some other people.  I thought that the movie was amusing.  It was not uproarious, but I was definitely amused.  It was just in line with Monty Python and the Flying Circus (the TV show), of which I occasionally partake of.  A TV show very well remembered for its SPAM.
+I was watching [Monty Python and the Holy Grail](http://amzn.to/N8Y0lX) recently with some other people.  I thought that the movie was amusing.  It was not uproarious, but I was definitely amused.  It was just in line with Monty Python and the Flying Circus (the TV show), of which I occasionally partake of.  A TV show very well remembered for its SPAM.
 
 However everyone else did not find it amusing at all.  As in, they thought the 90 odd minutes spent watching it were painful.
 

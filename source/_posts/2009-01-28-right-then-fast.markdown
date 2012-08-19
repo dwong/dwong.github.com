@@ -30,5 +30,5 @@ There's no use in trying to do 50 pushups as fast as you can if your form is inc
 
 First do it right, then do it fast.
 
-[[Quality, Quantity Or A Fast Time On The Stopwatch](http://www.gymjones.com/knowledge.php?id=20) - from the gym that brought you the cast of _[300](http://www.imdb.com/title/tt0416449/)_]
-[[Optimization](http://books.google.com/books?id=vpTAq4dnmuAC&pg=PA474&lpg=PA474) from a book that I use (_[Python in a Nutshell, 2nd Edition (In a Nutshell (O'Reilly))](http://www.amazon.com/gp/product/0596100469?ie=UTF8&tag=gtww-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596100469)_)] 
+<sub>[[Quality, Quantity Or A Fast Time On The Stopwatch](http://www.gymjones.com/knowledge.php?id=20) - from the gym that brought you the cast of _[300](http://www.imdb.com/title/tt0416449/)_]</sub>
+<sub>[[Optimization](http://books.google.com/books?id=vpTAq4dnmuAC&pg=PA474&lpg=PA474) from a book that I use (_[Python in a Nutshell, 2nd Edition (In a Nutshell (O'Reilly))](http://amzn.to/QOeOtF)_)]</sub>
