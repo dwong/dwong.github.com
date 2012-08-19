@@ -18,7 +18,7 @@ tags:
 
 The common thought is that nerds, geeks, and dorks are one and the same. However, I don't think so. Semantics, shemantics, you say.
 
-Although they seem very similar, I'm gonna have to go with a "yeah I don't think so." Looking them up online doesn't provide definitive results, but I am still convinced. (Looking them up online does prove amusing because apparently the first definition of [nerd](/item?0,http://dictionary.reference.com/search?q=nerd&db=*) is "a stupid, irritating, ineffectual, or unattractive person." Stinks to be called unattractive in the dictionary.)
+Although they seem very similar, I'm gonna have to go with a "yeah I don't think so." Looking them up online doesn't provide definitive results, but I am still convinced. (Looking them up online does prove amusing because apparently the first definition of [nerd](http://dictionary.reference.com/search?q=nerd&db=*) is "a stupid, irritating, ineffectual, or unattractive person." Stinks to be called unattractive in the dictionary.)
 
 First off, the most important thing to note with any of these terms is that they can have both negative and positive connotations. I think that it mainly depends on your self-awareness. So if someone calls you a nerd, and you think of yourself as a nerd, then it's not so bad. However, if you think that you're a cool guy and you get called a nerd, all is not right with the world. As in many things in life, the failing of some expectation will result in your disappointment. And sadness. And low self-esteem. You get the point.
 

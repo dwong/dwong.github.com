@@ -72,5 +72,5 @@ It's fairly inconspicuous, modestly priced (total for everything is under $50 co
 Of course, if after reading this you decide that it's still not worth it to sew all of the inserts yourself then you could just buy a commercial camera bag insert like [this one](http://amzn.to/P6vRtH), and put it into whatever bag you want.
 
 Inspiration came from:
-[Wired - How To Make A Stealth Camera Bag](/item?0,http://howto.wired.com/wiki/Make_a_Stealth_Camera_Bag)
-[Make Your Own Customized Camera Bag](/item?0,http://www.the3dstudio.com/blog_detail.aspx?id=640)
+[Wired - How To Make A Stealth Camera Bag](http://howto.wired.com/wiki/Make_a_Stealth_Camera_Bag)
+[Make Your Own Customized Camera Bag](http://www.the3dstudio.com/blog_detail.aspx?id=640)

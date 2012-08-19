@@ -115,4 +115,4 @@ I enjoyed making this, especially when compared to the ~$60 R-Strap.  It saved 
 
 My main issues with the commercial R-Strap is its price and its attachment to the tripod mount.  I don't particularly trust screws to hold my camera, especially since it swings and hangs there.  Additionally, it is quite difficult to put a camera on a tripod with something else attached to its tripod mount!  This strap attaches to one of the metal tabs that is normally used for holding up the camera.  It's integral to the camera body, and I trust that it won't break.  If it does break, then it would drop just as it would have if I were only using the original Canon strap.  In any case it is a pretty secure setup, and I will be using this for the time being.
 
-A lot of my inspiration is from the [Safer DIY R-Strap](http://www.goingthewongway.com/item?0,http://www.instructables.com/id/Safer-DIY-R-Strap/).
+A lot of my inspiration is from the [Safer DIY R-Strap](http://www.goingthewongway.comhttp://www.instructables.com/id/Safer-DIY-R-Strap/).
