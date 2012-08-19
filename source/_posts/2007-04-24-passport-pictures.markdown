@@ -21,9 +21,9 @@ tags:
 
 Have you found that it's fairly ridiculous how much people will charge you when you absolutely need something? Take passport pictures for example. There are specifications and guidelines such that most people won't really want to study them in order to make their own pictures. So because of that, they'll gladly just pay someone 8 bucks (or whatever it is) for a couple of 2" x 2" pictures of their face. Outrageous! Good thing you have other options.
 
-I wanted to make some passport pictures for [someone that I know](http://go.gtww.net/Rz0nNI) because she needed more than the usual 2. Because of that, I'm not sure how much it would cost. And on top of that, I always thought it was unfortunate how much places would charge you for passport pictures anyways.
+I wanted to make some passport pictures for [someone that I know](http://redbricks.xanga.com/) because she needed more than the usual 2. Because of that, I'm not sure how much it would cost. And on top of that, I always thought it was unfortunate how much places would charge you for passport pictures anyways.
 
-So I searched online, and I found [this great tutorial](http://go.gtww.net/OcSnmo) that shows you how to make your own passport pictures! I followed the tutorial, but I used [the Gimp](http://go.gtww.net/RrQeFx) instead.
+So I searched online, and I found [this great tutorial](http://www.dpchallenge.com/tutorial.php?TUTORIAL_ID=22) that shows you how to make your own passport pictures! I followed the tutorial, but I used [the Gimp](http://www.gimp.org/) instead.
 
 The Gimp (Gnu Image Manipulation Program) is an [Adobe Photoshop](http://amzn.to/RGY3pA) replacement that is both open-source AND free. That means that all of you cheap suckers out there can use this for nothing instead of that hacked version of Photoshop that you're currently running (which is illegal both in law and in spirit). It's also pretty robust in my opinion, but then again I'm not wizard at image manipulation anyways. Anyways, the Gimp has all of the necessary tools available but here are some helpful pointers from a beginner who already has done it. I didn't want to just put the whole tutorial here because I didn't make it. If you want to use it, then go there. However, for some completeness the steps are basically:
 
@@ -59,6 +59,6 @@ When using the rectangle select, you don't have to use the free select. Use the 
 ![new_image](http://farm1.static.flickr.com/183/471460290_754e33b34b_o.jpg)
 Make sure to specify the new file in inches according to how you want to print it. Then the resolution should be made to equal your DPI (this makes sure that your picture will turn out to be the right size).
 
-Also, not to sound like [a fanatic](http://www.goingthewongway.com/2007/01/28/fanaticism/) but long live open source software! :D
+Also, not to sound like [a fanatic](http://www.goingthewongway.com/fanaticism/) but long live open source software! :D
 
-Update: if you specifically want a U.S. passport picture, the State Department has [this Adobe Flash tool](http://go.gtww.net/SChDzr), which is extremely easy to use!
+Update: if you specifically want a U.S. passport picture, the State Department has [this Adobe Flash tool](http://travel.state.gov/_res/flash/cropper/FIG_cropper.html), which is extremely easy to use!
