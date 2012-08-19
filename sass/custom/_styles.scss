@@ -1,11 +1,15 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-// Remove shadow box for galleria pictures
-.galleria-container img {
-	border: none;
-	border-radius: 0;
-	box-shadow: none;
+$galleria: true;
+
+@if $galleria {
+	// Remove shadow box for galleria pictures
+	.galleria-container img {
+		border: none;
+		border-radius: 0;
+		box-shadow: none;
+	}
 }
 
 sub, sup {
@@ -20,4 +24,10 @@ sub, sup {
 ol ul, ol ol, ul ul, ul ol {
         margin-top: 0;
         margin-bottom: 0;
+}
+
+#content .blog-index {
+	article h1 {
+		font-size: 1.5em;
+	}
 }
