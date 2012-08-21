@@ -3,11 +3,10 @@ jQuery(document).ready(function() {
 if (jQuery('.galleria')[0])
 {
   jQuery('.galleria').galleria({
-    width: 700,
-    height: 500
+    height: 600
   });
 
-  Galleria.loadTheme('/javascripts/galleria/themes/classic/galleria.classic.min.js');
+  Galleria.loadTheme('/javascripts/galleria/themes/gtww/galleria.gtww.js');
   Galleria.run('.galleria', {
     lightbox: true
   });
