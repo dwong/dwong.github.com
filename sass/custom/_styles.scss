@@ -3,6 +3,8 @@
 
 $galleria: true;
 
+@import "galleria.gtww";
+
 @if $galleria {
 	// Remove shadow box for galleria pictures
 	.galleria-container img {
