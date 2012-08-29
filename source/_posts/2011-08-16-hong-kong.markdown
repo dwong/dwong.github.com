@@ -18,26 +18,16 @@ tags:
 
 Here are some pictures from my recent vacation to Hong Kong.  I have decided that it would be a good idea to start posting more pictures (since I have started taking them).  I played with the idea of watermarks for awhile, but I eventually settled on just including something small.  In any case, we'll see how this goes since it seems as if the blogging has started to peter out.  Let me know what you think!
 
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_1.jpg?m=1313122547)](http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_1.jpg?m=1313122547)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_3.jpg?m=1313122547)](http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_3.jpg?m=1313122547)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_4.jpg?m=1313124606)](http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_4.jpg?m=1313124606)
-
-
-
-
-[![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_5.jpg?m=1313122547)](http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_5.jpg?m=1313122547)
-
+<div class="galleria">
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_1.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_1.jpg?m=1313122547"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_3.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_3.jpg?m=1313122547"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_4.jpg?m=1313124606"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_4.jpg?m=1313124606"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_5.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_5.jpg?m=1313122547"></img></a>
+</div>
 
 
 
