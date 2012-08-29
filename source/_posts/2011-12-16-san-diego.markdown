@@ -16,27 +16,21 @@ tags:
 
 This was a trip to San Diego, CA that included the zoo, Hash House A Go Go, and a little beach time.
 
-
-[
-![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/1.jpg?m=1010318529)
-](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/1.jpg?m=1010318529)
-
-
-
-
-[
-![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/5.jpg?m=1010318529)
-](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/5.jpg?m=1010318529)
-
-
-
-
-[
-![](http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/4.jpg?m=1010318529)
-](http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/4.jpg?m=1010318529)
-
-
-
+<div class="galleria">
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/1.jpg?m=1010318529"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/1.jpg?m=1010318529"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/5.jpg?m=1010318529"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/5.jpg?m=1010318529"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/4.jpg?m=1010318529"><img
+src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/4.jpg?m=1010318529"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/3.jpg?m=1010318529"><img
+src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/3.jpg?m=1010318529"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Diego-Oct-2011/2.jpg?m=1010318529"><img
+src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-2011/2.jpg?m=1010318529"></img></a>
+</div>
 
 Check out more pictures at the **[San Diego Oct 2011 Gallery](http://www.goingthewongway.com/item?3,tsd)**.
 
