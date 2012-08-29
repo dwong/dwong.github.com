@@ -8,7 +8,8 @@ if (jQuery('.galleria')[0])
 
   Galleria.loadTheme('/javascripts/galleria/themes/gtww/galleria.gtww.js');
   Galleria.run('.galleria', {
-    lightbox: true
+    lightbox: true,
+    showInfo: true
   });
 }
 });
