@@ -50,9 +50,14 @@ end
 desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
-  puts "## Generating Site with Jekyll"
-  system "cat #{source_dir}/javascripts/modernizr-2.0.js #{source_dir}/javascripts/ender.js #{source_dir}/javascripts/octopress.js > #{source_dir}/javascripts/all.js"
+  puts "## Concatenating Javascripts"
+  system "cat #{source_dir}/javascripts/modernizr-2.0.js > #{source_dir}/javascripts/all.js"
+  system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
+  system "cat #{source_dir}/javascripts/ender.js >> #{source_dir}/javascripts/all.js"
+  system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
+  system "cat #{source_dir}/javascripts/octopress.js >> #{source_dir}/javascripts/all.js"
   system "cat #{source_dir}/javascripts/galleria/galleria-1.2.8.min.js #{source_dir}/javascripts/init_galleria.js > #{source_dir}/javascripts/galleria.js"
+  puts "## Generating Site with Jekyll"
   system "compass compile --css-dir #{source_dir}/stylesheets"
   system "jekyll"
 end
