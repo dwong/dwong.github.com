@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Public Restrooms Are Scary - Going The Wong Way</title>
+  <meta name="author" content="Derek Wong">
+
+  
+  <meta name="description" content=" Derek Wong's web log, where going the Wong way is hardly ever wrong ">
+  
+  <meta name="keywords" content="
+    
+       Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way
+    
+  ">
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dwong.github.com/public-restrooms-are-scary/">
+  <link href="/favicon.ico" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/all.js" type="text/javascript"></script>
+  <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
+  <!--jQuery-->
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  jQuery.noConflict();
+</script>
+
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!--galleria-->
+<!--<script src="http://cdnjs.cloudflare.com/ajax/libs/galleria/1.2.7/galleria.min.js" type="text/javascript"></script>-->
+
+<script src="/javascripts/galleria.js" type="text/javascript"></script>
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Going The Wong Way</a></h1>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dwong.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/archives">Archives</a></li>
+  <li><a href="/favorite-posts">Favorite Posts</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Public Restrooms Are Scary</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-11-05T12:16:24-08:00" pubdate data-updated="true">Nov  5</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+<span class='line-number'>57</span>
+<span class='line-number'>58</span>
+<span class='line-number'>59</span>
+<span class='line-number'>60</span>
+<span class='line-number'>61</span>
+<span class='line-number'>62</span>
+<span class='line-number'>63</span>
+<span class='line-number'>64</span>
+<span class='line-number'>65</span>
+<span class='line-number'>66</span>
+<span class='line-number'>67</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="c"># use_public_toilet.py</span>
+</span><span class='line'><span class="c">#</span>
+</span><span class='line'><span class="c"># Algorithm for using a public toilet.  Success will vary based on the</span>
+</span><span class='line'><span class="c"># toilet/situation (obviously).  However, this seems to be a generally safe</span>
+</span><span class='line'><span class="c"># way to approach using a toilet.</span>
+</span><span class='line'><span class="c">#</span>
+</span><span class='line'><span class="c"># Handles both male and female needs as well as exceptional cases such as</span>
+</span><span class='line'><span class="c"># no available toilet, getting dirty, and entering the wrong gender&#39;s</span>
+</span><span class='line'><span class="c"># bathroom.</span>
+</span><span class='line'><span class="c">#</span>
+</span><span class='line'><span class="c"># Algorithm is roughly:</span>
+</span><span class='line'><span class="c"># 1) Enter bathroom</span>
+</span><span class='line'><span class="c"># 2) Find suitable toilet</span>
+</span><span class='line'><span class="c"># 3) Protect yourself if it&#39;s a stall toilet that you sit on</span>
+</span><span class='line'><span class="c"># 4) Do your business</span>
+</span><span class='line'><span class="c"># 5) Finish up</span>
+</span><span class='line'>
+</span><span class='line'><span class="kn">import</span> <span class="nn">common_sense</span>
+</span><span class='line'>
+</span><span class='line'><span class="c"># Sometimes even nature&#39;s calling cannot overrule common sense</span>
+</span><span class='line'><span class="c"># Including when you walk into the wrong bathroom</span>
+</span><span class='line'><span class="k">if</span> <span class="p">(</span><span class="n">bathroom</span><span class="o">.</span><span class="n">is_disgusting</span> <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">is_dangerous</span>
+</span><span class='line'>    <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">gender</span> <span class="o">!=</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span><span class="p">):</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">hold</span><span class="p">(</span><span class="s">&#39;your waste&#39;</span><span class="p">)</span>
+</span><span class='line'>    <span class="k">return</span> <span class="c"># (i.e., get out of there!)    </span>
+</span><span class='line'>
+</span><span class='line'><span class="n">my_toilet</span> <span class="o">=</span> <span class="bp">None</span>
+</span><span class='line'><span class="c"># Only male urinaters get to use the urinals, at least in the common case</span>
+</span><span class='line'><span class="c"># (Abnormal cases are unhandled here)</span>
+</span><span class='line'><span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">need</span><span class="p">()</span> <span class="o">==</span> <span class="s">&#39;urinate&#39;</span> <span class="ow">and</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span> <span class="o">==</span> <span class="s">&#39;male&#39;</span><span class="p">:</span>
+</span><span class='line'>    <span class="k">for</span> <span class="n">urinal</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">urinals</span><span class="p">:</span>
+</span><span class='line'>        <span class="k">if</span> <span class="ow">not</span> <span class="n">urinal</span><span class="o">.</span><span class="n">empty</span><span class="p">:</span>
+</span><span class='line'>            <span class="k">continue</span>
+</span><span class='line'>        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">urinal</span>
+</span><span class='line'>
+</span><span class='line'><span class="c"># If you are not a male urinating or there is no urinal available</span>
+</span><span class='line'><span class="k">if</span> <span class="n">my_toilet</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+</span><span class='line'>    <span class="c"># Time to look for the stall</span>
+</span><span class='line'>    <span class="k">for</span> <span class="n">stall</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">stalls</span><span class="p">:</span>
+</span><span class='line'>        <span class="c"># Use an empty toilet that can also be initialized to a clean state</span>
+</span><span class='line'>        <span class="k">if</span> <span class="ow">not</span> <span class="n">stall</span><span class="o">.</span><span class="n">empty</span> <span class="ow">or</span> <span class="p">(</span><span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">clean</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">works</span><span class="p">):</span>
+</span><span class='line'>            <span class="k">continue</span>
+</span><span class='line'>        <span class="n">you</span><span class="o">.</span><span class="n">enter</span><span class="p">(</span><span class="s">&#39;Stall </span><span class="si">%s</span><span class="s">&#39;</span> <span class="o">%</span> <span class="n">stall</span><span class="p">)</span>
+</span><span class='line'>        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">stall</span>
+</span><span class='line'>        <span class="k">break</span>
+</span><span class='line'>    <span class="k">else</span><span class="p">:</span>
+</span><span class='line'>        <span class="c"># You could not find a suitable stall to use</span>
+</span><span class='line'>        <span class="k">return</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">wipe</span><span class="p">(</span><span class="s">&#39;toilet seat&#39;</span><span class="p">)</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">&#39;toilet seat cover&#39;</span><span class="p">)</span>
+</span><span class='line'>    <span class="k">while</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">seat_covered</span><span class="p">():</span>
+</span><span class='line'>        <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">&#39;toilet paper&#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c"># Finally the time has come to get down to business</span>
+</span><span class='line'><span class="k">try</span><span class="p">:</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">sit</span><span class="p">()</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">do_your_business</span><span class="p">()</span>
+</span><span class='line'><span class="k">except</span> <span class="n">TouchDirtyException</span><span class="p">:</span>   <span class="c"># Don&#39;t touch the toilet!</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">cry</span><span class="p">()</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">flush</span><span class="p">(</span><span class="n">my_toilet</span><span class="p">)</span>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">wash_hands</span><span class="p">()</span>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">leave</span><span class="p">()</span>
+</span><span class='line'><span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">satisfied</span><span class="p">:</span>             <span class="c"># Be happy, you&#39;re done</span>
+</span><span class='line'>    <span class="n">you</span><span class="o">.</span><span class="n">smile</span><span class="p">()</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Derek Wong</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-11-05T12:16:24-08:00" pubdate data-updated="true">Nov  5</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/nerd/'>Nerd</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/assumptions-cause-tumbles/" title="Previous Post: Assumptions Cause Tumbles">&laquo; Assumptions Cause Tumbles</a>
+      
+      
+        <a class="basic-alignment right" href="/only-in-the-movies/" title="Next Post: Only In The Movies">Only In The Movies &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+  <p>My name is Derek Wong.  I'm a software engineer by day, and a dabbler of a whole lot of other trades at night!</p>
+</section>
+<section>
+  <h1>I Shop At</h1>
+  <p><a href="http://amzn.to/Nmb7fQ" title="Using this link before shopping at Amazon.com supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://thegalleryis.goingthewongway.com/var/albums/Blog-Pictures/Ad/amz.gif?m=1341082500" alt="Amazon logo" width="165" height="47"/></a>
+  </p>
+  <p><a href="http://bhpho.to/OOjxMp" title="Using this link before shopping at B&H Photo supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://thegalleryis.goingthewongway.com/var/albums/Blog-Pictures/Ad/bh.gif?m=1341082501" alt="B&H Photo logo" width="125" height="86"/></a>
+  </p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/go-get-some-experience/">Go Get Some Experience</a>
+      </li>
+    
+      <li class="post">
+        <a href="/gdansk-poland/">Gdansk, Poland</a>
+      </li>
+    
+      <li class="post">
+        <a href="/san-francisco-march-2012/">San Francisco March 2012</a>
+      </li>
+    
+      <li class="post">
+        <a href="/on-going-on-a-date-guy-version/">On Going On A Date (Guy Version)</a>
+      </li>
+    
+      <li class="post">
+        <a href="/dodgeball/">Dodgeball</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2007-2012 Derek Wong
+  
+    <span style="float:right">I'm ALWAYS going the Wong way.</span>
+  
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'goingthewongway';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dwong.github.com/public-restrooms-are-scary/';
+        var disqus_url = 'http://dwong.github.com/public-restrooms-are-scary/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
