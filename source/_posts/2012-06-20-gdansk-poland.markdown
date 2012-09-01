@@ -30,4 +30,4 @@ I traveled to Gdansk, Poland in the dead of winter for work.  I was there durin
 </div>
 
 
-Check out more pictures at the full [Gdansk, Poland gallery](http://www.goingthewongway.com/item?3,gdn).
+Check out more pictures at the full [Gdansk, Poland gallery](http://go.gtww.net/PzC2o9).

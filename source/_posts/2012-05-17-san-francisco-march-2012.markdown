@@ -31,4 +31,4 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-Ma
 href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Francisco-March-2012/SF%20%2810%20of%2013%29.jpg?m=1337213587"></img></a>
 </div>
 
-Check out more pictures at the [San Francisco March 2012 gallery](http://www.goingthewongway.com/item?3,tsf1203)
+Check out more pictures at the [San Francisco March 2012 gallery](http://go.gtww.net/UjeC9V)

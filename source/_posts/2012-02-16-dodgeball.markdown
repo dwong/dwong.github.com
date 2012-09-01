@@ -32,4 +32,4 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-1110
 href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Events/Hit-And-Run-111001/hit_and_run29.JPG?m=132928284"></img></a>
 </div>
 
-Check out more pictures of the action at the [Hit And Run 111001 Gallery](http://www.goingthewongway.com/item?3,hnr).
+Check out more pictures of the action at the [Hit And Run 111001 Gallery](http://go.gtww.net/PM3WSs).
