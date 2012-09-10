@@ -3,7 +3,7 @@ alias:
 - /1209/go-get-some-experience/index.html
 - /2012/08/01/go-get-some-experience/index.html
 comments: true
-date: 2012-08-01 08:10:21
+date: 2012-08-01 07:10:21
 layout: post
 slug: go-get-some-experience
 title: Go Get Some Experience

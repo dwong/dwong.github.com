@@ -3,7 +3,7 @@ alias:
 - /1187/gdansk-poland/index.html
 - /2012/06/20/gdansk-poland/index.html
 comments: true
-date: 2012-06-20 08:12:39
+date: 2012-06-20 07:12:39
 layout: post
 slug: gdansk-poland
 title: Gdansk, Poland

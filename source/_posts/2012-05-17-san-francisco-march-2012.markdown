@@ -3,7 +3,7 @@ alias:
 - /1171/san-francisco-march-2012/index.html
 - /2012/05/17/san-francisco-march-2012/index.html
 comments: true
-date: 2012-05-17 08:24:17
+date: 2012-05-17 07:24:17
 layout: post
 slug: san-francisco-march-2012
 title: San Francisco March 2012
