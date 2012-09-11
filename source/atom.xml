@@ -11,11 +11,9 @@ layout: nil
   <id>{{ site.url }}/</id>
   <author>
     <name><![CDATA[{{ site.author | strip_html }}]]></name>
-    {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
-
-  {% for post in site.posts limit: 20 %}
+  <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  {% for post in site.posts limit: 10 %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
     <link href="{{ site.url }}{{ post.url }}"/>
