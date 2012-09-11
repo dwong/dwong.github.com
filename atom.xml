@@ -4,19 +4,17 @@
   <title><![CDATA[Going The Wong Way]]></title>
   <link href="http://dwong.github.com/atom.xml" rel="self"/>
   <link href="http://dwong.github.com/"/>
-  <updated>2012-08-30T16:56:31-07:00</updated>
+  <updated>2012-09-10T22:41:39-07:00</updated>
   <id>http://dwong.github.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
-    
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
-
+  <rights>Copyright (c) 2007-2012 Derek Wong</rights>
   
   <entry>
     <title type="html"><![CDATA[Go Get Some Experience]]></title>
     <link href="http://dwong.github.com/go-get-some-experience/"/>
-    <updated>2012-08-01T01:10:21-07:00</updated>
+    <updated>2012-08-01T00:10:21-07:00</updated>
     <id>http://dwong.github.com/go-get-some-experience</id>
     <content type="html"><![CDATA[<p>It is pretty easy to read about how to conceptually do something.  It is equally easy to read about how other people have actually done something.  It is an entirely different task to do that something.</p>
 
@@ -33,7 +31,7 @@
   <entry>
     <title type="html"><![CDATA[Gdansk, Poland]]></title>
     <link href="http://dwong.github.com/gdansk-poland/"/>
-    <updated>2012-06-20T01:12:39-07:00</updated>
+    <updated>2012-06-20T00:12:39-07:00</updated>
     <id>http://dwong.github.com/gdansk-poland</id>
     <content type="html"><![CDATA[<p>I traveled to Gdansk, Poland in the dead of winter for work.  I was there during the <a href="http://en.wikipedia.org/wiki/2012_European_cold_wave">2012 European Cold Wave</a>.  I mean you know it&#8217;s bad if the Poles thought that it was especially cold!  The news broadcast warnings that they should notify the police if they saw people outside sleeping (because they might actually have been dead!).  A far cry from sunny southern California to be sure!</p>
 
@@ -49,14 +47,14 @@
 </div>
 
 
-<p>Check out more pictures at the full <a href="http://www.goingthewongway.com/item?3,gdn">Gdansk, Poland gallery</a>.</p>
+<p>Check out more pictures at the full <a href="http://go.gtww.net/PzC2o9">Gdansk, Poland gallery</a>.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[San Francisco March 2012]]></title>
     <link href="http://dwong.github.com/san-francisco-march-2012/"/>
-    <updated>2012-05-17T01:24:17-07:00</updated>
+    <updated>2012-05-17T00:24:17-07:00</updated>
     <id>http://dwong.github.com/san-francisco-march-2012</id>
     <content type="html"><![CDATA[<p>Here are some pictures from a road trip that we took up to San Francisco a little while ago.  Most of the stuff that we did was standard for San Francisco, but it was still pleasant!</p>
 
@@ -76,14 +74,14 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-Ma
 </div>
 
 
-<p>Check out more pictures at the <a href="http://www.goingthewongway.com/item?3,tsf1203">San Francisco March 2012 gallery</a></p>
+<p>Check out more pictures at the <a href="http://go.gtww.net/UjeC9V">San Francisco March 2012 gallery</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[On Going On A Date (Guy Version)]]></title>
     <link href="http://dwong.github.com/on-going-on-a-date-guy-version/"/>
-    <updated>2012-03-28T01:21:54-07:00</updated>
+    <updated>2012-03-28T00:21:54-07:00</updated>
     <id>http://dwong.github.com/on-going-on-a-date-guy-version</id>
     <content type="html"><![CDATA[<p>Take this list and write it down.  Believe in it.  Win it.  Done and done, happily ever after.</p>
 
@@ -122,7 +120,7 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-1110
 </div>
 
 
-<p>Check out more pictures of the action at the <a href="http://www.goingthewongway.com/item?3,hnr">Hit And Run 111001 Gallery</a>.</p>
+<p>Check out more pictures of the action at the <a href="http://go.gtww.net/PM3WSs">Hit And Run 111001 Gallery</a>.</p>
 ]]></content>
   </entry>
   
@@ -216,7 +214,7 @@ src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-20
 </div>
 
 
-<p>Check out more pictures at the <strong><a href="http://www.goingthewongway.com/item?3,tsd">San Diego Oct 2011 Gallery</a></strong>.</p>
+<p>Check out more pictures at the <strong><a href="http://go.gtww.net/T6RWdn">San Diego Oct 2011 Gallery</a></strong>.</p>
 ]]></content>
   </entry>
   
@@ -258,7 +256,7 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian3.JP
 </div>
 
 
-<p>Check out more at the <strong><a href="http://www.goingthewongway.com/item?3,tx">Xi&#8217;an Gallery</a></strong>.</p>
+<p>Check out more at the <strong><a href="http://go.gtww.net/S8QWru">Xi&#8217;an Gallery</a></strong>.</p>
 ]]></content>
   </entry>
   
@@ -269,240 +267,11 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian3.JP
     <id>http://dwong.github.com/the-telephone-problem</id>
     <content type="html"><![CDATA[<p>The game <a href="http://en.wikipedia.org/wiki/Chinese_whispers">telephone</a> (although apparently its original name is a bit more offensive!) is a simple game that teaches us a valuable lesson.  From it we learn that people are awful at accurate transmission of information.  In the case of the game, it leads to amusement and fun when finding out how quickly and drastically words will change.</p>
 
-<p>However the game is not as funny in its everyday depictions.  We reference people who reference other people who read about some research piece in a magazine.  Other people pass along hearsay as common knowledge, and we grow to have a distorted view of truth.  We might see these everyday ranging from <a href="http://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die">common myths about food</a> to <a href="http://dwong.github.com/item?0,http://www.boundless.org/2005/articles/a0001126.cfm">common myths about (unmarried couples) living together</a>.  Despite our best intentions at accuracy there is something that we will never learn from the telephone game as well as we should - we are just not able to effectively relate information.  It is somehow beyond our grasp.  We tend toward chaos simply because we are human.</p>
+<p>However the game is not as funny in its everyday depictions.  We reference people who reference other people who read about some research piece in a magazine.  Other people pass along hearsay as common knowledge, and we grow to have a distorted view of truth.  We might see these everyday ranging from <a href="http://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die">common myths about food</a> to <a href="http://www.boundless.org/2005/articles/a0001126.cfm">common myths about (unmarried couples) living together</a>.  Despite our best intentions at accuracy there is something that we will never learn from the telephone game as well as we should - we are just not able to effectively relate information.  It is somehow beyond our grasp.  We tend toward chaos simply because we are human.</p>
 
 <p>(Then again that is why coming upon <a href="http://en.wikipedia.org/wiki/Dead_Sea_Scrolls">exceptions </a>to this rule is so amazing!)</p>
 
 <p>Lesson to be learned?  You cannot relay information well so do it more judiciously.  That is, information that you do not relay does not have the opportunity to prove that you are speaking falsely.  Don&#8217;t trust me?  There are more <a href="http://www.biblegateway.com/passage/?search=Proverbs%2017:28&amp;version=NASB">reputable sources</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DIY Camera Strap]]></title>
-    <link href="http://dwong.github.com/diy-camera-strap/"/>
-    <updated>2011-09-30T07:05:32-07:00</updated>
-    <id>http://dwong.github.com/diy-camera-strap</id>
-    <content type="html"><![CDATA[<p>I love making things instead of buying them. First I made a <a href="http://www.goingthewongway.com/643/diy-camera-bag/">stealthy camera bag</a>.  And here I am making a better strap for my DSLR.  I was inspired by looking around the Instructables website at other people&#8217;s camera straps.  In particular, I was fond of the variants of the highly regarded <a href="http://amzn.to/NoFYby">R-Strap by Black Rapid</a>.</p>
-
-<div class="galleria">
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap.JPG?m=1315637117"><img data-title="Supplies" data-description="Here are the supplies that I initially used. Unfortunately I started working on it before remembering to take a picture!" src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap.JPG?m=1315637117"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap1.JPG?m=1315637118"><img src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap1.JPG?m=1315637118"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap2.JPG?m=1315637120"><img src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap2.JPG?m=1315637120"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap15.JPG?m=1316480480"><img data-description="I bought the locking carabiner later than the rest of the supplies (and after my initial construction)." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap15.JPG?m=1316480480"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap3.JPG?m=1315637118"><img data-description="Box stitches can hold my rainbow sandals through all kinds of abuse.  I think that it will be sufficient here." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap3.JPG?m=1315637118"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap4.JPG?m=1315637120"><img data-description="Used the flame from a lighter to (carefully) melt the edge of the nylon strap.  This prevents fraying quite nicely." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap4.JPG?m=1315637120"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap5.JPG?m=1315637132"><img data-description="My original strap is now cut!  I used the original strap because the nylon that connects the strap to the camera is exactly the correct size.  Additionally I know that it is solidly sewn and able to withstand the weight of the camera (since that's kind of what it does)." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap5.JPG?m=1315637132"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap8.JPG?m=1315637135"><img data-description="Here I cut a hole in the strap using a utility blade and inserted a grommet according to the directions.  I was surprised at how hard you have to pound that sucker with a hammer." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap8.JPG?m=1315637135"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap12.JPG?m=1316480481"><img data-description="Here is the assembled harness.  I connect this to the grommet on the original camera strap and then I thread my shoulder strap through the nylon strap and the carabiner.  In actuality, I don't need both the nylon strap and the carabiner.  Originally I only had the nylon strap, but I found that it had too much friction with the shoulder strap.  So with both the nylon strap and the carabiner I get the benefit of less friction between the carabiner and the shoulder strap along with double safety in case either the nylon strap or the carabiner fails (neither of which seems likely to me)." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap12.JPG?m=1316480481"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap14.JPG?m=1316480480"><img data-description="Here is the harness on the shoulder strap." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap14.JPG?m=1316480480"></img></a>
-
-<a href="http://thegalleryis.goingthewongway.com/var/albums/DIY/Camera-Strap/diy_strap17.JPG?m=1316480481"><img data-description="Here's a model to show you what it looks like in action.  As you can see, it is out of the way and not pulling down on the neck (in the bothersome way that the Canon strap does)." src="http://thegalleryis.goingthewongway.com/var/resizes/DIY/Camera-Strap/diy_strap17.JPG?m=1316480481"></img></a>
-</div>
-
-
-<h4>Steps</h4>
-
-<ol>
-<li>Sew nylon strap through swiveling hook with a box stitch</li>
-<li>Attach locking carabiner to swiveling hook</li>
-<li>Thread shoulder strap through both nylon strap and carabiner</li>
-<li>Cut original Canon strap, leaving enough room on the thick portion for a grommet</li>
-<li>Cut hole in thick portion, not too close to the edges</li>
-<li>Insert and attach grommet</li>
-<li>Attach skinny nylon strap of the original Canon strap to the camera</li>
-<li>Attach grommet on thick portion of original Canon strap to the swiveling hook</li>
-</ol>
-
-
-<h4>Parts</h4>
-
-<ul>
-<li>Grommet kit ($7, Michael&#8217;s)</li>
-<li>Included Canon strap (free or less than $10, eBay)</li>
-<li>Swiveling hook ($4, Home Depot)</li>
-<li><a href="http://amzn.to/Rz7V35">Locking carabiner</a> ($5, Amazon)</li>
-<li>Nylon strap (free, cut from an old messenger bag)</li>
-<li>Thread (negligible, already had)</li>
-<li>Shoulder strap (free, already had)</li>
-</ul>
-
-
-<h4>Conclusion</h4>
-
-<p>I enjoyed making this, especially when compared to the ~$60 R-Strap.  It saved me some money.  (Then again, that small amount of money saved hardly gets me very far in terms of purchasing new lenses!)</p>
-
-<p>My main issues with the commercial R-Strap is its price and its attachment to the tripod mount.  I don&#8217;t particularly trust screws to hold my camera, especially since it swings and hangs there.  Additionally, it is quite difficult to put a camera on a tripod with something else attached to its tripod mount!  This strap attaches to one of the metal tabs that is normally used for holding up the camera.  It&#8217;s integral to the camera body, and I trust that it won&#8217;t break.  If it does break, then it would drop just as it would have if I were only using the original Canon strap.  In any case it is a pretty secure setup, and I will be using this for the time being.</p>
-
-<p>A lot of my inspiration is from the <a href="http://www.goingthewongway.comhttp://www.instructables.com/id/Safer-DIY-R-Strap/">Safer DIY R-Strap</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Crom, The One Who Is All Up In Your Business]]></title>
-    <link href="http://dwong.github.com/crom-the-one-who-is-all-up-in-your-business/"/>
-    <updated>2011-09-15T01:20:31-07:00</updated>
-    <id>http://dwong.github.com/crom-the-one-who-is-all-up-in-your-business</id>
-    <content type="html"><![CDATA[<p>People want their private space.  People <strong>need</strong> their private space.  Some people have even been known to go crazy without it!</p>
-
-<p>Unfortunately there are people who do not seem to really understand the whole personal space thing.  My co-worker, Crom, is exactly one of those people.  I don&#8217;t know if I would go so far as to say that he enjoys getting all up in people&#8217;s business (and by business I mean personal space), but he definitely does it the majority of the time.</p>
-
-<p>It&#8217;s even worse for the short ones!  He is pretty tall (over 6&#8217;) and has a bit of a portly stomach, which I would imagine would make shorter people feel like he is intruding into his space even more if his stomach is near their face!  Thankfully I am not at that height.  Interestingly enough <a href="http://www.goingthewongway.com/914/crom-the-one-with-the-girlfriend/">his girlfriend</a> <strong>is</strong> pretty short at (I&#8217;m estimating) 5&#8217;2&#8221;.</p>
-
-<p>The best part is getting to watch Crom do this to other people.  Unbeknownst to him, I observe him and amuse myself  with all of it.  What can you learn from all of this?  Beware of the watchful ones since they are probably analyzing and making fun of you in their head.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beijing]]></title>
-    <link href="http://dwong.github.com/beijing/"/>
-    <updated>2011-09-01T01:57:36-07:00</updated>
-    <id>http://dwong.github.com/beijing</id>
-    <content type="html"><![CDATA[<p>Beijing is well-known in recent history for hosting the 2008 Olympics.  It is very populous.  On another note it apparently is a hugely popular destination for Chinese people from other parts of China.  They were everywhere, and it was not that pleasant to be around them all of the time.  Yeah, that part I just loved.</p>
-
-<div class="galleria">
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/1.jpg?m=1313808896"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/1.jpg?m=1313808896"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/3.jpg?m=1313808897"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/3.jpg?m=1313808897"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/5.jpg?m=1313808897"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/5.jpg?m=1313808897"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/6.jpg?m=1313808909"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/6.jpg?m=1313808909"></img></a>
-</div>
-
-
-<p>Check out more at the <strong><a href="http://www.goingthewongway.com/item?3,tb">Beijing Gallery</a></strong>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hong Kong]]></title>
-    <link href="http://dwong.github.com/hong-kong/"/>
-    <updated>2011-08-16T01:46:51-07:00</updated>
-    <id>http://dwong.github.com/hong-kong</id>
-    <content type="html"><![CDATA[<p>Here are some pictures from my recent vacation to Hong Kong.  I have decided that it would be a good idea to start posting more pictures (since I have started taking them).  I played with the idea of watermarks for awhile, but I eventually settled on just including something small.  In any case, we&#8217;ll see how this goes since it seems as if the blogging has started to peter out.  Let me know what you think!</p>
-
-<div class="galleria">
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_1.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_1.jpg?m=1313122547"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_3.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_3.jpg?m=1313122547"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_4.jpg?m=1313124606"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_4.jpg?m=1313124606"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Hong-Kong/hk_5.jpg?m=1313122547"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Hong-Kong/hk_5.jpg?m=1313122547"></img></a>
-</div>
-
-
-<p>Check out more at the <a href="http://www.goingthewongway.com/item?3,thk"><strong>Hong Kong Gallery</strong></a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Inevitability Of Friendship]]></title>
-    <link href="http://dwong.github.com/the-inevitability-of-friendship/"/>
-    <updated>2011-08-11T01:50:24-07:00</updated>
-    <id>http://dwong.github.com/the-inevitability-of-friendship</id>
-    <content type="html"><![CDATA[<p>I like having friends.  They usually share some connection with you and are able to share in experiences with you.  Laughter, excitement, and life all happen when friends are around.</p>
-
-<p>But something that I am continuing to learn is that friendships will change.  As in, you will change.  Or the friend(s) will change.  Or circumstances will change.  Maybe you just stopped trying.  Maybe they slighted you in some way.  All of this adds up to your friendship changing.</p>
-
-<p>So apparently I am much worse than I thought I would be at maintaining friendships.  People have come and gone in my life.  Some have left a mark (and amusingly many have not).  Many are now gone.</p>
-
-<p>Now looking back on times long gone, I realize how difficult it would have been to predict how my life would have turned out.  Even if things had been planned or more effort would have been invested, I know that it would have been quite difficult to overcome what has turned out to be the biggest reason for all of the change: <strong>life</strong>.</p>
-
-<p>Proofreading this post I have come to the conclusion that this could have been written by a lovesick high school kid secretly talking about some girl he had a crush on who just stopped talking to him even though all indications were that she liked him.  Not that I have that experience, I&#8217;m just saying.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Path More Easily Chosen]]></title>
-    <link href="http://dwong.github.com/the-path-more-easily-chosen/"/>
-    <updated>2011-07-02T01:34:40-07:00</updated>
-    <id>http://dwong.github.com/the-path-more-easily-chosen</id>
-    <content type="html"><![CDATA[<p>Nowadays it is all the rage to get medical help to correct our weight loss.  From the LAP-BAND to gastric bypass to diet drugs, we as a society are looking for a way to get rid of those extra pounds hanging on our bodies.  I am not sure if I am just blessed to be able to do things that others cannot or if I really am seeing with clear vision, but it seems that people could do with choosing to do things correctly (albeit with more difficulty).  That is, they should diet and exercise instead of going for the quick fix.</p>
-
-<p>It seems strange to me that the LAP-BAND will compare itself to diet and exercise by saying that diet and exercise do not work because people fail.  While I am sure that is true, that is not a particular reason why the LAP-BAND is better since that comparison is effectively saying that it is better for a person if they cannot choose to do something themselves.  On the other hand I think that people need to make that choice.  With freedom they have a responsibility to live with their choices.  I would not want another person telling me what I can and cannot do.  The most marked change is the one that comes from within when they <a href="http://www.goingthewongway.com/476/having-the-desire/">have the desire for change</a>.  They need to want it so badly that they actually get out and do something to enact that change.</p>
-
-<p>The part that amazes me so much (and which is the impetus for this post) is that people who do end up getting medical help take pride in that.  How can you be proud that you resorted to get surgery to get skinnier??  Absurdity of absurdities!  Can you be <a href="http://www.goingthewongway.com/229/proud-of-nothing/">proud of things that you have no control over</a>?  Well&#8230;apparently people are.  Still, the fact that people are will always boggle my mind.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Paying For Software]]></title>
-    <link href="http://dwong.github.com/paying-for-software/"/>
-    <updated>2011-06-16T01:14:37-07:00</updated>
-    <id>http://dwong.github.com/paying-for-software</id>
-    <content type="html"><![CDATA[<p>I am a big fan of <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> so it is no surprise that I use and advocate it when I can.  I would not consider myself <a href="http://www.goingthewongway.com/10/fanaticism/">fanatical</a> about it (i.e., I will and do use non-free software).  However, in my experience and observation I have noticed how difficult it is for people to pay for software.  How else can you explain how we can pay hundreds to thousands of dollars for a computer only to refuse to pay $20 for a particular desired application?</p>
-
-<p>It seems that people are confused about developers, especially those that create free software.  Maybe they do not think that the developers are entitled to compensation because they are releasing free software.  I guess that in part it is due to the difference between the definitions of free (as in zero cost) and free (as in liberty).  Software developers are (surprise!) real people that need to make a living as well.  In a world that contains both free (as in zero cost) and free (as in liberty) software, people need to understand both in order for them to see where the software developer is coming from.  So perhaps we can all remember that paying for software should be seen just like we should view all other purchases - if it satisfies our requirements for purchasing then we should go ahead and do that.</p>
-
-<p>All of these words when this abbreviated comic (originally <a href="http://theoatmeal.com/blog/apps">here</a>) says it perhaps even better:</p>
-
-<p><img src="http://s3.amazonaws.com/theoatmeal-img/comics/apps/3.png" alt="Buying an expensive iPhone" /><img src="http://s3.amazonaws.com/theoatmeal-img/comics/apps/5.png" alt="Cannot buy paid app" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Self Branding]]></title>
-    <link href="http://dwong.github.com/self-branding/"/>
-    <updated>2011-06-02T01:37:57-07:00</updated>
-    <id>http://dwong.github.com/self-branding</id>
-    <content type="html"><![CDATA[<p>Farmers have used branding for a long time as a way to mark their property, namely their livestock.  They knew that if their livestock wandered off (as they invariably would) then they needed a way to make sure that they had a way to get their property back.  It was a wonderful idea for the farmers.  But what did the livestock think?  I am sure that the livestock were not huge fans of the process.  Having a hot metal brand pressed into their skin was probably not on their list of highlights from their lives.  But they didn&#8217;t have a choice.</p>
-
-<p><a href="http://www.goingthewongway.com/179/applegeeks-coachgirls/">Apple stickers</a> on cars, Gucci emblems on purses (<a href="http://www.goingthewongway.com/70/even-worse-than-at-first-glance/">real or fake</a>), and perhaps even soccer jerseys with their large corporate sponsorship logos are all things that seem to follow this idea.  It&#8217;s a strange idea really because we are paying companies so that we can advertise for them.  If I walked up to you and asked if you would pay me money in order to wear a necklace with my name on it you would think that I am crazy.  Is the idea that we would pay to display companies&#8217; logos that far off from this example?</p>
-
-<p>Nowadays people have a choice.  And I am always surprised when people  choose self-branding.  Instead of viewing it as branding, though, they want to display an affiliation, love the cachet/exclusivity, or perhaps just do it because  others do it also.</p>
-
-<p>In truth, we all do it to some degree.  We buy T-shirts, computers, and cars that all have logos on them.  So I would doubt very much if anyone is exempt.  But thinking about it sure does make one think.  And it sure does give me a different perspective of &#8220;brand&#8221; names.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I Would Not Outsource My Projects]]></title>
-    <link href="http://dwong.github.com/i-would-not-outsource-my-projects/"/>
-    <updated>2011-04-19T01:22:53-07:00</updated>
-    <id>http://dwong.github.com/i-would-not-outsource-my-projects</id>
-    <content type="html"><![CDATA[<p>Have you heard of outsourcing?  Besides the TV show, there is much to the issue of outsourcing.  At the heart of it, outsourcing basically means getting someone else to do the work.  When used in terms of software, it usually refers to having someone overseas in India or China write the code according to what the desired behavior is.  For the past decade or so there has been talk (and more than talk) about how all of the software created is going to be outsourced rather than done in America.  In fact I remember during my undergraduate studies there was a survey taken of my class to find out whether talk of the outsourcing of our future careers scared us into going into other fields.  At the time it did not seem too pressing of an issue.  Maybe it is because we were not aware enough of what was really going on in the industry yet.  In any case, the reason that all of the outsourcing was talked about is basically because  American computer programmers are much more expensive than those in other countries.</p>
-
-<p>So what does this mean to me (or you) unless you are getting laid off as your work is being moved overseas?  I think it still is quite relevant.  Because it is not just losing a job that causes me to stop.  It is really the fact that I have seen people purposely choose to outsource their own projects!   In their new ventures they have opted to outsource the programming to some other group or country.  As for me, though, I do not think that I would ever outsource my projects.</p>
-
-<p>Reasons why I would not outsource my projects:</p>
-
-<ul>
-<li><p>I set out on a side project because <strong>I want to learn</strong> something.  Maybe I want to learn a new programming language.  Maybe I just want to go through the experience of building something in particular.  After all, <a href="http://www.goingthewongway.com/366/experience-matters/">experience matters</a>.  And I want that experience.</p></li>
-<li><p>Outsourcing something essentially <strong>tramples upon the lower state of others</strong>.  While I am sure that I do this in an indirect way (e.g., by buying anything made in China), it still seems worse to me to directly order other people to do things.</p></li>
-<li><p>When I do something myself, I get this odd <strong>satisfaction from doing something myself</strong>.  I do not imagine that everyone else feels the same way.  In fact I would guess that most other people just want whatever it is to work.  But I love being able to look at something (even if it is imperfect) and knowing that I had a huge hand in doing it.</p></li>
-<li><p>There seem to be a myriad of reasons why working with people in another country (or even other people in general) would be difficult.  This includes things like <strong>language, time difference, and general misunderstandings</strong>.  As the sayings goes: &#8220;If you want something done right you have got to do it yourself.&#8221;  Because trusting others to do things that you want to do is not ever going to work out just as you have planned.</p></li>
-</ul>
-
-
-<p>While people can (obviously) do whatever they want with their projects, I am pretty sure that I would not do such a thing.  In fact it flies in the face of who I want to be.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Soda Fountain Thief]]></title>
-    <link href="http://dwong.github.com/soda-fountain-thief/"/>
-    <updated>2011-03-29T01:10:56-07:00</updated>
-    <id>http://dwong.github.com/soda-fountain-thief</id>
-    <content type="html"><![CDATA[<p>What up guy at the soda fountain using your definitively clear plastic water cup in order to get some soda?   How are your ill-gotten gains?   Tasty I hope.</p>
-
-<p>I am sure that you have a good reason for doing what you do.  The world has probably beaten and berated you.  You deserve some of this sweet nectar.  Besides, you figure that it is a chain restaurant, and the syrup water that you are taking is really only worth cents to them.  If you have a job it probably is not the one that you really want (I mean not everyone gets to sleep in, tell people what to do, and have no pressure on them whatsoever).  Or maybe you don&#8217;t get paid as much as you know that you deserve (it must be because people don&#8217;t understand how much you are worth).</p>
-
-<p>Some people will never learn to have integrity <a href="http://www.goingthewongway.com/6/cheaters-4-life/">no matter what they are doing</a>.  Some people will sell it for a little cup of soda.  Then again <a href="http://www.biblegateway.com/passage/?search=gen%2025:29-34&amp;version=NASB">others have sold much more valuable things for not much more in return</a>.</p>
-
-<p>So keep at it, sir.  I know that you will no matter what I say.  And good luck on that whole job of your dreams thing.</p>
 ]]></content>
   </entry>
   
