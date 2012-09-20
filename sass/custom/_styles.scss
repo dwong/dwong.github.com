@@ -65,3 +65,8 @@ header[role="banner"] {
 footer[role="contentinfo"] {
 	margin: 0;
 }
+
+body > nav[role="navigation"] {
+	border-top-left-radius: 0.4em;
+	border-top-right-radius: 0.4em;
+}
