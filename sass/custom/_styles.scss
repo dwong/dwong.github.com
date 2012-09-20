@@ -35,3 +35,33 @@ ol ul, ol ol, ul ul, ul ol {
 html {
 	background: $page-bg;
 }
+
+#header_logo {
+	background: url("/images/header.png") no-repeat scroll 0 0 transparent;
+	position: absolute;
+	z-index: 10;
+}
+
+#header_logo a {
+	background-color: transparent;
+	border: none;
+	display: block;
+	height: 100%;
+	overflow: hidden;
+	text-indent: -100em;
+	width: 100%;
+}
+
+header[role="banner"] h1, header[role="banner"] {
+	height: 100px;
+	min-width: 500px;
+	width: 500px;
+}
+
+header[role="banner"] {
+	padding: 10px 0 15px 40px;
+}
+
+footer[role="contentinfo"] {
+	margin: 0;
+}
