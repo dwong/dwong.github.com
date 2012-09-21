@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Photos | Going The Wong Way]]></title>
-  <link href="http://dwong.github.com/categories/photos/atom.xml" rel="self"/>
-  <link href="http://dwong.github.com/"/>
-  <updated>2012-09-21T06:06:06-07:00</updated>
-  <id>http://dwong.github.com/</id>
+  <link href="http://www.gtww.net/categories/photos/atom.xml" rel="self"/>
+  <link href="http://www.gtww.net/"/>
+  <updated>2012-09-21T06:21:06-07:00</updated>
+  <id>http://www.gtww.net/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gdansk, Poland]]></title>
-    <link href="http://dwong.github.com/gdansk-poland/"/>
+    <link href="http://www.gtww.net/gdansk-poland/"/>
     <updated>2012-06-20T00:12:39-07:00</updated>
-    <id>http://dwong.github.com/gdansk-poland</id>
+    <id>http://www.gtww.net/gdansk-poland</id>
     <content type="html"><![CDATA[<p>I traveled to Gdansk, Poland in the dead of winter for work.  I was there during the <a href="http://en.wikipedia.org/wiki/2012_European_cold_wave">2012 European Cold Wave</a>.  I mean you know it's bad if the Poles thought that it was especially cold!  The news broadcast warnings that they should notify the police if they saw people outside sleeping (because they might actually have been dead!).  A far cry from sunny southern California to be sure!</p>
 
 <div class="galleria">
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco March 2012]]></title>
-    <link href="http://dwong.github.com/san-francisco-march-2012/"/>
+    <link href="http://www.gtww.net/san-francisco-march-2012/"/>
     <updated>2012-05-17T00:24:17-07:00</updated>
-    <id>http://dwong.github.com/san-francisco-march-2012</id>
+    <id>http://www.gtww.net/san-francisco-march-2012</id>
     <content type="html"><![CDATA[<p>Here are some pictures from a road trip that we took up to San Francisco a little while ago.  Most of the stuff that we did was standard for San Francisco, but it was still pleasant!</p>
 
 <div class="galleria">
@@ -65,9 +65,9 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/San-Francisco-Ma
   
   <entry>
     <title type="html"><![CDATA[Dodgeball]]></title>
-    <link href="http://dwong.github.com/dodgeball/"/>
+    <link href="http://www.gtww.net/dodgeball/"/>
     <updated>2012-02-16T00:45:53-08:00</updated>
-    <id>http://dwong.github.com/dodgeball</id>
+    <id>http://www.gtww.net/dodgeball</id>
     <content type="html"><![CDATA[<p>Dodgeball experienced a resurgence in popularity with the release of <a href="http://amzn.to/MnBO66">Dodgeball - A True Underdog Story</a>. It encourages us to relive the days of our youth. Its success continues because it is easy to understand, requires little investment in equipment, and is fantastic fun for all ages. So pick up a <a href="http://amzn.to/NoGjuR">small</a> or <a href="http://amzn.to/MJm12S">large dodgeball set</a>, grab some friends, and have some fun!</p>
 
 <p><strong>Note</strong>: I did not take most of these pictures because I was actually playing in the tournament. Nevertheless I helped when I could, especially for the group shots. So thank my wife for the pictures.</p>
@@ -92,9 +92,9 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Events/Hit-And-Run-1110
   
   <entry>
     <title type="html"><![CDATA[San Diego]]></title>
-    <link href="http://dwong.github.com/san-diego/"/>
+    <link href="http://www.gtww.net/san-diego/"/>
     <updated>2011-12-16T00:27:22-08:00</updated>
-    <id>http://dwong.github.com/san-diego</id>
+    <id>http://www.gtww.net/san-diego</id>
     <content type="html"><![CDATA[<p>This was a trip to San Diego, CA that included the zoo, Hash House A Go Go, and a little beach time.</p>
 
 <div class="galleria">
@@ -120,9 +120,9 @@ src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/San-Diego-Oct-20
   
   <entry>
     <title type="html"><![CDATA[Xi'an]]></title>
-    <link href="http://dwong.github.com/xian/"/>
+    <link href="http://www.gtww.net/xian/"/>
     <updated>2011-10-24T01:04:49-07:00</updated>
-    <id>http://dwong.github.com/xian</id>
+    <id>http://www.gtww.net/xian</id>
     <content type="html"><![CDATA[<p>Continuing with the trip to Asia, here are some pictures from the historical city of Xi'an.  It is one of the oldest cities, and it was heavily used as the capital of China for several dynasties.  Nowadays, though?  It's not as prominent.  Nevertheless it had its moments.</p>
 
 <div class="galleria">

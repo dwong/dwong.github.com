@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Nerd | Going The Wong Way]]></title>
-  <link href="http://dwong.github.com/categories/nerd/atom.xml" rel="self"/>
-  <link href="http://dwong.github.com/"/>
-  <updated>2012-09-21T06:06:06-07:00</updated>
-  <id>http://dwong.github.com/</id>
+  <link href="http://www.gtww.net/categories/nerd/atom.xml" rel="self"/>
+  <link href="http://www.gtww.net/"/>
+  <updated>2012-09-21T06:21:06-07:00</updated>
+  <id>http://www.gtww.net/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paying For Software]]></title>
-    <link href="http://dwong.github.com/paying-for-software/"/>
+    <link href="http://www.gtww.net/paying-for-software/"/>
     <updated>2011-06-16T01:14:37-07:00</updated>
-    <id>http://dwong.github.com/paying-for-software</id>
+    <id>http://www.gtww.net/paying-for-software</id>
     <content type="html"><![CDATA[<p>I am a big fan of <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> so it is no surprise that I use and advocate it when I can.  I would not consider myself <a href="http://www.goingthewongway.com/10/fanaticism/">fanatical</a> about it (i.e., I will and do use non-free software).  However, in my experience and observation I have noticed how difficult it is for people to pay for software.  How else can you explain how we can pay hundreds to thousands of dollars for a computer only to refuse to pay $20 for a particular desired application?</p>
 
 <p>It seems that people are confused about developers, especially those that create free software.  Maybe they do not think that the developers are entitled to compensation because they are releasing free software.  I guess that in part it is due to the difference between the definitions of free (as in zero cost) and free (as in liberty).  Software developers are (surprise!) real people that need to make a living as well.  In a world that contains both free (as in zero cost) and free (as in liberty) software, people need to understand both in order for them to see where the software developer is coming from.  So perhaps we can all remember that paying for software should be seen just like we should view all other purchases - if it satisfies our requirements for purchasing then we should go ahead and do that.</p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Public Restrooms Are Scary]]></title>
-    <link href="http://dwong.github.com/public-restrooms-are-scary/"/>
+    <link href="http://www.gtww.net/public-restrooms-are-scary/"/>
     <updated>2009-11-05T12:16:24-08:00</updated>
-    <id>http://dwong.github.com/public-restrooms-are-scary</id>
+    <id>http://www.gtww.net/public-restrooms-are-scary</id>
     <content type="html"><![CDATA[<p>```python</p>
 
 <h1>use_public_toilet.py</h1>
@@ -143,9 +143,9 @@ if you.satisfied:             # Be happy, you're done</p>
   
   <entry>
     <title type="html"><![CDATA[Understanding Domains]]></title>
-    <link href="http://dwong.github.com/understanding-domains/"/>
+    <link href="http://www.gtww.net/understanding-domains/"/>
     <updated>2009-09-03T01:12:24-07:00</updated>
-    <id>http://dwong.github.com/understanding-domains</id>
+    <id>http://www.gtww.net/understanding-domains</id>
     <content type="html"><![CDATA[<p>If I could have your attention, I would rather like to quickly rant about something that I see all of the time.</p>
 
 <ol>
@@ -165,9 +165,9 @@ if you.satisfied:             # Be happy, you're done</p>
   
   <entry>
     <title type="html"><![CDATA[Tough To Say Whether It's Even Decent]]></title>
-    <link href="http://dwong.github.com/tough-to-say-whether-its-even-decent/"/>
+    <link href="http://www.gtww.net/tough-to-say-whether-its-even-decent/"/>
     <updated>2009-06-18T01:20:33-07:00</updated>
-    <id>http://dwong.github.com/tough-to-say-whether-its-even-decent</id>
+    <id>http://www.gtww.net/tough-to-say-whether-its-even-decent</id>
     <content type="html"><![CDATA[<p>I have been working on a budgeting application called <a href="http://budse.sourceforge.net/">Budse</a> (actually for quite some time now).  It's a straight forward application that allows you to create a set of accounts that have rules assigned to them, which dictate how to split up whole account deposits (e.g., a paycheck).  I originally had the idea because I wanted to start budgeting using the <a href="http://www.goingthewongway.com/199/is-the-40-30-20-10-rule-too-ideal/">40-30-20-10 rule</a>.  But then I realized that I wanted to use the idea but customize it a little bit more for my needs.</p>
 
 <p>But enough about the details.  On to my point.</p>
@@ -180,9 +180,9 @@ if you.satisfied:             # Be happy, you're done</p>
   
   <entry>
     <title type="html"><![CDATA[Go, Go, Stop!]]></title>
-    <link href="http://dwong.github.com/go-go-stop/"/>
+    <link href="http://www.gtww.net/go-go-stop/"/>
     <updated>2009-03-20T01:06:26-07:00</updated>
-    <id>http://dwong.github.com/go-go-stop</id>
+    <id>http://www.gtww.net/go-go-stop</id>
     <content type="html"><![CDATA[<p>I often like to think about things that I take for granted.  It makes me more appreciative of what I have, and I don't think that's a bad thing at all.  A while back, I was thinking about how great the yellow light is.  For me, more often than not it's a sign that says, "figure out if you can make this light!"  Sometimes this is a resounding yes, and sometimes it's a resounding no.  Sometimes it's even "you better get going pronto!"  Can you imagine, though, what it would be like without yellow lights?  Drivers would be moseying along thinking that they're good to go, when all of a sudden they need to slam on their brakes.  Accidents would abound because brakes cannot stop you instantly.</p>
 
 <p>Recently, I even got to experience a similar kind of fun.  Many of the lights along a street that I commute on were out.  So as expected all of the cars treated each malfunctioning light as an all-way stop intersection.  And that wrecked havoc on my commute.  Boy am I glad for signals!</p>

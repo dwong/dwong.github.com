@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Food | Going The Wong Way]]></title>
-  <link href="http://dwong.github.com/categories/food/atom.xml" rel="self"/>
-  <link href="http://dwong.github.com/"/>
-  <updated>2012-09-21T06:06:06-07:00</updated>
-  <id>http://dwong.github.com/</id>
+  <link href="http://www.gtww.net/categories/food/atom.xml" rel="self"/>
+  <link href="http://www.gtww.net/"/>
+  <updated>2012-09-21T06:21:06-07:00</updated>
+  <id>http://www.gtww.net/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Crispy Is Great]]></title>
-    <link href="http://dwong.github.com/crispy-is-great/"/>
+    <link href="http://www.gtww.net/crispy-is-great/"/>
     <updated>2010-12-06T00:42:49-08:00</updated>
-    <id>http://dwong.github.com/crispy-is-great</id>
+    <id>http://www.gtww.net/crispy-is-great</id>
     <content type="html"><![CDATA[<p>Crispy. Yeah that's something that I can work with. I have started to enjoy photographing food. Possibly because I enjoy food, and I want to in some way remember the experience of good food. So while I will not ever be able to share the taste and smells of the food, I can at least share the visuals. Sometimes the food looks even better in the photos than in real life!</p>
 
 <div class="galleria">
@@ -52,9 +52,9 @@ src="http://farm6.static.flickr.com/5205/5233215155_7bcb4a4e5e.jpg"></img></a>
   
   <entry>
     <title type="html"><![CDATA[Cheap And Wonderful]]></title>
-    <link href="http://dwong.github.com/cheap-and-wonderful/"/>
+    <link href="http://www.gtww.net/cheap-and-wonderful/"/>
     <updated>2010-08-27T01:10:57-07:00</updated>
-    <id>http://dwong.github.com/cheap-and-wonderful</id>
+    <id>http://www.gtww.net/cheap-and-wonderful</id>
     <content type="html"><![CDATA[<p>They say that the best things in life are free.  I don't know if I really believe that, but some cheap stuff sure is good!</p>
 
 <div class="galleria">
