@@ -73,10 +73,15 @@ function addSidebarToggler() {
       e.preventDefault();
       if ($('body').hasClass('collapse-sidebar')) {
         $('body').removeClass('collapse-sidebar');
+        jQuery.cookie('sidebar_collapsed', false, { expires: 7, path: '/' });
       } else {
         $('body').addClass('collapse-sidebar');
+        jQuery.cookie('sidebar_collapsed', true, { expires: 7, path: '/' });
       }
     });
+    if (jQuery.cookie('sidebar_collapsed')) {
+      $('body').addClass('collapse-sidebar');
+    }
   }
   var sections = $('aside.sidebar > section');
   if (sections.length > 1) {
