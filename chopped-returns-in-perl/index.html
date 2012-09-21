@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Chopped Returns (In Perl) - Going The Wong Way</title>
+  <meta name="author" content="Derek Wong">
+
+  
+  <meta name="description" content=" Derek Wong's web log, where going the Wong way is hardly ever wrong ">
+  
+  <meta name="keywords" content="
+    
+       Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way
+    
+  ">
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dwong.github.com/chopped-returns-in-perl/">
+  <link href="/favicon.ico" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/all.js" type="text/javascript"></script>
+  <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
+  <!--jQuery-->
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  jQuery.noConflict();
+</script>
+
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!--galleria-->
+<!--<script src="http://cdnjs.cloudflare.com/ajax/libs/galleria/1.2.7/galleria.min.js" type="text/javascript"></script>-->
+
+<script src="/javascripts/galleria.js" type="text/javascript"></script>
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.2/jquery.cookie.js" type="text/javascript"></script>
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><div id="header_logo" style="float:left;">
+  <h1><a href="/">Going The Wong Way</a></h1>
+</div>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dwong.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/archives">Archives</a></li>
+  <li><a href="/favorite-posts">Favorite Posts</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Chopped Returns (in Perl)</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-16T10:45:43-07:00" pubdate data-updated="true">May 16</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Files on computers are made up of different characters that are interpreted by whatever it is that you are using.  That means that no matter what file it is, it is essentially a string of bytes that are interpreted by the program opening it.  This means that your music program tries to interpret whatever file you open with it to be conformed to some audio standards (mp3, wma, etc.).  Try to open the same file in a text editor, and you&#8217;ll find yourself looking at (apparently) junk characters.  But then you&#8217;ll realize that the file is still just a bunch of characters.</p>
+
+<p>I bring this up because</p>
+
+<ol>
+<li><p>It seems as if people don&#8217;t realize this.</p></li>
+<li><p>I encountered this while writing a Perl script today.</p></li>
+</ol>
+
+
+<p>Something else that you should read even if you don&#8217;t know what Perl is: Windows and Unix-variants (including Mac OS X and up) do not handle files the same.  I&#8217;m not talking about <a href="http://www.goingthewongway.com/2007/01/28/fanaticism/">Fanaticism</a> (because I&#8217;ve already posted about that).  Windows uses characters that are referred to as the <a href="http://en.wikipedia.org/wiki/Carriage_return">Carriage Return</a> and <a href="http://en.wikipedia.org/wiki/Line_feed">Line Feed</a> in order to represent a newline.  These names originate because of their original use in the typewriter which actually had a physical mechanism to move.  In any case, Unix-variants utilize the line feed character to distinguish its newlines.  This can obviously lead to some problems if you use the same files on both systems.</p>
+
+<p><strong>If you don&#8217;t know what Perl is then you can fairly safely stop reading this article now because the rest won&#8217;t help you much.</strong>  I know that it was hard for me to find and I&#8217;d like to make it available if anyone else so happens to run into the same problem.</p>
+
+<p>While writing a script in Perl today, I had a seemingly strange problem where I would do some processing on my Windows machine and then transfer the file via FTP to a Unix-based server.  However I noticed that I had a string that when printed to the screen on my Windows computer would display correctly but would display incorrectly in the file put onto the server.  I could not figure this out for quite sometime because it seemed as if some of the lines were printing correctly and some were not.  Alright enough explanation.  Essentially I thought that the last character was getting chopped off in some way that I did not understand in Perl.  However it had to do with Perl assuming that the lines has both a carriage return and a line feed on the lines and then chopping them off when the file was being sent via FTP.  The fix that I ended up using was simply a one line regular expression like so (a suggestion from a co-worker):</p>
+
+<p><code>$output=</code>some action<code>;
+$output=~ s/n/rn/g;
+print $output;
+print FOUT $output;</code></p>
+
+<p>Hope that this helps someone searching for an answer.  I know that I would have liked to have happened upon the answer while searching for it.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Derek Wong</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-05-16T10:45:43-07:00" pubdate data-updated="true">May 16</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/nerd/'>Nerd</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/cost-and-benefits-of-running-your-own-server/" title="Previous Post: Cost And Benefits Of Running Your Own Server">&laquo; Cost And Benefits Of Running Your Own Server</a>
+      
+      
+        <a class="basic-alignment right" href="/nba-playoffs-thus-far-commentary-2/" title="Next Post: NBA Playoffs (Thus Far Commentary #2)">NBA Playoffs (Thus Far Commentary #2) &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+  <p>My name is Derek Wong.  I'm a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
+</section>
+<section>
+  <h1>I Shop At</h1>
+  <p><a href="http://amzn.to/Nmb7fQ" title="Using this link before shopping at Amazon.com supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://thegalleryis.goingthewongway.com/var/albums/Blog-Pictures/Ad/amz.gif?m=1341082500" alt="Amazon logo" width="165" height="47"/></a>
+  </p>
+  <p><a href="http://bhpho.to/OOjxMp" title="Using this link before shopping at B&H Photo supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://thegalleryis.goingthewongway.com/var/albums/Blog-Pictures/Ad/bh.gif?m=1341082501" alt="B&H Photo logo" width="125" height="86"/></a>
+  </p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/go-get-some-experience/">Go Get Some Experience</a>
+      </li>
+    
+      <li class="post">
+        <a href="/gdansk-poland/">Gdansk, Poland</a>
+      </li>
+    
+      <li class="post">
+        <a href="/san-francisco-march-2012/">San Francisco March 2012</a>
+      </li>
+    
+      <li class="post">
+        <a href="/on-going-on-a-date-guy-version/">On Going On A Date (Guy Version)</a>
+      </li>
+    
+      <li class="post">
+        <a href="/dodgeball/">Dodgeball</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2007-2012 Derek Wong
+  
+    <span style="float:right">I'm ALWAYS going the Wong way.</span>
+  
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'goingthewongway';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://dwong.github.com/chopped-returns-in-perl/';
+        var disqus_url = 'http://dwong.github.com/chopped-returns-in-perl/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
