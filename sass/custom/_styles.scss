@@ -15,6 +15,7 @@ $galleria: true;
 sub, sup {
 	line-height: 1.1;
 }
+
 @if $indented-lists {
 	ul, ul ul, ul ol, ol, ol ul, ol ol {
 		margin-left: 2em;
@@ -36,6 +37,7 @@ html {
 	background: $page-bg;
 }
 
+/* Use custom logo instead of plain text */
 #header_logo {
 	background: url("/images/header.png") no-repeat scroll 0 0 transparent;
 	position: absolute;
@@ -62,11 +64,14 @@ header[role="banner"] {
 	padding: 10px 0 15px 40px;
 }
 
+/* Reduce footer size */
 footer[role="contentinfo"] {
 	margin: 0;
 }
 
+/* Round the top corners */
 body > nav[role="navigation"] {
 	border-top-left-radius: 0.4em;
 	border-top-right-radius: 0.4em;
 }
+
