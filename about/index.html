@@ -30,8 +30,17 @@
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
   <!--jQuery-->
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.2/jquery.cookie.js" type="text/javascript"></script>
 <script type="text/javascript">
   jQuery.noConflict();
+  jQuery(document).ready(function() {
+    var collapsed = jQuery.cookie('sidebar_collapsed', { raw: true });
+    if (collapsed === "1") {
+      $('body').addClass('collapse-sidebar');
+    } else {
+      $('body').removeClass('collapse-sidebar');
+    }
+  });
 </script>
 
 <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
@@ -42,8 +51,6 @@
 <!--<script src="http://cdnjs.cloudflare.com/ajax/libs/galleria/1.2.7/galleria.min.js" type="text/javascript"></script>-->
 
 <script src="/javascripts/galleria.js" type="text/javascript"></script>
-
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.2/jquery.cookie.js" type="text/javascript"></script>
 
   
 
@@ -95,7 +102,7 @@
 <time datetime="2007-01-05T15:49:43-08:00" pubdate data-updated="true">Jan  5</time></p>
   </header>
   
-  <p>You and I are different.  Either you are not a software engineer, highly observant (like a hawk really), <a href="http://www.goingthewongway.com/208/difference-between-nerd-geek-and-dork/">nerdy</a>, a Christian, slightly sarcastic, definitely strange, <a href="http://www.goingthewongway.com/631/barefoot-running/">run barefoot</a> or be named Derek Wong.  And if you are all of these things then you, dear reader, are an IDENTITY THIEF!</p>
+  <p>You and I are different.  Either you are not a software engineer, highly observant (like a hawk really), <a href="/difference-between-nerd-geek-and-dork/">nerdy</a>, a Christian, slightly sarcastic, definitely strange, <a href="/barefoot-running/">run barefoot</a> or be named Derek Wong.  And if you are all of these things then you, dear reader, are an IDENTITY THIEF!</p>
 
 <p>Come here to be surprised, just as in life.  I don&#8217;t promise that you will be interested, but I&#8217;ll do my best.  My name is Derek Wong, and I&#8217;m finding my own way thank you very much.</p>
 
@@ -153,22 +160,6 @@
     
       <li class="post">
         <a href="/go-get-some-experience/">Go Get Some Experience</a>
-      </li>
-    
-      <li class="post">
-        <a href="/gdansk-poland/">Gdansk, Poland</a>
-      </li>
-    
-      <li class="post">
-        <a href="/san-francisco-march-2012/">San Francisco March 2012</a>
-      </li>
-    
-      <li class="post">
-        <a href="/on-going-on-a-date-guy-version/">On Going On A Date (Guy Version)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/dodgeball/">Dodgeball</a>
       </li>
     
   </ul>
