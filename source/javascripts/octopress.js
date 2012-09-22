@@ -20,9 +20,11 @@ function addSidebarToggler() {
       e.preventDefault();
       if ($('body').hasClass('collapse-sidebar')) {
         $('body').removeClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
         jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
       } else {
         $('body').addClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
         jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
       }
     });
