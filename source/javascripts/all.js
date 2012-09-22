@@ -73,15 +73,12 @@ function addSidebarToggler() {
       e.preventDefault();
       if ($('body').hasClass('collapse-sidebar')) {
         $('body').removeClass('collapse-sidebar');
-        jQuery.cookie('sidebar_collapsed', false, { expires: 7, path: '/' });
+        jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
       } else {
         $('body').addClass('collapse-sidebar');
-        jQuery.cookie('sidebar_collapsed', true, { expires: 7, path: '/' });
+        jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
       }
     });
-    if (jQuery.cookie('sidebar_collapsed')) {
-      $('body').addClass('collapse-sidebar');
-    }
   }
   var sections = $('aside.sidebar > section');
   if (sections.length > 1) {
