@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
+  <link href="http://www.gtww.net/categories/blog/atom.xml" rel="self"/>
+  <link href="http://www.gtww.net/"/>
+  <updated>2012-09-21T20:58:09-07:00</updated>
+  <id>http://www.gtww.net/</id>
+  <author>
+    <name><![CDATA[Derek Wong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Changing Permalinks]]></title>
+    <link href="http://www.gtww.net/changing-permalinks/"/>
+    <updated>2009-04-25T10:30:40-07:00</updated>
+    <id>http://www.gtww.net/changing-permalinks</id>
+    <content type="html"><![CDATA[<p>Oh boy that was sweet.  Okay let me qualify that by saying that I enjoy when things are easy and efficient.  If you feel differently, then you may very well disagree with me.</p>
+
+<p>So on a nice lazy morning I decided to look into converting my permalink structure to one that I preferred.  Permalinks are how Wordpress describes permanent links to a post.  When I first started this blog a couple of years ago (seriously, that long??) I decided on going with a fairly standard /yyyy/mm/dd/post-name type of structure for my posts.  However, I am now a little opposed to this since it reveals more information than I would like.  I tend to think that my writing transcends time since I am not usually writing about current events so I want to remove a visitor's perception that my post is not worth reading just because it is old.</p>
+
+<p>After searching online, I came upon Scott Yang's <a href="http://scott.yang.id.au/code/permalink-redirect/">Permalink Redirect plugin</a>.  The instructions seemed easy enough so I:</p>
+
+<ol>
+<li><p>Downloaded it</p></li>
+<li><p>Unzipped, installed, and activated it</p></li>
+<li><p>Accessed the new Settings->Permalink Redirect page.  Under "Old Permalink Structure" clicked the link after "Current permalink structure"</p></li>
+<li><p>Accessed Settings->Permalinks.  Changed to a /post-id/post-name structure.  (I used tags that I found <a href="http://codex.wordpress.org/Using_Permalinks#Structure_Tags">here</a>.)</p></li>
+</ol>
+
+
+<p>All of my old links are now redirecting correctly!  And that, my friends and enemies, is sweet!  Especially since it took less time than it has taken me to write this post.  I'm loving <a href="http://wordpress.org/">Wordpress</a> all over again for its abilities, both built-in and extensible.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wordpress 2.7 Transition]]></title>
+    <link href="http://www.gtww.net/wordpress-27-transition/"/>
+    <updated>2008-12-12T14:44:49-08:00</updated>
+    <id>http://www.gtww.net/wordpress-27-transition</id>
+    <content type="html"><![CDATA[<p>So I think that now I'm okay after upgrading my version of Wordpress (via <a href="http://subversion.tigris.org/">subversion</a>) to 2.7.  Let me say that the new Dashboard (the part that the site owner looks at) is pretty darn nice now.  You can drag and drop things, and it has all kinds of AJAX goodness.</p>
+
+<p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I'd been using Brian's Threaded Comments, and the move from that to the new baked-in threaded comments wasn't too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
+
+<p>Then I realized today that my commenting isn't working!  While using Brian's Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn't using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn't working!  I had to realize that the "Cannot modify header information - headers already sent by ..." error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
+
+<p>So if you tried to comment recently and that didn't work for you, I apologize.</p>
+
+<p>But now that I think that I'm all good, I can enjoy how nice this new version is.  You won't be able to tell because it looks the same to you, but if you're thinking about blogging then consider <a href="http://wordpress.com/">Wordpress.com</a> (if you don't have a server) and <a href="http://wordpress.org/">Wordpress.org</a> (if you do have your own server).</p>
+
+<p>If you have no idea what I'm talking about, then good day to you, and I hope that you're doing well.  Cheer up, at least gas is approaching $1.50 per gallon (it was $1.66 at Costco when I got it this morning).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[200th Post]]></title>
+    <link href="http://www.gtww.net/200th-post/"/>
+    <updated>2008-04-09T01:10:31-07:00</updated>
+    <id>http://www.gtww.net/200th-post</id>
+    <content type="html"><![CDATA[<p>So over a year after starting, I'm at 200 posts.  It didn't take too long I guess.  Oh well at least it's not 50 days after starting!</p>
+
+<p><img src="http://farm3.static.flickr.com/2407/2398874603_33786fd172_o.jpg" alt="balloons" /><em>Courtesy of Flickr user <a href="http://flickr.com/photos/verdesam/">Verdesam</a></em></p>
+
+<p>I've gone from posting things that I really wanted to put out there to posting everyday about stupid stuff that I found online to posting once a week some things that I see in life.  And sometimes I even post things that will be useful to someone else.</p>
+
+<p>But one thing is constant, this is <strong>my</strong> blog, and I get to do whatever I want with it!  And I love that!  :D</p>
+
+<p>Still, the fact that I've written that many entries is pretty amazing to me.  Let's not think about how much time was spent writing those things.  Rather, let's enjoy the fact that I have an outlet by which to release my thoughts.  Priceless, I'm sure.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tracking Your Own Comments]]></title>
+    <link href="http://www.gtww.net/tracking-your-own-comments/"/>
+    <updated>2007-11-04T11:30:29-08:00</updated>
+    <id>http://www.gtww.net/tracking-your-own-comments</id>
+    <content type="html"><![CDATA[<p>Commenting is a fun part of going around to different blogs.  One thing that I've found is that it's easy to respond to comments left on my own blog because I have a central place to access them from (namely my WordPress administration panel).  It allows me to easily have conversations with people that stop by and leave comments.</p>
+
+<h5>Leaving Comments On Other Blogs</h5>
+
+<p>However I've found that it's not quite as to do with comments that I've left on other blogs.  The reason for that is because I don't have that central place to access to see all of my comments!  I'm not very well going to remember the URL of every post that I leave a comment on.  That would frankly be ridiculous.</p>
+
+<p>I've found a key to this problem.  I'm sure that there are others out there, but I think that this one works decently enough.  Check out <a href="http://co.mments.com">co.mments.com</a> if you want to see what I mean.  In fact, you can even let other people see what you're commenting on so that they can check it out and see if they're interested in the same posts!  Here is <a href="http://co.mments.com/people/goingthewongway">my public co.mments.com page</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Extra!  Extra!  Check Out The New Theme!]]></title>
+    <link href="http://www.gtww.net/extra-extra-check-out-the-new-theme/"/>
+    <updated>2007-11-01T09:00:17-07:00</updated>
+    <id>http://www.gtww.net/extra-extra-check-out-the-new-theme</id>
+    <content type="html"><![CDATA[<p>So after more time than I'd like to admit, I've finally finished enough of my theme to put it on goingthewongway!  I'm excited that I've changed it.  Check it out and let me know what you think!</p>
+
+<p>And now I present to you: Soi-disant</p>
+
+<p>I've only changed my theme once to (Not So) Fresh as I posted in <a href="http://www.goingthewongway.com/2007/02/09/new-look/">New Look</a>.  That was 8 months ago and since then quite a bit has changed.</p>
+
+<h5>Why I wanted to make my own theme</h5>
+
+<ol>
+<li></li>
+</ol>
+
+
+<h6>Have a unique look to my blog</h6>
+
+<p>I've come across other blogs that had the same theme, and that wasn't too exciting for me.  I want and like to be my own.  So even though the last one did look nice, it was unfortunate because other people thought that it looked nice as well.</p>
+
+<ol>
+<li></li>
+</ol>
+
+
+<h6>Learn much, much more web design</h6>
+
+<p>CSS in particular, HTML and PHP to a lesser degree since I already knew a fair amount before doing the theme.  Part of who I am wants to understand how things work and why.  So learning new things can be very exciting to me.  Not to mention the fact that it's very pertinent to my profession of computer programming.  (Although I must admit that I believe that I lack the creativity necessary to actually ever become a web designer.  I know the nuts and bolts but lack the vision.  :P)</p>
+
+<ol>
+<li></li>
+</ol>
+
+
+<h6>Create a fluid display</h6>
+
+<p>I wanted one that would show up well on the very popular 1024x768 and 1280x1024 screen resolutions in addition to any other screen resolutions.  I'm sorry to say that it's very likely that anything below 1024x768 won't look all that great.  A fluid display means that the text and page elements will expand according to how much space is available.  My previous theme was fixed width so it didn't look too great to me on higher resolution displays.</p>
+
+<ol>
+<li></li>
+</ol>
+
+
+<h6>Speed things up</h6>
+
+<p>The last theme used a fair amount of images to create all of the nice effects.  And that's nice for people on fast connections (which at this point is a very fair amount of people).  However there still are people on slower connections, and I want my blog to be accessible to them as well, too.</p>
+
+<h5>Soi-disant</h5>
+
+<p>I got the name of this theme (Soi-disant) by looking up a word of the day online.  Lame, huh?  I thought it was cool because it means calling oneself thus, self-styled, or so-called.  Seemed interesting to me so there it is.</p>
+
+<p>So I did it all for this theme: header logo, PHP code, HTML, CSS.  It was a learning experience, that is for sure.</p>
+
+<p>Wordpress theme designer: <strong>check</strong></p>
+]]></content>
+  </entry>
+  
+</feed>
