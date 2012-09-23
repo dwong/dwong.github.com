@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
-  <link href="http://www.gtww.net/categories/blog/atom.xml" rel="self"/>
-  <link href="http://www.gtww.net/"/>
-  <updated>2012-09-22T23:15:18-07:00</updated>
-  <id>http://www.gtww.net/</id>
+  <link href="http://www.goingthewongway.com/categories/blog/atom.xml" rel="self"/>
+  <link href="http://www.goingthewongway.com/"/>
+  <updated>2012-09-23T08:38:31-07:00</updated>
+  <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Changing Permalinks]]></title>
-    <link href="http://www.gtww.net/changing-permalinks/"/>
+    <link href="http://www.goingthewongway.com/changing-permalinks/"/>
     <updated>2009-04-25T10:30:40-07:00</updated>
-    <id>http://www.gtww.net/changing-permalinks</id>
+    <id>http://www.goingthewongway.com/changing-permalinks</id>
     <content type="html"><![CDATA[<p>Oh boy that was sweet.  Okay let me qualify that by saying that I enjoy when things are easy and efficient.  If you feel differently, then you may very well disagree with me.</p>
 
 <p>So on a nice lazy morning I decided to look into converting my permalink structure to one that I preferred.  Permalinks are how Wordpress describes permanent links to a post.  When I first started this blog a couple of years ago (seriously, that long??) I decided on going with a fairly standard /yyyy/mm/dd/post-name type of structure for my posts.  However, I am now a little opposed to this since it reveals more information than I would like.  I tend to think that my writing transcends time since I am not usually writing about current events so I want to remove a visitor's perception that my post is not worth reading just because it is old.</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wordpress 2.7 Transition]]></title>
-    <link href="http://www.gtww.net/wordpress-27-transition/"/>
+    <link href="http://www.goingthewongway.com/wordpress-27-transition/"/>
     <updated>2008-12-12T14:44:49-08:00</updated>
-    <id>http://www.gtww.net/wordpress-27-transition</id>
+    <id>http://www.goingthewongway.com/wordpress-27-transition</id>
     <content type="html"><![CDATA[<p>So I think that now I'm okay after upgrading my version of Wordpress (via <a href="http://subversion.tigris.org/">subversion</a>) to 2.7.  Let me say that the new Dashboard (the part that the site owner looks at) is pretty darn nice now.  You can drag and drop things, and it has all kinds of AJAX goodness.</p>
 
 <p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I'd been using Brian's Threaded Comments, and the move from that to the new baked-in threaded comments wasn't too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
@@ -57,9 +57,9 @@
   
   <entry>
     <title type="html"><![CDATA[200th Post]]></title>
-    <link href="http://www.gtww.net/200th-post/"/>
+    <link href="http://www.goingthewongway.com/200th-post/"/>
     <updated>2008-04-09T01:10:31-07:00</updated>
-    <id>http://www.gtww.net/200th-post</id>
+    <id>http://www.goingthewongway.com/200th-post</id>
     <content type="html"><![CDATA[<p>So over a year after starting, I'm at 200 posts.  It didn't take too long I guess.  Oh well at least it's not 50 days after starting!</p>
 
 <p><img src="http://farm3.static.flickr.com/2407/2398874603_33786fd172_o.jpg" alt="balloons" /><em>Courtesy of Flickr user <a href="http://flickr.com/photos/verdesam/">Verdesam</a></em></p>
@@ -74,9 +74,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tracking Your Own Comments]]></title>
-    <link href="http://www.gtww.net/tracking-your-own-comments/"/>
+    <link href="http://www.goingthewongway.com/tracking-your-own-comments/"/>
     <updated>2007-11-04T11:30:29-08:00</updated>
-    <id>http://www.gtww.net/tracking-your-own-comments</id>
+    <id>http://www.goingthewongway.com/tracking-your-own-comments</id>
     <content type="html"><![CDATA[<p>Commenting is a fun part of going around to different blogs.  One thing that I've found is that it's easy to respond to comments left on my own blog because I have a central place to access them from (namely my WordPress administration panel).  It allows me to easily have conversations with people that stop by and leave comments.</p>
 
 <h5>Leaving Comments On Other Blogs</h5>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[Extra!  Extra!  Check Out The New Theme!]]></title>
-    <link href="http://www.gtww.net/extra-extra-check-out-the-new-theme/"/>
+    <link href="http://www.goingthewongway.com/extra-extra-check-out-the-new-theme/"/>
     <updated>2007-11-01T09:00:17-07:00</updated>
-    <id>http://www.gtww.net/extra-extra-check-out-the-new-theme</id>
+    <id>http://www.goingthewongway.com/extra-extra-check-out-the-new-theme</id>
     <content type="html"><![CDATA[<p>So after more time than I'd like to admit, I've finally finished enough of my theme to put it on goingthewongway!  I'm excited that I've changed it.  Check it out and let me know what you think!</p>
 
 <p>And now I present to you: Soi-disant</p>
