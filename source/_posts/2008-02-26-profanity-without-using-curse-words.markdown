@@ -21,7 +21,7 @@ Profanity is often used in society in order to express discontent.  From mild, m
 What is profanity really?  Apparently there are 5 types of swearing (according to Steven Pinker's [The Stuff of Thought: Language as a Window into Human Nature](http://amzn.to/NcbRlH) which I found a reference to in [the Wikipedia article on profanity](http://en.wikipedia.org/wiki/Profanity)):
 
 
-![profanity](http://farm3.static.flickr.com/2305/2292724409_12bf79702c_m.jpg)_Photo courtesy of Flickr user [Found Drama](http://flickr.com/photos/found_drama/)_
+<div style="float:right;margin-left:20px;"><img style="display:block;" alt="profanity" src="http://farm3.static.flickr.com/2305/2292724409_12bf79702c_m.jpg"></img><em style="font-size:.8em;">Photo courtesy of Flickr user <a href="http://flickr.com/photos/found_drama/">Found Drama</a></em></div>
 
 
 1. Dysphemistic - Opposite of euphemism.  Force listener to think about 
