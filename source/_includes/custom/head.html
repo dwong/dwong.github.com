@@ -3,3 +3,10 @@
 <!--<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">-->
 {% endcomment %}
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script>
+    var _gaq=[["_setAccount","{{ site.google_analytics_tracking_id }}"],["_trackPageview"]],
+    disqus_shortname="{{ site.disqus_short_name }}",disqus_identifier="{{ site.url }}{{ page.url }}";
+    (function(a){var b=a.createElement("script");b.async=true;
+    b.src="//www.google-analytics.com/ga.js";
+    a.documentElement.firstChild.appendChild(b);}(document));
+</script>
