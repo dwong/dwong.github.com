@@ -1,0 +1,34 @@
+---
+alias:
+- /1076/xian/index.html
+- /2011/10/24/xian/index.html
+comments: true
+date: 2011-10-24 08:04:49
+layout: post
+slug: xian
+title: Xi'an
+wordpress_id: 1076
+categories:
+- Photos
+tags:
+- Asia
+- Photography
+---
+
+Continuing with the trip to Asia, here are some pictures from the historical city of Xi'an.  It is one of the oldest cities, and it was heavily used as the capital of China for several dynasties.  Nowadays, though?  It's not as prominent.  Nevertheless it had its moments.
+
+
+<div class="galleria">
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian1.JPG?m=1318914226"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Xi%27an/xian1.JPG?m=1318914226"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian.JPG?m=1318914226"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Xi%27an/xian.JPG?m=1318914226"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian2.JPG?m=1318914226"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Xi%27an/xian2.JPG?m=1318914226"></img></a>
+<a
+href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian3.JPG?m=1318914226"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Xi%27an/xian3.JPG?m=1318914226"></img></a>
+</div>
+
+Check out more at the **[Xi'an Gallery](http://go.gtww.net/S8QWru)**.
+
+

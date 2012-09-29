@@ -1,0 +1,37 @@
+---
+alias:
+- /147/enmity/index.html
+- /2007/04/30/enmity/index.html
+comments: true
+date: 2007-04-30 18:30:21
+layout: post
+slug: enmity
+title: Enmity
+wordpress_id: 147
+categories:
+- Learn
+tags:
+- Word-Of-The-Week
+---
+
+[**en**-mi-tee]
+
+
+#### Definition:
+
+
+Hatred, hostile feelings, extremely strong dislike
+
+
+
+#### Example of usage:
+
+
+I thought that my sarcastic comments only made them feel slightly embarrassed, but in truth their feelings had turned into deep-seated enmity.
+
+
+
+#### Comments:
+
+
+This is not in any way a long or strange word to most people.  However, I still think that it is not an often used word, especially when it can be used so much more colorfully than the favorite word "hatred."

@@ -1,0 +1,27 @@
+---
+alias:
+- /82/back/index.html
+- /2007/04/27/back/index.html
+comments: true
+date: 2007-04-28 01:49:00
+layout: post
+slug: back
+title: Back!
+wordpress_id: 82
+categories:
+- Blog
+tags:
+- Blog
+- Geek
+- Learn
+- Linux
+- Software
+---
+
+Sorry about the downtime both today and last night.  
+
+Last night I was upgrading to [Feisty](https://wiki.ubuntu.com/FeistyFawn) so it was taking a lot of the bandwidth away from my connection.  Thus it would be hard for people to have snuck in and successfully got back the pages that they were looking for without timing out.
+
+And then sometime early this morning, my home DSL connection somehow died.  And I didn't realize this until I was at work.  And that meant that nobody was physically around to restart everything.  Ah the downfalls of hosting your own site on a home connection.  It was pretty good for quite sometime.  I didn't need to restart (and renew my IP address) for possibly a month or two?  That's pretty good.  Well at least for me anyways.
+
+Anyways, back to our regularly scheduled program!
