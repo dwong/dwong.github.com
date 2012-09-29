@@ -6,29 +6,12 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
-
-  {% capture description %}
-    {% if page.description %}
-      {{ page.description }}
-    {% else %}
-      {{ "Derek Wong's web log, where going the Wong way is hardly ever wrong" }}
-    {% endif %}
-  {% endcapture %}
-  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
-  {% capture keywords %}
-    {% if page.keywords %}
-       {{ page.keywords }}
-    {% else %}
-       {{ 'Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way' }}
-    {% endif %}
-  {% endcapture %}
-  <meta name="keywords" content="{{ keywords }}">
-
+  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ "Derek Wong's web log about life, where going the Wong way is only sometimes wrong.  Pictures and stories to boot!" }}{% endif %}{% endcapture %}<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+  {% capture keywords %}{% if page.keywords %}{{ page.keywords }}{% else %}{{ 'Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming' }}{% endif %}{% endcapture %}<meta name="keywords" content="{{ keywords }}">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical }}">
   <link href="{{ root_url }}/favicon.ico" rel="icon">
