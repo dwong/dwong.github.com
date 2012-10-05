@@ -24,8 +24,105 @@ Octopress included a pretty decent stylesheet, which made it easy to get set up 
 *[Retaining sidebar collapsed state](#sidebar_state)
 
 <a id="sitemap"></a>Sitemap
+I also created a custom sitemap instead of using the included sitemap plugin:
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/favorite-posts/</loc>
+    <lastmod>2012-02-07T20:59:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/about/</loc>
+    <lastmod>2012-02-07T20:59:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/my-photo-gear/</loc>
+    <lastmod>2012-09-07T20:59:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {% for post in site.posts  %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  {% endfor %}
+</urlset>
+```
 
 <a id="atom"></a>Atom Feed
+I used XXXX in order to create a custom Atom Feed that looks like this:
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
+  <title><![CDATA[{{ site.title }}]]></title>
+  <subtitle><![CDATA[{{ site.subtitle }}]]></subtitle>
+  <link href="{{ site.url }}/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/</id>
+  <author>
+    <name><![CDATA[{{ site.author | strip_html }}]]></name>
+  </author>
+  <rights>Copyright (c) 2007-2012 {{ site.author | strip_html}}</rights>
+  {% for post in site.posts limit: 10 %}
+  <entry>
+    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+  </entry>
+  {% endfor %}
+</feed>
+```
 <a id="sidebar_state"></a>Retaining Sidebar Collapsed State
-The default 
+The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the [jQuery Cookie plugin](https://github.com/carhartl/jquery-cookie) and edited the addSidebarToggler function in octopress.js like so:
+```javascript
+function addSidebarToggler() {
+  if(!$('body').hasClass('sidebar-footer')) {
+    $('#content').append('<span class="toggle-sidebar"></span>');
+    $('.toggle-sidebar').bind('click', function(e) {
+      e.preventDefault();
+      if ($('body').hasClass('collapse-sidebar')) {
+        $('body').removeClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
+        jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
+      } else {
+        $('body').addClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
+        jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
+      }
+    });
+  }
+...
+}
+```
+I also added the following in order to check the cookie on initial load:
+```javascript
+jQuery(document).ready(function () {
+    var a = jQuery.cookie("sidebar_collapsed", {
+        raw: true
+    });
+    if (a === "1") {
+        $("body").addClass("collapse-sidebar");
+    } else {
+        $("body").removeClass("collapse-sidebar");
+    }
+});
+```
