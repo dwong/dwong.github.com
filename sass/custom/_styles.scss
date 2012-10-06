@@ -22,17 +22,39 @@ sub, sup {
 	}
 }
 
-ol ul, ol ol, ul ul, ul ol {
-        margin-top: 0;
-        margin-bottom: 0;
-}
-
 #content .blog-index article h1, h1.entry-title {
 	font-size: 1.5em;
 }
 
 html {
 	background: $page-bg;
+}
+
+/* Adjust margins */
+article header {
+	margin-top: 0;
+	margin-bottom: 1.1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 0.7em;
+}
+
+p {
+	margin-bottom: 0;
+	margin-top: 1em;
+}
+
+ul, ol {
+	margin-top: 0.5em;
+}
+
+ol ul, ol ol, ul ul, ul ol {
+        margin-top: 0;
+        margin-bottom: 0;
+}
+figure.code {
+	margin: 0.7em 0;
 }
 
 /* Use custom logo instead of plain text */
