@@ -9,7 +9,6 @@ tags:
 - Blog
 - Website
 - Geek
-published: false
 ---
 Thank you, [Wordpress](http://wordpress.org).  You were fantastic to me for over 5 years, but I'm moving on to something new.  In efforts to keep things fresh, learn something new, and improve the performance of this blog, I am starting to blog with [Octopress](http://octopress.org), which is a blogging platform built on [Jekyll](http://jekyllrb.com/).
 
@@ -19,15 +18,17 @@ The advantages of this system include (but are not limited to):
 *   [GitHub](https://github.com) offers built-in support so my blog is now in proper source control and hosted for free!
 *   The completed website is generated on my machine and pushed to a webserver so I could easily move webhosts at any time.
 
-Octopress included a pretty decent stylesheet, which made it easy to get set up and writing.  However, I ended up customizing it that my blog would not look like all of the other Octopress-powered websites out there.  Some of the things that I added on top of Octopress were:
+There are plenty of write-ups about transitioning to a Jekyll-powered blog.  Namely I used [exitwp](https://github.com/thomasf/exitwp) to extract the posts. 
+
+Octopress includes a pretty decent stylesheet, which made it easy to get up and writing.  However, I ended up customizing it that my blog would not look like all of the other Octopress-powered websites out there.  Some of the things that I added were:
 
 *   [Sitemap](#sitemap)
 *   [Atom Feed](#atom)
 *   [Retaining sidebar collapsed state](#sidebar_state)
 
 ##<a id="sitemap"></a>Sitemap
-I also created a custom sitemap instead of using the included sitemap plugin:
-```xml
+Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:
+```xml {% raw %}
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -63,13 +64,12 @@ I also created a custom sitemap instead of using the included sitemap plugin:
     <priority>0.2</priority>
   </url>
   {% endfor %}
-</urlset>
+</urlset> {% raw %}
 ```
 
 ##<a id="atom"></a>Atom Feed
-I used XXXX in order to create a custom Atom Feed that looks like this:
-```xml
-{% raw %}
+I started with [this simple Jekyll feed](http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed) in order to create a custom Atom Feed that looks like this:
+```xml {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
@@ -117,7 +117,7 @@ function addSidebarToggler() {
 ...
 }
 ```
-I also added the following in order to check the cookie on initial load:
+Additionally I added the following code:
 ```javascript
 jQuery(document).ready(function () {
     var a = jQuery.cookie("sidebar_collapsed", {
