@@ -5,12 +5,243 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2012-09-30T14:54:13-07:00</updated>
+  <updated>2012-10-06T22:31:58-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
   </author>
   <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress For Static Blogging]]></title>
+    <link href="http://www.goingthewongway.com/octopress-for-static-blogging/"/>
+    <updated>2012-10-06T22:29:00-07:00</updated>
+    <id>http://www.goingthewongway.com/octopress-for-static-blogging</id>
+    <content type="html"><![CDATA[<p>Thank you, <a href="http://wordpress.org">Wordpress</a>.  You were fantastic to me for over 5 years, but I&#8217;m moving on to something new.  In efforts to keep things fresh, learn something new, and improve the performance of this blog, I am starting to blog with <a href="http://octopress.org">Octopress</a>, which is a blogging platform built on <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>The advantages of this system include (but are not limited to):</p>
+
+<ul>
+<li>It serves static web pages so it&#8217;s <em>fast</em>.</li>
+<li><a href="https://github.com">GitHub</a> offers built-in support so my blog is now in proper source control and hosted for free!</li>
+<li>The completed website is generated on my machine and pushed to a webserver so I could easily move webhosts at any time.</li>
+</ul>
+
+
+<p>There are plenty of write-ups about transitioning to a Jekyll-powered blog.  Namely I used <a href="https://github.com/thomasf/exitwp">exitwp</a> to extract the posts.</p>
+
+<p>Octopress includes a pretty decent stylesheet, which made it easy to get up and writing.  However, I ended up customizing it that my blog would not look like all of the other Octopress-powered websites out there.  Some of the things that I added were:</p>
+
+<ul>
+<li><a href="#sitemap">Sitemap</a></li>
+<li><a href="#atom">Atom Feed</a></li>
+<li><a href="#sidebar_state">Retaining sidebar collapsed state</a></li>
+</ul>
+
+
+<h2><a id="sitemap"></a>Sitemap</h2>
+
+<p>Octopress included a sitemap plugin, but I didn&#8217;t like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span>
+</span><span class='line'><span class="cp">&lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;/sitemap.xsl&quot;?&gt;</span>
+</span><span class='line'><span class="nt">&lt;urlset</span> <span class="na">xmlns:xsi=</span><span class="s">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</span> <span class="na">xsi:schemaLocation=</span><span class="s">&quot;http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd&quot;</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.sitemaps.org/schemas/sitemap/0.9&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>{{ site.time | date_to_xmlschema }}<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>daily<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>1.0<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/favorite-posts/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-02-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/about/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-02-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/my-photo-gear/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-09-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  {% for post in site.posts  %}
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}{{ post.url }}<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>monthly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.2<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  {% endfor %}
+</span><span class='line'><span class="nt">&lt;/urlset&gt;</span> {% raw %}
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2><a id="atom"></a>Atom Feed</h2>
+
+<p>I started with <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed">this simple Jekyll feed</a> in order to create a custom Atom Feed that looks like this:</p>
+
+<figure class='code'><figcaption><span>{% raw %}</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</span>
+</span><span class='line'><span class="nt">&lt;feed</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/2005/Atom&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nt">&lt;title&gt;</span><span class="cp">&lt;![CDATA[{{ site.title }}]]&gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;subtitle&gt;</span><span class="cp">&lt;![CDATA[{{ site.subtitle }}]]&gt;</span><span class="nt">&lt;/subtitle&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/atom.xml&quot;</span> <span class="na">rel=</span><span class="s">&quot;self&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;updated&gt;</span>{{ site.time | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;id&gt;</span>{{ site.url }}/<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;author&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;name&gt;</span><span class="cp">&lt;![CDATA[{{ site.author | strip_html }}]]&gt;</span><span class="nt">&lt;/name&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/author&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;rights&gt;</span>Copyright (c) 2007-2012 {{ site.author | strip_html}}<span class="nt">&lt;/rights&gt;</span>
+</span><span class='line'>  {% for post in site.posts limit: 10 %}
+</span><span class='line'>  <span class="nt">&lt;entry&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="cp">&lt;![CDATA[{{ post.title | cdata_escape }}]]&gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;id&gt;</span>{{ site.url }}{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="cp">&lt;![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]&gt;</span><span class="nt">&lt;/content&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/entry&gt;</span>
+</span><span class='line'>  {% endfor %}
+</span><span class='line'><span class="nt">&lt;/feed&gt;</span>
+</span><span class='line'>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2><a id="sidebar_state"></a>Retaining Sidebar Collapsed State</h2>
+
+<p>The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the <a href="https://github.com/carhartl/jquery-cookie">jQuery Cookie plugin</a> and edited the addSidebarToggler function in octopress.js like so:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">function</span> <span class="nx">addSidebarToggler</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">hasClass</span><span class="p">(</span><span class="s1">&#39;sidebar-footer&#39;</span><span class="p">))</span> <span class="p">{</span>
+</span><span class='line'>    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#content&#39;</span><span class="p">).</span><span class="nx">append</span><span class="p">(</span><span class="s1">&#39;&lt;span class=&quot;toggle-sidebar&quot;&gt;&lt;/span&gt;&#39;</span><span class="p">);</span>
+</span><span class='line'>    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;.toggle-sidebar&#39;</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>      <span class="nx">e</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+</span><span class='line'>      <span class="k">if</span> <span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">hasClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">))</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">trigger</span><span class="p">(</span><span class="s2">&quot;resize&quot;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s1">&#39;sidebar_collapsed&#39;</span><span class="p">,</span> <span class="s2">&quot;0&quot;</span><span class="p">,</span> <span class="p">{</span> <span class="nx">expires</span><span class="o">:</span> <span class="mi">7</span><span class="p">,</span> <span class="nx">path</span><span class="o">:</span> <span class="s1">&#39;/&#39;</span><span class="p">,</span> <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span> <span class="p">});</span>
+</span><span class='line'>      <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">trigger</span><span class="p">(</span><span class="s2">&quot;resize&quot;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s1">&#39;sidebar_collapsed&#39;</span><span class="p">,</span> <span class="s2">&quot;1&quot;</span><span class="p">,</span> <span class="p">{</span> <span class="nx">expires</span><span class="o">:</span> <span class="mi">7</span><span class="p">,</span> <span class="nx">path</span><span class="o">:</span> <span class="s1">&#39;/&#39;</span><span class="p">,</span> <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span> <span class="p">});</span>
+</span><span class='line'>      <span class="p">}</span>
+</span><span class='line'>    <span class="p">});</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">...</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Additionally I added the following code:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">jQuery</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>    <span class="kd">var</span> <span class="nx">a</span> <span class="o">=</span> <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s2">&quot;sidebar_collapsed&quot;</span><span class="p">,</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span>
+</span><span class='line'>    <span class="p">});</span>
+</span><span class='line'>    <span class="k">if</span> <span class="p">(</span><span class="nx">a</span> <span class="o">===</span> <span class="s2">&quot;1&quot;</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s2">&quot;body&quot;</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="s2">&quot;collapse-sidebar&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s2">&quot;body&quot;</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="s2">&quot;collapse-sidebar&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'><span class="p">});</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Go Get Some Experience]]></title>
@@ -258,21 +489,6 @@ href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Xi%27an/xian3.JP
 
 
 <p>Check out more at the <strong><a href="http://go.gtww.net/S8QWru">Xi&#8217;an Gallery</a></strong>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Telephone Problem]]></title>
-    <link href="http://www.goingthewongway.com/the-telephone-problem/"/>
-    <updated>2011-10-12T01:44:56-07:00</updated>
-    <id>http://www.goingthewongway.com/the-telephone-problem</id>
-    <content type="html"><![CDATA[<p>The game <a href="http://en.wikipedia.org/wiki/Chinese_whispers">telephone</a> (although apparently its original name is a bit more offensive!) is a simple game that teaches us a valuable lesson.  From it we learn that people are awful at accurate transmission of information.  In the case of the game, it leads to amusement and fun when finding out how quickly and drastically words will change.</p>
-
-<p>However the game is not as funny in its everyday depictions.  We reference people who reference other people who read about some research piece in a magazine.  Other people pass along hearsay as common knowledge, and we grow to have a distorted view of truth.  We might see these everyday ranging from <a href="http://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die">common myths about food</a> to <a href="http://www.boundless.org/2005/articles/a0001126.cfm">common myths about (unmarried couples) living together</a>.  Despite our best intentions at accuracy there is something that we will never learn from the telephone game as well as we should - we are just not able to effectively relate information.  It is somehow beyond our grasp.  We tend toward chaos simply because we are human.</p>
-
-<p>(Then again that is why coming upon <a href="http://en.wikipedia.org/wiki/Dead_Sea_Scrolls">exceptions </a>to this rule is so amazing!)</p>
-
-<p>Lesson to be learned?  You cannot relay information well so do it more judiciously.  That is, information that you do not relay does not have the opportunity to prove that you are speaking falsely.  Don&#8217;t trust me?  There are more <a href="http://www.biblegateway.com/passage/?search=Proverbs%2017:28&amp;version=NASB">reputable sources</a>.</p>
 ]]></content>
   </entry>
   

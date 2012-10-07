@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2012-09-30T14:54:13-07:00</updated>
+  <updated>2012-10-06T22:33:11-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -12,6 +12,171 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress For Static Blogging]]></title>
+    <link href="http://www.goingthewongway.com/octopress-for-static-blogging/"/>
+    <updated>2012-10-06T22:29:00-07:00</updated>
+    <id>http://www.goingthewongway.com/octopress-for-static-blogging</id>
+    <content type="html"><![CDATA[<p>Thank you, <a href="http://wordpress.org">Wordpress</a>.  You were fantastic to me for over 5 years, but I'm moving on to something new.  In efforts to keep things fresh, learn something new, and improve the performance of this blog, I am starting to blog with <a href="http://octopress.org">Octopress</a>, which is a blogging platform built on <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>The advantages of this system include (but are not limited to):</p>
+
+<ul>
+<li>It serves static web pages so it's <em>fast</em>.</li>
+<li><a href="https://github.com">GitHub</a> offers built-in support so my blog is now in proper source control and hosted for free!</li>
+<li>The completed website is generated on my machine and pushed to a webserver so I could easily move webhosts at any time.</li>
+</ul>
+
+
+<p>There are plenty of write-ups about transitioning to a Jekyll-powered blog.  Namely I used <a href="https://github.com/thomasf/exitwp">exitwp</a> to extract the posts.</p>
+
+<p>Octopress includes a pretty decent stylesheet, which made it easy to get up and writing.  However, I ended up customizing it that my blog would not look like all of the other Octopress-powered websites out there.  Some of the things that I added were:</p>
+
+<ul>
+<li><a href="#sitemap">Sitemap</a></li>
+<li><a href="#atom">Atom Feed</a></li>
+<li><a href="#sidebar_state">Retaining sidebar collapsed state</a></li>
+</ul>
+
+
+<h2><a id="sitemap"></a>Sitemap</h2>
+
+<p>Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:
+```xml {% raw %}
+&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;?xml-stylesheet type="text/xsl" href="http://www.goingthewongway.com/sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url></p>
+
+<pre><code>&lt;loc&gt;{{ site.url }}/&lt;/loc&gt;
+&lt;lastmod&gt;{{ site.time | date_to_xmlschema }}&lt;/lastmod&gt;
+&lt;changefreq&gt;daily&lt;/changefreq&gt;
+&lt;priority&gt;1.0&lt;/priority&gt;
+</code></pre>
+
+<p>  </url>
+  <url></p>
+
+<pre><code>&lt;loc&gt;{{ site.url }}/favorite-posts/&lt;/loc&gt;
+&lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
+&lt;changefreq&gt;weekly&lt;/changefreq&gt;
+&lt;priority&gt;0.6&lt;/priority&gt;
+</code></pre>
+
+<p>  </url>
+  <url></p>
+
+<pre><code>&lt;loc&gt;{{ site.url }}/about/&lt;/loc&gt;
+&lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
+&lt;changefreq&gt;weekly&lt;/changefreq&gt;
+&lt;priority&gt;0.6&lt;/priority&gt;
+</code></pre>
+
+<p>  </url>
+  <url></p>
+
+<pre><code>&lt;loc&gt;{{ site.url }}/my-photo-gear/&lt;/loc&gt;
+&lt;lastmod&gt;2012-09-07T20:59:36+00:00&lt;/lastmod&gt;
+&lt;changefreq&gt;weekly&lt;/changefreq&gt;
+&lt;priority&gt;0.6&lt;/priority&gt;
+</code></pre>
+
+<p>  </url>
+  {% for post in site.posts  %}
+  <url></p>
+
+<pre><code>&lt;loc&gt;{{ site.url }}{{ post.url }}&lt;/loc&gt;
+&lt;lastmod&gt;{{ post.date | date_to_xmlschema }}&lt;/lastmod&gt;
+&lt;changefreq&gt;monthly&lt;/changefreq&gt;
+&lt;priority&gt;0.2&lt;/priority&gt;
+</code></pre>
+
+<p>  </url>
+  {% endfor %}
+</urlset> {% raw %}
+```</p>
+
+<h2><a id="atom"></a>Atom Feed</h2>
+
+<p>I started with <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed">this simple Jekyll feed</a> in order to create a custom Atom Feed that looks like this:
+```xml {% raw %}
+&lt;?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"></p>
+
+<p>  <title>&lt;![CDATA[{{ site.title }}]]&gt;</title>
+  <subtitle>&lt;![CDATA[{{ site.subtitle }}]]&gt;</subtitle>
+  <link href="{{ site.url }}/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/</id>
+  <author></p>
+
+<pre><code>&lt;name&gt;&lt;![CDATA[{{ site.author | strip_html }}]]&gt;&lt;/name&gt;
+</code></pre>
+
+<p>  </author>
+  <rights>Copyright (c) 2007-2012 {{ site.author | strip_html}}</rights>
+  {% for post in site.posts limit: 10 %}
+  <entry></p>
+
+<pre><code>&lt;title type="html"&gt;&lt;![CDATA[{{ post.title | cdata_escape }}]]&gt;&lt;/title&gt;
+&lt;link href="{{ site.url }}{{ post.url }}"/&gt;
+&lt;updated&gt;{{ post.date | date_to_xmlschema }}&lt;/updated&gt;
+&lt;id&gt;{{ site.url }}{{ post.id }}&lt;/id&gt;
+&lt;content type="html"&gt;&lt;![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]&gt;&lt;/content&gt;
+</code></pre>
+
+<p>  </entry>
+  {% endfor %}
+</feed>
+{% endraw %}
+```</p>
+
+<h2><a id="sidebar_state"></a>Retaining Sidebar Collapsed State</h2>
+
+<p>The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the <a href="https://github.com/carhartl/jquery-cookie">jQuery Cookie plugin</a> and edited the addSidebarToggler function in octopress.js like so:
+```javascript
+function addSidebarToggler() {
+  if(!$('body').hasClass('sidebar-footer')) {</p>
+
+<pre><code>$('#content').append('&lt;span class="toggle-sidebar"&gt;&lt;/span&gt;');
+$('.toggle-sidebar').bind('click', function(e) {
+  e.preventDefault();
+  if ($('body').hasClass('collapse-sidebar')) {
+    $('body').removeClass('collapse-sidebar');
+    jQuery(window).trigger("resize");
+    jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
+  } else {
+    $('body').addClass('collapse-sidebar');
+    jQuery(window).trigger("resize");
+    jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
+  }
+});
+</code></pre>
+
+<p>  }
+...
+}
+<code>
+Additionally I added the following code:
+</code>javascript
+jQuery(document).ready(function () {</p>
+
+<pre><code>var a = jQuery.cookie("sidebar_collapsed", {
+    raw: true
+});
+if (a === "1") {
+    $("body").addClass("collapse-sidebar");
+} else {
+    $("body").removeClass("collapse-sidebar");
+}
+</code></pre>
+
+<p>});
+```</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Changing Permalinks]]></title>
@@ -84,65 +249,6 @@
 <p>However I've found that it's not quite as to do with comments that I've left on other blogs.  The reason for that is because I don't have that central place to access to see all of my comments!  I'm not very well going to remember the URL of every post that I leave a comment on.  That would frankly be ridiculous.</p>
 
 <p>I've found a key to this problem.  I'm sure that there are others out there, but I think that this one works decently enough.  Check out <a href="http://co.mments.com">co.mments.com</a> if you want to see what I mean.  In fact, you can even let other people see what you're commenting on so that they can check it out and see if they're interested in the same posts!  Here is <a href="http://co.mments.com/people/goingthewongway">my public co.mments.com page</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Extra!  Extra!  Check Out The New Theme!]]></title>
-    <link href="http://www.goingthewongway.com/extra-extra-check-out-the-new-theme/"/>
-    <updated>2007-11-01T09:00:17-07:00</updated>
-    <id>http://www.goingthewongway.com/extra-extra-check-out-the-new-theme</id>
-    <content type="html"><![CDATA[<p>So after more time than I'd like to admit, I've finally finished enough of my theme to put it on goingthewongway!  I'm excited that I've changed it.  Check it out and let me know what you think!</p>
-
-<p>And now I present to you: Soi-disant</p>
-
-<p>I've only changed my theme once to (Not So) Fresh as I posted in <a href="http://www.goingthewongway.com/2007/02/09/new-look/">New Look</a>.  That was 8 months ago and since then quite a bit has changed.</p>
-
-<h5>Why I wanted to make my own theme</h5>
-
-<ol>
-<li></li>
-</ol>
-
-
-<h6>Have a unique look to my blog</h6>
-
-<p>I've come across other blogs that had the same theme, and that wasn't too exciting for me.  I want and like to be my own.  So even though the last one did look nice, it was unfortunate because other people thought that it looked nice as well.</p>
-
-<ol>
-<li></li>
-</ol>
-
-
-<h6>Learn much, much more web design</h6>
-
-<p>CSS in particular, HTML and PHP to a lesser degree since I already knew a fair amount before doing the theme.  Part of who I am wants to understand how things work and why.  So learning new things can be very exciting to me.  Not to mention the fact that it's very pertinent to my profession of computer programming.  (Although I must admit that I believe that I lack the creativity necessary to actually ever become a web designer.  I know the nuts and bolts but lack the vision.  :P)</p>
-
-<ol>
-<li></li>
-</ol>
-
-
-<h6>Create a fluid display</h6>
-
-<p>I wanted one that would show up well on the very popular 1024x768 and 1280x1024 screen resolutions in addition to any other screen resolutions.  I'm sorry to say that it's very likely that anything below 1024x768 won't look all that great.  A fluid display means that the text and page elements will expand according to how much space is available.  My previous theme was fixed width so it didn't look too great to me on higher resolution displays.</p>
-
-<ol>
-<li></li>
-</ol>
-
-
-<h6>Speed things up</h6>
-
-<p>The last theme used a fair amount of images to create all of the nice effects.  And that's nice for people on fast connections (which at this point is a very fair amount of people).  However there still are people on slower connections, and I want my blog to be accessible to them as well, too.</p>
-
-<h5>Soi-disant</h5>
-
-<p>I got the name of this theme (Soi-disant) by looking up a word of the day online.  Lame, huh?  I thought it was cool because it means calling oneself thus, self-styled, or so-called.  Seemed interesting to me so there it is.</p>
-
-<p>So I did it all for this theme: header logo, PHP code, HTML, CSS.  It was a learning experience, that is for sure.</p>
-
-<p>Wordpress theme designer: <strong>check</strong></p>
 ]]></content>
   </entry>
   
