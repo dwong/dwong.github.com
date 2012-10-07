@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Octopress For Static Blogging"
-date: 2012-09-30 15:58
+date: 2012-10-06 22:29
 comments: true
 categories: 
 - Blog
