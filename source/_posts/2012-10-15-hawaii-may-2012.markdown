@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Hawaii May 2012"
+date: 2012-10-15 21:49
+comments: true
+categories: 
+- Photos
+tags:
+- Photography
+---
+Here are some pictures from a trip that I took to Hawaii earlier this year.  It was (as usual) a rather pleasant excursion to the picturesque state.
+
+<div class="galleria">
+{% comment %} Hidden images
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-12_4e4029f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-12_8d03.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-2_cdf6795.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-2_44e8.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-20_df7a227.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-20_0f84.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-22_e390dd7.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-22_96fc.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-24_42c3a17.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-24_b733.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-26_8b06d45.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-26_893f.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-30_8dd957e.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-30_7117.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-37_9331542.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-37_ee19.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-40_aebdb71.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-40_8566.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-57_9a4c704.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-57_e104.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-62_009f760.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-62_43ee.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-64_d6e78e4.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-64_b0dd.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii_5e9a8b6.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii_b62a.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-44_cd2a842.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-44_c418.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-46_669dd4b.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-46_3d40.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-54_dd11e81.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-54_c83c.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-65_1d9e2d2.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-65_8224.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-10_29a2578.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-10_0a0e.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-21_717d041.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-21_52f5.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-59_e79f6f2.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-59_3c4c.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-61_75f6b23.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-61_ff3d.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-5_e173bea.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-5_b5f6.jpg"/></a>
+{% endcomment %}
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-13_2e66748.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-13_7ecc.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-11_6904e8d.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-11_40ed.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-14_e01099f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-14_2303.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-15_381a6af.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-15_4109.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-17_37713ef.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-17_4c56.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-18_f48896b.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-18_7a88.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-16_1242f6d.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-16_b4e2.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-19_ae8abde.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-19_d019.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-23_94427b9.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-23_06dd.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-25_6e21f90.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-25_a8ec.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-27_c000eb5.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-27_6187.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-28_06643b3.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-28_c92f.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-29_19293fb.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-29_d89c.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-3_b6f6f41.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-3_3d96.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-31_9ad535c.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-31_d741.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-32_0c2aaad.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-32_10e4.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-33_1e743b2.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-33_81ba.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-34_60e5c0b.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-34_d473.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-35_d5e46fc.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-35_68a6.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-36_f56259a.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-36_67d6.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-38_f767eff.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-38_6611.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-39_7901880.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-39_ae65.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-4_72bc99f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-4_4a46.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-41_7376c95.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-41_3c8d.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-42_3f1b495.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-42_9b2f.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-43_7b7597b.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-43_36fa.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-45_b85d0d7.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-45_4a7f.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-47_cfeba17.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-47_2f1e.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-48_251686c.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-48_f9b2.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-49_defc7f6.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-49_0724.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-50_03441d0.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-50_c922.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-51_137063f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-51_364f.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-52_eff150a.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-52_36b5.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-53_eb08a7d.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-53_7534.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-55_f245ce5.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-55_bc6d.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-56_79ca677.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-56_b501.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-58_410f529.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-58_a0c8.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-6_f94bd25.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-6_9f73.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-60_96bd60d.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-60_b79a.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-63_30ef44a.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-63_1546.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-66_ebb975e.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-66_a8bf.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-67_eefbd3f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-67_cb25.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-68_d2dc012.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-68_2a3d.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-69_1f7288f.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-69_de08.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-7_1431018.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-7_1ac8.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-70_3ae8e6d.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-70_a2f9.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-8_16be449.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-8_c807.jpg"/></a>
+<a href="http://img.gtww.net/1205_hawaii/4379/hawaii-9_556c168.jpg"><img src="http://img.gtww.net/1205_hawaii/4379/Thumbs/hawaii-9_d772.jpg"/></a>
+</div>
