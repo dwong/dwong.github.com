@@ -21,15 +21,10 @@ Beijing is well-known in recent history for hosting the 2008 Olympics.  It is v
 
 <div class="galleria">
 <a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/1.jpg?m=1313808896"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/1.jpg?m=1313808896"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/3.jpg?m=1313808897"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/3.jpg?m=1313808897"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/5.jpg?m=1313808897"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/5.jpg?m=1313808897"></img></a>
-<a
-href="http://thegalleryis.goingthewongway.com/var/albums/Travel/Beijing/6.jpg?m=1313808909"><img src="http://thegalleryis.goingthewongway.com/var/resizes/Travel/Beijing/6.jpg?m=1313808909"></img></a>
+{% comment %} hidden images <a href="http://img.gtww.net/2011/07_Beijing/ef86/2_327d35c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/2_4795.jpg"/></a> {% endcomment %}
+<a href="http://img.gtww.net/2011/07_Beijing/ef86/1_93ce728.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/1_7f09.jpg"/></a>
+<a href="http://img.gtww.net/2011/07_Beijing/ef86/3_da7c429.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/3_2604.jpg"/></a>
+<a href="http://img.gtww.net/2011/07_Beijing/ef86/4_1837cf3.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/4_44e3.jpg"/></a>
+<a href="http://img.gtww.net/2011/07_Beijing/ef86/5_79d5927.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/5_07a2.jpg"/></a>
+<a href="http://img.gtww.net/2011/07_Beijing/ef86/6_095f5e8.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/07_Beijing/ef86/Thumbs/6_a1d2.jpg"/></a>
 </div>
-
-Check out more at the **[Beijing Gallery](http://go.gtww.net/NIM2df)**.
-
-
