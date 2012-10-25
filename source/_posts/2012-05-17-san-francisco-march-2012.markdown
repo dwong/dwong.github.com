@@ -14,7 +14,7 @@ tags:
 - Photography
 ---
 
-Here are some pictures from a road trip that we took up to San Francisco a little while ago.  Most of the stuff that we did was standard for San Francisco, but it was still pleasant!
+Here are some pictures from a road trip that we took up to San Francisco a little while ago.  Most of the stuff that we did was standard for San Francisco, but it was still pleasant!
 
 <div class="galleria">
 <a href="http://img.gtww.net/2012/03_SF/88ce/SF-4_8e7d5e6.jpg"><img data-title="Fishwich" data-description="Sally's" src="http://img.gtww.net/2012/03_SF/88ce/Thumbs/SF-4_7d0d.jpg"/></a>
