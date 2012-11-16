@@ -21,7 +21,7 @@ Whenever somebody gets a summons for jury duty, they are very likely going to cr
 
 In any case, yesterday I served my jury duty.  This is not the first time that I have had it, and I am pretty sure that it won't be the last time.  But I think that this time made me think more deeply about this thing that we call our civic duty.
 
-For those that don't know (and I'm not exactly sure how you wouldn't know), jury duty in America is when you are given a summons to appear at a courthouse at a specified time and asked to possibly serve as a juror in a trial.   So basically you go to a room and wait for them to call you.  You could, of course, learn more about [jury duty](http://www.jud.ct.gov/jury/faq.htm) by attending some [criminal justice degree](http://www.criminaljusticedegree.net) programs.  As it is right now, for many counties you will be excused from your duty after 1 day of waiting or sitting on a single jury.
+For those that don't know (and I'm not exactly sure how you wouldn't know), jury duty in America is when you are given a summons to appear at a courthouse at a specified time and asked to possibly serve as a juror in a trial.   So basically you go to a room and wait for them to call you.
 
 See the thing is that there are lots (actually a majority) of people that have a strong distaste for jury duty.  I must admit that I don't care for it all too much either.  It takes you away from things that you'd rather be doing, and it is possibly inconvenient when it comes to compensation and traveling.  But if you think about it, we are all being short-sighted and foolish.
 
