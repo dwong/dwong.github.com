@@ -63,6 +63,350 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/tkinter-keyboard-bindings-in-python/">Tkinter Keyboard Bindings (in Python)</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+<time datetime="2007-08-24T11:00:36-07:00" pubdate data-updated="true">Aug 24</time>
+        
+         | <a href="/tkinter-keyboard-bindings-in-python/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>So I found this table useful, and I thought that I&#8217;d make it available for easier searching for those who might also look for it.  It&#8217;s useful when creating a GUI with Tkinter in Python.  I&#8217;m not really sure how much of that kind of development is going on, of course, but that&#8217;s beside the point.</p>
+
+<p>Anyways this is specific to the &#8220;special keys&#8221; that are used in the bind method for event handling, so I&#8217;ve not looked into where else this particular information could be useful.  I, for one, used this in order to bind the enter key on the keypad to the same functions as the normal enter button.  It was annoying me while using <a href="http://www.goingthewongway.com/currently-programming/the-budgeteer/">The Budgeteer</a> because I couldn&#8217;t figure out what the name of the button to bind was.  That has thankfully been remedied!</p>
+
+<p>Example:
+`root = Tk()
+def hello(*ignore):</p>
+
+<pre><code>print 'Hello World'
+</code></pre>
+
+<p>root.bind(&#8217;<return>&#8217;, hello)
+root.mainloop()
+`</p>
+
+<p>.keysym.keycode.keysym_numKey</p>
+
+<p>Alt_L
+64
+65513
+The left-hand alt key</p>
+
+<p>Alt_R
+113
+65514
+The right-hand alt key</p>
+
+<p>BackSpace
+22
+65288
+backspace</p>
+
+<p>Cancel
+110
+65387
+break</p>
+
+<p>Caps_Lock
+66
+65549
+CapsLock</p>
+
+<p>Control_L
+37
+65507
+The left-hand control key</p>
+
+<p>Control_R
+109
+65508
+The right-hand control key</p>
+
+<p>Delete
+107
+65535
+Delete</p>
+
+<p>Down
+104
+65364
+↓</p>
+
+<p>End
+103
+65367
+end</p>
+
+<p>Escape
+9
+65307
+esc</p>
+
+<p>Execute
+111
+65378
+SysReq</p>
+
+<p>F1
+67
+65470
+Function key F1</p>
+
+<p>F2
+68
+65471
+Function key F2</p>
+
+<p>Fi
+66+i
+65469+i
+Function key Fi</p>
+
+<p>F12
+96
+65481
+Function key F12</p>
+
+<p>Home
+97
+65360
+home</p>
+
+<p>Insert
+106
+65379
+insert</p>
+
+<p>Left
+100
+65361
+←</p>
+
+<p>Linefeed
+54
+106
+Linefeed (control-J)</p>
+
+<p>KP_0
+90
+65438
+0 on the keypad</p>
+
+<p>KP_1
+87
+65436
+1 on the keypad</p>
+
+<p>KP_2
+88
+65433
+2 on the keypad</p>
+
+<p>KP_3
+89
+65435
+3 on the keypad</p>
+
+<p>KP_4
+83
+65430
+4 on the keypad</p>
+
+<p>KP_5
+84
+65437
+5 on the keypad</p>
+
+<p>KP_6
+85
+65432
+6 on the keypad</p>
+
+<p>KP_7
+79
+65429
+7 on the keypad</p>
+
+<p>KP_8
+80
+65431
+8 on the keypad</p>
+
+<p>KP_9
+81
+65434
+9 on the keypad</p>
+
+<p>KP_Add
+86
+65451
++ on the keypad</p>
+
+<p>KP_Begin
+84
+65437
+The center key (same key as 5) on the keypad</p>
+
+<p>KP_Decimal
+91
+65439
+Decimal (.) on the keypad</p>
+
+<p>KP_Delete
+91
+65439
+delete on the keypad</p>
+
+<p>KP_Divide
+112
+65455
+↓ on the keypad</p>
+
+<p>KP_Down
+88
+65433
+on the keypad</p>
+
+<p>KP_End
+87
+65436
+end on the keypad</p>
+
+<p>KP_Enter
+108
+65421
+enter on the keypad</p>
+
+<p>KP_Home
+79
+65429
+home on the keypad</p>
+
+<p>KP_Insert
+90
+65438
+insert on the keypad</p>
+
+<p>KP_Left
+83
+65430
+← on the keypad</p>
+
+<p>KP_Multiply
+63
+65450
+* on the keypad</p>
+
+<p>KP_Next
+89
+65435
+PageDown on the keypad</p>
+
+<p>KP_Prior
+81
+65434
+PageUp on the keypad</p>
+
+<p>KP_Right
+85
+65432
+→ on the keypad</p>
+
+<p>KP_Subtract
+82
+65453
+- on the keypad</p>
+
+<p>KP_Up
+80
+65431
+↑ on the keypad</p>
+
+<p>Next
+105
+65366
+PageDown</p>
+
+<p>Num_Lock
+77
+65407
+NumLock</p>
+
+<p>Pause
+110
+65299
+pause</p>
+
+<p>Print
+111
+65377
+PrintScrn</p>
+
+<p>Prior
+99
+65365
+PageUp</p>
+
+<p>Return
+36
+652933
+The enter key (control-M). The name Enter refers to a mouse-related event, not a keypress</p>
+
+<p>Right
+102
+65363
+→</p>
+
+<p>Scroll_Lock
+78
+65300
+ScrollLock</p>
+
+<p>Shift_L
+50
+65505
+The left-hand shift key</p>
+
+<p>Shift_R
+62
+65506
+The right-hand shift key</p>
+
+<p>Tab
+23
+65289
+The tab key</p>
+
+<p>Up
+98
+65362
+↑</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/ppppppp/">PPPPPPP</a></h1>
     
     
@@ -252,54 +596,6 @@ Personality - Honest, realistic, slightly sarcastic</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/better-folderfile-structure/">Better Folder/File Structure</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-<time datetime="2007-08-15T10:44:16-07:00" pubdate data-updated="true">Aug 15</time>
-        
-         | <a href="/better-folderfile-structure/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>On one&#8217;s computer, everyone has a structure.  Some are more organized and some are not.  Some have files in a very hierarchical form while others will save files willy-nilly.</p>
-
-<p>I think that I used to be more of the latter but have more recently moved towards the former.  And that&#8217;s a good thing.  It probably has to also do with how I want to be neater with my physical possessions as well.</p>
-
-<p>Here are some of the ideas that I&#8217;ve keyed off:</p>
-
-<ol>
-<li><p><strong>Use the date</strong> - I will create filenames that are similar to each other for a particular folder and then just append YYMMDD to the end (and possibly HHMMSS if need be).  If you don&#8217;t know, that means that I append the last 2 digits of the year, the 2 digit month, and the 2 digit day.  I suppose that I should learn from the whole Y2K fiasco that I should use YYYY to truly be safe, but I don&#8217;t really think a lot of my stuff is going to matter when I&#8217;m gone.  Because I&#8217;m pretty sure that I will be gone by the time the dial rolls around to 2100.  In any case, this method gives you a reliable way to sequentially order your files.  The time stamp that operating systems have on files is a little bit unreliable since it can change simply by modifying and saving the file.  I especially use this for things such as copies of payment for monthly bills, program backups, etc.</p></li>
-<li><p><strong>Have multiple levels of folders</strong> - In other more technical terms, have multiple layers of abstraction.  It sounds complicated perhaps, but it&#8217;s a good thing.  A really good folder structure will infinitely help your access to particular files.  For example, storing music is much easier when I have used the folder structure: Artist->Album->(music files).  Previously I have done many methods including all in one folder, by type, and willy-nilly.  None of those worked particularly well when I wanted to find something.</p></li>
-<li><p><strong>Have a temporary folder</strong> - Use this folder to save anything that you might want for now, but won&#8217;t be a huge loss to you if it gets deleted.  A short-term place of storage if you will.</p></li>
-<li><p><strong>Be as specific as possible</strong> - For my pictures, I store everything in folders according to the event or time that they were taken.  I think that optimally I would be able to name all of my pictures exactly as I see fit with the pictures&#8217; content in the filename.  However, I don&#8217;t care enough to spend that much time.  Still it&#8217;s very useful to store things by as specific a means as possible (in this case the event is as specific as possible).</p></li>
-</ol>
-
-
-<p>Okay for now that&#8217;s all I&#8217;ve got.  But I&#8217;m sure that over the years I&#8217;ll incorporate other ideas into how I set up my computer&#8217;s file structure.  Any new ideas are definitely welcome!</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/page/40/">&larr; Older</a>
@@ -327,6 +623,10 @@ Personality - Honest, realistic, slightly sarcastic</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/crom-the-one-who-cant-concentrate-with-too-much-noise/">Crom, The One Who Can&#8217;t Concentrate With Too Much Noise</a>
+      </li>
+    
+      <li class="post">
         <a href="/ron-and-christina/">Ron &amp; Christina</a>
       </li>
     
@@ -340,10 +640,6 @@ Personality - Honest, realistic, slightly sarcastic</p>
     
       <li class="post">
         <a href="/go-get-some-experience/">Go Get Some Experience</a>
-      </li>
-    
-      <li class="post">
-        <a href="/gdansk-poland/">Gdansk, Poland</a>
       </li>
     
   </ul>

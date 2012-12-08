@@ -5,12 +5,39 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2012-11-15T17:13:13-08:00</updated>
+  <updated>2012-12-07T23:17:16-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
   </author>
   <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  
+  <entry>
+    <title type="html"><![CDATA[Crom, The One Who Can't Concentrate With Too Much Noise]]></title>
+    <link href="http://www.goingthewongway.com/crom-the-one-who-cant-concentrate-with-too-much-noise/"/>
+    <updated>2012-12-07T21:30:00-08:00</updated>
+    <id>http://www.goingthewongway.com/crom-the-one-who-cant-concentrate-with-too-much-noise</id>
+    <content type="html"><![CDATA[<p>Crom is a man who works early.<br/>
+He definitely does not have hair that&#8217;s curly.<br/>
+He likes to have <a href="http://www.goingthewongway.com/crom-the-one-who-loveshates-his-girlfriend/">interesting</a> chats.<br/>
+I highly doubt he works out the lats.<br/></p>
+
+<p>He is quite a unique one, that Crom is.<br/>
+Of that I am telling the truth, I promise.<br/>
+He walks about with a full bowl of food,<br/>
+And <a href="http://www.goingthewongway.com/crom-the-one-who-cuts-his-toenails-at-work/">does things</a> that some might think of as rude.<br/></p>
+
+<p>He tells bad jokes<br/>
+To most any of the folks.<br/>
+Worst of all when it&#8217;s about work and he&#8217;s on the phone<br/>
+He tells me and my friends to lower our tone.<br/></p>
+
+<p>It&#8217;s very strange since there are rooms.<br/>
+I mean, you can&#8217;t make noise like you can in the <a href="http://www.goingthewongway.com/crom-the-loud-one/">restrooms</a>.<br/>
+At the least he can watch out to not be so loud,<br/>
+But that lack of self-examination is what sets him apart from the crowd.<br/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ron &amp; Christina]]></title>
@@ -492,26 +519,6 @@
 </span><span class='line'>        <span class="k">elif</span> <span class="n">speak</span><span class="p">()</span> <span class="o">==</span> <span class="s">&#39;FALSEHOOD&#39;</span><span class="p">:</span>
 </span><span class='line'>            <span class="n">trust</span><span class="p">[</span><span class="n">person</span><span class="p">]</span> <span class="o">-=</span> <span class="n">TRUST_PENALTY</span>
 </span></code></pre></td></tr></table></div></figure>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[San Diego]]></title>
-    <link href="http://www.goingthewongway.com/san-diego/"/>
-    <updated>2011-12-16T00:27:22-08:00</updated>
-    <id>http://www.goingthewongway.com/san-diego</id>
-    <content type="html"><![CDATA[<p>This was a trip to San Diego, CA that included the zoo, Hash House A Go Go, and a little beach time.</p>
-
-<div class="galleria">
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/1_dfd5551.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/1_55cc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/2_7568022.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/2_9d4b.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/3_9053fa6.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/3_0c80.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/4_7cabf53.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/4_82ca.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/5_543546f.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/5_badc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/6_61b4c64.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/6_315b.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/7_717b211.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/7_4bf9.jpg"/></a>
-</div>
 
 ]]></content>
   </entry>
