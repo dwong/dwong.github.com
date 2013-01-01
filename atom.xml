@@ -5,12 +5,37 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2012-12-07T23:17:16-08:00</updated>
+  <updated>2012-12-31T18:29:21-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
   </author>
   <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  
+  <entry>
+    <title type="html"><![CDATA[Pizza Party]]></title>
+    <link href="http://www.goingthewongway.com/pizza-party/"/>
+    <updated>2012-12-31T17:56:00-08:00</updated>
+    <id>http://www.goingthewongway.com/pizza-party</id>
+    <content type="html"><![CDATA[<p>A pizza party!</p>
+
+<div class="galleria">
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-3_8ce1e06.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-3_5e5b.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-1_6a7bdb7.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-1_6029.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-2_e87332a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-2_2e69.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-4_75fe5e6.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-4_3963.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-5_a379a09.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-5_f512.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-6_ac381e5.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-6_488c.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-7_2da1b91.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-7_4683.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-8_bbf7e76.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-8_a8ae.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-9_236cf30.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-9_9c12.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-10_46fe08d.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-10_9a28.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-11_3d79657.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-11_23cd.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-12_d034d1f.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-12_feae.jpg"/></a>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crom, The One Who Can't Concentrate With Too Much Noise]]></title>
@@ -453,72 +478,6 @@ But that lack of self-examination is what sets him apart from the crowd.<br/></p
 <a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-15_265123e.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-15_24e9.jpg"/></a>
 <a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-16_e1ddc8e.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-16_0351.jpg"/></a>
 </div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Your Word]]></title>
-    <link href="http://www.goingthewongway.com/your-word/"/>
-    <updated>2012-01-25T05:56:47-08:00</updated>
-    <id>http://www.goingthewongway.com/your-word</id>
-    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="c"># trusting_others.py</span>
-</span><span class='line'><span class="c">#</span>
-</span><span class='line'><span class="c"># How our words affect our interaction with others. You&#39;re only as good as your word!</span>
-</span><span class='line'><span class="c">#</span>
-</span><span class='line'><span class="c"># Psuedocode:</span>
-</span><span class='line'><span class="c"># </span>
-</span><span class='line'><span class="c"># Maintain list of trust that others have, which is unknown to you</span>
-</span><span class='line'><span class="c"># Interact with people each day</span>
-</span><span class='line'><span class="c"># Alter trust with your words</span>
-</span><span class='line'>
-</span><span class='line'><span class="c"># Trust quotient is a quantifier for one person&#39;s trust for another </span>
-</span><span class='line'><span class="n">TRUST_REWARD</span> <span class="o">=</span> <span class="mi">1</span>
-</span><span class='line'><span class="n">TRUST_PENALTY</span> <span class="o">=</span> <span class="mi">15</span>
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'><span class="c"># Dictionary containing name and trust quotient values that other people have for you</span>
-</span><span class='line'><span class="n">trust</span> <span class="o">=</span> <span class="p">{}</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">for</span> <span class="n">day</span> <span class="ow">in</span> <span class="n">days</span><span class="p">:</span>
-</span><span class='line'>    <span class="k">for</span> <span class="n">person</span> <span class="ow">in</span> <span class="n">interactions</span><span class="p">(</span><span class="n">day</span><span class="p">):</span>
-</span><span class='line'>        <span class="k">if</span> <span class="n">person</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">trust</span><span class="p">:</span>
-</span><span class='line'>            <span class="c"># Other people&#39;s trust depends on some variables </span>
-</span><span class='line'>            <span class="n">trust</span><span class="p">[</span><span class="n">person</span><span class="p">]</span> <span class="o">=</span> <span class="n">default_trust</span><span class="p">(</span><span class="n">person</span><span class="o">.</span><span class="n">upbringing</span><span class="p">,</span> <span class="n">person</span><span class="o">.</span><span class="n">genes</span><span class="p">)</span>
-</span><span class='line'>
-</span><span class='line'>        <span class="k">if</span> <span class="n">speak</span><span class="p">()</span> <span class="o">==</span> <span class="s">&#39;TRUTH&#39;</span><span class="p">:</span>
-</span><span class='line'>            <span class="n">trust</span><span class="p">[</span><span class="n">person</span><span class="p">]</span> <span class="o">+=</span> <span class="n">TRUST_REWARD</span><span class="p">;</span>
-</span><span class='line'>        <span class="k">elif</span> <span class="n">speak</span><span class="p">()</span> <span class="o">==</span> <span class="s">&#39;FALSEHOOD&#39;</span><span class="p">:</span>
-</span><span class='line'>            <span class="n">trust</span><span class="p">[</span><span class="n">person</span><span class="p">]</span> <span class="o">-=</span> <span class="n">TRUST_PENALTY</span>
-</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Friends | Going The Wong Way]]></title>
+  <link href="http://www.goingthewongway.com/categories/friends/atom.xml" rel="self"/>
+  <link href="http://www.goingthewongway.com/"/>
+  <updated>2012-12-31T18:29:21-08:00</updated>
+  <id>http://www.goingthewongway.com/</id>
+  <author>
+    <name><![CDATA[Derek Wong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pizza Party]]></title>
+    <link href="http://www.goingthewongway.com/pizza-party/"/>
+    <updated>2012-12-31T17:56:00-08:00</updated>
+    <id>http://www.goingthewongway.com/pizza-party</id>
+    <content type="html"><![CDATA[<p>A pizza party!</p>
+
+<div class="galleria">
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-3_8ce1e06.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-3_5e5b.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-1_6a7bdb7.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-1_6029.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-2_e87332a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-2_2e69.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-4_75fe5e6.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-4_3963.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-5_a379a09.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-5_f512.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-6_ac381e5.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-6_488c.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-7_2da1b91.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-7_4683.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-8_bbf7e76.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-8_a8ae.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-9_236cf30.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-9_9c12.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-10_46fe08d.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-10_9a28.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-11_3d79657.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-11_23cd.jpg"/></a>
+<a href="http://img.gtww.net/2012/07_Noelle_Birthday/5904/pizzaparty-12_d034d1f.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Birthday/5904/Thumbs/pizzaparty-12_feae.jpg"/></a>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
