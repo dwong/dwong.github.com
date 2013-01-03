@@ -60,39 +60,6 @@ figure.code {
 	margin: 0.7em 0;
 }
 
-/* Use custom logo instead of plain text */
-#header_logo {
-	background: url("http://img.gtww.net/static/header_89ko.png") no-repeat scroll 0 0 transparent;
-	position: absolute;
-	z-index: 10;
-}
-
-#header_logo.small {
-	background: url("http://img.gtww.net/static/s_header_44dl.png") no-repeat scroll 0 0 transparent;
-	position: absolute;
-	z-index: 10;
-}
-
-#header_logo a {
-	background-color: transparent;
-	border: none;
-	display: block;
-	height: 100%;
-	overflow: hidden;
-	text-indent: -100em;
-	width: 100%;
-}
-
-header[role="banner"] h1, header[role="banner"] {
-	height: 100px;
-	min-width: 470px;
-	width: 470px;
-}
-
-header[role="banner"] {
-	padding: 10px 0 15px 40px;
-}
-
 /* Reduce footer size */
 footer[role="contentinfo"] {
 	margin: 0 0 10px;
