@@ -1,1 +1,1 @@
-jQuery.noConflict();jQuery(document).ready(function(){var a=jQuery.cookie("sidebar_collapsed",{raw:true});if(a==="1"){$("body").addClass("collapse-sidebar");}else{$("body").removeClass("collapse-sidebar");}});
+jQuery.noConflict();jQuery(document).ready(function(){var a=jQuery.cookie("sidebar_collapsed",{raw:true});if(a==="1"){$("body").addClass("collapse-sidebar")}else{$("body").removeClass("collapse-sidebar")}if((/iPhone|iPod|Android|BlackBerry/).test(navigator.userAgent)){$("#header_logo img").attr("src","http://img.gtww.net/static/s_header_44dl.png");}});
