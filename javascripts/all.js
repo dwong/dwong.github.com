@@ -218,7 +218,7 @@ i.location.search||i.location.hash;if(b){/\?/.test(b)&&(b=b.split("?")[1]);if(a=
 
 
 
-jQuery.noConflict();jQuery(document).ready(function(){var a=jQuery.cookie("sidebar_collapsed",{raw:true});if(a==="1"){$("body").addClass("collapse-sidebar")}else{$("body").removeClass("collapse-sidebar")}if(/iPhone|iPod|Android|BlackBerry/i.test(navigator.userAgent))$("#header_logo img").attr("src","http://img.gtww.net/static/s_header_44dl.png")});
+jQuery.noConflict();jQuery(document).ready(function(){var a=jQuery.cookie("sidebar_collapsed",{raw:true});if(a==="1"){$("body").addClass("collapse-sidebar")}else{$("body").removeClass("collapse-sidebar")}/*if(/iPhone|iPod|Android|BlackBerry/i.test(navigator.userAgent))$("#header_logo img").attr("src","http://img.gtww.net/static/s_header_44dl.png")*/});
 
 
 jQuery(document).ready(function(){if(jQuery('.galleria')[0]){jQuery('.galleria').galleria({height:600});Galleria.loadTheme('/javascripts/galleria/themes/gtww/galleria.gtww.js');Galleria.run('.galleria',{lightbox:true,showInfo:true})}});
