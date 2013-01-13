@@ -57,6 +57,8 @@ task :generate do
   system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
   system "cat #{source_dir}/javascripts/octopress.js >> #{source_dir}/javascripts/all.js"
   system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
+  system "cat #{source_dir}/javascripts/wookmark.jquery.js >> #{source_dir}/javascripts/all.js"
+  system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
   system "cat #{source_dir}/javascripts/init_jquery.js >> #{source_dir}/javascripts/all.js"
   system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
   system "cat #{source_dir}/javascripts/init_galleria.js >> #{source_dir}/javascripts/all.js"
