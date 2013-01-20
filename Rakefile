@@ -62,6 +62,8 @@ task :generate do
   system "cat #{source_dir}/javascripts/init_jquery.js >> #{source_dir}/javascripts/all.js"
   system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
   system "cat #{source_dir}/javascripts/init_galleria.js >> #{source_dir}/javascripts/all.js"
+  system "echo \"\n\" >> #{source_dir}/javascripts/all.js"
+  system "cat #{source_dir}/javascripts/init_wookmark.js >> #{source_dir}/javascripts/all.js"
   puts "## Generating Site with Jekyll"
   system "compass compile --css-dir #{source_dir}/stylesheets"
   system "jekyll"
