@@ -238,9 +238,12 @@ jQuery(document).ready(function(){if(jQuery('.galleria')[0]){jQuery('.galleria')
 
 
 jQuery(document).ready(function () {
+    if (jQuery('#wookmark').length) 
+      jQuery("body").addClass("collapse-sidebar");
+});
+jQuery(window).load(function () {
   var container = jQuery('#wookmark');
     if (container.length) {
-      jQuery("body").addClass("collapse-sidebar");
       jQuery('#tiles li').wookmark({autoResize:true,container:container,offset:4,itemWidth:200});
       jQuery('#wookmark #tiles a').colorbox({
           rel:'gal',
