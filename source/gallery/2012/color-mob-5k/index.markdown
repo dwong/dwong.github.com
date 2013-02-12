@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "color-mob-5k"
+title: "Color Mob 5K"
 date: 2013-02-11 21:33
 comments: true
 sharing: true
