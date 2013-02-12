@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ron_christina/"
+title: "Ron &amp; Christina"
 date: 2013-02-12 07:37
 comments: true
 sharing: true
