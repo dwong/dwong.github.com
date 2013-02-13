@@ -8,7 +8,7 @@ categories:
 tags:
 - Photography
 ---
-Here are some pictures from a trip that I took to Hawaii earlier this year.  It was (as usual) a rather pleasant excursion to the picturesque state.  Check out more at the [gallery](gallery/2012/hawaii/).
+Here are some pictures from a trip that I took to Hawaii earlier this year.  It was (as usual) a rather pleasant excursion to the picturesque state.  Check out more at the [gallery](/gallery/2012/hawaii/).
 
 <div class="galleria">
 <a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-2_e08a965.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-2_3816.jpg" height="40" width="58"/></a>
