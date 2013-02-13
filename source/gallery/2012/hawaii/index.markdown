@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Hawaii"
-date: 2013-02-12 20:20
 comments: true
 sharing: true
 footer: true
+sidebar: false
 ---
 <div id="wookmark"><ul id="tiles"><li><a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-1_decc61c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Resizes/hawaii-1_f013.jpg" height="133" width="200"/></a></li>
 <li><a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-10_fd47ac1.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Resizes/hawaii-10_41cf.jpg" height="133" width="200"/></a></li>

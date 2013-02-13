@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Ron &amp; Christina"
-date: 2013-02-12 07:37
 comments: true
 sharing: true
 footer: true
+sidebar: false
 ---
 <div id="wookmark">
 <ul id="tiles">

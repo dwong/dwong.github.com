@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Noelle Pizza Party"
-date: 2013-01-12 16:28
 comments: true
 sharing: true
 footer: true
+sidebar: false
 ---
 <div id="wookmark">
 <ul id="tiles">

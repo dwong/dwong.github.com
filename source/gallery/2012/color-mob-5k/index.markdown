@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Color Mob 5K"
-date: 2013-02-11 21:33
 comments: true
 sharing: true
 footer: true
+sidebar: false
 ---
 <div id="wookmark"><ul id="tiles">
 <li><a href="http://img.gtww.net/2012/12_Color_Mob_5k/1e8a/colormob5k-1_210279c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/12_Color_Mob_5k/1e8a/Resizes/colormob5k-1_74f0.jpg" height="128" width="200"/></a></li>
