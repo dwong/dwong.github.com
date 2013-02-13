@@ -1,5 +1,5 @@
 jQuery(document).ready(function () {
-    if (jQuery('#wookmark').length) 
+    if (!jQuery('body').hasClass('no-sidebar') && jQuery('#wookmark').length) 
       jQuery("body").addClass("collapse-sidebar");
 });
 jQuery(window).load(function () {
