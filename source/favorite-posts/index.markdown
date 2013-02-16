@@ -3,7 +3,6 @@ alias:
 - /favorite-posts/132/index.html
 - /2007/06/07/favorite-posts/index.html
 comments: false
-date: 2007-06-07 16:28:55
 layout: page
 slug: favorite-posts
 title: My Favorite Posts

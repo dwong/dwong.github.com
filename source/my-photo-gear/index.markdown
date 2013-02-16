@@ -3,7 +3,6 @@ alias:
 - /my-photo-gear/1105/index.html
 - /2011/11/22/my-photo-gear/index.html
 comments: true
-date: 2011-11-22 06:31:45
 layout: page
 slug: my-photo-gear
 title: My Photo Gear

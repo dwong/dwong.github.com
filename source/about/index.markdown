@@ -3,7 +3,6 @@ alias:
 - /about/7/index.html
 - /2007/01/05/about/index.html
 comments: false
-date: 2007-01-05 23:49:43
 layout: page
 slug: about
 title: More About Me
