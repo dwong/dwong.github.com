@@ -157,6 +157,11 @@ sub, sup {
 	font-size: 1.5em;
 }
 
+#content > div,
+#content > article {
+	padding-top: 0px;
+}
+
 html {
 	background: $page-bg;
 }
