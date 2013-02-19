@@ -21,7 +21,8 @@ tags:
 
 That title probably gets your attention.  As is common knowledge, we need shoes in order to run.  Running barefoot is impossible to comprehend.  Except...it's not.  There are so many reasons that I have found that compel me to run barefoot.  And I figured that now would be a good time to post them here.  
 
-I have been running barefoot for over 9 months now.  I started off running a few blocks, and I have progressed to now run a few miles a couple of times each week.  Yes, it will sometimes be briefly uncomfortable when I step on a pebble, but it is usually gone in the next step.  However for most people the thought of pain is enough to prevent them from ever trying to run barefoot.  On the other hand, just because I run on the street does not mean that everyone has to.  [caption id="" align="alignright" width="240" caption="Yep, that's mine"][![Yep, thats mine](http://farm3.static.flickr.com/2554/3706453438_b247aaa513_m.jpg)](http://www.flickr.com/photos/gtww/3706453438/)[/caption]Running on sand or grass would definitely be more comfortable, but it's really not that bad running on the pavement (in my opinion).  I believe that running barefoot is better, and I want my behavior to be in accordance with my beliefs.
+I have been running barefoot for over 9 months now.  I started off running a few blocks, and I have progressed to now run a few miles a couple of times each week.  Yes, it will sometimes be briefly uncomfortable when I step on a pebble, but it is usually gone in the next step.  However for most people the thought of pain is enough to prevent them from ever trying to run barefoot.  On the other hand, just because I run on the street does not mean that everyone has to.  <img style="float:right;" width="240" title="Yep, they're mine" src="http://farm3.static.flickr.com/2554/3706453438_b247aaa513_m.jpg"/>
+Running on sand or grass would definitely be more comfortable, but it's really not that bad running on the pavement (in my opinion).  I believe that running barefoot is better, and I want my behavior to be in accordance with my beliefs.
 
   * I was **not born** with shoes.  (Of course I also wasn't born with clothes, but clothes don't injure me.  If they did, I wouldn't wear those either.)
   * **Injuries increase with the price** of the shoes according to surveys from runners.
@@ -37,6 +38,7 @@ I have been running barefoot for over 9 months now.  I started off running a few
 I run barefoot.  I enjoy it.
 
 References:
+
   * [SportSci - Running Barefoot](http://www.sportsci.org/jour/0103/mw.htm)
   * [The Painful Truth About Trainers](http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html)
   * [Barefoot Rick](http://barefootrunner.org/) - I enjoyed reading some of his articles and thoughts about running barefoot.
