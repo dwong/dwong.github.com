@@ -27,7 +27,7 @@ Octopress includes a pretty decent stylesheet, which made it easy to get up and 
 *   [Retaining sidebar collapsed state](#sidebar_state)
 
 ##<a id="sitemap"></a>Sitemap
-Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:
+Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:
 ```xml {% raw %}
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
