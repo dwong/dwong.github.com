@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-02-20T22:01:11-08:00</updated>
+  <updated>2013-03-06T21:30:31-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -42,7 +42,7 @@
 
 <h2><a id="sitemap"></a>Sitemap</h2>
 
-<p>Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:
+<p>Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:
 ```xml 
 &lt;?xml version="1.0" encoding="UTF-8"?>
 &lt;?xml-stylesheet type="text/xsl" href="http://www.goingthewongway.com/sitemap.xsl"?>

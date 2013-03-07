@@ -5,7 +5,7 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-02-20T22:01:11-08:00</updated>
+  <updated>2013-03-06T21:30:31-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -179,7 +179,7 @@ But that lack of self-examination is what sets him apart from the crowd.<br/></p
 
 <h2><a id="sitemap"></a>Sitemap</h2>
 
-<p>Octopress included a sitemap plugin, but I didn&#8217;t like that it used the file modification time.  In theory that works great, but for some reason it always every post with the exact same modification time.  In any case, I just created my own:</p>
+<p>Octopress included a sitemap plugin, but I didn&#8217;t like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
