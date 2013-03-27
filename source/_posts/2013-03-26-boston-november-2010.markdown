@@ -6,7 +6,7 @@ comments: true
 categories: 
 - Photos
 ---
-Took a trip to Boston a little (err I mean long) while back in the fall.  Here are some shots from that weekend getaway.  Check out the full [gallery](/gallery/2010/boston/) for more where these came from!
+We took a trip to Boston a little while back.  We went in the fall so it was nice and colorful.  Brisk as well.  Check out the [full gallery](/gallery/2010/boston/) to get more from where these came from!
 
 <div class="galleria">
 <a href="http://img.gtww.net/2010/11_Boston/b51b/boston-7_95e431a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2010/11_Boston/b51b/Thumbs/boston-7_4f6c.jpg" height="30" width="60"/></a>
