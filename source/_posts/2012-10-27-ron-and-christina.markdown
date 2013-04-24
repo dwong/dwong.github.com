@@ -9,7 +9,7 @@ categories:
 tags:
 - Photography
 ---
-Here are some pictures from Ron & Christina's wedding.  More at the [gallery](/gallery/2012/ron-christina/).
+Here are some pictures from Ron & Christina's wedding.  More at the [gallery](http://go.gtww.net/ZNOKmQ).
 
 <div class="galleria">
 <a href="http://img.gtww.net/2012/10_Ron_Christina/9ac0/ron-christina-1_9e853ad.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/10_Ron_Christina/9ac0/Thumbs/ron-christina-1_0e2d.jpg" height="40" width="39"/></a>

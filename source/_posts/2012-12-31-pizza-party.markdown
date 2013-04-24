@@ -8,7 +8,7 @@ categories:
 - Events
 - Photography
 ---
-A pizza party!  Check out the [Pizza Party Gallery](/gallery/2012/noelle-pizza-party/) for even more pictures.
+A pizza party!  Check out the [Pizza Party Gallery](http://go.gtww.net/ZjTqoO) for even more pictures.
 <div class="galleria">
 <a href="http://img.gtww.net/2012/07_Noelle_Bday/ee95/noellebday-12_fb31d26.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Bday/ee95/Thumbs/noellebday-12_3719.jpg" height="38" width="60"/></a>
 <a href="http://img.gtww.net/2012/07_Noelle_Bday/ee95/noellebday-2_240fd09.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/07_Noelle_Bday/ee95/Thumbs/noellebday-2_928c.jpg" height="35" width="60"/></a>

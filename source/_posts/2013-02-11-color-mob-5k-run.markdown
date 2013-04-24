@@ -5,7 +5,7 @@ date: 2013-02-11 21:38
 comments: true
 categories: 
 ---
-A run that was more about the fun than about the run.  Check out the [full gallery](/gallery/2012/color-mob-5k/).
+A run that was more about the fun than about the run.  Check out the [full gallery](http://go.gtww.net/12e9YOB).
 
 <div class="galleria">
 <a href="http://img.gtww.net/2012/12_Color_Mob_5k/1e8a/colormob5k-3_5c669e6.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/12_Color_Mob_5k/1e8a/Thumbs/colormob5k-3_755c.jpg" height="40" width="47"/></a>
