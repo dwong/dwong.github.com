@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/life/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-04-23T21:11:41-07:00</updated>
+  <updated>2013-06-11T21:07:12-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shopping Is Fun, Really!]]></title>
+    <link href="http://www.goingthewongway.com/shopping-is-fun-really/"/>
+    <updated>2013-06-11T21:02:00-07:00</updated>
+    <id>http://www.goingthewongway.com/shopping-is-fun-really</id>
+    <content type="html"><![CDATA[<p>```python
+def shop_fast(user, items_to_buy):</p>
+
+<pre><code>shopping_cart_items = []
+for item in items_to_buy:
+    item.find()
+    if user.wants(item):
+        shopping_cart_items.append(item)
+for item in shopping_cart_items:
+    user.buy(item)
+</code></pre>
+
+<p>def shop_slow(user, items_to_buy):</p>
+
+<pre><code>shopping_cart_items = []
+for item in items_in_store:
+    if item in items_to_buy:
+        print('Awesome!')
+    if user.wants(item):
+        shopping_cart_items.append(item)
+for item in shopping_cart_items:
+    user.buy(item)
+</code></pre>
+
+<p>if gender is 'Male':</p>
+
+<pre><code>shop_fast()
+</code></pre>
+
+<p>else:</p>
+
+<pre><code>shop_slow()
+</code></pre>
+
+<p>```</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Your Word]]></title>
@@ -116,23 +159,6 @@ TRUST_PENALTY = 15</p>
 
 
 <p>While people can (obviously) do whatever they want with their projects, I am pretty sure that I would not do such a thing.  In fact it flies in the face of who I want to be.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Experience Required]]></title>
-    <link href="http://www.goingthewongway.com/experience-required/"/>
-    <updated>2010-10-16T01:15:03-07:00</updated>
-    <id>http://www.goingthewongway.com/experience-required</id>
-    <content type="html"><![CDATA[<p>You might be surprised to know that I actually know that I do not know everything.  People who personally interact with me sure are.  Even more likely, they flat out refuse to believe it.</p>
-
-<p>But I am confident that I am not delusional.  I know that I do not know everything.  So yes, I am confident when I think that I know something (<a href="http://www.goingthewongway.com/5/algorithm-for-your-life/">as most people are</a>), but I also have seen enough to know that there is a vast amount of things that I have no idea about.</p>
-
-<p>When I was learning how to drive, I did not give too much credit to my parents when they told me that experience matters in determining how good of a driver I was.  I thought that as long as I knew and followed the correct procedures, I would be just fine.  But I was wrong.  Surprise, surprise; experience really does matter.</p>
-
-<p>Having the chance to actually see and try things for yourself is priceless.  There is absolutely no substitute for experience.  It gives you a warranted confidence that you know and can handle whatever it is that you are doing again.  Experience involves getting up close and personal with tasks.  You get to see (and hopefully get through) hiccups.  You get to see the whole process through to the end and learn lessons from first-hand knowledge.</p>
-
-<p>So when someone is giving me <a href="http://www.goingthewongway.com/781/unsolicited-advice/">unsolicited advice</a> about a project or task, my immediate response is needing to know whether they have actually done it themselves.  I do not want to know if they understand what to do, have seen it done by someone else, or have read manuals about it.  I want to know if that adviser has actually done it.  If so, they have some credibility in my mind.  If not, their words might as well be "Wah wah wah."</p>
 ]]></content>
   </entry>
   
