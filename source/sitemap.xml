@@ -28,11 +28,13 @@
     <priority>0.6</priority>
   </url>
   {% for post in site.posts  %}
+  {% unless post.hide_on_index %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
+  {% endunless %}
   {% endfor %}
 </urlset>
