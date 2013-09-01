@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-08-31T22:53:07-07:00</updated>
+  <updated>2013-08-31T22:58:03-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -43,7 +43,7 @@
 <h2><a id="sitemap"></a>Sitemap</h2>
 
 <p>Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:
-```xml 
+```xml {% raw %}
 &lt;?xml version="1.0" encoding="UTF-8"?>
 &lt;?xml-stylesheet type="text/xsl" href="http://www.goingthewongway.com/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -130,7 +130,7 @@
 <p>  </entry>
   {% endfor %}
 </feed>
-
+{% endraw %}
 ```</p>
 
 <h2><a id="sidebar_state"></a>Retaining Sidebar Collapsed State</h2>
