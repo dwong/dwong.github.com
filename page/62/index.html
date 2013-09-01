@@ -65,6 +65,56 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/i-want-to-share-this/">I Want to &#8216;Share This&#8217;!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+<time datetime="2007-04-08T19:37:06-07:00" pubdate data-updated="true">Apr  8</time>
+        
+         | <a href="/i-want-to-share-this/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&#8217;t display.</p>
+
+<p>Most of my readers won&#8217;t care one iota about this entire post.  But I don&#8217;t post what they want to read, I post whatever I want to post!  And onward!</p>
+
+<p>Basically I was experiencing the error where the Javascript popup would not show up for the Share This button, and I was actually getting redirected to another page. I saw that prototype.js needed to be added, but I was confused because I could see in the page source that it was being added. I also verified that wp_footer() was being called in my footer template, and I saw the akst Javascript code being appended at the bottom of the pages.</p>
+
+<p>So after some debugging (I figured that it was something that I could find) I found that I wasn’t getting the popup because I had previously removed some of the social sites through the gregarious options (mainly because I wanted to limit the sites to those that I knew well). This caused the Javascript to result in an error (in my case: $(”akst_furl”) has no properties) because I had deleted furl from my list of social sites. This subsquently left the Javascript to error out which resulted in no popup window being displayed.</p>
+
+<p>To verify what I suspected, I temporarily reset my social sites and saw that I was able to get the Javascript popup to show (because all of the Javascript properties were properly set).</p>
+
+<p>Now I can obviously go into the akst.js and comment out those that I don’t want and then de-activate them from the gregarious options.</p>
+
+<p>Fix: Add checks in the Javascript before processing so that anything changed in the gregarious options will not affect the Javascript. I looked at the option_value for greg_social_sites, and perhaps the best way is to read that string in, process it, and then overwrite the Javascript to be output into akst.js? But that’s just an idea.</p>
+
+<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&#8217;s (which I see as highly unlikely).</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/break-the-fast-twice/">Break the Fast&#8230;Twice</a></h1>
     
     
@@ -249,50 +299,6 @@
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/unnecessary-incentive/">Unnecessary Incentive</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-<time datetime="2007-04-01T18:25:42-07:00" pubdate data-updated="true">Apr  1</time>
-        
-         | <a href="/unnecessary-incentive/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Now passing judgment on people is not always good as we all know.  Of course people nowadays want there to be no judgments whatsoever.  And let&#8217;s be honest, that doesn&#8217;t really make any sense at all.  It makes about as much sense as getting rid of the court system, doesn&#8217;t it?</p>
-
-<p>Well I saw something today, and it is a case that definitely makes me think about some judgment passing.</p>
-
-<p>Now far be it from me to know if someone actually understands what it means to be a Christian.  But I have to wonder about it when I see a sign on the street that proclaims that they should come to church in order to win a car.  They direct you to their website where they have <a href="http://www.ineedarevolution.com/easter/">a page dedicated to their contest</a>.</p>
-
-<p>To me, that seems outlandish where they feel that they have a need to offer people physical prizes in order to attract them to come to their church.  Some out there will say that it&#8217;s a good thing to get people into church no matter how they got there.  But is that really the right attitude?</p>
-
-<p>Seems ridiculous to me, and I hope that this is not a growing trend.</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page/63/">&larr; Older</a>
@@ -320,6 +326,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/surprising-things-my-coworkers-never-learned/">Surprising Things My Coworkers Never Learned</a>
+      </li>
+    
+      <li class="post">
         <a href="/plywood-tree-coat-rack/">Plywood Tree Coat Rack</a>
       </li>
     
@@ -333,10 +343,6 @@
     
       <li class="post">
         <a href="/chicago-2012/">Chicago 2012</a>
-      </li>
-    
-      <li class="post">
-        <a href="/boston-november-2010/">Boston November 2010</a>
       </li>
     
   </ul>
