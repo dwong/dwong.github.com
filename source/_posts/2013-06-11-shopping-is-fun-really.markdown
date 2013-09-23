@@ -9,6 +9,8 @@ tags:
 - life in code
 ---
 ```python
+items_in_store = getAllItems()
+
 def shop_fast(user, items_to_buy):
     shopping_cart_items = []
     for item in items_to_buy:
@@ -29,7 +31,7 @@ def shop_slow(user, items_to_buy):
         user.buy(item)
 
 if gender is 'Male':
-    shop_fast()
+    shop_fast(user, items)
 else:
-    shop_slow()
+    shop_slow(user, items)
 ```
