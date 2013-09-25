@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/life/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-08-31T22:58:03-07:00</updated>
+  <updated>2013-09-24T22:32:37-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -19,7 +19,9 @@
     <updated>2013-06-11T21:02:00-07:00</updated>
     <id>http://www.goingthewongway.com/shopping-is-fun-really</id>
     <content type="html"><![CDATA[<p>```python
-def shop_fast(user, items_to_buy):</p>
+items_in_store = getAllItems()</p>
+
+<p>def shop_fast(user, items_to_buy):</p>
 
 <pre><code>shopping_cart_items = []
 for item in items_to_buy:
@@ -44,12 +46,12 @@ for item in shopping_cart_items:
 
 <p>if gender is 'Male':</p>
 
-<pre><code>shop_fast()
+<pre><code>shop_fast(user, items)
 </code></pre>
 
 <p>else:</p>
 
-<pre><code>shop_slow()
+<pre><code>shop_slow(user, items)
 </code></pre>
 
 <p>```</p>
