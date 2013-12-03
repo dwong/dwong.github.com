@@ -8,13 +8,14 @@
   <title>The Budgeteer - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/currently-programming/the-budgeteer/">
+  <link rel="canonical" href="http://www.goingthewongway.com/currently-programming/the-budgeteer">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -74,18 +75,18 @@
   
   <p>Changed the name to Budse. Now just go check it out on <a href="http://sourceforge.net/projects/budse"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=251382&amp;type=16" alt="Get Budse at SourceForge.net. Fast, secure and Free Open Source software downloads" /></a></p>
 
-<p>Notes from previous page are on the next page (but I don&#8217;t know why you would want them).</p>
+<p>Notes from previous page are on the next page (but I don&rsquo;t know why you would want them).</p>
 
-<p>This is a basic budgeting program that keeps track of &#8220;sub-accounts&#8221; that you allocate a percentage of your income to.</p>
+<p>This is a basic budgeting program that keeps track of &ldquo;sub-accounts&rdquo; that you allocate a percentage of your income to.</p>
 
 <p>So you can deposit and withdraw from each sub-account with no bearing on the other sub-accounts. The program has files that it stores information about for each transaction logged (in a custom format). Another feature that I very much like is being able to deposit into the whole account and the program will split it among the sub-accounts according to percentages that I specify. So every couple of weeks on payday, I will input the amount for my paycheck, the budgeteeer will prompt me to find out if I want to subtract before depositing (i.e. taxes), and then it will prompt me for where to deposit the amount to. If I choose the whole account (which I always do for paychecks), then it will deposit the appropriate amount into each sub-account. And from there I have a running total of all of my sub-accounts. This is useful for things like keeping track of a tithe or free spending money.</p>
 
 <p>Anyways, I basically wrote this last summer (while interviewing for jobs) to</p>
 
 <ol>
-<li><p>Learn Python</p></li>
-<li><p>Not be bored</p></li>
-<li><p>Have a useful application for budgeting</p></li>
+<li><p> Learn Python</p></li>
+<li><p> Not be bored</p></li>
+<li><p> Have a useful application for budgeting</p></li>
 </ol>
 
 
@@ -93,10 +94,10 @@
 
 <p>Anyways I actually recently picked this program back up because every time that I upgrade my system, the Python settings will be changed. I thought about it also, and I think that this program can be done much better. It’s too hard-coded as is. In any case I am looking to make it more standardized (XML for saving data perhaps?), more object-oriented, and more customizable (number and names of sub-accounts). Stay tuned.</p>
 
-<p>I&#8217;m looking to get it into a workable state where I could offer it to be downloaded. As it is right now, it&#8217;s too specific to me and my machine. That is both poor in terms of programming as well as well as poor in terms of usability for other people. So I want to remedy that!</p>
+<p>I&rsquo;m looking to get it into a workable state where I could offer it to be downloaded. As it is right now, it&rsquo;s too specific to me and my machine. That is both poor in terms of programming as well as well as poor in terms of usability for other people. So I want to remedy that!</p>
 
 <p>[2007-04-30]
-Figured out that I can use winfo_screenwidth() (and winfo_screenheight()) in order to get the screen&#8217;s width and height in measurements that I can use to calculate the size of buttons.</p>
+Figured out that I can use winfo_screenwidth() (and winfo_screenheight()) in order to get the screen&rsquo;s width and height in measurements that I can use to calculate the size of buttons.</p>
 
 <p>I played around with using a placement mechanism that consisted of a grid, but I found that it did not allow me enough flexibility in creating the buttons that I wanted.</p>
 
@@ -104,31 +105,23 @@ Figured out that I can use winfo_screenwidth() (and winfo_screenheight()) in ord
 I started to think about this a bit recently again. It is still in a usable state but is not useful in distribution. Somethings that have crossed my mind are:</p>
 
 <ol>
-<li>Use SQLite for the backend instead of the customized file format currently being used.
-Benefits:</li>
-</ol>
-
-
-<pre><code>1. Python modules already exist for its use
-
-
-2. New fairly well-known technology to learn and use
-
-
-3. MUCH cleaner data access in code using Python module functions versus hard-coded parsing
-
-
-4. Allow easier installation (deprecates current folder structure).
-</code></pre>
+<li><p> Use SQLite for the backend instead of the customized file format currently being used.
+Benefits:</p>
 
 <ol>
+<li><p> Python modules already exist for its use</p></li>
+<li><p> New fairly well-known technology to learn and use</p></li>
+<li><p> MUCH cleaner data access in code using Python module functions versus hard-coded parsing</p></li>
+<li><p> Allow easier installation (deprecates current folder structure).</p></li>
 <li><p>Need to create a logon (and logoff?) ability so that there does not need to be command line arguments. This will allow for easier portability and use.</p></li>
 <li><p>Need to really nail down the customization of amount and names of sub-accounts. The GUI part of this step is in a much better state already.</p></li>
 <li><p>Thinking that it might be a good idea to split up whole account deposits into either percentage OR static values. This is how other applications work and it could be easy to do. Goes along the lines of the envelope budgeting method.</p></li>
 </ol>
+</li>
+</ol>
 
 
-<p>Should definitely look into some of these (especially SQLite since that will open up the application&#8217;s horizon of possibility).</p>
+<p>Should definitely look into some of these (especially SQLite since that will open up the application&rsquo;s horizon of possibility).</p>
 
 <p>[2008-12-16]
 So starting around the end of June 2008, I started a complete rewrite of this program.</p>
@@ -140,12 +133,12 @@ So starting around the end of June 2008, I started a complete rewrite of this pr
 <ul>
 <li><p>SQLite for persistent storage</p></li>
 <li><p>Refined core</p></li>
-<li><p>No GUI (at this time it&#8217;s a command line program)</p></li>
+<li><p>No GUI (at this time it&rsquo;s a command line program)</p></li>
 <li><p>All settings can be changed</p></li>
 </ul>
 
 
-<p>I&#8217;m currently in the application process to get my project hosted on SourceForge, but it has to be a takeover because someone had previously started a project under the same name. Hopefully I&#8217;ll be able to get it and start distributing what I have. While it&#8217;s fairly workable (I&#8217;m currently using it now for my own finances), it&#8217;s still a little bit raw in some places. So I&#8217;m continuing to work on it.</p>
+<p>I&rsquo;m currently in the application process to get my project hosted on SourceForge, but it has to be a takeover because someone had previously started a project under the same name. Hopefully I&rsquo;ll be able to get it and start distributing what I have. While it&rsquo;s fairly workable (I&rsquo;m currently using it now for my own finances), it&rsquo;s still a little bit raw in some places. So I&rsquo;m continuing to work on it.</p>
 
   
     <footer>

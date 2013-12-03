@@ -8,13 +8,14 @@
   <title>Chopped Returns (In Perl) - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/chopped-returns-in-perl/">
+  <link rel="canonical" href="http://www.goingthewongway.com/chopped-returns-in-perl">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -75,26 +76,27 @@
 
 <time datetime="2007-05-16T10:45:43-07:00" pubdate data-updated="true">May 16</time>
         
-         | <a href="#disqus_thread">Comments</a>
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Files on computers are made up of different characters that are interpreted by whatever it is that you are using.  That means that no matter what file it is, it is essentially a string of bytes that are interpreted by the program opening it.  This means that your music program tries to interpret whatever file you open with it to be conformed to some audio standards (mp3, wma, etc.).  Try to open the same file in a text editor, and you&#8217;ll find yourself looking at (apparently) junk characters.  But then you&#8217;ll realize that the file is still just a bunch of characters.</p>
+<div class="entry-content"><p>Files on computers are made up of different characters that are interpreted by whatever it is that you are using.  That means that no matter what file it is, it is essentially a string of bytes that are interpreted by the program opening it.  This means that your music program tries to interpret whatever file you open with it to be conformed to some audio standards (mp3, wma, etc.).  Try to open the same file in a text editor, and you&rsquo;ll find yourself looking at (apparently) junk characters.  But then you&rsquo;ll realize that the file is still just a bunch of characters.</p>
 
 <p>I bring this up because</p>
 
 <ol>
-<li><p>It seems as if people don&#8217;t realize this.</p></li>
-<li><p>I encountered this while writing a Perl script today.</p></li>
+<li><p> It seems as if people don&rsquo;t realize this.</p></li>
+<li><p> I encountered this while writing a Perl script today.</p></li>
 </ol>
 
 
-<p>Something else that you should read even if you don&#8217;t know what Perl is: Windows and Unix-variants (including Mac OS X and up) do not handle files the same.  I&#8217;m not talking about <a href="http://www.goingthewongway.com/2007/01/28/fanaticism/">Fanaticism</a> (because I&#8217;ve already posted about that).  Windows uses characters that are referred to as the <a href="http://en.wikipedia.org/wiki/Carriage_return">Carriage Return</a> and <a href="http://en.wikipedia.org/wiki/Line_feed">Line Feed</a> in order to represent a newline.  These names originate because of their original use in the typewriter which actually had a physical mechanism to move.  In any case, Unix-variants utilize the line feed character to distinguish its newlines.  This can obviously lead to some problems if you use the same files on both systems.</p>
+<p>Something else that you should read even if you don&rsquo;t know what Perl is: Windows and Unix-variants (including Mac OS X and up) do not handle files the same.  I&rsquo;m not talking about <a href="http://www.goingthewongway.com/2007/01/28/fanaticism/">Fanaticism</a> (because I&rsquo;ve already posted about that).  Windows uses characters that are referred to as the <a href="http://en.wikipedia.org/wiki/Carriage_return">Carriage Return</a> and <a href="http://en.wikipedia.org/wiki/Line_feed">Line Feed</a> in order to represent a newline.  These names originate because of their original use in the typewriter which actually had a physical mechanism to move.  In any case, Unix-variants utilize the line feed character to distinguish its newlines.  This can obviously lead to some problems if you use the same files on both systems.</p>
 
-<p><strong>If you don&#8217;t know what Perl is then you can fairly safely stop reading this article now because the rest won&#8217;t help you much.</strong>  I know that it was hard for me to find and I&#8217;d like to make it available if anyone else so happens to run into the same problem.</p>
+<p><strong>If you don&rsquo;t know what Perl is then you can fairly safely stop reading this article now because the rest won&rsquo;t help you much.</strong>  I know that it was hard for me to find and I&rsquo;d like to make it available if anyone else so happens to run into the same problem.</p>
 
 <p>While writing a script in Perl today, I had a seemingly strange problem where I would do some processing on my Windows machine and then transfer the file via FTP to a Unix-based server.  However I noticed that I had a string that when printed to the screen on my Windows computer would display correctly but would display incorrectly in the file put onto the server.  I could not figure this out for quite sometime because it seemed as if some of the lines were printing correctly and some were not.  Alright enough explanation.  Essentially I thought that the last character was getting chopped off in some way that I did not understand in Perl.  However it had to do with Perl assuming that the lines has both a carriage return and a line feed on the lines and then chopping them off when the file was being sent via FTP.  The fix that I ended up using was simply a one line regular expression like so (a suggestion from a co-worker):</p>
 

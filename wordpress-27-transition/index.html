@@ -8,13 +8,14 @@
   <title>Wordpress 2.7 Transition - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/wordpress-27-transition/">
+  <link rel="canonical" href="http://www.goingthewongway.com/wordpress-27-transition">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -75,24 +76,25 @@
 
 <time datetime="2008-12-12T14:44:49-08:00" pubdate data-updated="true">Dec 12</time>
         
-         | <a href="#disqus_thread">Comments</a>
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>So I think that now I&#8217;m okay after upgrading my version of Wordpress (via <a href="http://subversion.tigris.org/">subversion</a>) to 2.7.  Let me say that the new Dashboard (the part that the site owner looks at) is pretty darn nice now.  You can drag and drop things, and it has all kinds of AJAX goodness.</p>
+<div class="entry-content"><p>So I think that now I&rsquo;m okay after upgrading my version of Wordpress (via <a href="http://subversion.tigris.org/">subversion</a>) to 2.7.  Let me say that the new Dashboard (the part that the site owner looks at) is pretty darn nice now.  You can drag and drop things, and it has all kinds of AJAX goodness.</p>
 
-<p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I&#8217;d been using Brian&#8217;s Threaded Comments, and the move from that to the new baked-in threaded comments wasn&#8217;t too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
+<p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I&rsquo;d been using Brian&rsquo;s Threaded Comments, and the move from that to the new baked-in threaded comments wasn&rsquo;t too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
 
-<p>Then I realized today that my commenting isn&#8217;t working!  While using Brian&#8217;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&#8217;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&#8217;t working!  I had to realize that the &#8220;Cannot modify header information - headers already sent by &#8230;&#8221; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
+<p>Then I realized today that my commenting isn&rsquo;t working!  While using Brian&rsquo;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&rsquo;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&rsquo;t working!  I had to realize that the &ldquo;Cannot modify header information &ndash; headers already sent by &hellip;&rdquo; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
 
-<p>So if you tried to comment recently and that didn&#8217;t work for you, I apologize.</p>
+<p>So if you tried to comment recently and that didn&rsquo;t work for you, I apologize.</p>
 
-<p>But now that I think that I&#8217;m all good, I can enjoy how nice this new version is.  You won&#8217;t be able to tell because it looks the same to you, but if you&#8217;re thinking about blogging then consider <a href="http://wordpress.com/">Wordpress.com</a> (if you don&#8217;t have a server) and <a href="http://wordpress.org/">Wordpress.org</a> (if you do have your own server).</p>
+<p>But now that I think that I&rsquo;m all good, I can enjoy how nice this new version is.  You won&rsquo;t be able to tell because it looks the same to you, but if you&rsquo;re thinking about blogging then consider <a href="http://wordpress.com/">Wordpress.com</a> (if you don&rsquo;t have a server) and <a href="http://wordpress.org/">Wordpress.org</a> (if you do have your own server).</p>
 
-<p>If you have no idea what I&#8217;m talking about, then good day to you, and I hope that you&#8217;re doing well.  Cheer up, at least gas is approaching $1.50 per gallon (it was $1.66 at Costco when I got it this morning).</p>
+<p>If you have no idea what I&rsquo;m talking about, then good day to you, and I hope that you&rsquo;re doing well.  Cheer up, at least gas is approaching $1.50 per gallon (it was $1.66 at Costco when I got it this morning).</p>
 </div>
 
 

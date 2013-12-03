@@ -8,13 +8,14 @@
   <title>Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/page/62/">
+  <link rel="canonical" href="http://www.goingthewongway.com/page/62">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -79,16 +80,17 @@
 
 <time datetime="2007-04-08T19:37:06-07:00" pubdate data-updated="true">Apr  8</time>
         
-         | <a href="/i-want-to-share-this/#disqus_thread">Comments</a>
+           | <a href="/i-want-to-share-this/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/i-want-to-share-this/">Comments</a>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&#8217;t display.</p>
+  <div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&rsquo;t display.</p>
 
-<p>Most of my readers won&#8217;t care one iota about this entire post.  But I don&#8217;t post what they want to read, I post whatever I want to post!  And onward!</p>
+<p>Most of my readers won&rsquo;t care one iota about this entire post.  But I don&rsquo;t post what they want to read, I post whatever I want to post!  And onward!</p>
 
 <p>Basically I was experiencing the error where the Javascript popup would not show up for the Share This button, and I was actually getting redirected to another page. I saw that prototype.js needed to be added, but I was confused because I could see in the page source that it was being added. I also verified that wp_footer() was being called in my footer template, and I saw the akst Javascript code being appended at the bottom of the pages.</p>
 
@@ -100,7 +102,7 @@
 
 <p>Fix: Add checks in the Javascript before processing so that anything changed in the gregarious options will not affect the Javascript. I looked at the option_value for greg_social_sites, and perhaps the best way is to read that string in, process it, and then overwrite the Javascript to be output into akst.js? But that’s just an idea.</p>
 
-<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&#8217;s (which I see as highly unlikely).</p>
+<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&rsquo;s (which I see as highly unlikely).</p>
 </div>
   
   
@@ -129,34 +131,35 @@
 
 <time datetime="2007-04-06T12:15:20-07:00" pubdate data-updated="true">Apr  6</time>
         
-         | <a href="/break-the-fast-twice/#disqus_thread">Comments</a>
+           | <a href="/break-the-fast-twice/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/break-the-fast-twice/">Comments</a>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Now it&#8217;s generally understood that eating breakfast is a good thing for you.  It gets you going in the morning by providing energy, and this in turn gets your body&#8217;s metabolism to change from its &#8220;sleep&#8221; mode to its &#8220;day&#8221; mode.  And that&#8217;s good for you because the more energy you burn the more food you can consume.  So you are essentially burning calories simply by being awake rather than having to work them off through exercise.  Granted you&#8217;re not going to lose all of your excess weight, but it does help.</p>
+  <div class="entry-content"><p>Now it&rsquo;s generally understood that eating breakfast is a good thing for you.  It gets you going in the morning by providing energy, and this in turn gets your body&rsquo;s metabolism to change from its &ldquo;sleep&rdquo; mode to its &ldquo;day&rdquo; mode.  And that&rsquo;s good for you because the more energy you burn the more food you can consume.  So you are essentially burning calories simply by being awake rather than having to work them off through exercise.  Granted you&rsquo;re not going to lose all of your excess weight, but it does help.</p>
 
-<p>What I like to do is break my fast twice.  I&#8217;d like to think that it gives me double the benefits, but I am probably completely wrong about that.  That&#8217;d just be another case of justifying my actions.  So I get up in the morning and mosey my way on downstairs.  I eat a bowl of <a href="http://www.kraftfoods.com/PostCereals/hbo.htm">Honey Bunches of Oats</a> with some fresh fruit (either bananas (cheap from <a href="http://www.costco.com">Costco</a>!) or frozen blueberries).  That happens at around 8:15 AM every weekday.  That&#8217;s pretty normal right?  I&#8217;m breaking that fast from about 9 PM the previous night until 8:15 AM that day.  That&#8217;s a hefty 11 hours and 15 minutes fast every single day!</p>
+<p>What I like to do is break my fast twice.  I&rsquo;d like to think that it gives me double the benefits, but I am probably completely wrong about that.  That&rsquo;d just be another case of justifying my actions.  So I get up in the morning and mosey my way on downstairs.  I eat a bowl of <a href="http://www.kraftfoods.com/PostCereals/hbo.htm">Honey Bunches of Oats</a> with some fresh fruit (either bananas (cheap from <a href="http://www.costco.com">Costco</a>!) or frozen blueberries).  That happens at around 8:15 AM every weekday.  That&rsquo;s pretty normal right?  I&rsquo;m breaking that fast from about 9 PM the previous night until 8:15 AM that day.  That&rsquo;s a hefty 11 hours and 15 minutes fast every single day!</p>
 
-<p>The thing is&#8230;</p>
+<p>The thing is&hellip;</p>
 
-<p>I also break the fast from 8:25 AM (after I finish the cereal) to approximately 11 AM.  That&#8217;s a not-quite-as-hefty 2 hours and 45 minutes fast.  But the thing is&#8230;I&#8217;m fasting twice <strong>five times a week!</strong></p>
+<p>I also break the fast from 8:25 AM (after I finish the cereal) to approximately 11 AM.  That&rsquo;s a not-quite-as-hefty 2 hours and 45 minutes fast.  But the thing is&hellip;I&rsquo;m fasting twice <strong>five times a week!</strong></p>
 
 <p>Some people laugh at me about that.</p>
 
 <p>Okay everyone that I tell that to laughs at me about that.</p>
 
-<p>Okay <a href="http://www.adropofwater.net">some people</a> say that I eat first breakfast and second breakfast.  And the aforementioned people, whoever they might be, also say that I&#8217;m like a hobbit.  Because (truth be told) I also have second lunch in the afternoon.</p>
+<p>Okay <a href="http://www.adropofwater.net">some people</a> say that I eat first breakfast and second breakfast.  And the aforementioned people, whoever they might be, also say that I&rsquo;m like a hobbit.  Because (truth be told) I also have second lunch in the afternoon.</p>
 
-<p>Finally I must admit that I actually don&#8217;t eat as much as I was for awhile because <a href="http://www.goingthewongway.com/2007/03/15/separate-yourself/">I have been setting aside time and closing out the world</a> in order to work more efficiently.</p>
+<p>Finally I must admit that I actually don&rsquo;t eat as much as I was for awhile because <a href="http://www.goingthewongway.com/2007/03/15/separate-yourself/">I have been setting aside time and closing out the world</a> in order to work more efficiently.</p>
 
 <hr />
 
 <p>NOTICE TO ANYONE IN THE ORANGE AREA NEAR THE 55-91 JUNCTION:</p>
 
-<p><a href="http://www.chick-fil-a.com/Home.asp">Chick-Fil-A</a> is having <strong>free</strong> breakfasts on Fridays for the next few weeks in order to spread the news about their <a href="http://www.chick-fil-a.com/cfa.asp?template=map&amp;transaction=locMap&amp;recordId=1892">new location</a>!  I swung by there today and got myself some <strong>free</strong> <a href="http://www.chick-fil-a.com/MenuItems.asp?MenuItem=threePcMinis">Chick-n-Minis</a>!  I&#8217;m spreading the love for Chick-Fil-A because their food is good, they close on Sundays to observe the Sabbath, and they are giving out <strong>free</strong> breakfast right now on Fridays.  And that&#8217;s niiiice.</p>
+<p><a href="http://www.chick-fil-a.com/Home.asp">Chick-Fil-A</a> is having <strong>free</strong> breakfasts on Fridays for the next few weeks in order to spread the news about their <a href="http://www.chick-fil-a.com/cfa.asp?template=map&amp;transaction=locMap&amp;recordId=1892">new location</a>!  I swung by there today and got myself some <strong>free</strong> <a href="http://www.chick-fil-a.com/MenuItems.asp?MenuItem=threePcMinis">Chick-n-Minis</a>!  I&rsquo;m spreading the love for Chick-Fil-A because their food is good, they close on Sundays to observe the Sabbath, and they are giving out <strong>free</strong> breakfast right now on Fridays.  And that&rsquo;s niiiice.</p>
 </div>
   
   
@@ -185,20 +188,21 @@
 
 <time datetime="2007-04-04T21:51:07-07:00" pubdate data-updated="true">Apr  4</time>
         
-         | <a href="/a-possibly-new-idea-for-american-idol/#disqus_thread">Comments</a>
+           | <a href="/a-possibly-new-idea-for-american-idol/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/a-possibly-new-idea-for-american-idol/">Comments</a>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>So I&#8217;m not sure if it is indeed a new idea, but I recently have been thinking that I&#8217;d like the producers of <a href="http://www.americanidol.com/">American Idol</a> to consider a new idea.  After watching the show tonight as well as thinking about <a href="http://www.myspace.com/starvationforsanjaya">extreme measures to vote certain contestants</a>.  My idea is they should implement a new system for their voting.</p>
+  <div class="entry-content"><p>So I&rsquo;m not sure if it is indeed a new idea, but I recently have been thinking that I&rsquo;d like the producers of <a href="http://www.americanidol.com/">American Idol</a> to consider a new idea.  After watching the show tonight as well as thinking about <a href="http://www.myspace.com/starvationforsanjaya">extreme measures to vote certain contestants</a>.  My idea is they should implement a new system for their voting.</p>
 
-<p>They need to allow for the ability to eliminate the bad people, not <strong>just</strong> vote for the best.  The bad thing about the current system is that you get people like <a href="http://www.americanidol.com/contestants/season6/sanjaya_malakar/">Sanjaya Malakar</a> who lots and lots of people want off, but can&#8217;t <em>really</em> do anything about it except starve.</p>
+<p>They need to allow for the ability to eliminate the bad people, not <strong>just</strong> vote for the best.  The bad thing about the current system is that you get people like <a href="http://www.americanidol.com/contestants/season6/sanjaya_malakar/">Sanjaya Malakar</a> who lots and lots of people want off, but can&rsquo;t <em>really</em> do anything about it except starve.</p>
 
-<p>To allow for this, it would be so simple for the producers to modify.  They would add another phone number for each contestant that would be to vote against a particular person.  Then they could simply subtract the negative votes from the positive votes.  I don&#8217;t see how this could possibly be a bad thing for the show.  I still think that the best person will end up winning.  And just like the current system, a very large group of people still have the ability to circumvent the system if they&#8217;re organized and thorough.  It seems like a good idea to me.  But a lot of things have seemed like a good idea to me so that&#8217;s nothing new.</p>
+<p>To allow for this, it would be so simple for the producers to modify.  They would add another phone number for each contestant that would be to vote against a particular person.  Then they could simply subtract the negative votes from the positive votes.  I don&rsquo;t see how this could possibly be a bad thing for the show.  I still think that the best person will end up winning.  And just like the current system, a very large group of people still have the ability to circumvent the system if they&rsquo;re organized and thorough.  It seems like a good idea to me.  But a lot of things have seemed like a good idea to me so that&rsquo;s nothing new.</p>
 
-<p>However if they implemented it, I know that I&#8217;d be calling to vote off Sanjaya.  And I don&#8217;t even call at all now.</p>
+<p>However if they implemented it, I know that I&rsquo;d be calling to vote off Sanjaya.  And I don&rsquo;t even call at all now.</p>
 </div>
   
   
@@ -227,20 +231,21 @@
 
 <time datetime="2007-04-03T12:42:01-07:00" pubdate data-updated="true">Apr  3</time>
         
-         | <a href="/trying-out-some-advertisements/#disqus_thread">Comments</a>
+           | <a href="/trying-out-some-advertisements/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/trying-out-some-advertisements/">Comments</a>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Now I don&#8217;t want to be a sneaky bugger (even though some might say that about me anyways), so I will tell you upfront that I&#8217;m trying out Google AdSense.</p>
+  <div class="entry-content"><p>Now I don&rsquo;t want to be a sneaky bugger (even though some might say that about me anyways), so I will tell you upfront that I&rsquo;m trying out Google AdSense.</p>
 
-<p>Additionally I have added a site search at the top that will allow you to not only search the web, but it will also allow you to search only my site!  I think that&#8217;s a fairly useful feature if you were so inclined to wonder about what whether I&#8217;ve written about a certain topic.</p>
+<p>Additionally I have added a site search at the top that will allow you to not only search the web, but it will also allow you to search only my site!  I think that&rsquo;s a fairly useful feature if you were so inclined to wonder about what whether I&rsquo;ve written about a certain topic.</p>
 
-<p>Now why would I add these features?  Well I&#8217;ll also be honest with you about something else.  I actually don&#8217;t hardly ever click on ads (even the nice text ads that aren&#8217;t obnoxious).  But I also have realized that they&#8217;re not too bad to click on.  It doesn&#8217;t hurt me to look at an advertisement site (especially when it actually <strong>is</strong> related to what I&#8217;m looking at).  Anyways so if nothing ever comes of it, then that&#8217;s fine.  But I figured that I should stop wondering if I could make enough money blogging, and I should just try it out.  Google ads are generally pretty good about finding out about content and delivering meaningful ads.  I can tentatively vouch for that.</p>
+<p>Now why would I add these features?  Well I&rsquo;ll also be honest with you about something else.  I actually don&rsquo;t hardly ever click on ads (even the nice text ads that aren&rsquo;t obnoxious).  But I also have realized that they&rsquo;re not too bad to click on.  It doesn&rsquo;t hurt me to look at an advertisement site (especially when it actually <strong>is</strong> related to what I&rsquo;m looking at).  Anyways so if nothing ever comes of it, then that&rsquo;s fine.  But I figured that I should stop wondering if I could make enough money blogging, and I should just try it out.  Google ads are generally pretty good about finding out about content and delivering meaningful ads.  I can tentatively vouch for that.</p>
 
-<p>Additionally, I have also added a bunch of support buttons to my site.  I think that although they generally detract from the main purpose of the site (which is to post content from my mind), they warrant their place.  Each of these components are either important to the support of this blog or to my personal usage.  They are simply a sign of things that I approve of.  These are totally unrelated to the advertisements that I&#8217;m trying out, and all are freely available for you to use.</p>
+<p>Additionally, I have also added a bunch of support buttons to my site.  I think that although they generally detract from the main purpose of the site (which is to post content from my mind), they warrant their place.  Each of these components are either important to the support of this blog or to my personal usage.  They are simply a sign of things that I approve of.  These are totally unrelated to the advertisements that I&rsquo;m trying out, and all are freely available for you to use.</p>
 
 <p>Feedback on these topics as well as on any other topic on this site is always welcome.</p>
 </div>
@@ -271,7 +276,8 @@
 
 <time datetime="2007-04-02T11:30:37-07:00" pubdate data-updated="true">Apr  2</time>
         
-         | <a href="/precocious/#disqus_thread">Comments</a>
+           | <a href="/precocious/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/precocious/">Comments</a>
         
       </p>
     
@@ -290,7 +296,7 @@
 
 <h4>Comments:</h4>
 
-<p>This is definitely one of those words that is very descriptive of what you&#8217;re trying to say.  You can try to explain what you mean with this word in many more words, but this word displays much more brevity.  And that is always good.</p>
+<p>This is definitely one of those words that is very descriptive of what you&rsquo;re trying to say.  You can try to explain what you mean with this word in many more words, but this word displays much more brevity.  And that is always good.</p>
 </div>
   
   

@@ -8,13 +8,14 @@
   <title>DNS Confusion - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/dns-confusion/">
+  <link rel="canonical" href="http://www.goingthewongway.com/dns-confusion">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -75,18 +76,19 @@
 
 <time datetime="2007-02-02T09:38:15-08:00" pubdate data-updated="true">Feb  2</time>
         
-         | <a href="#disqus_thread">Comments</a>
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>So last night I encountered a fairly common error.  For some reason (I still don&#8217;t know why) the Internet connection at home was not working.  Now this meant that I would have to renew the IP address (and thereafter update the DNS to reflect this change).  I had done this at least once before so it was pretty straightforward.</p>
+<div class="entry-content"><p>So last night I encountered a fairly common error.  For some reason (I still don&rsquo;t know why) the Internet connection at home was not working.  Now this meant that I would have to renew the IP address (and thereafter update the DNS to reflect this change).  I had done this at least once before so it was pretty straightforward.</p>
 
-<p>HOWEVER, after changing the host record on <a href="http://www.namecheap.com">namecheap&#8217;s</a> site, the DNS would still not redirect me to the correct IP address (my own).  Bah, so I figured that there was a refresh problem and just went to sleep.  (I also turned off the server as I do every night in case you might be wondering why you can&#8217;t get to it at night).  I woke up this morning and checked it out to see what was up.  Still no change.  How could this be?!  I tried updating it and checking it over and over.  I finally realized something was terribly wrong.  I thought that perhaps it had to do with submitting my site to google&#8217;s index so I tried removing it.  I have since realized that probably has nothing to do with it.  Then I came to the conclusion that namecheap might not be as optimal as previously thought.  That&#8217;s too bad.  But no love lost since it&#8217;s not a big deal.  Thus I transferred the DNS services to <a href="http://zoneedit.com/">zoneedit</a> which has an ugly site but has good reviews.  They took a little while (~30 min) to transfer the DNS as well as update the host record.  Pretty good.  We&#8217;ll see how it holds up.</p>
+<p>HOWEVER, after changing the host record on <a href="http://www.namecheap.com">namecheap&rsquo;s</a> site, the DNS would still not redirect me to the correct IP address (my own).  Bah, so I figured that there was a refresh problem and just went to sleep.  (I also turned off the server as I do every night in case you might be wondering why you can&rsquo;t get to it at night).  I woke up this morning and checked it out to see what was up.  Still no change.  How could this be?!  I tried updating it and checking it over and over.  I finally realized something was terribly wrong.  I thought that perhaps it had to do with submitting my site to google&rsquo;s index so I tried removing it.  I have since realized that probably has nothing to do with it.  Then I came to the conclusion that namecheap might not be as optimal as previously thought.  That&rsquo;s too bad.  But no love lost since it&rsquo;s not a big deal.  Thus I transferred the DNS services to <a href="http://zoneedit.com/">zoneedit</a> which has an ugly site but has good reviews.  They took a little while (~30 min) to transfer the DNS as well as update the host record.  Pretty good.  We&rsquo;ll see how it holds up.</p>
 
-<p>So in sum, we&#8217;re back online!  :D</p>
+<p>So in sum, we&rsquo;re back online!  :D</p>
 </div>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/life/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-11-29T21:15:05-08:00</updated>
+  <updated>2013-12-02T23:28:43-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -44,7 +44,7 @@ for item in shopping_cart_items:
     user.buy(item)
 </code></pre>
 
-<p>if gender is 'Male':</p>
+<p>if gender is &lsquo;Male&rsquo;:</p>
 
 <pre><code>shop_fast(user, items)
 </code></pre>
@@ -69,7 +69,7 @@ for item in shopping_cart_items:
 
 <p>#</p>
 
-<h1>How our words affect our interaction with others. You're only as good as your word!</h1>
+<h1>How our words affect our interaction with others. You&rsquo;re only as good as your word!</h1>
 
 <p>#</p>
 
@@ -83,7 +83,7 @@ for item in shopping_cart_items:
 
 <h1>Alter trust with your words</h1>
 
-<h1>Trust quotient is a quantifier for one person's trust for another</h1>
+<h1>Trust quotient is a quantifier for one person&rsquo;s trust for another</h1>
 
 <p>TRUST_REWARD = 1
 TRUST_PENALTY = 15</p>
@@ -116,11 +116,11 @@ TRUST_PENALTY = 15</p>
     <id>http://www.goingthewongway.com/the-telephone-problem</id>
     <content type="html"><![CDATA[<p>The game <a href="http://en.wikipedia.org/wiki/Chinese_whispers">telephone</a> (although apparently its original name is a bit more offensive!) is a simple game that teaches us a valuable lesson.  From it we learn that people are awful at accurate transmission of information.  In the case of the game, it leads to amusement and fun when finding out how quickly and drastically words will change.</p>
 
-<p>However the game is not as funny in its everyday depictions.  We reference people who reference other people who read about some research piece in a magazine.  Other people pass along hearsay as common knowledge, and we grow to have a distorted view of truth.  We might see these everyday ranging from <a href="http://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die">common myths about food</a> to <a href="http://www.boundless.org/2005/articles/a0001126.cfm">common myths about (unmarried couples) living together</a>.  Despite our best intentions at accuracy there is something that we will never learn from the telephone game as well as we should - we are just not able to effectively relate information.  It is somehow beyond our grasp.  We tend toward chaos simply because we are human.</p>
+<p>However the game is not as funny in its everyday depictions.  We reference people who reference other people who read about some research piece in a magazine.  Other people pass along hearsay as common knowledge, and we grow to have a distorted view of truth.  We might see these everyday ranging from <a href="http://lifehacker.com/5847591/10-stubborn-food-myths-that-just-wont-die">common myths about food</a> to <a href="http://www.boundless.org/2005/articles/a0001126.cfm">common myths about (unmarried couples) living together</a>.  Despite our best intentions at accuracy there is something that we will never learn from the telephone game as well as we should &ndash; we are just not able to effectively relate information.  It is somehow beyond our grasp.  We tend toward chaos simply because we are human.</p>
 
 <p>(Then again that is why coming upon <a href="http://en.wikipedia.org/wiki/Dead_Sea_Scrolls">exceptions </a>to this rule is so amazing!)</p>
 
-<p>Lesson to be learned?  You cannot relay information well so do it more judiciously.  That is, information that you do not relay does not have the opportunity to prove that you are speaking falsely.  Don't trust me?  There are more <a href="http://www.biblegateway.com/passage/?search=Proverbs%2017:28&amp;version=NASB">reputable sources</a>.</p>
+<p>Lesson to be learned?  You cannot relay information well so do it more judiciously.  That is, information that you do not relay does not have the opportunity to prove that you are speaking falsely.  Don&rsquo;t trust me?  There are more <a href="http://www.biblegateway.com/passage/?search=Proverbs%2017:28&amp;version=NASB">reputable sources</a>.</p>
 ]]></content>
   </entry>
   
@@ -137,7 +137,7 @@ TRUST_PENALTY = 15</p>
 
 <p>Now looking back on times long gone, I realize how difficult it would have been to predict how my life would have turned out.  Even if things had been planned or more effort would have been invested, I know that it would have been quite difficult to overcome what has turned out to be the biggest reason for all of the change: <strong>life</strong>.</p>
 
-<p>Proofreading this post I have come to the conclusion that this could have been written by a lovesick high school kid secretly talking about some girl he had a crush on who just stopped talking to him even though all indications were that she liked him.  Not that I have that experience, I'm just saying.</p>
+<p>Proofreading this post I have come to the conclusion that this could have been written by a lovesick high school kid secretly talking about some girl he had a crush on who just stopped talking to him even though all indications were that she liked him.  Not that I have that experience, I&rsquo;m just saying.</p>
 ]]></content>
   </entry>
   
@@ -156,7 +156,7 @@ TRUST_PENALTY = 15</p>
 <li><p>I set out on a side project because <strong>I want to learn</strong> something.  Maybe I want to learn a new programming language.  Maybe I just want to go through the experience of building something in particular.  After all, <a href="http://www.goingthewongway.com/366/experience-matters/">experience matters</a>.  And I want that experience.</p></li>
 <li><p>Outsourcing something essentially <strong>tramples upon the lower state of others</strong>.  While I am sure that I do this in an indirect way (e.g., by buying anything made in China), it still seems worse to me to directly order other people to do things.</p></li>
 <li><p>When I do something myself, I get this odd <strong>satisfaction from doing something myself</strong>.  I do not imagine that everyone else feels the same way.  In fact I would guess that most other people just want whatever it is to work.  But I love being able to look at something (even if it is imperfect) and knowing that I had a huge hand in doing it.</p></li>
-<li><p>There seem to be a myriad of reasons why working with people in another country (or even other people in general) would be difficult.  This includes things like <strong>language, time difference, and general misunderstandings</strong>.  As the sayings goes: "If you want something done right you have got to do it yourself."  Because trusting others to do things that you want to do is not ever going to work out just as you have planned.</p></li>
+<li><p>There seem to be a myriad of reasons why working with people in another country (or even other people in general) would be difficult.  This includes things like <strong>language, time difference, and general misunderstandings</strong>.  As the sayings goes: &ldquo;If you want something done right you have got to do it yourself."  Because trusting others to do things that you want to do is not ever going to work out just as you have planned.</p></li>
 </ul>
 
 

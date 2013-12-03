@@ -8,13 +8,14 @@
   <title>I Want To 'Share This'! - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
-  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   
-  <link rel="canonical" href="http://www.goingthewongway.com/i-want-to-share-this/">
+  <link rel="canonical" href="http://www.goingthewongway.com/i-want-to-share-this">
   <link href="/favicon.ico" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="http://feeds.goingthewongway.com/GoingTheWongWay" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
@@ -75,16 +76,17 @@
 
 <time datetime="2007-04-08T19:37:06-07:00" pubdate data-updated="true">Apr  8</time>
         
-         | <a href="#disqus_thread">Comments</a>
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&#8217;t display.</p>
+<div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&rsquo;t display.</p>
 
-<p>Most of my readers won&#8217;t care one iota about this entire post.  But I don&#8217;t post what they want to read, I post whatever I want to post!  And onward!</p>
+<p>Most of my readers won&rsquo;t care one iota about this entire post.  But I don&rsquo;t post what they want to read, I post whatever I want to post!  And onward!</p>
 
 <p>Basically I was experiencing the error where the Javascript popup would not show up for the Share This button, and I was actually getting redirected to another page. I saw that prototype.js needed to be added, but I was confused because I could see in the page source that it was being added. I also verified that wp_footer() was being called in my footer template, and I saw the akst Javascript code being appended at the bottom of the pages.</p>
 
@@ -96,7 +98,7 @@
 
 <p>Fix: Add checks in the Javascript before processing so that anything changed in the gregarious options will not affect the Javascript. I looked at the option_value for greg_social_sites, and perhaps the best way is to read that string in, process it, and then overwrite the Javascript to be output into akst.js? But that’s just an idea.</p>
 
-<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&#8217;s (which I see as highly unlikely).</p>
+<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&rsquo;s (which I see as highly unlikely).</p>
 </div>
 
 
