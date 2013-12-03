@@ -8,12 +8,8 @@ ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
-<<<<<<< HEAD
 deploy_default = "push"
-=======
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
->>>>>>> 64ba60322571d0735a3220cdf8dba657703f64da
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
