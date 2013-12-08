@@ -2,11 +2,12 @@
 alias:
 - /currently-reading/8/index.html
 - /2007/01/25/currently-reading/index.html
+- /currently-reading/index.html
 comments: true
 date: 2007-01-25 15:25:13
 layout: page
-slug: currently-reading
-title: Reading
+slug: atlas-shrugged-by-ayn-rand
+title: Atlas Shrugged by Ayn Rand
 wordpress_id: 8
 ---
 
