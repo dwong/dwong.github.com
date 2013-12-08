@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/life/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2013-12-03T21:38:12-08:00</updated>
+  <updated>2013-12-07T22:11:24-08:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[When Selfishness Surpasses Logic]]></title>
+    <link href="http://www.goingthewongway.com/when-selfishness-surpasses-logic/"/>
+    <updated>2013-12-07T11:10:32-08:00</updated>
+    <id>http://www.goingthewongway.com/when-selfishness-surpasses-logic</id>
+    <content type="html"><![CDATA[<p>I was out for lunch on a Sunday afternoon in Chinatown.  The restaurant that my group went to was mostly full, but we were able to get a table in a back room.  It wasn&rsquo;t ideally placed since it was awkwardly positioned relative to another large table, but it was definitely better than having to wait.  I sat near the large table with my back to it and at some point later on in the meal my lunch mates indicated for me to look behind me.  Lo and behold there was an elderly Chinese woman sitting with her chair positioned so that I could not move back any further.  This wouldn&rsquo;t be a problem if that&rsquo;s what the proximity of our tables required, but she was so far from her table that she couldn&rsquo;t touch it if she wanted to.  In fact I&rsquo;m not sure if she could have touched the people who were sitting at the table!  She had taken it upon herself to reserve as much space for her table as possible.  Oh fantastic.</p>
+
+<p>As we concluded and left our lunch, my group discussed this.  What amazed us most was the fact that she would make herself so uncomfortable to do what she did.  In the end, she was able to reserve some extra breathing room for her lunch mates even though she had put herself out of sorts.  However, the extra breathing room is pretty useless if you already have plenty of breathing room!  Ultimately I am losing, she is losing, and her tablemates are not really gaining anything of use.</p>
+
+<p>In a small personal context this doesn&rsquo;t make sense.  Nor does it in a larger social sense.  Getting cheap/free healthcare is going to cost all of the rest of the people more (whether reduced benefits or higher cost).  For you to get more, others must get less.  There is no magic fountain of money and benefits.  Would you pursue more if ultimately getting more meant that everyone got nothing?  What if everything collapsed because everyone was getting something for free?  Was it worth it?  Is your pension worth it if governments go bankrupt?  Is it even worth anything at that point?</p>
+
+<p>Take what you&rsquo;re doing and think about the consequences.  You might not like what you find.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shopping Is Fun, Really!]]></title>
@@ -138,29 +153,6 @@ TRUST_PENALTY = 15</p>
 <p>Now looking back on times long gone, I realize how difficult it would have been to predict how my life would have turned out.  Even if things had been planned or more effort would have been invested, I know that it would have been quite difficult to overcome what has turned out to be the biggest reason for all of the change: <strong>life</strong>.</p>
 
 <p>Proofreading this post I have come to the conclusion that this could have been written by a lovesick high school kid secretly talking about some girl he had a crush on who just stopped talking to him even though all indications were that she liked him.  Not that I have that experience, I&rsquo;m just saying.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I Would Not Outsource My Projects]]></title>
-    <link href="http://www.goingthewongway.com/i-would-not-outsource-my-projects/"/>
-    <updated>2011-04-19T01:22:53-07:00</updated>
-    <id>http://www.goingthewongway.com/i-would-not-outsource-my-projects</id>
-    <content type="html"><![CDATA[<p>Have you heard of outsourcing?  Besides the TV show, there is much to the issue of outsourcing.  At the heart of it, outsourcing basically means getting someone else to do the work.  When used in terms of software, it usually refers to having someone overseas in India or China write the code according to what the desired behavior is.  For the past decade or so there has been talk (and more than talk) about how all of the software created is going to be outsourced rather than done in America.  In fact I remember during my undergraduate studies there was a survey taken of my class to find out whether talk of the outsourcing of our future careers scared us into going into other fields.  At the time it did not seem too pressing of an issue.  Maybe it is because we were not aware enough of what was really going on in the industry yet.  In any case, the reason that all of the outsourcing was talked about is basically because  American computer programmers are much more expensive than those in other countries.</p>
-
-<p>So what does this mean to me (or you) unless you are getting laid off as your work is being moved overseas?  I think it still is quite relevant.  Because it is not just losing a job that causes me to stop.  It is really the fact that I have seen people purposely choose to outsource their own projects!   In their new ventures they have opted to outsource the programming to some other group or country.  As for me, though, I do not think that I would ever outsource my projects.</p>
-
-<p>Reasons why I would not outsource my projects:</p>
-
-<ul>
-<li><p>I set out on a side project because <strong>I want to learn</strong> something.  Maybe I want to learn a new programming language.  Maybe I just want to go through the experience of building something in particular.  After all, <a href="http://www.goingthewongway.com/366/experience-matters/">experience matters</a>.  And I want that experience.</p></li>
-<li><p>Outsourcing something essentially <strong>tramples upon the lower state of others</strong>.  While I am sure that I do this in an indirect way (e.g., by buying anything made in China), it still seems worse to me to directly order other people to do things.</p></li>
-<li><p>When I do something myself, I get this odd <strong>satisfaction from doing something myself</strong>.  I do not imagine that everyone else feels the same way.  In fact I would guess that most other people just want whatever it is to work.  But I love being able to look at something (even if it is imperfect) and knowing that I had a huge hand in doing it.</p></li>
-<li><p>There seem to be a myriad of reasons why working with people in another country (or even other people in general) would be difficult.  This includes things like <strong>language, time difference, and general misunderstandings</strong>.  As the sayings goes: &ldquo;If you want something done right you have got to do it yourself."  Because trusting others to do things that you want to do is not ever going to work out just as you have planned.</p></li>
-</ul>
-
-
-<p>While people can (obviously) do whatever they want with their projects, I am pretty sure that I would not do such a thing.  In fact it flies in the face of who I want to be.</p>
 ]]></content>
   </entry>
   
