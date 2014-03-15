@@ -16,7 +16,7 @@ description: Derek Wong's web log
 date_format: "%b %e"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.goingthewongway.com/GoingTheWongWay
+subscribe_rss: http://go.gtww.net/1kv0bNj #http://feeds.goingthewongway.com/GoingTheWongWay
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
