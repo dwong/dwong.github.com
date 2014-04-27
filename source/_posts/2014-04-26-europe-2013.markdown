@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Europe 2013"
+date: 2014-04-26 22:52:12 -0700
+comments: true
+categories: 
+- Pictures
+---
+Check out the full [Europe 2013 gallery](http://go.gtww.net/1mOZOky)
+
+<div class="galleria">
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-1_b94232c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-1_17b9.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-2_0304787.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-2_b396.jpg" height="40" width="34"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-3_3db290a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-3_ecc4.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-4_0e8fd9a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-4_c666.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-5_962e67f.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-5_946e.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-6_88a588b.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-6_e128.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-11_be849db.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-11_ec13.jpg" height="40" width="27"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-15_a59df88.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-15_aa4e.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-17_d6d30da.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-17_24a5.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-22_ef2872e.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-22_e180.jpg" height="40" width="27"/></a>
+<a href="http://img.gtww.net/2013/06_Europe/aab7/europe-27_fc2c80a.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2013/06_Europe/aab7/Thumbs/europe-27_edbd.jpg" height="38" width="60"/></a>
+</div>
