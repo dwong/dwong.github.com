@@ -66,6 +66,152 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/interesting-dates-rule/">Interesting Dates Rule</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+<time datetime="2009-08-21T01:19:45-07:00" pubdate data-updated="true">Aug 21</time>
+        
+           | <a href="/interesting-dates-rule/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/interesting-dates-rule/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="c"># Marriage_Dating.py</span>
+</span><span class='line'><span class="c">#</span>
+</span><span class='line'><span class="c"># A better way of dating with the purpose of getting married</span>
+</span><span class='line'><span class="c">#</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">too_long</span> <span class="o">=</span> <span class="mi">730</span> <span class="c"># days, which is 2 years</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">while</span> <span class="n">you</span><span class="o">.</span><span class="n">engaged</span> <span class="o">==</span> <span class="bp">False</span><span class="p">:</span>
+</span><span class='line'>    <span class="c"># What state are you in?</span>
+</span><span class='line'>    <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">==</span> <span class="bp">False</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">days_dating</span> <span class="o">=</span> <span class="mi">0</span>
+</span><span class='line'>        <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">&#39;PERSON&#39;</span><span class="p">)</span>
+</span><span class='line'>            <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">True</span>
+</span><span class='line'>            <span class="n">other_person</span> <span class="o">=</span> <span class="n">person_of_opposite_sex</span><span class="p">()</span>
+</span><span class='line'>    <span class="k">else</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">days_dating</span> <span class="o">+=</span> <span class="mi">1</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c"># Date day, hooray!</span>
+</span><span class='line'>    <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">have</span><span class="p">(</span><span class="s">&#39;DATE&#39;</span><span class="p">):</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="c"># Here&#39;s the juice</span>
+</span><span class='line'>        <span class="k">if</span> <span class="n">dating</span><span class="o">.</span><span class="n">purpose</span> <span class="o">==</span> <span class="s">&#39;MARRIAGE&#39;</span><span class="p">:</span>
+</span><span class='line'>            <span class="n">result</span> <span class="o">=</span> <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;DATE&#39;</span><span class="p">,</span> <span class="s">&#39;INTERESTING&#39;</span><span class="p">,</span> <span class="n">other_person</span><span class="p">)</span>
+</span><span class='line'>            <span class="k">if</span> <span class="n">days_dating</span> <span class="o">&gt;=</span> <span class="n">too_long</span><span class="p">:</span>
+</span><span class='line'>                <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">False</span>
+</span><span class='line'>        <span class="k">else</span><span class="p">:</span>
+</span><span class='line'>            <span class="n">result</span> <span class="o">=</span> <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;DATE&#39;</span><span class="p">,</span> <span class="s">&#39;BORING&#39;</span><span class="p">,</span> <span class="n">other_person</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="c"># Process the result of the date</span>
+</span><span class='line'>        <span class="k">if</span> <span class="n">result</span> <span class="o">==</span> <span class="s">&#39;WELL&#39;</span><span class="p">:</span>
+</span><span class='line'>            <span class="k">pass</span> <span class="c"># Just keep on going on those dates!</span>
+</span><span class='line'>        <span class="k">elif</span> <span class="n">result</span> <span class="o">==</span> <span class="s">&#39;ENGAGED&#39;</span><span class="p">:</span>
+</span><span class='line'>            <span class="n">you</span><span class="o">.</span><span class="n">engaged</span> <span class="o">=</span> <span class="bp">True</span>
+</span><span class='line'>        <span class="k">else</span><span class="p">:</span>
+</span><span class='line'>            <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">False</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="c"># Every other day of your (obviously) interesting life</span>
+</span><span class='line'>    <span class="k">else</span><span class="p">:</span>
+</span><span class='line'>        <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;WORK&#39;</span><span class="p">)</span>
+</span><span class='line'>        <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;HOME&#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;WEDDING&#39;</span><span class="p">)</span>
+</span><span class='line'><span class="n">other_person</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">&#39;WEDDING&#39;</span><span class="p">)</span>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">married</span> <span class="o">=</span> <span class="bp">True</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">other_person</span><span class="o">.</span><span class="n">married</span> <span class="o">=</span> <span class="bp">True</span>
+</span><span class='line'><span class="n">you</span><span class="o">.</span><span class="n">celebrate</span><span class="p">()</span>
+</span><span class='line'><span class="n">other_person</span><span class="o">.</span><span class="n">celebrate</span><span class="p">()</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h4>README</h4>
+
+<p>Here&rsquo;s some help for understanding this snippet of Python programming code.  While you are unmarried, you are either dating someone or you are not.  If you&rsquo;re not dating and happen to find someone that you want to date, then lucky you!  The next categorization is you are either actively pursuing marriage or you are not.  If you are, I think that you should want to go on interesting dates.</p>
+
+<p>Life isn&rsquo;t dinner and a movie.  Life is crazy and uncertain.  It&rsquo;s hard and difficult.  Don&rsquo;t you want to see how the person that you might spend the rest of your life with reacts?  When they&rsquo;re fording a river, do they get angry and upset with you?  When you&rsquo;re lost in the wilderness, do they get upset and frustrated?  When you get frustrated with them, do they snap back?  Find the worst in the person.  Look for it as hard as you possibly can.  Because if you can handle the worst, then you can definitely handle the best.</p>
+
+<p>If you aren&rsquo;t as actively pursuing marriage then enjoy your dinner and movie.</p>
+
+<p>And if you&rsquo;re not dating then good luck with being on your own and all of the issues entailed in CT&rsquo;s <a href="http://www.christianitytoday.com/ct/2009/august/16.22.html">The Case For Early Marriage</a>.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/unions-will-get-you-for-sure/">Unions Will Get You for Sure</a></h1>
     
     
@@ -311,49 +457,6 @@ Running on sand or grass would definitely be more comfortable, but it&rsquo;s re
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/do-it-arnold/">Do It, Arnold</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-<time datetime="2009-07-01T01:14:13-07:00" pubdate data-updated="true">Jul  1</time>
-        
-           | <a href="/do-it-arnold/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/do-it-arnold/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>The whole situation with the California budget crisis is ridiculous.  It is looking very likely that <a href="http://www.reuters.com/article/topNews/idUSTRE55T7E120090630">California will have to issue IOUs</a> as the new fiscal year rolls around.  How did we get into this pickle?  The recession!  The decreased revenue from falling property taxes and lack of state income taxes from those who are not working has left the Golden State in a huge predicament.  $24.3 BILLION??  That is ridiculous.</p>
-
-<p>In the special election on May 19, 2009, the people of this state voted against the increased taxes that were proposed.  I am a fairly modest supporter of our <a href="http://en.wikipedia.org/wiki/Arnold_Schwarzenegger">Governator</a> as he is standing against the tide.  I agree with his observation that the people of California are sick and tired of living in the most taxed state of the United States of America!  Even though he has not always been my favorite politician (really who is?), I am glad that he is attempting to stand for what he thinks that the people want.</p>
-
-<p>Democratic state politicians on the other hard are, inexplicably, ridiculous.  While they, too, are trying to stand for what they think that the people want, they are doing it in a way that is illogical.  From trying to find loopholes to pass the budget with a simple majority (since they can&rsquo;t pass what they want without Republican support) to trying to pass tax increases along with budget cuts, they are not making the process extremely difficult.  They are still trying to get theirs while seeming to not understand what basic tasks they need to do in order to get the state&rsquo;s finances in order.</p>
-
-<p>Let us put it simply: California <strong>needs</strong> to cut its costs.  It doesn&rsquo;t have the money and at this point it is not reasonable to increase the taxes that it imposes on its population.  At some point people are going to get tired of paying so much for the privilege of wonderful weather (and horrible smog).  I wonder if the politicians know this.  Maybe good old Mr. Olympia himself knows.</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page/18/">&larr; Older</a>
@@ -381,6 +484,10 @@ Running on sand or grass would definitely be more comfortable, but it&rsquo;s re
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/europe-2013/">Europe 2013</a>
+      </li>
+    
+      <li class="post">
         <a href="/do-you-believe-in-luck/">Do You Believe in Luck?</a>
       </li>
     
@@ -394,10 +501,6 @@ Running on sand or grass would definitely be more comfortable, but it&rsquo;s re
     
       <li class="post">
         <a href="/plywood-tree-coat-rack/">Plywood Tree Coat Rack</a>
-      </li>
-    
-      <li class="post">
-        <a href="/solving-games/">Solving Games</a>
       </li>
     
   </ul>

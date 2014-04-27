@@ -66,6 +66,64 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/chopped-returns-in-perl/">Chopped Returns (in Perl)</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+<time datetime="2007-05-16T10:45:43-07:00" pubdate data-updated="true">May 16</time>
+        
+           | <a href="/chopped-returns-in-perl/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/chopped-returns-in-perl/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Files on computers are made up of different characters that are interpreted by whatever it is that you are using.  That means that no matter what file it is, it is essentially a string of bytes that are interpreted by the program opening it.  This means that your music program tries to interpret whatever file you open with it to be conformed to some audio standards (mp3, wma, etc.).  Try to open the same file in a text editor, and you&rsquo;ll find yourself looking at (apparently) junk characters.  But then you&rsquo;ll realize that the file is still just a bunch of characters.</p>
+
+<p>I bring this up because</p>
+
+<ol>
+<li><p> It seems as if people don&rsquo;t realize this.</p></li>
+<li><p> I encountered this while writing a Perl script today.</p></li>
+</ol>
+
+
+<p>Something else that you should read even if you don&rsquo;t know what Perl is: Windows and Unix-variants (including Mac OS X and up) do not handle files the same.  I&rsquo;m not talking about <a href="http://www.goingthewongway.com/2007/01/28/fanaticism/">Fanaticism</a> (because I&rsquo;ve already posted about that).  Windows uses characters that are referred to as the <a href="http://en.wikipedia.org/wiki/Carriage_return">Carriage Return</a> and <a href="http://en.wikipedia.org/wiki/Line_feed">Line Feed</a> in order to represent a newline.  These names originate because of their original use in the typewriter which actually had a physical mechanism to move.  In any case, Unix-variants utilize the line feed character to distinguish its newlines.  This can obviously lead to some problems if you use the same files on both systems.</p>
+
+<p><strong>If you don&rsquo;t know what Perl is then you can fairly safely stop reading this article now because the rest won&rsquo;t help you much.</strong>  I know that it was hard for me to find and I&rsquo;d like to make it available if anyone else so happens to run into the same problem.</p>
+
+<p>While writing a script in Perl today, I had a seemingly strange problem where I would do some processing on my Windows machine and then transfer the file via FTP to a Unix-based server.  However I noticed that I had a string that when printed to the screen on my Windows computer would display correctly but would display incorrectly in the file put onto the server.  I could not figure this out for quite sometime because it seemed as if some of the lines were printing correctly and some were not.  Alright enough explanation.  Essentially I thought that the last character was getting chopped off in some way that I did not understand in Perl.  However it had to do with Perl assuming that the lines has both a carriage return and a line feed on the lines and then chopping them off when the file was being sent via FTP.  The fix that I ended up using was simply a one line regular expression like so (a suggestion from a co-worker):</p>
+
+<p><code>$output=</code>some action<code>;
+$output=~ s/n/rn/g;
+print $output;
+print FOUT $output;</code></p>
+
+<p>Hope that this helps someone searching for an answer.  I know that I would have liked to have happened upon the answer while searching for it.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/cost-and-benefits-of-running-your-own-server/">Cost and Benefits of Running Your Own Server</a></h1>
     
     
@@ -270,85 +328,6 @@
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/what-ants/">What? Ants?!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-<time datetime="2007-05-11T09:15:40-07:00" pubdate data-updated="true">May 11</time>
-        
-           | <a href="/what-ants/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/what-ants/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I really like watching <a href="http://dsc.discovery.com/">The Discovery Channel</a>. That makes me think of another show that I really have started to enjoy: <a href="http://dsc.discovery.com/fansites/manvswild/manvswild.html">Man vs Wild</a> but that is a whole different entry.</p>
-
-<p>Tonight I watched parts of Killer Ants and Ant Wars on The Discovery Channel. Of the Formicidae family, ants are infamous around the world. Now I am definitely no fan of these pesky insects, but I am most comfortable watching them from the safety of my home.</p>
-
-<h3>Siafu Ants</h3>
-
-<p><img src="http://farm1.static.flickr.com/217/493367230_202e5b4338_m.jpg" alt="swarm_ants" /></p>
-
-<p>On the shows that I watched, I learned about an ant that I had not heard much of: the Siafu Ant. Apparently this is a very well-known ant from Africa. Why is it well-known? Well here are some highlights:</p>
-
-<ul>
-<li><p>They do not stay in the same place for very long, they have to up and move more than once a month. Imagine having to do that!</p></li>
-<li><p>They form highways before they actually move. The lead parties will stake out a new location and lay a chemical trail for others to follow. They will then clear the path of obstacles and actually create a trench for the new highway so that it will be easier for the large mass to navigate.</p></li>
-<li><p>There are at least 3 different classes of Siafu besides the queen and the male. They are differently sized and have different strengths. They range from the large soldier ants with crushing jaws to the small utilitarian ant that can perform any number of duties including cleaning larvae, hunting, and forming the walls of the colonies!</p></li>
-<li><p>They have to hunt in order to feed the millions of larvae that are produced by the queen monthly. Millions!</p></li>
-<li><p>To hunt, they will basically spread out along the forest floor and sweep around the area near the colony. They sense the carbon dioxide that living beings emit in order to find them! As soon as one ant encounters prey, it will release a chemical signal so that others will immediately come to help. They win by sheer power in numbers.</p></li>
-<li><p>Oh yes, and many of them do not have eyes. They do all of these things just using chemical signals.</p></li>
-<li><p>Not on the show, but reading about them online I found that they can intentionally hunt and prey on much larger (well larger than insects) animals! It&rsquo;s not necessarily common, but it also definitely seems like it happens. Rabbits, vipers, and even a drunk with a broken leg were stories that I read about.</p></li>
-</ul>
-
-
-<h3>Bulldog Ants</h3>
-
-<p><img src="http://farm1.static.flickr.com/230/493367228_3dc6355fc6_m.jpg" alt="Red_bull_ant" /></p>
-
-<p>The bulldog ants are not as prominent in the world perhaps, but they are still pretty well known in their native Australia. They are large and independent ants that are in many ways opposite of the Siafu. One of the most interesting things about them is that they have venom that can cause anaphylactic shock! Apparently their venom is one of the most potent of any insect! (Of course this means that it doesn&rsquo;t include snakes, spiders, etc) However, their nests are small and they will hunt almost strictly individually. However, because they are unafraid of human interaction, there can be literally once a week hospital emergencies on account of a bite.</p>
-
-<h3>Why??</h3>
-
-<p>Why do I care about all of this? Well besides the fact that it is simply amazing to see these creations doing what they do, I feel like there is so much to learn from them!</p>
-
-<ol>
-<li><p> They are diligent in their work. You don&rsquo;t see slackers messing around when they should be working. :P</p></li>
-<li><p> They are willing to give their all for something bigger than themselves.</p></li>
-<li><p> Trust is something that they can inherently do with ease.</p></li>
-<li><p> Aspiration to be the greatest (although an admirable trait in some humans) is nonexistent with these creatures. We can learn to be a bit more satisfied with who we are, what we have, and so on instead of always being dissatisfied with every aspect of our lives.</p></li>
-<li><p> They get their friends to help them out. Okay so that is just the Siafu&hellip;</p></li>
-<li><p> But the bulldog ants are also good as they are so aptly named because they will refuse to let go once they bite. Once you get something good, you don&rsquo;t let that go.</p></li>
-<li><p> Don&rsquo;t be afraid to up and change things around if it&rsquo;s not working. When the ants run out of food, they will move. Just because you do something that you&rsquo;ve always done does not mean that you are constrained to continue doing it.</p></li>
-</ol>
-
-
-<p>There are many more I am sure. I enjoy finding life lessons where there are seemingly none. I also enjoy watching The Discovery Channel.</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page/56/">&larr; Older</a>
@@ -376,6 +355,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/europe-2013/">Europe 2013</a>
+      </li>
+    
+      <li class="post">
         <a href="/do-you-believe-in-luck/">Do You Believe in Luck?</a>
       </li>
     
@@ -389,10 +372,6 @@
     
       <li class="post">
         <a href="/plywood-tree-coat-rack/">Plywood Tree Coat Rack</a>
-      </li>
-    
-      <li class="post">
-        <a href="/solving-games/">Solving Games</a>
       </li>
     
   </ul>
