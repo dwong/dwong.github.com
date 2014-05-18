@@ -230,21 +230,36 @@ jQuery.fn.wookmark=function(a){if(!this.wookmarkOptions){this.wookmarkOptions=jQ
 jQuery.noConflict();jQuery(document).ready(function(){if(!jQuery('body').hasClass('no-sidebar')){var a=jQuery.cookie("sidebar_collapsed",{raw:true});if(a==="1"){jQuery("body").addClass("collapse-sidebar")}else{jQuery("body").removeClass("collapse-sidebar")}}if(/iPhone|iPod|Android|BlackBerry/i.test(navigator.userAgent))jQuery('#header_logo img').attr('src','http://img.gtww.net/static/s_header_44dl.png');});
 
 
-jQuery(document).ready(function(){if(jQuery('.galleria')[0]){jQuery('.galleria,.galleria_container').css('height',600);Galleria.loadTheme('//cdnjs.cloudflare.com/ajax/libs/galleria/1.2.9/themes/classic/galleria.classic.min.js');Galleria.run('.galleria',{lightbox:true,showInfo:true})}});
+jQuery(document).ready(
+	function(){
+		if(jQuery('.galleria')[0]){
+			jQuery('.galleria,.galleria_container').css('height',600);
+			Galleria.loadTheme('//cdnjs.cloudflare.com/ajax/libs/galleria/1.3.5/themes/classic/galleria.classic.min.js');
+			Galleria.run('.galleria',{lightbox:true,showInfo:true});
+		}
+	}
+);
 
 
 jQuery(document).ready(function () {
     if (!jQuery('body').hasClass('no-sidebar') && jQuery('#wookmark').length) 
-      jQuery("body").addClass("collapse-sidebar");
-});
-jQuery(window).load(function () {
-  var container = jQuery('#wookmark');
+        jQuery("body").addClass("collapse-sidebar");
+
+    var container = jQuery('#wookmark');
     if (container.length) {
-      jQuery('#tiles li').wookmark({autoResize:true,container:container,offset:4,itemWidth:200});
-      jQuery('#wookmark #tiles a').colorbox({
-          rel:'gal',
-          maxWidth:'80%',
-          maxHeight:'90%'
-      });
+        var items = jQuery('#tiles li');
+        jQuery('a', items).addClass('gal').colorbox({
+            rel:'gal',
+            maxWidth:'80%',
+            maxHeight:'90%'
+        });
+        jQuery('#tiles').imagesLoaded(function(){
+            items.wookmark({
+                autoResize:true,
+		container:container,
+		offset:4,
+		itemWidth:200
+	    });
+        });
     }
 });
