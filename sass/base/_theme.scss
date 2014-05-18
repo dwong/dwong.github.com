@@ -77,7 +77,13 @@ body {
   > div {
     background: $sidebar-bg $noise-bg;
     border-bottom: 1px solid $page-border-bottom;
+    /* 140517-commented out for galleria lightbox
     > div {
+      background: $main-bg $noise-bg;
+      border-right: 1px solid $sidebar-border;
+    }
+    */
+    div#content {
       background: $main-bg $noise-bg;
       border-right: 1px solid $sidebar-border;
     }
