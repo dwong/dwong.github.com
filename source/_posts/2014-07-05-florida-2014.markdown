@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Florida"
+title: "Florida 2014"
 date: 2014-07-05 22:37:01 -0700
 comments: true
 categories: 
-- Pictures
+- Photos
 ---
+Pictures from a recent trip to Florida.  Check out the full [Florida 2014 Gallery](http://go.gtww.net/1oxPL1O) for more!
 <div class="galleria">
 <a href="http://img.gtww.net/2014/04_Florida/63b8/florida-26_0314bed.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2014/04_Florida/63b8/Thumbs/florida-26_646d.jpg" height="40" width="45"/></a>
 <a href="http://img.gtww.net/2014/04_Florida/63b8/florida-25_487decb.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2014/04_Florida/63b8/Thumbs/florida-25_7136.jpg" height="40" width="26"/></a>
