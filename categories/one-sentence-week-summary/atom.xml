@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: One-sentence week summary | Going The Wong Way]]></title>
+  <link href="http://www.goingthewongway.com/categories/one-sentence-week-summary/atom.xml" rel="self"/>
+  <link href="http://www.goingthewongway.com/"/>
+  <updated>2015-04-04T15:13:56-07:00</updated>
+  <id>http://www.goingthewongway.com/</id>
+  <author>
+    <name><![CDATA[Derek Wong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Maui Destination Wedding/Vacation]]></title>
+    <link href="http://www.goingthewongway.com/maui-destination-wedding-slash-vacation/"/>
+    <updated>2015-04-04T15:02:08-07:00</updated>
+    <id>http://www.goingthewongway.com/maui-destination-wedding-slash-vacation</id>
+    <content type="html"><![CDATA[<p>We traveled with Emily&rsquo;s family, stayed in the same condo, and it&rsquo;s probably never going to happen again.</p>
+]]></content>
+  </entry>
+  
+</feed>

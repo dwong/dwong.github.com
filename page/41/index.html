@@ -66,6 +66,54 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/everyone-should-use-opendns/">Everyone Should Use OpenDNS</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+<time datetime="2007-09-10T18:56:59-07:00" pubdate data-updated="true">Sep 10</time>
+        
+           | <a href="/everyone-should-use-opendns/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/everyone-should-use-opendns/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Have you heard of DNS? Well if you haven&rsquo;t, in short it is what allows you to memorize &ldquo;google.com&rdquo; rather than &ldquo;72.14.207.99&rdquo;. Every time you enter a website address into a browser, the browser first has to retrieve the actual numerical address (called an IP address) that corresponds to it so that it can actually access the website.</p>
+
+<p>A real-world analogy would be looking up a phone number in a telephone book. You likely don&rsquo;t memorize everyone&rsquo;s number. In fact, you probably don&rsquo;t know all too many by heart. But you can easily remember someone&rsquo;s name, right?</p>
+
+<p>So each time you enter the address, your web browser has to ask a DNS server to give you the IP address. Very often, your ISP will have a DNS cache to more quickly give you the IP address.</p>
+
+<p>Something everyone should consider using is <a href="http://www.opendns.com/">OpenDNS</a>. It is a couple of DNS servers that are able to specify on your own computer to always use instead of whatever it is that you would otherwise use. Why is it good? Well OpenDNS offers things like safety from malicious websites (e.g. a misspelled website that causes you to arrive at a malicious website) and speed (likely from optimized servers) to name a few. Try it out, and see if you can notice a difference. I have and I do!</p>
+
+<p>There are instructions at the OpenDNS website for every operating system, and they take but a few minutes.
+  <em>[IP]: Internet Protocol
+  </em>[ISP]: Internet Service Provider
+  *[DNS]: Domain Name System</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/yay-for-frequent-commentators/">Yay for Frequent Commentators</a></h1>
     
     
@@ -259,353 +307,6 @@
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/tkinter-keyboard-bindings-in-python/">Tkinter Keyboard Bindings (in Python)</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-<time datetime="2007-08-24T11:00:36-07:00" pubdate data-updated="true">Aug 24</time>
-        
-           | <a href="/tkinter-keyboard-bindings-in-python/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/tkinter-keyboard-bindings-in-python/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>So I found this table useful, and I thought that I&rsquo;d make it available for easier searching for those who might also look for it.  It&rsquo;s useful when creating a GUI with Tkinter in Python.  I&rsquo;m not really sure how much of that kind of development is going on, of course, but that&rsquo;s beside the point.</p>
-
-<p>Anyways this is specific to the &ldquo;special keys&rdquo; that are used in the bind method for event handling, so I&rsquo;ve not looked into where else this particular information could be useful.  I, for one, used this in order to bind the enter key on the keypad to the same functions as the normal enter button.  It was annoying me while using <a href="http://www.goingthewongway.com/currently-programming/the-budgeteer/">The Budgeteer</a> because I couldn&rsquo;t figure out what the name of the button to bind was.  That has thankfully been remedied!</p>
-
-<p>Example:
-`root = Tk()
-def hello(*ignore):</p>
-
-<pre><code>print 'Hello World'
-</code></pre>
-
-<p>root.bind(&lsquo;<return>&rsquo;, hello)
-root.mainloop()
-`</p>
-
-<p>.keysym.keycode.keysym_numKey</p>
-
-<p>Alt_L
-64
-65513
-The left-hand alt key</p>
-
-<p>Alt_R
-113
-65514
-The right-hand alt key</p>
-
-<p>BackSpace
-22
-65288
-backspace</p>
-
-<p>Cancel
-110
-65387
-break</p>
-
-<p>Caps_Lock
-66
-65549
-CapsLock</p>
-
-<p>Control_L
-37
-65507
-The left-hand control key</p>
-
-<p>Control_R
-109
-65508
-The right-hand control key</p>
-
-<p>Delete
-107
-65535
-Delete</p>
-
-<p>Down
-104
-65364
-↓</p>
-
-<p>End
-103
-65367
-end</p>
-
-<p>Escape
-9
-65307
-esc</p>
-
-<p>Execute
-111
-65378
-SysReq</p>
-
-<p>F1
-67
-65470
-Function key F1</p>
-
-<p>F2
-68
-65471
-Function key F2</p>
-
-<p>Fi
-66+i
-65469+i
-Function key Fi</p>
-
-<p>F12
-96
-65481
-Function key F12</p>
-
-<p>Home
-97
-65360
-home</p>
-
-<p>Insert
-106
-65379
-insert</p>
-
-<p>Left
-100
-65361
-←</p>
-
-<p>Linefeed
-54
-106
-Linefeed (control-J)</p>
-
-<p>KP_0
-90
-65438
-0 on the keypad</p>
-
-<p>KP_1
-87
-65436
-1 on the keypad</p>
-
-<p>KP_2
-88
-65433
-2 on the keypad</p>
-
-<p>KP_3
-89
-65435
-3 on the keypad</p>
-
-<p>KP_4
-83
-65430
-4 on the keypad</p>
-
-<p>KP_5
-84
-65437
-5 on the keypad</p>
-
-<p>KP_6
-85
-65432
-6 on the keypad</p>
-
-<p>KP_7
-79
-65429
-7 on the keypad</p>
-
-<p>KP_8
-80
-65431
-8 on the keypad</p>
-
-<p>KP_9
-81
-65434
-9 on the keypad</p>
-
-<p>KP_Add
-86
-65451
-+ on the keypad</p>
-
-<p>KP_Begin
-84
-65437
-The center key (same key as 5) on the keypad</p>
-
-<p>KP_Decimal
-91
-65439
-Decimal (.) on the keypad</p>
-
-<p>KP_Delete
-91
-65439
-delete on the keypad</p>
-
-<p>KP_Divide
-112
-65455
-↓ on the keypad</p>
-
-<p>KP_Down
-88
-65433
-on the keypad</p>
-
-<p>KP_End
-87
-65436
-end on the keypad</p>
-
-<p>KP_Enter
-108
-65421
-enter on the keypad</p>
-
-<p>KP_Home
-79
-65429
-home on the keypad</p>
-
-<p>KP_Insert
-90
-65438
-insert on the keypad</p>
-
-<p>KP_Left
-83
-65430
-← on the keypad</p>
-
-<p>KP_Multiply
-63
-65450
-* on the keypad</p>
-
-<p>KP_Next
-89
-65435
-PageDown on the keypad</p>
-
-<p>KP_Prior
-81
-65434
-PageUp on the keypad</p>
-
-<p>KP_Right
-85
-65432
-→ on the keypad</p>
-
-<p>KP_Subtract
-82
-65453
-&ndash; on the keypad</p>
-
-<p>KP_Up
-80
-65431
-↑ on the keypad</p>
-
-<p>Next
-105
-65366
-PageDown</p>
-
-<p>Num_Lock
-77
-65407
-NumLock</p>
-
-<p>Pause
-110
-65299
-pause</p>
-
-<p>Print
-111
-65377
-PrintScrn</p>
-
-<p>Prior
-99
-65365
-PageUp</p>
-
-<p>Return
-36
-652933
-The enter key (control-M). The name Enter refers to a mouse-related event, not a keypress</p>
-
-<p>Right
-102
-65363
-→</p>
-
-<p>Scroll_Lock
-78
-65300
-ScrollLock</p>
-
-<p>Shift_L
-50
-65505
-The left-hand shift key</p>
-
-<p>Shift_R
-62
-65506
-The right-hand shift key</p>
-
-<p>Tab
-23
-65289
-The tab key</p>
-
-<p>Up
-98
-65362
-↑</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page/42/">&larr; Older</a>
@@ -633,6 +334,10 @@ The tab key</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/maui-destination-wedding-slash-vacation/">Maui Destination Wedding/Vacation</a>
+      </li>
+    
+      <li class="post">
         <a href="/florida-2014/">Florida 2014</a>
       </li>
     
@@ -646,10 +351,6 @@ The tab key</p>
     
       <li class="post">
         <a href="/when-selfishness-surpasses-logic/">When Selfishness Surpasses Logic</a>
-      </li>
-    
-      <li class="post">
-        <a href="/surprising-things-my-coworkers-never-learned/">Surprising Things My Coworkers Never Learned</a>
       </li>
     
   </ul>
@@ -666,7 +367,7 @@ The tab key</p>
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2007-2014 Derek Wong
+  Copyright &copy; 2007-2015 Derek Wong
   
     <span style="float:right">I'm ALWAYS going the Wong way.</span>
   
