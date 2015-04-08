@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ "Derek Wong's web log about life, where going the Wong way is only sometimes wrong.  Pictures and stories to boot!" }}{% endif %}{% endcapture %}<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   {% capture keywords %}{% if page.keywords %}{{ page.keywords }}{% else %}{{ 'Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming' }}{% endif %}{% endcapture %}<meta name="keywords" content="{{ keywords }}">
