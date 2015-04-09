@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /825/crom-the-one-without-license-plates/index.html
 - /2010/07/13/crom-the-one-without-license-plates/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /189/better-folderfile-structure/index.html
 - /2007/08/15/better-folderfile-structure/index.html
 comments: true

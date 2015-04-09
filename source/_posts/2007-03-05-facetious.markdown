@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /139/facetious/index.html
 - /2007/03/05/facetious/index.html
 comments: true

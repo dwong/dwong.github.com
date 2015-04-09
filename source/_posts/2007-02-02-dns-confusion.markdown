@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /12/dns-confusion/index.html
 - /2007/02/02/dns-confusion/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /183/lovely-junk-or-useful-pain/index.html
 - /2007/08/03/lovely-junk-or-useful-pain/index.html
 comments: true

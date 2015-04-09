@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /123/recycling-is-good-on-many-fronts/index.html
 - /2007/06/02/recycling-is-good-on-many-fronts/index.html
 comments: true

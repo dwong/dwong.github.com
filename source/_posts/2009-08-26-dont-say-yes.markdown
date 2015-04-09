@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /659/dont-say-yes/index.html
 - /2009/08/26/dont-say-yes/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /14/the-lost-library/index.html
 - /2007/02/08/the-lost-library/index.html
 comments: true

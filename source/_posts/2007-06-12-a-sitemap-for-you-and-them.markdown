@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /134/a-sitemap-for-you-and-them/index.html
 - /2007/06/12/a-sitemap-for-you-and-them/index.html
 comments: true

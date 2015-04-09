@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /530/bowling-high/index.html
 - /2009/02/20/bowling-high/index.html
 comments: true

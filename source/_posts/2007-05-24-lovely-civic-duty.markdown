@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /115/lovely-civic-duty/index.html
 - /2007/05/24/lovely-civic-duty/index.html
 comments: true

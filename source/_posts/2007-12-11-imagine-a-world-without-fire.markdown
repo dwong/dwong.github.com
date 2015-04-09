@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /227/imagine-a-world-without-fire/index.html
 - /2007/12/11/imagine-a-world-without-fire/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /789/important-vs-urgent/index.html
 - /2010/03/31/important-vs-urgent/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /121/only-the-bad-things/index.html
 - /2007/05/30/only-the-bad-things/index.html
 comments: true

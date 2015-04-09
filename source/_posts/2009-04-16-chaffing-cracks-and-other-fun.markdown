@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /566/chaffing-cracks-and-other-fun/index.html
 - /2009/04/16/chaffing-cracks-and-other-fun/index.html
 comments: true

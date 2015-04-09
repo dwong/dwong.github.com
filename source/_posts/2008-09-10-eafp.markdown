@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /335/eafp/index.html
 - /2008/09/10/eafp/index.html
 comments: true

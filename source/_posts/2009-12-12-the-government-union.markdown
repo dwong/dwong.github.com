@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /756/the-government-union/index.html
 - /2009/12/12/the-government-union/index.html
 comments: true

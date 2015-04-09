@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /164/let-em-all-make-money/index.html
 - /2007/06/22/let-em-all-make-money/index.html
 comments: true

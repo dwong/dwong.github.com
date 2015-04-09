@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /218/partition-your-hard-drive/index.html
 - /2007/10/25/partition-your-hard-drive/index.html
 comments: true

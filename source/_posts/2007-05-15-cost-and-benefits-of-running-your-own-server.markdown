@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /101/cost-and-benefits-of-running-your-own-server/index.html
 - /2007/05/15/cost-and-benefits-of-running-your-own-server/index.html
 comments: true

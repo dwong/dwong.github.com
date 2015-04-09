@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /160/immediate-introductions/index.html
 - /2007/06/19/immediate-introductions/index.html
 comments: true

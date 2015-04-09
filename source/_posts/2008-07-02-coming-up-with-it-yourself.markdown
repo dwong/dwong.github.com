@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /266/coming-up-with-it-yourself/index.html
 - /2008/07/02/coming-up-with-it-yourself/index.html
 comments: true

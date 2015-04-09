@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /994/the-inevitability-of-friendship/index.html
 - /2011/08/11/the-inevitability-of-friendship/index.html
 comments: true

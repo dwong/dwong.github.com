@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /643/diy-camera-bag/index.html
 - /2009/07/15/diy-camera-bag/index.html
 comments: true

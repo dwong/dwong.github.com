@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /725/algorithm-for-your-life/index.html
 - /2007/02/01/algorithm-for-your-life/index.html
 comments: true

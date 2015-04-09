@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /911/crom-the-one-who-is-all-up-in-your-business/index.html
 - /2011/09/15/crom-the-one-who-is-all-up-in-your-business/index.html
 comments: true

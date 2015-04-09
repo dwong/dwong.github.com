@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /165/why-hype-up-the-iphone/index.html
 - /2007/06/23/why-hype-up-the-iphone/index.html
 comments: true

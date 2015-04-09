@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /629/interesting-dates-rule/index.html
 - /2009/08/21/interesting-dates-rule/index.html
 comments: true

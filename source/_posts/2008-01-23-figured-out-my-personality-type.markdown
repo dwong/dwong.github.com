@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /238/figured-out-my-personality-type/index.html
 - /2008/01/23/figured-out-my-personality-type/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /131/back-at-one/index.html
 - /2007/06/07/back-at-one/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /107/learn-some-english-part-1/index.html
 - /2007/05/28/learn-some-english-part-1/index.html
 comments: true

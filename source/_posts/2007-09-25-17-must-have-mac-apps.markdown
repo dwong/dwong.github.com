@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /206/17-must-have-mac-apps/index.html
 - /2007/09/25/17-must-have-mac-apps/index.html
 comments: true

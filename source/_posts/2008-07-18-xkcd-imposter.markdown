@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /280/xkcd-imposter/index.html
 - /2008/07/18/xkcd-imposter/index.html
 comments: true

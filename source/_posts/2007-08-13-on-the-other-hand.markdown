@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /187/on-the-other-hand/index.html
 - /2007/08/13/on-the-other-hand/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /239/lock-the-stall-door/index.html
 - /2008/01/31/lock-the-stall-door/index.html
 comments: true

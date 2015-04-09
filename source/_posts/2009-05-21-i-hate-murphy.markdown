@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /594/i-hate-murphy/index.html
 - /2009/05/21/i-hate-murphy/index.html
 comments: true

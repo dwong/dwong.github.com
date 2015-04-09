@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /559/marathon-training-and-then-some/index.html
 - /2009/03/31/marathon-training-and-then-some/index.html
 comments: true

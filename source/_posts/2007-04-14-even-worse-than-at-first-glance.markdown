@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /70/even-worse-than-at-first-glance/index.html
 - /2007/04/14/even-worse-than-at-first-glance/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /689/garmin-cant-unlock-maps-error/index.html
 - /2009/09/27/garmin-cant-unlock-maps-error/index.html
 comments: true

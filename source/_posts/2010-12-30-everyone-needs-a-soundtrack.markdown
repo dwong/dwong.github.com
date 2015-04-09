@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /909/everyone-needs-a-soundtrack/index.html
 - /2010/12/30/everyone-needs-a-soundtrack/index.html
 comments: true

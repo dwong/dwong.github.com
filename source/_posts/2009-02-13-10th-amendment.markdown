@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /512/10th-amendment/index.html
 - /2009/02/13/10th-amendment/index.html
 comments: true

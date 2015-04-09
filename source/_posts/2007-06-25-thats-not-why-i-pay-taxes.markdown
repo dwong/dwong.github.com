@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /166/thats-not-why-i-pay-taxes/index.html
 - /2007/06/25/thats-not-why-i-pay-taxes/index.html
 comments: true

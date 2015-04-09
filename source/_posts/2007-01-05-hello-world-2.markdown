@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /723/hello-world-2/index.html
 - /2007/01/05/hello-world-2/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /230/oh-no/index.html
 - /2007/12/12/oh-no/index.html
 comments: true

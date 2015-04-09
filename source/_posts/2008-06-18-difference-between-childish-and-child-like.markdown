@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /263/difference-between-childish-and-child-like/index.html
 - /2008/06/18/difference-between-childish-and-child-like/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /90/too-much-of-a-good-thing/index.html
 - /2007/05/03/too-much-of-a-good-thing/index.html
 comments: true

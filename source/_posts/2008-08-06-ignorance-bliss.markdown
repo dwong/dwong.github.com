@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /306/ignorance-bliss/index.html
 - /2008/08/06/ignorance-bliss/index.html
 comments: true

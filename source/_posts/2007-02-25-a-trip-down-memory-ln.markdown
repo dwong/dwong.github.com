@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /22/a-trip-down-memory-ln/index.html
 - /2007/02/25/a-trip-down-memory-ln/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /338/finish-line-mirage/index.html
 - /2008/09/04/finish-line-mirage/index.html
 comments: true

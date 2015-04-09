@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /108/keeping-a-box/index.html
 - /2007/05/21/keeping-a-box/index.html
 comments: true

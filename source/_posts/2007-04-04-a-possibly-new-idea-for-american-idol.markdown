@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /59/a-possibly-new-idea-for-american-idol/index.html
 - /2007/04/04/a-possibly-new-idea-for-american-idol/index.html
 comments: true

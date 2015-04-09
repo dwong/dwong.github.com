@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /124/a-bad-sign-of-online-usage/index.html
 - /2007/06/04/a-bad-sign-of-online-usage/index.html
 comments: true

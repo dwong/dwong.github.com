@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /21/cross-post/index.html
 - /2007/02/22/cross-post/index.html
 comments: true

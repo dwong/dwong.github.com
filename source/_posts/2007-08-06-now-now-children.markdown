@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /185/now-now-children/index.html
 - /2007/08/06/now-now-children/index.html
 comments: true

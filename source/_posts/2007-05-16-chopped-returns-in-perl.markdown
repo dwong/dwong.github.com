@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /102/chopped-returns-in-perl/index.html
 - /2007/05/16/chopped-returns-in-perl/index.html
 comments: true

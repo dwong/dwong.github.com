@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /188/how-good-programming-practices-help-in-real-life/index.html
 - /2007/08/21/how-good-programming-practices-help-in-real-life/index.html
 comments: true

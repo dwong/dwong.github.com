@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /209/winning-with-blingo/index.html
 - /2007/09/28/winning-with-blingo/index.html
 comments: true

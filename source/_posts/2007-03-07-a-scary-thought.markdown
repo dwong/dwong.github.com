@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /28/a-scary-thought/index.html
 - /2007/03/07/a-scary-thought/index.html
 comments: true

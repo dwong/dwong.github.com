@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /217/word-of-the-week/index.html
 - /2007/10/18/word-of-the-week/index.html
 comments: true

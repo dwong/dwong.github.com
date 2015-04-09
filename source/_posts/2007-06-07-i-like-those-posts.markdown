@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /133/i-like-those-posts/index.html
 - /2007/06/07/i-like-those-posts/index.html
 comments: true

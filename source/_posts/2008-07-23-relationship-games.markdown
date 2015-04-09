@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /259/relationship-games/index.html
 - /2008/07/23/relationship-games/index.html
 comments: true

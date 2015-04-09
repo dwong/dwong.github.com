@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1036/diy-camera-strap/index.html
 - /2011/09/30/diy-camera-strap/index.html
 comments: true

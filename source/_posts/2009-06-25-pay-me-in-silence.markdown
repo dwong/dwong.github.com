@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /428/pay-me-in-silence/index.html
 - /2009/06/25/pay-me-in-silence/index.html
 comments: true

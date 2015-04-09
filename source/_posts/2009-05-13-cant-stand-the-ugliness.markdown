@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /555/cant-stand-the-ugliness/index.html
 - /2009/05/13/cant-stand-the-ugliness/index.html
 comments: true

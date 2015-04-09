@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /981/the-path-more-easily-chosen/index.html
 - /2011/07/02/the-path-more-easily-chosen/index.html
 comments: true

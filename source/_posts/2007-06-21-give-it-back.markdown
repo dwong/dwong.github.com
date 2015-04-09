@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /162/give-it-back/index.html
 - /2007/06/21/give-it-back/index.html
 comments: true

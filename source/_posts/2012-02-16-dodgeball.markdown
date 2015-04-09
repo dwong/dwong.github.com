@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1164/dodgeball/index.html
 - /2012/02/16/dodgeball/index.html
 comments: true

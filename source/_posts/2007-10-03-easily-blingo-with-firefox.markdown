@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /210/easily-blingo-with-firefox/index.html
 - /2007/10/03/easily-blingo-with-firefox/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /127/you-have-to-love-irony/index.html
 - /2007/06/06/you-have-to-love-irony/index.html
 comments: true

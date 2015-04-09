@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /178/buffets-cannot-be-good-for-you/index.html
 - /2007/07/19/buffets-cannot-be-good-for-you/index.html
 comments: true

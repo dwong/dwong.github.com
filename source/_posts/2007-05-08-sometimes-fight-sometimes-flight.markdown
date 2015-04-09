@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /95/sometimes-fight-sometimes-flight/index.html
 - /2007/05/08/sometimes-fight-sometimes-flight/index.html
 comments: true

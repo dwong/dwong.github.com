@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /212/pull-your-pants-up-boy/index.html
 - /2007/10/05/pull-your-pants-up-boy/index.html
 comments: true

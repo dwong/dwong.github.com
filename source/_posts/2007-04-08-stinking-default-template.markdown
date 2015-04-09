@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /63/stinking-default-template/index.html
 - /2007/04/08/stinking-default-template/index.html
 comments: true

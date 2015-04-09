@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /452/vicarious-living/index.html
 - /2009/05/06/vicarious-living/index.html
 comments: true

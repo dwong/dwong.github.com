@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /113/amusing-searches/index.html
 - /2007/05/22/amusing-searches/index.html
 comments: true

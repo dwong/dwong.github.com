@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /736/public-restrooms-are-scary/index.html
 - /2009/11/05/public-restrooms-are-scary/index.html
 comments: true

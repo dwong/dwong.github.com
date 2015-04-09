@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /66/tagging/index.html
 - /2007/04/10/tagging/index.html
 comments: true

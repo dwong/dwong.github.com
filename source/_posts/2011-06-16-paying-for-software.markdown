@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /944/paying-for-software/index.html
 - /2011/06/16/paying-for-software/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /353/only-one-first/index.html
 - /2008/09/18/only-one-first/index.html
 comments: true

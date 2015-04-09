@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /898/your-word/index.html
 - /2012/01/25/your-word/index.html
 comments: true

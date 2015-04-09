@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /790/modern-human-rights/index.html
 - /2010/04/23/modern-human-rights/index.html
 comments: true

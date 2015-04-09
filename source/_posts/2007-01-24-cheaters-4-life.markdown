@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1111/cheaters-4-life/index.html
 - /2007/01/24/cheaters-4-life/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /195/tkinter-keyboard-bindings-in-python/index.html
 - /2007/08/24/tkinter-keyboard-bindings-in-python/index.html
 comments: true

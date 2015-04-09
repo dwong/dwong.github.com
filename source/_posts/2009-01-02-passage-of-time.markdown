@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /477/passage-of-time/index.html
 - /2009/01/02/passage-of-time/index.html
 comments: true

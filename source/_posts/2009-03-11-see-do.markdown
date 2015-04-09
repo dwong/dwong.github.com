@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /447/see-do/index.html
 - /2009/03/11/see-do/index.html
 comments: true

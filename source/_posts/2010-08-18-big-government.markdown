@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /845/big-government/index.html
 - /2010/08/18/big-government/index.html
 comments: true

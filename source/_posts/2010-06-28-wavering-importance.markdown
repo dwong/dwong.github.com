@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /815/wavering-importance/index.html
 - /2010/06/28/wavering-importance/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /192/andthats-a-wrap/index.html
 - /2007/08/18/andthats-a-wrap/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /424/understanding-domains/index.html
 - /2009/09/03/understanding-domains/index.html
 comments: true

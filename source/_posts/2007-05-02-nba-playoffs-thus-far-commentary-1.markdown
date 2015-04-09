@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /86/nba-playoffs-thus-far-commentary-1/index.html
 - /2007/05/02/nba-playoffs-thus-far-commentary-1/index.html
 comments: true

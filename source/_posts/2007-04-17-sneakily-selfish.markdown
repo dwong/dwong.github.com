@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /72/sneakily-selfish/index.html
 - /2007/04/17/sneakily-selfish/index.html
 comments: true

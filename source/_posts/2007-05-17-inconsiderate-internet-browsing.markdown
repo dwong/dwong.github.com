@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /103/inconsiderate-internet-browsing/index.html
 - /2007/05/17/inconsiderate-internet-browsing/index.html
 comments: true

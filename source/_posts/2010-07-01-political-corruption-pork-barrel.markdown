@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /820/political-corruption-pork-barrel/index.html
 - /2010/07/01/political-corruption-pork-barrel/index.html
 comments: true

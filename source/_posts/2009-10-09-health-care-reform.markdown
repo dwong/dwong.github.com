@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /675/health-care-reform/index.html
 - /2009/10/09/health-care-reform/index.html
 comments: true

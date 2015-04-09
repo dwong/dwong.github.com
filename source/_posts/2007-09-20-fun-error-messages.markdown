@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /204/fun-error-messages/index.html
 - /2007/09/20/fun-error-messages/index.html
 comments: true

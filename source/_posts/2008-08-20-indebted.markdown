@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /311/indebted/index.html
 - /2008/08/20/indebted/index.html
 comments: true

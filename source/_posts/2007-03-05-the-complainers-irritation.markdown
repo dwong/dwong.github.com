@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /26/the-complainers-irritation/index.html
 - /2007/03/05/the-complainers-irritation/index.html
 comments: true

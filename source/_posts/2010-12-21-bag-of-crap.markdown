@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /931/bag-of-crap/index.html
 - /2010/12/21/bag-of-crap/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /442/does-god-clean-carpets/index.html
 - /2008/12/17/does-god-clean-carpets/index.html
 comments: true

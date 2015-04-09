@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1003/hong-kong/index.html
 - /2011/08/16/hong-kong/index.html
 comments: true

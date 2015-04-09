@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /318/unsightly-hair/index.html
 - /2008/11/06/unsightly-hair/index.html
 comments: true

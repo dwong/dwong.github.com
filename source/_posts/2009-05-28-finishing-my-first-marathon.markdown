@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /596/finishing-my-first-marathon/index.html
 - /2009/05/28/finishing-my-first-marathon/index.html
 comments: true

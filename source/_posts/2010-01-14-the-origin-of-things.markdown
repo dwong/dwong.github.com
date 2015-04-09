@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /773/the-origin-of-things/index.html
 - /2010/01/14/the-origin-of-things/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /34/the-few-the-proud-native-californians/index.html
 - /2007/03/12/the-few-the-proud-native-californians/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /215/cut-up-and-not-loving-it/index.html
 - /2007/10/10/cut-up-and-not-loving-it/index.html
 comments: true

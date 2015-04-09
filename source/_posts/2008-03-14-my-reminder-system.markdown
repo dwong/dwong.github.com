@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /243/my-reminder-system/index.html
 - /2008/03/14/my-reminder-system/index.html
 comments: true

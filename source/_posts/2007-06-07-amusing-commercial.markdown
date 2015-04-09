@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /129/amusing-commercial/index.html
 - /2007/06/07/amusing-commercial/index.html
 comments: true

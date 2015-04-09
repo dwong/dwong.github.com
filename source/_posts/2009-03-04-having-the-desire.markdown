@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /476/having-the-desire/index.html
 - /2009/03/04/having-the-desire/index.html
 comments: true

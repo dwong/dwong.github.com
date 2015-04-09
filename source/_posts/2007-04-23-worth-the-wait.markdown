@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /76/worth-the-wait/index.html
 - /2007/04/23/worth-the-wait/index.html
 comments: true

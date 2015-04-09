@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /69/im-willing-if-you-are/index.html
 - /2007/04/12/im-willing-if-you-are/index.html
 comments: true

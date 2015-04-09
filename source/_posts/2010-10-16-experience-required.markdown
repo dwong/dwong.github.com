@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /896/experience-required/index.html
 - /2010/10/16/experience-required/index.html
 comments: true

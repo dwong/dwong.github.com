@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /154/up-or-down-same-difference/index.html
 - /2007/04/13/up-or-down-same-difference/index.html
 comments: true

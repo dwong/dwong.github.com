@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /440/talking-to-strangers/index.html
 - /2009/09/08/talking-to-strangers/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1209/go-get-some-experience/index.html
 - /2012/08/01/go-get-some-experience/index.html
 comments: true

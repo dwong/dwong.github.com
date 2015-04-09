@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /13/superbowl/index.html
 - /2007/02/04/superbowl/index.html
 comments: true

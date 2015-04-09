@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /214/insect-ponderings/index.html
 - /2007/10/15/insect-ponderings/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /202/pretty-powerful-hoses/index.html
 - /2007/09/13/pretty-powerful-hoses/index.html
 comments: true

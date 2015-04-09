@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /247/i-dont-follow-celebrities-lives/index.html
 - /2008/04/30/i-dont-follow-celebrities-lives/index.html
 comments: true

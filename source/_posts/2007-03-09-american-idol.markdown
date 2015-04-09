@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /29/american-idol/index.html
 - /2007/03/09/american-idol/index.html
 comments: true

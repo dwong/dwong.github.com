@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /36/in-your-own-world/index.html
 - /2007/03/16/in-your-own-world/index.html
 comments: true

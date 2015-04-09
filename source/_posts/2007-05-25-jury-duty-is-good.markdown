@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /116/jury-duty-is-good/index.html
 - /2007/05/25/jury-duty-is-good/index.html
 comments: true

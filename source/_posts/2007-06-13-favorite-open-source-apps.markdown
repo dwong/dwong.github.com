@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /155/favorite-open-source-apps/index.html
 - /2007/06/13/favorite-open-source-apps/index.html
 comments: true

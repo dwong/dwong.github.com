@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /150/culpable/index.html
 - /2007/05/21/culpable/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /168/yelp-like-you-love-it/index.html
 - /2008/03/03/yelp-like-you-love-it/index.html
 comments: true

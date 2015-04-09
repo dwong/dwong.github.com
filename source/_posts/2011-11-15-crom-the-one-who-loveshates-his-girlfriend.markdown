@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /916/crom-the-one-who-loveshates-his-girlfriend/index.html
 - /2011/11/15/crom-the-one-who-loveshates-his-girlfriend/index.html
 comments: true

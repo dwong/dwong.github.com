@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /211/contests-with-prizes-are-great/index.html
 - /2007/10/04/contests-with-prizes-are-great/index.html
 comments: true

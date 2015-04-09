@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /729/assumptions-cause-tumbles/index.html
 - /2009/10/30/assumptions-cause-tumbles/index.html
 comments: true

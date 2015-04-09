@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /223/finding-out-who-you-are/index.html
 - /2007/11/14/finding-out-who-you-are/index.html
 comments: true

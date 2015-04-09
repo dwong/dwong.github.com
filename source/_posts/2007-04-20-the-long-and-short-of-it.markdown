@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /68/the-long-and-short-of-it/index.html
 - /2007/04/20/the-long-and-short-of-it/index.html
 comments: true

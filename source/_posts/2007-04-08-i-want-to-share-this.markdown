@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /62/i-want-to-share-this/index.html
 - /2007/04/08/i-want-to-share-this/index.html
 comments: true

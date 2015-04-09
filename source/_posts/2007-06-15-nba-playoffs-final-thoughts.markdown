@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /157/nba-playoffs-final-thoughts/index.html
 - /2007/06/15/nba-playoffs-final-thoughts/index.html
 comments: true

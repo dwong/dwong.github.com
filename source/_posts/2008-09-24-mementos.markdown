@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /351/mementos/index.html
 - /2008/09/24/mementos/index.html
 comments: true

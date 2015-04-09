@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /344/what-happened-usher-raymond-iv/index.html
 - /2008/09/14/what-happened-usher-raymond-iv/index.html
 comments: true

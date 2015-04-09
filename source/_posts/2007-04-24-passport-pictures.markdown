@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /77/passport-pictures/index.html
 - /2007/04/24/passport-pictures/index.html
 comments: true

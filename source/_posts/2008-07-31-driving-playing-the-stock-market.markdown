@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /299/driving-playing-the-stock-market/index.html
 - /2008/07/31/driving-playing-the-stock-market/index.html
 comments: true

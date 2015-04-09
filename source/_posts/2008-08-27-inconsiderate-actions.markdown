@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /330/inconsiderate-actions/index.html
 - /2008/08/27/inconsiderate-actions/index.html
 comments: true

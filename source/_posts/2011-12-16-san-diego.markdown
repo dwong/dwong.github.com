@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1121/san-diego/index.html
 - /2011/12/16/san-diego/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /526/who-knows-my-name/index.html
 - /2009/02/18/who-knows-my-name/index.html
 comments: true

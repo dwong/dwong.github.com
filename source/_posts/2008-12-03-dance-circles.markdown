@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /436/dance-circles/index.html
 - /2008/12/03/dance-circles/index.html
 comments: true

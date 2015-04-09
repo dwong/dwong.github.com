@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /485/go-go-stop/index.html
 - /2009/03/20/go-go-stop/index.html
 comments: true

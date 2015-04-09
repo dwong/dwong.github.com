@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /169/on-driving/index.html
 - /2007/06/27/on-driving/index.html
 comments: true

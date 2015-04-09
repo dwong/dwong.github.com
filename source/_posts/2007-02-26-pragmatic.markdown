@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /138/pragmatic/index.html
 - /2007/02/26/pragmatic/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /182/a-37-tv-would-do-quite-nicely-right-here/index.html
 - /2007/07/28/a-37-tv-would-do-quite-nicely-right-here/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /61/break-the-fast-twice/index.html
 - /2007/04/06/break-the-fast-twice/index.html
 comments: true

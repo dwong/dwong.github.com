@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /450/middle-names/index.html
 - /2009/03/25/middle-names/index.html
 comments: true

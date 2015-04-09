@@ -40,6 +40,9 @@ rdiscount:
     - footnotes
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
+#safe: false
+gems:
+  - jekyll-redirect-from
 
 paginate: 5          # Posts per page on the blog index
 pagination_dir:      # Directory base for pagination URLs eg. /blog/page/2/

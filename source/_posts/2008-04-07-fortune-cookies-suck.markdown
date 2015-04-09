@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /251/fortune-cookies-suck/index.html
 - /2008/04/07/fortune-cookies-suck/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /609/tough-to-say-whether-its-even-decent/index.html
 - /2009/06/18/tough-to-say-whether-its-even-decent/index.html
 comments: true

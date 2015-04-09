@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /163/stalker-style/index.html
 - /2007/06/22/stalker-style/index.html
 comments: true

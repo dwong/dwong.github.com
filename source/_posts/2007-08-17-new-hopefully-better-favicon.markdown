@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /190/new-hopefully-better-favicon/index.html
 - /2007/08/17/new-hopefully-better-favicon/index.html
 comments: true

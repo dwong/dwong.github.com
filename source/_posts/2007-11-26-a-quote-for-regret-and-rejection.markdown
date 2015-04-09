@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /225/a-quote-for-regret-and-rejection/index.html
 - /2007/11/26/a-quote-for-regret-and-rejection/index.html
 comments: true

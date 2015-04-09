@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /159/blase/index.html
 - /2007/06/18/blase/index.html
 comments: true

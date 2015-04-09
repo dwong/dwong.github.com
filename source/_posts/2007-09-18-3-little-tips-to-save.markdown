@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /200/3-little-tips-to-save/index.html
 - /2007/09/18/3-little-tips-to-save/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /117/jury-duty-scam/index.html
 - /2007/05/25/jury-duty-scam/index.html
 comments: true

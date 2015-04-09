@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /87/staying-relevant-with-sphere/index.html
 - /2007/05/07/staying-relevant-with-sphere/index.html
 comments: true

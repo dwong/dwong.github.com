@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /252/the-real-better-half/index.html
 - /2008/05/07/the-real-better-half/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /44/the-right-leader/index.html
 - /2007/03/31/the-right-leader/index.html
 comments: true

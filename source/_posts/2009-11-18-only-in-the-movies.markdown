@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /667/only-in-the-movies/index.html
 - /2009/11/18/only-in-the-movies/index.html
 comments: true

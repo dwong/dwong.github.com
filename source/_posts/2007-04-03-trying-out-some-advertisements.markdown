@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /46/trying-out-some-advertisements/index.html
 - /2007/04/03/trying-out-some-advertisements/index.html
 comments: true

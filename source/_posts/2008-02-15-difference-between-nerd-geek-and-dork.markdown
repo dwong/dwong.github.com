@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /208/difference-between-nerd-geek-and-dork/index.html
 - /2008/02/15/difference-between-nerd-geek-and-dork/index.html
 comments: true

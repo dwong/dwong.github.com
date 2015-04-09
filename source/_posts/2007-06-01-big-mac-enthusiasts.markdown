@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /122/big-mac-enthusiasts/index.html
 - /2007/06/01/big-mac-enthusiasts/index.html
 comments: true

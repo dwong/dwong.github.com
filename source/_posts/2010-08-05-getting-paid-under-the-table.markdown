@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /839/getting-paid-under-the-table/index.html
 - /2010/08/05/getting-paid-under-the-table/index.html
 comments: true

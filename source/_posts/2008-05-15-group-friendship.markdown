@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /253/group-friendship/index.html
 - /2008/05/15/group-friendship/index.html
 comments: true

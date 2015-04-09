@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /144/egregious/index.html
 - /2007/04/09/egregious/index.html
 comments: true

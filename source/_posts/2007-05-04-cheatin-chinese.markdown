@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /91/cheatin-chinese/index.html
 - /2007/05/04/cheatin-chinese/index.html
 comments: true

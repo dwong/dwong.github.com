@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /173/getting-outside/index.html
 - /2007/07/09/getting-outside/index.html
 comments: true

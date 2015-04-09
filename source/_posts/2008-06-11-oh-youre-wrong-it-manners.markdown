@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /260/oh-youre-wrong-it-manners/index.html
 - /2008/06/11/oh-youre-wrong-it-manners/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /855/cheap-and-wonderful/index.html
 - /2010/08/27/cheap-and-wonderful/index.html
 comments: true

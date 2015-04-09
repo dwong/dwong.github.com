@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /25/are-you-smarter-than-a-5th-grader/index.html
 - /2007/03/01/are-you-smarter-than-a-5th-grader/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /710/iphone-attention-deficit/index.html
 - /2009/10/16/iphone-attention-deficit/index.html
 comments: true

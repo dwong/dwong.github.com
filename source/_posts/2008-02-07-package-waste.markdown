@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /236/package-waste/index.html
 - /2008/02/07/package-waste/index.html
 comments: true

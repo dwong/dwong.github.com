@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /177/footlocker-coupon-found-and-what/index.html
 - /2007/07/17/footlocker-coupon-found-and-what/index.html
 comments: true

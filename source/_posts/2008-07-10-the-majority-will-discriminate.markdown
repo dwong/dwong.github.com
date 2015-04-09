@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /265/the-majority-will-discriminate/index.html
 - /2008/07/10/the-majority-will-discriminate/index.html
 comments: true

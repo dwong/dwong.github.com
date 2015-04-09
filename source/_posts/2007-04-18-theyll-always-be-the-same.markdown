@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /73/theyll-always-be-the-same/index.html
 - /2007/04/18/theyll-always-be-the-same/index.html
 comments: true

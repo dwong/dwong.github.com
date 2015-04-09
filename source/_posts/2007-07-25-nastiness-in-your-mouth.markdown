@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /180/nastiness-in-your-mouth/index.html
 - /2007/07/25/nastiness-in-your-mouth/index.html
 comments: true

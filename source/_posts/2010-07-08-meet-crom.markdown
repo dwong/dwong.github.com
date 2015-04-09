@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /817/meet-crom/index.html
 - /2010/07/08/meet-crom/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /171/busyness/index.html
 - /2007/07/03/busyness/index.html
 comments: true

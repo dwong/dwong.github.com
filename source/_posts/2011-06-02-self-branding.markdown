@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /976/self-branding/index.html
 - /2011/06/02/self-branding/index.html
 comments: true

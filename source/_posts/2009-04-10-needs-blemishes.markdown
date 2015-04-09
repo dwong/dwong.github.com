@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /546/needs-blemishes/index.html
 - /2009/04/10/needs-blemishes/index.html
 comments: true

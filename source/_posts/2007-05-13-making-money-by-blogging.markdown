@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /89/making-money-by-blogging/index.html
 - /2007/05/13/making-money-by-blogging/index.html
 comments: true

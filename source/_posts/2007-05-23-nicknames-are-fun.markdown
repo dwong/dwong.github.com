@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /114/nicknames-are-fun/index.html
 - /2007/05/23/nicknames-are-fun/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /378/only-in-a-metal-box/index.html
 - /2008/12/11/only-in-a-metal-box/index.html
 comments: true

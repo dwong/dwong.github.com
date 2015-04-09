@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /258/on-going-on-a-date-guy-version/index.html
 - /2012/03/28/on-going-on-a-date-guy-version/index.html
 comments: true

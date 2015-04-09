@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /128/dont-believe-everything-you-hear/index.html
 - /2007/06/06/dont-believe-everything-you-hear/index.html
 comments: true

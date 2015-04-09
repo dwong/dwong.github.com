@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /152/imbibe/index.html
 - /2007/06/04/imbibe/index.html
 comments: true

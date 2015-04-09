@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /404/christian-rap/index.html
 - /2008/10/29/christian-rap/index.html
 comments: true

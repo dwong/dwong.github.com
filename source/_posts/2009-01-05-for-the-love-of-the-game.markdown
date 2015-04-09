@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /458/for-the-love-of-the-game/index.html
 - /2009/01/05/for-the-love-of-the-game/index.html
 comments: true

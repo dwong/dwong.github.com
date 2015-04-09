@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /433/yellow-mellow/index.html
 - /2008/11/26/yellow-mellow/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /395/analogy-23408-for-life/index.html
 - /2008/10/23/analogy-23408-for-life/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /765/namesake/index.html
 - /2009/12/30/namesake/index.html
 comments: true

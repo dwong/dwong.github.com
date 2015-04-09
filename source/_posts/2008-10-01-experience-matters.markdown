@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /366/experience-matters/index.html
 - /2008/10/01/experience-matters/index.html
 comments: true

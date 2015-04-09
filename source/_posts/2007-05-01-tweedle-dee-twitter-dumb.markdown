@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /83/tweedle-dee-twitter-dumb/index.html
 - /2007/05/01/tweedle-dee-twitter-dumb/index.html
 comments: true

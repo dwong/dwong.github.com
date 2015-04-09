@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /41/coffee-distaste/index.html
 - /2007/03/21/coffee-distaste/index.html
 comments: true

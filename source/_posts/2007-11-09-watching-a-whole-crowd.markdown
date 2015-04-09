@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /222/watching-a-whole-crowd/index.html
 - /2007/11/09/watching-a-whole-crowd/index.html
 comments: true

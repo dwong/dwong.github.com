@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /199/is-the-40-30-20-10-rule-too-ideal/index.html
 - /2007/09/04/is-the-40-30-20-10-rule-too-ideal/index.html
 comments: true

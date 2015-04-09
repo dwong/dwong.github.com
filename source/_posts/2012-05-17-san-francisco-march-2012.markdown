@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1171/san-francisco-march-2012/index.html
 - /2012/05/17/san-francisco-march-2012/index.html
 comments: true

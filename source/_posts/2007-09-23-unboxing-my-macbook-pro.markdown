@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /205/unboxing-my-macbook-pro/index.html
 - /2007/09/23/unboxing-my-macbook-pro/index.html
 comments: true

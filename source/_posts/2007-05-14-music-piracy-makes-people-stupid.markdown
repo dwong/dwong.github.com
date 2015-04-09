@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /99/music-piracy-makes-people-stupid/index.html
 - /2007/05/14/music-piracy-makes-people-stupid/index.html
 comments: true

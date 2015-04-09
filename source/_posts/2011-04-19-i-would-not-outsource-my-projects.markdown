@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /977/i-would-not-outsource-my-projects/index.html
 - /2011/04/19/i-would-not-outsource-my-projects/index.html
 comments: true

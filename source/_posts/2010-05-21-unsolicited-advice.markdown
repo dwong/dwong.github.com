@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /781/unsolicited-advice/index.html
 - /2010/05/21/unsolicited-advice/index.html
 comments: true

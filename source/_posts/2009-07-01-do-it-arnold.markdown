@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /625/do-it-arnold/index.html
 - /2009/07/01/do-it-arnold/index.html
 comments: true

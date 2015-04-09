@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /925/crispy-is-great/index.html
 - /2010/12/06/crispy-is-great/index.html
 comments: true

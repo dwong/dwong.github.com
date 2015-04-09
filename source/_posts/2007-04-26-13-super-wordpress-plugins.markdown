@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /60/13-super-wordpress-plugins/index.html
 - /2007/04/26/13-super-wordpress-plugins/index.html
 comments: true

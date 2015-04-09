@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /244/age-its-just-a-number/index.html
 - /2008/03/26/age-its-just-a-number/index.html
 comments: true

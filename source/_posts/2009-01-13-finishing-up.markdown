@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /486/finishing-up/index.html
 - /2009/01/13/finishing-up/index.html
 comments: true

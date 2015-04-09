@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /229/proud-of-nothing/index.html
 - /2008/01/13/proud-of-nothing/index.html
 comments: true

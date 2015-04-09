@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /141/nefarious/index.html
 - /2007/03/19/nefarious/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /126/how-are-magazine-advertisements-worthwhile/index.html
 - /2007/06/05/how-are-magazine-advertisements-worthwhile/index.html
 comments: true

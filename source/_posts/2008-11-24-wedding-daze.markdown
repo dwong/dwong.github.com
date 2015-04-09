@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /430/wedding-daze/index.html
 - /2008/11/24/wedding-daze/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /1076/xian/index.html
 - /2011/10/24/xian/index.html
 comments: true

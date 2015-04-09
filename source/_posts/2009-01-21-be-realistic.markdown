@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /499/be-realistic/index.html
 - /2009/01/21/be-realistic/index.html
 comments: true

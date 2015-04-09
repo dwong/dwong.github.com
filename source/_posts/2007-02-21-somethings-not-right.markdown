@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /20/somethings-not-right/index.html
 - /2007/02/21/somethings-not-right/index.html
 comments: true

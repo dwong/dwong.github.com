@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /106/excursions-into-the-casgo/index.html
 - /2007/05/19/excursions-into-the-casgo/index.html
 comments: true

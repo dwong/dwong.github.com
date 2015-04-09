@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /31/humorous-gadgets/index.html
 - /2007/03/14/humorous-gadgets/index.html
 comments: true

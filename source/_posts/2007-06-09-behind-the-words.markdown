@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /135/behind-the-words/index.html
 - /2007/06/09/behind-the-words/index.html
 comments: true

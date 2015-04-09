@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /179/applegeeks-coachgirls/index.html
 - /2007/07/22/applegeeks-coachgirls/index.html
 comments: true

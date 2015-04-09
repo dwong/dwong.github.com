@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /220/new-wordpress-comment-plugins/index.html
 - /2007/10/30/new-wordpress-comment-plugins/index.html
 comments: true

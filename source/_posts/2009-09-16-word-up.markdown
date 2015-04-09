@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /677/word-up/index.html
 - /2009/09/16/word-up/index.html
 comments: true

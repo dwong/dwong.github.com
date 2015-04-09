@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /120/google-web-history/index.html
 - /2007/05/31/google-web-history/index.html
 comments: true

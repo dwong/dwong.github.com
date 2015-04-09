@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /119/silver-surfer-contests/index.html
 - /2007/05/29/silver-surfer-contests/index.html
 comments: true

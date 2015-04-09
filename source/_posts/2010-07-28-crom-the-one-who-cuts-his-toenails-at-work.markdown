@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /835/crom-the-one-who-cuts-his-toenails-at-work/index.html
 - /2010/07/28/crom-the-one-who-cuts-his-toenails-at-work/index.html
 comments: true

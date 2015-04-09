@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /631/barefoot-running/index.html
 - /2009/07/10/barefoot-running/index.html
 comments: true

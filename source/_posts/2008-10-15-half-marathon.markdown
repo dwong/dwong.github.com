@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /389/half-marathon/index.html
 - /2008/10/15/half-marathon/index.html
 comments: true

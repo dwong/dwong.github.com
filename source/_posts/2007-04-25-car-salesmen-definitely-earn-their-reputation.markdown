@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /80/car-salesmen-definitely-earn-their-reputation/index.html
 - /2007/04/25/car-salesmen-definitely-earn-their-reputation/index.html
 comments: true

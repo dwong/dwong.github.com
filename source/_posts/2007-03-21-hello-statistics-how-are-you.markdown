@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /42/hello-statistics-how-are-you/index.html
 - /2007/03/21/hello-statistics-how-are-you/index.html
 comments: true

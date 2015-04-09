@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /137/ostentatious/index.html
 - /2007/02/19/ostentatious/index.html
 comments: true

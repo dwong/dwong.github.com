@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /96/macs-have-emacs-key-bindings/index.html
 - /2007/05/18/macs-have-emacs-key-bindings/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /574/changing-permalinks/index.html
 - /2009/04/25/changing-permalinks/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /316/confusing-addresses/index.html
 - /2008/08/13/confusing-addresses/index.html
 comments: true

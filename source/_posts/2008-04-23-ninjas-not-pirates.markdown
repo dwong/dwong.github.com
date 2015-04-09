@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /242/ninjas-not-pirates/index.html
 - /2008/04/23/ninjas-not-pirates/index.html
 comments: true

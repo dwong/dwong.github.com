@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /203/running-in-tempo/index.html
 - /2007/09/28/running-in-tempo/index.html
 comments: true

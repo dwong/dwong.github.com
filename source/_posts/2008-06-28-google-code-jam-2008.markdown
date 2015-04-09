@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /268/google-code-jam-2008/index.html
 - /2008/06/28/google-code-jam-2008/index.html
 comments: true

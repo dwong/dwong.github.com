@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /264/awkwardness/index.html
 - /2008/06/25/awkwardness/index.html
 comments: true

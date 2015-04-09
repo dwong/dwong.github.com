@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /519/unions-will-get-you-for-sure/index.html
 - /2009/08/12/unions-will-get-you-for-sure/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /791/take-it-easy-old-fella/index.html
 - /2010/03/26/take-it-easy-old-fella/index.html
 comments: true

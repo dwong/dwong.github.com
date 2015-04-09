@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /760/just-a-word/index.html
 - /2009/12/22/just-a-word/index.html
 comments: true

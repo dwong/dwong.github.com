@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /74/texting-champion/index.html
 - /2007/04/23/texting-champion/index.html
 comments: true

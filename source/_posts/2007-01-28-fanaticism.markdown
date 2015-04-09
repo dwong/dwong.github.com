@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /10/fanaticism/index.html
 - /2007/01/28/fanaticism/index.html
 comments: true

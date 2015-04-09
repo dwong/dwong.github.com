@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /461/wordpress-27-transition/index.html
 - /2008/12/12/wordpress-27-transition/index.html
 comments: true

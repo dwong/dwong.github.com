@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /30/separate-yourself/index.html
 - /2007/03/15/separate-yourself/index.html
 comments: true

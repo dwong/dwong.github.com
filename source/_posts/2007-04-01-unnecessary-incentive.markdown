@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /45/unnecessary-incentive/index.html
 - /2007/04/01/unnecessary-incentive/index.html
 comments: true

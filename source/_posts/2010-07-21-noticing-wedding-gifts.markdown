@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /829/noticing-wedding-gifts/index.html
 - /2010/07/21/noticing-wedding-gifts/index.html
 comments: true

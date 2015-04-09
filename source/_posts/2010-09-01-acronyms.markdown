@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /880/acronyms/index.html
 - /2010/09/01/acronyms/index.html
 comments: true

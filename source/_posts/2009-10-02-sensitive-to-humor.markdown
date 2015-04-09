@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /693/sensitive-to-humor/index.html
 - /2009/10/02/sensitive-to-humor/index.html
 comments: true

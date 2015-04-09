@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /269/tips-for-saving-gas/index.html
 - /2008/07/16/tips-for-saving-gas/index.html
 comments: true

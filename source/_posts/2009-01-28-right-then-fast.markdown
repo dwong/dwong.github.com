@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /488/right-then-fast/index.html
 - /2009/01/28/right-then-fast/index.html
 comments: true

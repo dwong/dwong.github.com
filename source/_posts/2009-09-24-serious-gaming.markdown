@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /684/serious-gaming/index.html
 - /2009/09/24/serious-gaming/index.html
 comments: true

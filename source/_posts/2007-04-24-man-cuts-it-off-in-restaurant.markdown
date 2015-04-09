@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /79/man-cuts-it-off-in-restaurant/index.html
 - /2007/04/24/man-cuts-it-off-in-restaurant/index.html
 comments: true

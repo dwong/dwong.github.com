@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /616/maybe-ill-miss-that-pit/index.html
 - /2009/06/20/maybe-ill-miss-that-pit/index.html
 comments: true

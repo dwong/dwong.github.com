@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /735/clueless-spokesmen/index.html
 - /2009/12/03/clueless-spokesmen/index.html
 comments: true

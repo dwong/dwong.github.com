@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /914/crom-the-one-with-the-girlfriend/index.html
 - /2011/03/23/crom-the-one-with-the-girlfriend/index.html
 comments: true

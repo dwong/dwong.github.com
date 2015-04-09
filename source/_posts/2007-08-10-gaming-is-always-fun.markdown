@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /184/gaming-is-always-fun/index.html
 - /2007/08/10/gaming-is-always-fun/index.html
 comments: true

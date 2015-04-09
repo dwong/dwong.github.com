@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /146/scintillate/index.html
 - /2007/04/23/scintillate/index.html
 comments: true

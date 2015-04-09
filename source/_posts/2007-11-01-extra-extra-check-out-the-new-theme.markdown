@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /221/extra-extra-check-out-the-new-theme/index.html
 - /2007/11/01/extra-extra-check-out-the-new-theme/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /383/what-are-you-trying-to-pull-here/index.html
 - /2008/10/10/what-are-you-trying-to-pull-here/index.html
 comments: true

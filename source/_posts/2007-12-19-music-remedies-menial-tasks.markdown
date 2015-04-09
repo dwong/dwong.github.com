@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /231/music-remedies-menial-tasks/index.html
 - /2007/12/19/music-remedies-menial-tasks/index.html
 comments: true

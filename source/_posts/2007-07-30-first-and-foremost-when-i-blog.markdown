@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /181/first-and-foremost-when-i-blog/index.html
 - /2007/07/30/first-and-foremost-when-i-blog/index.html
 comments: true

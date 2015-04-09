@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /945/useful-emacs-tips/index.html
 - /2007/02/20/useful-emacs-tips/index.html
 comments: true

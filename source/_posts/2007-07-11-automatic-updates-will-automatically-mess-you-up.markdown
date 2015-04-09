@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /175/automatic-updates-will-automatically-mess-you-up/index.html
 - /2007/07/11/automatic-updates-will-automatically-mess-you-up/index.html
 comments: true

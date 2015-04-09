@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /254/on-asking-a-girl-out/index.html
 - /2008/06/04/on-asking-a-girl-out/index.html
 comments: true

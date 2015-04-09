@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /170/eight-things-count-em-up/index.html
 - /2007/06/29/eight-things-count-em-up/index.html
 comments: true

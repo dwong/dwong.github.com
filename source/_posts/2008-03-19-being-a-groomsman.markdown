@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /245/being-a-groomsman/index.html
 - /2008/03/19/being-a-groomsman/index.html
 comments: true

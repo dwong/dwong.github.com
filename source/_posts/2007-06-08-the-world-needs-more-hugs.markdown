@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /130/the-world-needs-more-hugs/index.html
 - /2007/06/08/the-world-needs-more-hugs/index.html
 comments: true

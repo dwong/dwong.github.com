@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /40/even-worse/index.html
 - /2007/03/20/even-worse/index.html
 comments: true

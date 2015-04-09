@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /38/plague-of-the-video-review/index.html
 - /2007/03/14/plague-of-the-video-review/index.html
 comments: true

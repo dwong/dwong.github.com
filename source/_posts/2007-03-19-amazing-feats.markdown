@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /39/amazing-feats/index.html
 - /2007/03/19/amazing-feats/index.html
 comments: true

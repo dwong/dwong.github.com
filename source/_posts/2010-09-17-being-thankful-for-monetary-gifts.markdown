@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /809/being-thankful-for-monetary-gifts/index.html
 - /2010/09/17/being-thankful-for-monetary-gifts/index.html
 comments: true

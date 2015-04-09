@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /604/what-is-marriage/index.html
 - /2009/06/11/what-is-marriage/index.html
 comments: true

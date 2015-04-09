@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /232/building-relationships/index.html
 - /2007/12/31/building-relationships/index.html
 comments: true

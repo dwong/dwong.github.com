@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /198/everyone-should-use-opendns/index.html
 - /2007/09/10/everyone-should-use-opendns/index.html
 comments: true

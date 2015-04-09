@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /582/team-world-vision/index.html
 - /2009/04/27/team-world-vision/index.html
 comments: true

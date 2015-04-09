@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /771/water-war-card-game/index.html
 - /2010/02/15/water-war-card-game/index.html
 comments: true

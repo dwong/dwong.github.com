@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /93/career-ramblings-for-all/index.html
 - /2007/05/05/career-ramblings-for-all/index.html
 comments: true

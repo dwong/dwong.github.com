@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /724/sell-your-porsche/index.html
 - /2007/01/11/sell-your-porsche/index.html
 comments: true

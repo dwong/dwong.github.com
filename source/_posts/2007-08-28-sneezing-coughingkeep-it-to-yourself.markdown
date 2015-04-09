@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /196/sneezing-coughingkeep-it-to-yourself/index.html
 - /2007/08/28/sneezing-coughingkeep-it-to-yourself/index.html
 comments: true

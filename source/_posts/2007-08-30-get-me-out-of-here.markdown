@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /197/get-me-out-of-here/index.html
 - /2007/08/30/get-me-out-of-here/index.html
 comments: true

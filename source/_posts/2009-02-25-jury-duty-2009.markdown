@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /534/jury-duty-2009/index.html
 - /2009/02/25/jury-duty-2009/index.html
 comments: true

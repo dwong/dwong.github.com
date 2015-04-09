@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /158/more-favorite-posts/index.html
 - /2007/06/16/more-favorite-posts/index.html
 comments: true

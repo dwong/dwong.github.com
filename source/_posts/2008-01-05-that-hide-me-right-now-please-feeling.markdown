@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /235/that-hide-me-right-now-please-feeling/index.html
 - /2008/01/05/that-hide-me-right-now-please-feeling/index.html
 comments: true

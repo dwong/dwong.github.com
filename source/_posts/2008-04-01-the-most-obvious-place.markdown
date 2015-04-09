@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /248/the-most-obvious-place/index.html
 - /2008/04/01/the-most-obvious-place/index.html
 comments: true

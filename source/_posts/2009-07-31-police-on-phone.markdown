@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /630/police-on-phone/index.html
 - /2009/07/31/police-on-phone/index.html
 comments: true

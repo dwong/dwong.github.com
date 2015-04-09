@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /974/soda-fountain-thief/index.html
 - /2011/03/29/soda-fountain-thief/index.html
 comments: true

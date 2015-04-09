@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /602/now-a-little-fish/index.html
 - /2009/06/03/now-a-little-fish/index.html
 comments: true

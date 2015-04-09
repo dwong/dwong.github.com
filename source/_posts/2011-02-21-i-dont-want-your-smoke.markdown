@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /954/i-dont-want-your-smoke/index.html
 - /2011/02/21/i-dont-want-your-smoke/index.html
 comments: true

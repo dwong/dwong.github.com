@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /172/not-what-i-do/index.html
 - /2007/07/05/not-what-i-do/index.html
 comments: true

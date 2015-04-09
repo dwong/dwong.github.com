@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /228/a-quote-about-true-friends/index.html
 - /2007/12/03/a-quote-about-true-friends/index.html
 comments: true

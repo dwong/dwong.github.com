@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /142/tenable/index.html
 - /2007/03/26/tenable/index.html
 comments: true

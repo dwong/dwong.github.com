@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /92/you-get-to-see-some-statistics/index.html
 - /2007/05/04/you-get-to-see-some-statistics/index.html
 comments: true

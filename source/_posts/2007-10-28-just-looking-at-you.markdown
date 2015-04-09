@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /219/just-looking-at-you/index.html
 - /2007/10/28/just-looking-at-you/index.html
 comments: true

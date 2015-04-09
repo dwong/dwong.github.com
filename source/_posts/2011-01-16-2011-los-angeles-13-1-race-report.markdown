@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /948/2011-los-angeles-13-1-race-report/index.html
 - /2011/01/16/2011-los-angeles-13-1-race-report/index.html
 comments: true

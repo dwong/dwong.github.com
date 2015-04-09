@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /24/professional-integrity/index.html
 - /2007/02/28/professional-integrity/index.html
 comments: true

@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /194/yay-for-frequent-commentators/index.html
 - /2007/09/06/yay-for-frequent-commentators/index.html
 comments: true

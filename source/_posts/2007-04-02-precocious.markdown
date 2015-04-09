@@ -1,5 +1,5 @@
 ---
-alias:
+redirect_from:
 - /143/precocious/index.html
 - /2007/04/02/precocious/index.html
 comments: true
