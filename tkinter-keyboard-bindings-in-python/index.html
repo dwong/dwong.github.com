@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Tkinter Keyboard Bindings (In Python) - Going The Wong Way</title>
+  <title>Tkinter Keyboard Bindings (in Python) - Going The Wong Way</title>
   <meta name="author" content="Derek Wong">
   <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
   <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
@@ -32,7 +32,7 @@
 
 </head>
 
-<body>
+<body   >
   <header role="banner"><div id="header_logo" style="float:left;"><h1><a title="Going The Wong Way" href="/"><img src="http://img.gtww.net/static/header_89ko.png"/></a></h1></div>
 
 </header>
@@ -71,10 +71,7 @@
 
 
 
-
-
-
-<time datetime="2007-08-24T11:00:36-07:00" pubdate data-updated="true">Aug 24</time>
+<time class='entry-date' datetime='2007-08-24T11:00:36-07:00'><span class='date'>Aug 24</span></time>
         
            | <a href="#disqus_thread"
              data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
@@ -89,15 +86,12 @@
 <p>Anyways this is specific to the &ldquo;special keys&rdquo; that are used in the bind method for event handling, so I&rsquo;ve not looked into where else this particular information could be useful.  I, for one, used this in order to bind the enter key on the keypad to the same functions as the normal enter button.  It was annoying me while using <a href="http://www.goingthewongway.com/currently-programming/the-budgeteer/">The Budgeteer</a> because I couldn&rsquo;t figure out what the name of the button to bind was.  That has thankfully been remedied!</p>
 
 <p>Example:
-`root = Tk()
-def hello(*ignore):</p>
-
-<pre><code>print 'Hello World'
-</code></pre>
-
-<p>root.bind(&lsquo;<return>&rsquo;, hello)
+<code>root = Tk()
+def hello(*ignore):
+    print 'Hello World'
+root.bind('&lt;return&gt;', hello)
 root.mainloop()
-`</p>
+</code></p>
 
 <p>.keysym.keycode.keysym_numKey</p>
 
@@ -329,7 +323,7 @@ PageUp on the keypad</p>
 <p>KP_Subtract
 82
 65453
-&ndash; on the keypad</p>
+- on the keypad</p>
 
 <p>KP_Up
 80
@@ -407,15 +401,13 @@ The tab key</p>
 
 
 
+<time class='entry-date' datetime='2007-08-24T11:00:36-07:00'><span class='date'>Aug 24</span></time>
+      
+
+<span class="categories"><a class='category' href='/categories/nerd/'>nerd</a></span>
 
 
-
-
-      <time datetime="2007-08-24T11:00:36-07:00" pubdate data-updated="true">Aug 24</time>
-
-<span class="categories"><a class='category' href='/categories/nerd/'>Nerd</a></span>
-
-</p>
+    </p>
     
       
 
@@ -425,7 +417,7 @@ The tab key</p>
         <a class="basic-alignment left" href="/ppppppp/" title="Previous Post: PPPPPPP">&laquo; PPPPPPP</a>
       
       
-        <a class="basic-alignment right" href="/sneezing-coughingkeep-it-to-yourself/" title="Next Post: Sneezing, Coughing...Keep It To Yourself!">Sneezing, Coughing...Keep It To Yourself! &raquo;</a>
+        <a class="basic-alignment right" href="/sneezing-coughingkeep-it-to-yourself/" title="Next Post: Sneezing, Coughing...Keep It To Yourself!">Sneezing, Coughing&#8230;Keep It To Yourself! &raquo;</a>
       
     </p>
   </footer>
@@ -443,7 +435,7 @@ The tab key</p>
   
     <section>
   <h1>About Me</h1>
-  <p>My name is Derek Wong.  I'm a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
+  <p>My name is Derek Wong.  I&#8217;m a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
 </section>
 <section>
   <h1>I Shop At</h1>
@@ -493,7 +485,7 @@ The tab key</p>
   <footer role="contentinfo"><p>
   Copyright &copy; 2007-2015 Derek Wong
   
-    <span style="float:right">I'm ALWAYS going the Wong way.</span>
+    <span style="float:right">I&#8217;m ALWAYS going the Wong way.</span>
   
 </p>
 

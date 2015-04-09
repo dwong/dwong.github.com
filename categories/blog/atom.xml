@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Blog | Going The Wong Way]]></title>
+  <title><![CDATA[Category: blog | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2015-04-04T15:13:56-07:00</updated>
+  <updated>2015-04-08T20:55:58-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -43,138 +43,134 @@
 <h2><a id="sitemap"></a>Sitemap</h2>
 
 <p>Octopress included a sitemap plugin, but I didn&rsquo;t like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:
-```xml {% raw %}
-&lt;?xml version=&ldquo;1.0&rdquo; encoding=&ldquo;UTF-8&rdquo;?>
-&lt;?xml-stylesheet type=&ldquo;text/xsl&rdquo; href=&ldquo;<a href="http://www.goingthewongway.com/sitemap.xsl">http://www.goingthewongway.com/sitemap.xsl</a>&rdquo;?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url></p>
-
-<pre><code>&lt;loc&gt;{{ site.url }}/&lt;/loc&gt;
-&lt;lastmod&gt;{{ site.time | date_to_xmlschema }}&lt;/lastmod&gt;
-&lt;changefreq&gt;daily&lt;/changefreq&gt;
-&lt;priority&gt;1.0&lt;/priority&gt;
-</code></pre>
-
-<p>  </url>
-  <url></p>
-
-<pre><code>&lt;loc&gt;{{ site.url }}/favorite-posts/&lt;/loc&gt;
-&lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
-&lt;changefreq&gt;weekly&lt;/changefreq&gt;
-&lt;priority&gt;0.6&lt;/priority&gt;
-</code></pre>
-
-<p>  </url>
-  <url></p>
-
-<pre><code>&lt;loc&gt;{{ site.url }}/about/&lt;/loc&gt;
-&lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
-&lt;changefreq&gt;weekly&lt;/changefreq&gt;
-&lt;priority&gt;0.6&lt;/priority&gt;
-</code></pre>
-
-<p>  </url>
-  <url></p>
-
-<pre><code>&lt;loc&gt;{{ site.url }}/my-photo-gear/&lt;/loc&gt;
-&lt;lastmod&gt;2012-09-07T20:59:36+00:00&lt;/lastmod&gt;
-&lt;changefreq&gt;weekly&lt;/changefreq&gt;
-&lt;priority&gt;0.6&lt;/priority&gt;
-</code></pre>
-
-<p>  </url>
+<code>xml 
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;?xml-stylesheet type="text/xsl" href="http://www.goingthewongway.com/sitemap.xsl"?&gt;
+&lt;urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;
+  &lt;url&gt;
+    &lt;loc&gt;{{ site.url }}/&lt;/loc&gt;
+    &lt;lastmod&gt;{{ site.time | date_to_xmlschema }}&lt;/lastmod&gt;
+    &lt;changefreq&gt;daily&lt;/changefreq&gt;
+    &lt;priority&gt;1.0&lt;/priority&gt;
+  &lt;/url&gt;
+  &lt;url&gt;
+    &lt;loc&gt;{{ site.url }}/favorite-posts/&lt;/loc&gt;
+    &lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
+    &lt;changefreq&gt;weekly&lt;/changefreq&gt;
+    &lt;priority&gt;0.6&lt;/priority&gt;
+  &lt;/url&gt;
+  &lt;url&gt;
+    &lt;loc&gt;{{ site.url }}/about/&lt;/loc&gt;
+    &lt;lastmod&gt;2012-02-07T20:59:36+00:00&lt;/lastmod&gt;
+    &lt;changefreq&gt;weekly&lt;/changefreq&gt;
+    &lt;priority&gt;0.6&lt;/priority&gt;
+  &lt;/url&gt;
+  &lt;url&gt;
+    &lt;loc&gt;{{ site.url }}/my-photo-gear/&lt;/loc&gt;
+    &lt;lastmod&gt;2012-09-07T20:59:36+00:00&lt;/lastmod&gt;
+    &lt;changefreq&gt;weekly&lt;/changefreq&gt;
+    &lt;priority&gt;0.6&lt;/priority&gt;
+  &lt;/url&gt;
   {% for post in site.posts  %}
-  <url></p>
-
-<pre><code>&lt;loc&gt;{{ site.url }}{{ post.url }}&lt;/loc&gt;
-&lt;lastmod&gt;{{ post.date | date_to_xmlschema }}&lt;/lastmod&gt;
-&lt;changefreq&gt;monthly&lt;/changefreq&gt;
-&lt;priority&gt;0.2&lt;/priority&gt;
-</code></pre>
-
-<p>  </url>
+  &lt;url&gt;
+    &lt;loc&gt;{{ site.url }}{{ post.url }}&lt;/loc&gt;
+    &lt;lastmod&gt;{{ post.date | date_to_xmlschema }}&lt;/lastmod&gt;
+    &lt;changefreq&gt;monthly&lt;/changefreq&gt;
+    &lt;priority&gt;0.2&lt;/priority&gt;
+  &lt;/url&gt;
   {% endfor %}
-</urlset> {% raw %}
-```</p>
+&lt;/urlset&gt; {% raw %}
+</code></p>
 
 <h2><a id="atom"></a>Atom Feed</h2>
 
 <p>I started with <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed">this simple Jekyll feed</a> in order to create a custom Atom Feed that looks like this:
-```xml {% raw %}
-&lt;?xml version=&ldquo;1.0&rdquo; encoding=&ldquo;utf-8&rdquo;?>
-<feed xmlns="http://www.w3.org/2005/Atom"></p>
-
-<p>  <title>&lt;![CDATA[{{ site.title }}]]&gt;</title>
-  <subtitle>&lt;![CDATA[{{ site.subtitle }}]]&gt;</subtitle>
-  <link href="{{ site.url }}/atom.xml" rel="self"/>
-  <link href="{{ site.url }}/"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.url }}/</id>
-  <author></p>
-
-<pre><code>&lt;name&gt;&lt;![CDATA[{{ site.author | strip_html }}]]&gt;&lt;/name&gt;
-</code></pre>
-
-<p>  </author>
-  <rights>Copyright &copy; 2007-2012 {{ site.author | strip_html}}</rights>
-  {% for post in site.posts limit: 10 %}
-  <entry></p>
-
-<pre><code>&lt;title type="html"&gt;&lt;![CDATA[{{ post.title | cdata_escape }}]]&gt;&lt;/title&gt;
-&lt;link href="{{ site.url }}{{ post.url }}"/&gt;
-&lt;updated&gt;{{ post.date | date_to_xmlschema }}&lt;/updated&gt;
-&lt;id&gt;{{ site.url }}{{ post.id }}&lt;/id&gt;
-&lt;content type="html"&gt;&lt;![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]&gt;&lt;/content&gt;
-</code></pre>
-
-<p>  </entry>
-  {% endfor %}
-</feed>
-{% endraw %}
-```</p>
+<figure class='code'><figcaption><span>{% raw %}</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="ni">&amp;lt;</span>?xml version=<span class="ni">&amp;ldquo;</span>1.0<span class="ni">&amp;rdquo;</span> encoding=<span class="ni">&amp;ldquo;</span>utf-8<span class="ni">&amp;rdquo;</span>?&gt;
+</span><span class='line'><span class="nt">&lt;feed</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/2005/Atom&quot;</span><span class="nt">&gt;&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;p&gt;</span>  <span class="nt">&lt;title&gt;</span><span class="ni">&amp;lt;</span>![CDATA[{{ site.title }}]]<span class="ni">&amp;gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;subtitle&gt;</span><span class="ni">&amp;lt;</span>![CDATA[{{ site.subtitle }}]]<span class="ni">&amp;gt;</span><span class="nt">&lt;/subtitle&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/atom.xml&quot;</span> <span class="na">rel=</span><span class="s">&quot;self&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;updated&gt;</span>{{ site.time | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;id&gt;</span>{{ site.url }}/<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;author&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;name&gt;</span><span class="ni">&amp;lt;</span>![CDATA[{{ site.author | strip_html }}]]<span class="ni">&amp;gt;</span><span class="nt">&lt;/name&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/author&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;rights&gt;</span>Copyright <span class="ni">&amp;copy;</span> 2007-2012 {{ site.author | strip_html}}<span class="nt">&lt;/rights&gt;</span>
+</span><span class='line'>  {% for post in site.posts limit: 10 %}
+</span><span class='line'>  <span class="nt">&lt;entry&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="ni">&amp;lt;</span>![CDATA[{{ post.title | cdata_escape }}]]<span class="ni">&amp;gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;id&gt;</span>{{ site.url }}{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="ni">&amp;lt;</span>![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]<span class="ni">&amp;gt;</span><span class="nt">&lt;/content&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/entry&gt;</span>
+</span><span class='line'>  {% endfor %}
+</span><span class='line'><span class="nt">&lt;/feed&gt;</span>
+</span><span class='line'>
+</span></code></pre></td></tr></table></div></figure></p>
 
 <h2><a id="sidebar_state"></a>Retaining Sidebar Collapsed State</h2>
 
 <p>The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the <a href="https://github.com/carhartl/jquery-cookie">jQuery Cookie plugin</a> and edited the addSidebarToggler function in octopress.js like so:
-```javascript
+<code>javascript
 function addSidebarToggler() {
-  if(!$(&lsquo;body&rsquo;).hasClass(&lsquo;sidebar-footer&rsquo;)) {</p>
-
-<pre><code>$('#content').append('&lt;span class="toggle-sidebar"&gt;&lt;/span&gt;');
-$('.toggle-sidebar').bind('click', function(e) {
-  e.preventDefault();
-  if ($('body').hasClass('collapse-sidebar')) {
-    $('body').removeClass('collapse-sidebar');
-    jQuery(window).trigger("resize");
-    jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
-  } else {
-    $('body').addClass('collapse-sidebar');
-    jQuery(window).trigger("resize");
-    jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
+  if(!$('body').hasClass('sidebar-footer')) {
+    $('#content').append('&lt;span class="toggle-sidebar"&gt;&lt;/span&gt;');
+    $('.toggle-sidebar').bind('click', function(e) {
+      e.preventDefault();
+      if ($('body').hasClass('collapse-sidebar')) {
+        $('body').removeClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
+        jQuery.cookie('sidebar_collapsed', "0", { expires: 7, path: '/', raw: true });
+      } else {
+        $('body').addClass('collapse-sidebar');
+        jQuery(window).trigger("resize");
+        jQuery.cookie('sidebar_collapsed', "1", { expires: 7, path: '/', raw: true });
+      }
+    });
   }
-});
-</code></pre>
-
-<p>  }
-&hellip;
+...
 }
-<code>
+</code>
 Additionally I added the following code:
-</code>javascript
-jQuery(document).ready(function () {</p>
-
-<pre><code>var a = jQuery.cookie("sidebar_collapsed", {
-    raw: true
+<code>javascript
+jQuery(document).ready(function () {
+    var a = jQuery.cookie("sidebar_collapsed", {
+        raw: true
+    });
+    if (a === "1") {
+        $("body").addClass("collapse-sidebar");
+    } else {
+        $("body").removeClass("collapse-sidebar");
+    }
 });
-if (a === "1") {
-    $("body").addClass("collapse-sidebar");
-} else {
-    $("body").removeClass("collapse-sidebar");
-}
-</code></pre>
-
-<p>});
-```</p>
+</code></p>
 ]]></content>
   </entry>
   
@@ -190,10 +186,10 @@ if (a === "1") {
 <p>After searching online, I came upon Scott Yang&rsquo;s <a href="http://scott.yang.id.au/code/permalink-redirect/">Permalink Redirect plugin</a>.  The instructions seemed easy enough so I:</p>
 
 <ol>
-<li><p> Downloaded it</p></li>
-<li><p> Unzipped, installed, and activated it</p></li>
-<li><p> Accessed the new Settings->Permalink Redirect page.  Under &ldquo;Old Permalink Structure&rdquo; clicked the link after &ldquo;Current permalink structure&rdquo;</p></li>
-<li><p> Accessed Settings->Permalinks.  Changed to a /post-id/post-name structure.  (I used tags that I found <a href="http://codex.wordpress.org/Using_Permalinks#Structure_Tags">here</a>.)</p></li>
+<li><p>Downloaded it</p></li>
+<li><p>Unzipped, installed, and activated it</p></li>
+<li><p>Accessed the new Settings->Permalink Redirect page.  Under &ldquo;Old Permalink Structure&rdquo; clicked the link after &ldquo;Current permalink structure&rdquo;</p></li>
+<li><p>Accessed Settings->Permalinks.  Changed to a /post-id/post-name structure.  (I used tags that I found <a href="http://codex.wordpress.org/Using_Permalinks#Structure_Tags">here</a>.)</p></li>
 </ol>
 
 
@@ -210,7 +206,7 @@ if (a === "1") {
 
 <p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I&rsquo;d been using Brian&rsquo;s Threaded Comments, and the move from that to the new baked-in threaded comments wasn&rsquo;t too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
 
-<p>Then I realized today that my commenting isn&rsquo;t working!  While using Brian&rsquo;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&rsquo;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&rsquo;t working!  I had to realize that the &ldquo;Cannot modify header information &ndash; headers already sent by &hellip;&rdquo; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
+<p>Then I realized today that my commenting isn&rsquo;t working!  While using Brian&rsquo;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&rsquo;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&rsquo;t working!  I had to realize that the &ldquo;Cannot modify header information - headers already sent by &hellip;&rdquo; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
 
 <p>So if you tried to comment recently and that didn&rsquo;t work for you, I apologize.</p>
 

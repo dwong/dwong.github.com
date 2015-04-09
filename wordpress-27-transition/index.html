@@ -32,7 +32,7 @@
 
 </head>
 
-<body>
+<body   >
   <header role="banner"><div id="header_logo" style="float:left;"><h1><a title="Going The Wong Way" href="/"><img src="http://img.gtww.net/static/header_89ko.png"/></a></h1></div>
 
 </header>
@@ -71,10 +71,7 @@
 
 
 
-
-
-
-<time datetime="2008-12-12T14:44:49-08:00" pubdate data-updated="true">Dec 12</time>
+<time class='entry-date' datetime='2008-12-12T14:44:49-08:00'><span class='date'>Dec 12</span></time>
         
            | <a href="#disqus_thread"
              data-disqus-identifier="http://www.goingthewongway.com">Comments</a>
@@ -88,7 +85,7 @@
 
 <p>But I also had some difficulties while upgrading.  Namely, I had to fiddle a bit to get everything working alright.  I&rsquo;d been using Brian&rsquo;s Threaded Comments, and the move from that to the new baked-in threaded comments wasn&rsquo;t too hard.  I just needed to update my theme, which is thankfully a custom one that I wrote so I know the ins and outs of it.  So I made a new comments page that looks fairly similar to what it looked like before.  The threading was maintained on old posts, and I definitely count it a success.</p>
 
-<p>Then I realized today that my commenting isn&rsquo;t working!  While using Brian&rsquo;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&rsquo;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&rsquo;t working!  I had to realize that the &ldquo;Cannot modify header information &ndash; headers already sent by &hellip;&rdquo; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
+<p>Then I realized today that my commenting isn&rsquo;t working!  While using Brian&rsquo;s Threaded Comments, I had been using a custom comment posting page to hinder spam.  However that meant that I wasn&rsquo;t using the normal page.  So when I switched to the normal page (wp-comment-post.php), it wasn&rsquo;t working!  I had to realize that the &ldquo;Cannot modify header information - headers already sent by &hellip;&rdquo; error was because I had some extra lines in the aforementioned comment posting page.  Removed those, and all is well.</p>
 
 <p>So if you tried to comment recently and that didn&rsquo;t work for you, I apologize.</p>
 
@@ -107,15 +104,13 @@
 
 
 
+<time class='entry-date' datetime='2008-12-12T14:44:49-08:00'><span class='date'>Dec 12</span></time>
+      
+
+<span class="categories"><a class='category' href='/categories/blog/'>blog</a></span>
 
 
-
-
-      <time datetime="2008-12-12T14:44:49-08:00" pubdate data-updated="true">Dec 12</time>
-
-<span class="categories"><a class='category' href='/categories/blog/'>Blog</a></span>
-
-</p>
+    </p>
     
       
 
@@ -143,7 +138,7 @@
   
     <section>
   <h1>About Me</h1>
-  <p>My name is Derek Wong.  I'm a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
+  <p>My name is Derek Wong.  I&#8217;m a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
 </section>
 <section>
   <h1>I Shop At</h1>
@@ -193,7 +188,7 @@
   <footer role="contentinfo"><p>
   Copyright &copy; 2007-2015 Derek Wong
   
-    <span style="float:right">I'm ALWAYS going the Wong way.</span>
+    <span style="float:right">I&#8217;m ALWAYS going the Wong way.</span>
   
 </p>
 

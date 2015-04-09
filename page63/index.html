@@ -1,0 +1,379 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Going The Wong Way</title>
+  <meta name="author" content="Derek Wong">
+  <meta name="description" content="Derek Wong's web log about life, where going the Wong way is only sometimes wrong. Pictures and stories to boot!">
+  <meta name="keywords" content="Derek Wong, Los Angeles, Orange County, UCSD, UC San Diego, software engineer, photographer, Derek, Wong, Wong Way, The Wong Way, Going The Wong Way, photography, programmer, software development, programming">
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.goingthewongway.com/page63">
+  <link href="/favicon.ico" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="http://go.gtww.net/1kv0bNj" rel="alternate" title="Going The Wong Way" type="application/atom+xml">
+  
+
+<script>
+  var _gaq=[["_setAccount","UA-1606076-1"],["_trackPageview"]],
+  disqus_shortname="goingthewongway",
+  sc_project=2375202,sc_invisible=1,sc_security="1b55b1d6";
+  function a(b){
+    var c=document,d=c.createElement("script");d.async=true;d.src=b;c.getElementsByTagName('head')[0].appendChild(d);}
+  a("//www.google-analytics.com/ga.js");
+</script>
+
+</head>
+
+<body   >
+  <header role="banner"><div id="header_logo" style="float:left;"><h1><a title="Going The Wong Way" href="/"><img src="http://img.gtww.net/static/header_89ko.png"/></a></h1></div>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://go.gtww.net/1kv0bNj" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.goingthewongway.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about">About</a></li>
+  <li><a href="/archives">Archives</a></li>
+  <li><a href="/favorite-posts">Favorite Posts</a></li>
+</ul>
+
+</nav>
+  <div id="main" class="sans">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/i-want-to-share-this/">I Want to &#8216;Share This&#8217;!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-08T19:37:06-07:00'><span class='date'>Apr  8</span></time>
+        
+           | <a href="/i-want-to-share-this/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/i-want-to-share-this/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&rsquo;t display.</p>
+
+<p>Most of my readers won&rsquo;t care one iota about this entire post.  But I don&rsquo;t post what they want to read, I post whatever I want to post!  And onward!</p>
+
+<p>Basically I was experiencing the error where the Javascript popup would not show up for the Share This button, and I was actually getting redirected to another page. I saw that prototype.js needed to be added, but I was confused because I could see in the page source that it was being added. I also verified that wp_footer() was being called in my footer template, and I saw the akst Javascript code being appended at the bottom of the pages.</p>
+
+<p>So after some debugging (I figured that it was something that I could find) I found that I wasn’t getting the popup because I had previously removed some of the social sites through the gregarious options (mainly because I wanted to limit the sites to those that I knew well). This caused the Javascript to result in an error (in my case: $(”akst_furl”) has no properties) because I had deleted furl from my list of social sites. This subsquently left the Javascript to error out which resulted in no popup window being displayed.</p>
+
+<p>To verify what I suspected, I temporarily reset my social sites and saw that I was able to get the Javascript popup to show (because all of the Javascript properties were properly set).</p>
+
+<p>Now I can obviously go into the akst.js and comment out those that I don’t want and then de-activate them from the gregarious options.</p>
+
+<p>Fix: Add checks in the Javascript before processing so that anything changed in the gregarious options will not affect the Javascript. I looked at the option_value for greg_social_sites, and perhaps the best way is to read that string in, process it, and then overwrite the Javascript to be output into akst.js? But that’s just an idea.</p>
+
+<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&rsquo;s (which I see as highly unlikely).</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/break-the-fast-twice/">Break the Fast&#8230;Twice</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-06T12:15:20-07:00'><span class='date'>Apr  6</span></time>
+        
+           | <a href="/break-the-fast-twice/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/break-the-fast-twice/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Now it&rsquo;s generally understood that eating breakfast is a good thing for you.  It gets you going in the morning by providing energy, and this in turn gets your body&rsquo;s metabolism to change from its &ldquo;sleep&rdquo; mode to its &ldquo;day&rdquo; mode.  And that&rsquo;s good for you because the more energy you burn the more food you can consume.  So you are essentially burning calories simply by being awake rather than having to work them off through exercise.  Granted you&rsquo;re not going to lose all of your excess weight, but it does help.</p>
+
+<p>What I like to do is break my fast twice.  I&rsquo;d like to think that it gives me double the benefits, but I am probably completely wrong about that.  That&rsquo;d just be another case of justifying my actions.  So I get up in the morning and mosey my way on downstairs.  I eat a bowl of <a href="http://www.kraftfoods.com/PostCereals/hbo.htm">Honey Bunches of Oats</a> with some fresh fruit (either bananas (cheap from <a href="http://www.costco.com">Costco</a>!) or frozen blueberries).  That happens at around 8:15 AM every weekday.  That&rsquo;s pretty normal right?  I&rsquo;m breaking that fast from about 9 PM the previous night until 8:15 AM that day.  That&rsquo;s a hefty 11 hours and 15 minutes fast every single day!</p>
+
+<p>The thing is&hellip;</p>
+
+<p>I also break the fast from 8:25 AM (after I finish the cereal) to approximately 11 AM.  That&rsquo;s a not-quite-as-hefty 2 hours and 45 minutes fast.  But the thing is&hellip;I&rsquo;m fasting twice <strong>five times a week!</strong></p>
+
+<p>Some people laugh at me about that.</p>
+
+<p>Okay everyone that I tell that to laughs at me about that.</p>
+
+<p>Okay <a href="http://www.adropofwater.net">some people</a> say that I eat first breakfast and second breakfast.  And the aforementioned people, whoever they might be, also say that I&rsquo;m like a hobbit.  Because (truth be told) I also have second lunch in the afternoon.</p>
+
+<p>Finally I must admit that I actually don&rsquo;t eat as much as I was for awhile because <a href="http://www.goingthewongway.com/2007/03/15/separate-yourself/">I have been setting aside time and closing out the world</a> in order to work more efficiently.</p>
+
+<hr />
+
+<p>NOTICE TO ANYONE IN THE ORANGE AREA NEAR THE 55-91 JUNCTION:</p>
+
+<p><a href="http://www.chick-fil-a.com/Home.asp">Chick-Fil-A</a> is having <strong>free</strong> breakfasts on Fridays for the next few weeks in order to spread the news about their <a href="http://www.chick-fil-a.com/cfa.asp?template=map&amp;transaction=locMap&amp;recordId=1892">new location</a>!  I swung by there today and got myself some <strong>free</strong> <a href="http://www.chick-fil-a.com/MenuItems.asp?MenuItem=threePcMinis">Chick-n-Minis</a>!  I&rsquo;m spreading the love for Chick-Fil-A because their food is good, they close on Sundays to observe the Sabbath, and they are giving out <strong>free</strong> breakfast right now on Fridays.  And that&rsquo;s niiiice.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/a-possibly-new-idea-for-american-idol/">A (Possibly) New Idea for American Idol</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-04T21:51:07-07:00'><span class='date'>Apr  4</span></time>
+        
+           | <a href="/a-possibly-new-idea-for-american-idol/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/a-possibly-new-idea-for-american-idol/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>So I&rsquo;m not sure if it is indeed a new idea, but I recently have been thinking that I&rsquo;d like the producers of <a href="http://www.americanidol.com/">American Idol</a> to consider a new idea.  After watching the show tonight as well as thinking about <a href="http://www.myspace.com/starvationforsanjaya">extreme measures to vote certain contestants</a>.  My idea is they should implement a new system for their voting.</p>
+
+<p>They need to allow for the ability to eliminate the bad people, not <strong>just</strong> vote for the best.  The bad thing about the current system is that you get people like <a href="http://www.americanidol.com/contestants/season6/sanjaya_malakar/">Sanjaya Malakar</a> who lots and lots of people want off, but can&rsquo;t <em>really</em> do anything about it except starve.</p>
+
+<p>To allow for this, it would be so simple for the producers to modify.  They would add another phone number for each contestant that would be to vote against a particular person.  Then they could simply subtract the negative votes from the positive votes.  I don&rsquo;t see how this could possibly be a bad thing for the show.  I still think that the best person will end up winning.  And just like the current system, a very large group of people still have the ability to circumvent the system if they&rsquo;re organized and thorough.  It seems like a good idea to me.  But a lot of things have seemed like a good idea to me so that&rsquo;s nothing new.</p>
+
+<p>However if they implemented it, I know that I&rsquo;d be calling to vote off Sanjaya.  And I don&rsquo;t even call at all now.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/trying-out-some-advertisements/">Trying Out Some Advertisements</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-03T12:42:01-07:00'><span class='date'>Apr  3</span></time>
+        
+           | <a href="/trying-out-some-advertisements/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/trying-out-some-advertisements/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Now I don&rsquo;t want to be a sneaky bugger (even though some might say that about me anyways), so I will tell you upfront that I&rsquo;m trying out Google AdSense.</p>
+
+<p>Additionally I have added a site search at the top that will allow you to not only search the web, but it will also allow you to search only my site!  I think that&rsquo;s a fairly useful feature if you were so inclined to wonder about what whether I&rsquo;ve written about a certain topic.</p>
+
+<p>Now why would I add these features?  Well I&rsquo;ll also be honest with you about something else.  I actually don&rsquo;t hardly ever click on ads (even the nice text ads that aren&rsquo;t obnoxious).  But I also have realized that they&rsquo;re not too bad to click on.  It doesn&rsquo;t hurt me to look at an advertisement site (especially when it actually <strong>is</strong> related to what I&rsquo;m looking at).  Anyways so if nothing ever comes of it, then that&rsquo;s fine.  But I figured that I should stop wondering if I could make enough money blogging, and I should just try it out.  Google ads are generally pretty good about finding out about content and delivering meaningful ads.  I can tentatively vouch for that.</p>
+
+<p>Additionally, I have also added a bunch of support buttons to my site.  I think that although they generally detract from the main purpose of the site (which is to post content from my mind), they warrant their place.  Each of these components are either important to the support of this blog or to my personal usage.  They are simply a sign of things that I approve of.  These are totally unrelated to the advertisements that I&rsquo;m trying out, and all are freely available for you to use.</p>
+
+<p>Feedback on these topics as well as on any other topic on this site is always welcome.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/precocious/">Precocious</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-02T11:30:37-07:00'><span class='date'>Apr  2</span></time>
+        
+           | <a href="/precocious/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/precocious/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>[pri-<strong>koh</strong>-sh_uh_ s]</p>
+
+<h4>Definition:</h4>
+
+<p>Unusually advanced or mature</p>
+
+<h4>Example of usage:</h4>
+
+<p>While the rest of the class was struggling with their work, the precocious child had finished already and was causing a ruckus because he was bored.</p>
+
+<h4>Comments:</h4>
+
+<p>This is definitely one of those words that is very descriptive of what you&rsquo;re trying to say.  You can try to explain what you mean with this word in many more words, but this word displays much more brevity.  And that is always good.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/page64">&larr; Older</a>
+    
+    
+    <a class="next" href="/page62">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+  <p>My name is Derek Wong.  I&#8217;m a software engineer by day, and a dabbler of a whole lot of other trades at night! <a href="/about/">More>></a></p>
+</section>
+<section>
+  <h1>I Shop At</h1>
+  <p><a href="http://amzn.to/Nmb7fQ" title="Using this link before shopping at Amazon.com supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://img.gtww.net/static/amz_fj23.gif" alt="Amazon logo" width="165" height="47"/></a>
+  </p>
+  <p><a href="http://bhpho.to/OOjxMp" title="Using this link before shopping at B&amp;H Photo supports this site"><img style="display:block;margin:10px auto 0;text-align:center;border: none;" src="http://img.gtww.net/static/bh_8dfi.gif" alt="B&amp;H Photo logo" width="125" height="86"/></a>
+  </p>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/maui-destination-wedding-slash-vacation/">Maui Destination Wedding/Vacation</a>
+      </li>
+    
+      <li class="post">
+        <a href="/florida-2014/">Florida 2014</a>
+      </li>
+    
+      <li class="post">
+        <a href="/europe-2013/">Europe 2013</a>
+      </li>
+    
+      <li class="post">
+        <a href="/do-you-believe-in-luck/">Do You Believe in Luck?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/when-selfishness-surpasses-logic/">When Selfishness Surpasses Logic</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2007-2015 Derek Wong
+  
+    <span style="float:right">I&#8217;m ALWAYS going the Wong way.</span>
+  
+</p>
+
+</footer>
+  
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/galleria/1.3.5/galleria.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.33/jquery.colorbox-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js"></script>
+<script src="/javascripts/all.js" type="text/javascript"></script>
+<script src="//goingthewongway.disqus.com/count.js" async></script>
+<script>
+  a("http://www.statcounter.com/counter/counter.js");
+</script><noscript><div class="statcounter"><img class="statcounter" src="http://c.statcounter.com/2375202/0/1b55b1d6/1/" alt="hit"/></div></noscript>
+
+
+</body>
+</html>
