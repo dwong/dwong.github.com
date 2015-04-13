@@ -25,36 +25,37 @@ $colorbox: true;
 
 @if $wookmark {
 	#wookmark {
+		height: 1200px;
 		position: relative;
 		padding: 30px 0 30px 0;
-	}
-	#wookmark #tiles {
-		list-style-type: none;
-		position: relative;
-		margin: 0;
-	}
-	#wookmark #tiles li {
-		width: 200px;
-		display: none;
-		cursor: pointer;
-		padding: 4px;
-	}
-	#wookmark #tiles li img {
-		display: block;
-	}
-	#wookmark #tiles li p {
-		color: #666;
-		font-size: 12px;
-		margin: 7px 0 0 7px;
-	}
-	#wookmark #tiles ali:nth-child(3n) {
-		height: 175px;
-	}
-	#wookmark #tiles ali:nth-child(4n-3) {
-		padding-bottom: 30px;
-	}
-	#wookmark #tiles ali:nth-child(5n) {
-		height: 250px;
+		#tiles {
+			list-style-type: none;
+			position: relative;
+			margin: 0;
+			li {
+				width: 200px;
+				display: none;
+				cursor: pointer;
+				padding: 4px;
+				img {
+					display: block;
+				}
+				p {
+					color: #666;
+					font-size: 12px;
+					margin: 7px 0 0 7px;
+				}				
+			}
+			ali:nth-child(3n) {
+				height: 175px;
+			}
+			ali:nth-child(4n-3) {
+				padding-bottom: 30px;
+			}
+			ali:nth-child(5n) {
+				height: 250px;
+			}
+		}
 	}
 }
 
