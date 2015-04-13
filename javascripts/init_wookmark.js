@@ -17,6 +17,7 @@ jQuery(document).ready(function () {
 		offset:4,
 		itemWidth:200
 	    });
+            container.fadeIn();
         });
     }
 });
