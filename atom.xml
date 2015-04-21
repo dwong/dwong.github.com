@@ -5,12 +5,23 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2015-04-15T23:18:52-07:00</updated>
+  <updated>2015-04-20T22:41:39-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
   </author>
   <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  
+  
+  <entry>
+    <title type="html"><![CDATA[Shopping and San Diego]]></title>
+    <link href="http://www.goingthewongway.com/shopping-and-san-diego/"/>
+    <updated>2015-04-20T22:38:48-07:00</updated>
+    <id>http://www.goingthewongway.com/shopping-and-san-diego</id>
+    <content type="html"><![CDATA[<p>Caution: large amounts of shopping or driving result in extereme exhaustion!</p>
+]]></content>
+  </entry>
+  
   
   
   <entry>
@@ -194,68 +205,6 @@
   </entry>
   
   
-  
-  
-  
-  <entry>
-    <title type="html"><![CDATA[Shopping Is Fun, Really!]]></title>
-    <link href="http://www.goingthewongway.com/shopping-is-fun-really/"/>
-    <updated>2013-06-11T21:02:00-07:00</updated>
-    <id>http://www.goingthewongway.com/shopping-is-fun-really</id>
-    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">items_in_store</span> <span class="o">=</span> <span class="n">getAllItems</span><span class="p">()</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">def</span> <span class="nf">shop_fast</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">items_to_buy</span><span class="p">):</span>
-</span><span class='line'>    <span class="n">shopping_cart_items</span> <span class="o">=</span> <span class="p">[]</span>
-</span><span class='line'>    <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">items_to_buy</span><span class="p">:</span>
-</span><span class='line'>        <span class="n">item</span><span class="o">.</span><span class="n">find</span><span class="p">()</span>
-</span><span class='line'>        <span class="k">if</span> <span class="n">user</span><span class="o">.</span><span class="n">wants</span><span class="p">(</span><span class="n">item</span><span class="p">):</span>
-</span><span class='line'>            <span class="n">shopping_cart_items</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
-</span><span class='line'>    <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">shopping_cart_items</span><span class="p">:</span>
-</span><span class='line'>        <span class="n">user</span><span class="o">.</span><span class="n">buy</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">def</span> <span class="nf">shop_slow</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">items_to_buy</span><span class="p">):</span>
-</span><span class='line'>    <span class="n">shopping_cart_items</span> <span class="o">=</span> <span class="p">[]</span>
-</span><span class='line'>    <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">items_in_store</span><span class="p">:</span>
-</span><span class='line'>        <span class="k">if</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">items_to_buy</span><span class="p">:</span>
-</span><span class='line'>            <span class="k">print</span><span class="p">(</span><span class="s">&#39;Awesome!&#39;</span><span class="p">)</span>
-</span><span class='line'>        <span class="k">if</span> <span class="n">user</span><span class="o">.</span><span class="n">wants</span><span class="p">(</span><span class="n">item</span><span class="p">):</span>
-</span><span class='line'>            <span class="n">shopping_cart_items</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
-</span><span class='line'>    <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">shopping_cart_items</span><span class="p">:</span>
-</span><span class='line'>        <span class="n">user</span><span class="o">.</span><span class="n">buy</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">if</span> <span class="n">gender</span> <span class="ow">is</span> <span class="s">&#39;Male&#39;</span><span class="p">:</span>
-</span><span class='line'>    <span class="n">shop_fast</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">items</span><span class="p">)</span>
-</span><span class='line'><span class="k">else</span><span class="p">:</span>
-</span><span class='line'>    <span class="n">shop_slow</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">items</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
-]]></content>
-  </entry>
   
   
 </feed>

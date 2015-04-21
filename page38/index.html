@@ -66,6 +66,73 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/new-wordpress-comment-plugins/">New Wordpress Comment Plugins</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-10-30T12:34:16-07:00'><span class='date'>Oct 30</span></time>
+        
+           | <a href="/new-wordpress-comment-plugins/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/new-wordpress-comment-plugins/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I like commenting on blogs, and I also very much enjoy receiving comments.  So I added some new plugins that I thought would facilitate that process.</p>
+
+<p>The plugins that I have added and am now using on this blog are:</p>
+
+<ol>
+<li><a href="http://meidell.dk/archives/2006/12/19/brians-threaded-comments-159/">Brian&rsquo;s Threaded Comments</a> which allows for comments to be in threads rather than just as a single list.  This is nice because it can get confusing in the way that I used to just use an &ldquo;@ user&rdquo; type of response.  The only drawback is that I&rsquo;ll probably have to limit the number of levels that nesting will occur because it will make the comments unreadable as they get more and more narrow.</li>
+</ol>
+
+
+<p>This code looks stupid and ugly on my current theme, but I&rsquo;m going to change it very soon so I&rsquo;m still going to post it.  Most people don&rsquo;t care about this, but I figured that I&rsquo;d put it out there if anyone did find it useful and didn&rsquo;t know too much PHP.</p>
+
+<p>So is here is the change so that there will be no &ldquo;Reply to this comment&rdquo; link if the comments for a post are already closed:</p>
+
+<p><code>&lt;div class='reply'&gt;&lt;?php global $user_ID; global $post; if ( get_option("comment_registration") &amp;&amp; !$user_ID )
+  echo '&lt;a href="'.get_option('siteurl') .                                                                                                                                                  
+  '/wp-login.php?redirect_to=' . get_permalink() .                                                                                                                         
+  '"&gt;Log in to Reply';
+elseif ('open' == $post-&gt;comment_status) {?&gt;                                      
+  &lt;a href='#' onclick='moveAddCommentBelow("div-comment-&lt;?php echo $c-&gt;comment_ID ?&gt;", &lt; ?php echo
+  $c-&gt;comment_ID ?&gt;, true); return false;'&gt;Reply to this comment&lt;/a&gt;       
+&lt; ?php } ?&gt;                                                                                                                                                              
+&lt;/div&gt;</code></p>
+
+<p>I also added code from my original comments.php in my theme file so that if a user is logged in, it will not ask them for their information (name, e-mail, etc).  Although I don&rsquo;t think that there are too many people with accounts on my blog (go for it, it&rsquo;s not so bad) I figured that it was at least a solution that I enjoyed more for my own sake.  However the code change was too much for this so I&rsquo;m not going to post it in this entry.
+Other than that it&rsquo;s pretty super!  I like the look, and I hope that others will appreciate it.  And most of all I hope that it fosters more discussion!</p>
+
+<ol>
+<li><a href="http://www.jamesmckay.net/code/comment-timeout/">Comment Timeout</a> lets me fight another problem on my blog.  And that problem is spam comments.  Hateful, despicable spam comments.  They take at least a little bit of time to go through sometimes when people&rsquo;s comments get caught in moderation.  So I&rsquo;ve decided that since it rather makes sense to close the comments on old posts, I will.  It&rsquo;s not as if people particularly post comments on my old posts anyways.</li>
+</ol>
+
+
+<p>Additionally it has the ability to keep the comments active if the post is deemed &ldquo;active.&rdquo;  The plugin is fairly full-featured with some customizable options such as the timeout period, etc.  Not a bad plugin if I do say so myself.  It was a better option for me than the very basic Close Old Posts plugin written by Matt Mullenweg and listed on the wordress.org site.</p>
+
+<p>Let me know what you think of the new plugins!  Does it make you want to leave more comments?</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/just-looking-at-you/">Just Looking at You!</a></h1>
     
     
@@ -257,52 +324,6 @@
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/insect-ponderings/">Insect Ponderings</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2007-10-15T12:57:43-07:00'><span class='date'>Oct 15</span></time>
-        
-           | <a href="/insect-ponderings/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/insect-ponderings/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Well seeing as how there have been more ants as of late, I&rsquo;ve had a few thoughts that have crossed my mind.  Because ants do that.  They inspire me.</p>
-
-<p>What would life be like without insects?</p>
-
-<p>Well there&rsquo;d be less annoyance because ants wouldn&rsquo;t invade your house.  Then again, who&rsquo;s going to clean up those little bits of food that you&rsquo;ve dropped and are unaware that they&rsquo;re there?</p>
-
-<p>Structures would be more sound because termites wouldn&rsquo;t get to the wood that holds it together.  But then how are you going to justify spending lots of money on rebuilding?</p>
-
-<p>You won&rsquo;t get stung by bees, wasps, and more.  However, honey is very good.  And good for you.  And it doesn&rsquo;t expire because of its antibacterial properties &ldquo;as a result of the low water activity causing osmosis, hydrogen peroxide effect, and high acidity&rdquo; (ref. <a href="http://en.wikipedia.org/wiki/Honey">Wikipedia&rsquo;s article about honey</a>).</p>
-
-<p>As you&rsquo;re walking, you won&rsquo;t get attacked by a swarm of gnats that endlessly annoy you.  But then you won&rsquo;t get amusing things like <a href="http://sports.yahoo.com/mlb/news?slug=dw-aldsbugs100507&amp;prov=yhoo&amp;type=lgns">gnats helping the Indians win their game</a>.</p>
-
-<p>All in all, even though there are lots and lots of things that I don&rsquo;t particularly care for about ants.  However, I&rsquo;ve learned from reading <a href="http://amzn.to/NOp6Lw">Foundation and Earth</a> that perhaps making worlds into what they were not intended has many unintended and distasteful consequences.  So let&rsquo;s leave everything as it was intended in its beautiful and wonderful balance.  Even if it can bug us to no end.  Sorry, I had to.  :P</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page39">&larr; Older</a>
@@ -330,6 +351,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/shopping-and-san-diego/">Shopping and San Diego</a>
+      </li>
+    
+      <li class="post">
         <a href="/bathtub-plumbing-valve/">Bathtub Plumbing Valve</a>
       </li>
     
@@ -343,10 +368,6 @@
     
       <li class="post">
         <a href="/europe-2013/">Europe 2013</a>
-      </li>
-    
-      <li class="post">
-        <a href="/do-you-believe-in-luck/">Do You Believe in Luck?</a>
       </li>
     
   </ul>
