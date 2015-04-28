@@ -5,12 +5,23 @@
   <subtitle><![CDATA[I'm ALWAYS going the Wong way.]]></subtitle>
   <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2015-04-20T22:41:39-07:00</updated>
+  <updated>2015-04-27T22:15:56-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
   </author>
   <rights>Copyright (c) 2007-2012 Derek Wong</rights>
+  
+  
+  <entry>
+    <title type="html"><![CDATA[Unwelcome Do-Over]]></title>
+    <link href="http://www.goingthewongway.com/unwelcome-do-over/"/>
+    <updated>2015-04-27T22:00:26-07:00</updated>
+    <id>http://www.goingthewongway.com/unwelcome-do-over</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s nothing quite like that feeling you get when you do something over to fix your mistake, only to realize that you didn&rsquo;t do anthing wrong to begin with!</p>
+]]></content>
+  </entry>
+  
   
   
   <entry>
@@ -203,8 +214,6 @@
 
 ]]></content>
   </entry>
-  
-  
   
   
 </feed>
