@@ -4,7 +4,7 @@
   <title><![CDATA[Category: children | Going The Wong Way]]></title>
   <link href="http://www.goingthewongway.com/categories/children/atom.xml" rel="self"/>
   <link href="http://www.goingthewongway.com/"/>
-  <updated>2015-05-23T22:15:19-07:00</updated>
+  <updated>2015-06-06T23:36:00-07:00</updated>
   <id>http://www.goingthewongway.com/</id>
   <author>
     <name><![CDATA[Derek Wong]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I Only Nap]]></title>
+    <link href="http://www.goingthewongway.com/i-only-nap/"/>
+    <updated>2015-06-06T23:07:29-07:00</updated>
+    <id>http://www.goingthewongway.com/i-only-nap</id>
+    <content type="html"><![CDATA[<p>The problem with this code is there are too many break statements!
+&#8220;`python
+def sleep(person, baby):
+    start_time = getTime()
+    while person.isAsleep():
+        time = getTime()
+        if start_time.add(MINUTES, 180) >= time:
+            break
+        else if baby.isCrying()
+            break
+def <strong>main</strong>():
+    while derek.isAlive():
+        if not areThingsToDo():
+            sleep(derek, derek.getChild());</p>
+
+<p>&#8220;`</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[From Husband To Father]]></title>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: life in code | Going The Wong Way]]></title>
+  <link href="http://www.goingthewongway.com/categories/life-in-code/atom.xml" rel="self"/>
+  <link href="http://www.goingthewongway.com/"/>
+  <updated>2015-06-06T23:36:00-07:00</updated>
+  <id>http://www.goingthewongway.com/</id>
+  <author>
+    <name><![CDATA[Derek Wong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Only Nap]]></title>
+    <link href="http://www.goingthewongway.com/i-only-nap/"/>
+    <updated>2015-06-06T23:07:29-07:00</updated>
+    <id>http://www.goingthewongway.com/i-only-nap</id>
+    <content type="html"><![CDATA[<p>The problem with this code is there are too many break statements!
+&#8220;`python
+def sleep(person, baby):
+    start_time = getTime()
+    while person.isAsleep():
+        time = getTime()
+        if start_time.add(MINUTES, 180) >= time:
+            break
+        else if baby.isCrying()
+            break
+def <strong>main</strong>():
+    while derek.isAlive():
+        if not areThingsToDo():
+            sleep(derek, derek.getChild());</p>
+
+<p>&#8220;`</p>
+]]></content>
+  </entry>
+  
+</feed>
