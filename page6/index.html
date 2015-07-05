@@ -66,6 +66,262 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/octopress-for-static-blogging/">Octopress for Static Blogging</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2012-10-06T22:29:00-07:00'><span class='date'>Oct  6</span></time>
+        
+           | <a href="/octopress-for-static-blogging/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/octopress-for-static-blogging/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Thank you, <a href="http://wordpress.org">Wordpress</a>.  You were fantastic to me for over 5 years, but I&rsquo;m moving on to something new.  In efforts to keep things fresh, learn something new, and improve the performance of this blog, I am starting to blog with <a href="http://octopress.org">Octopress</a>, which is a blogging platform built on <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>The advantages of this system include (but are not limited to):</p>
+
+<ul>
+<li>It serves static web pages so it&rsquo;s <em>fast</em>.</li>
+<li><a href="https://github.com">GitHub</a> offers built-in support so my blog is now in proper source control and hosted for free!</li>
+<li>The completed website is generated on my machine and pushed to a webserver so I could easily move webhosts at any time.</li>
+</ul>
+
+
+<p>There are plenty of write-ups about transitioning to a Jekyll-powered blog.  Namely I used <a href="https://github.com/thomasf/exitwp">exitwp</a> to extract the posts.</p>
+
+<p>Octopress includes a pretty decent stylesheet, which made it easy to get up and writing.  However, I ended up customizing it that my blog would not look like all of the other Octopress-powered websites out there.  Some of the things that I added were:</p>
+
+<ul>
+<li><a href="#sitemap">Sitemap</a></li>
+<li><a href="#atom">Atom Feed</a></li>
+<li><a href="#sidebar_state">Retaining sidebar collapsed state</a></li>
+</ul>
+
+
+<h2><a id="sitemap"></a>Sitemap</h2>
+
+<p>Octopress included a sitemap plugin, but I didn&rsquo;t like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span>
+</span><span class='line'><span class="cp">&lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;/sitemap.xsl&quot;?&gt;</span>
+</span><span class='line'><span class="nt">&lt;urlset</span> <span class="na">xmlns:xsi=</span><span class="s">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</span> <span class="na">xsi:schemaLocation=</span><span class="s">&quot;http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd&quot;</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.sitemaps.org/schemas/sitemap/0.9&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>{{ site.time | date_to_xmlschema }}<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>daily<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>1.0<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/favorite-posts/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-02-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/about/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-02-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}/my-photo-gear/<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>2012-09-07T20:59:36+00:00<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>weekly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.6<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  {% for post in site.posts  %}
+</span><span class='line'>  <span class="nt">&lt;url&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;loc&gt;</span>{{ site.url }}{{ post.url }}<span class="nt">&lt;/loc&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;lastmod&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/lastmod&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;changefreq&gt;</span>monthly<span class="nt">&lt;/changefreq&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;priority&gt;</span>0.2<span class="nt">&lt;/priority&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/url&gt;</span>
+</span><span class='line'>  {% endfor %}
+</span><span class='line'><span class="nt">&lt;/urlset&gt;</span> {% raw %}
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2><a id="atom"></a>Atom Feed</h2>
+
+<p>I started with <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed">this simple Jekyll feed</a> in order to create a custom Atom Feed that looks like this:</p>
+
+<figure class='code'><figcaption><span>{% raw %}</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</span>
+</span><span class='line'><span class="nt">&lt;feed</span> <span class="na">xmlns=</span><span class="s">&quot;http://www.w3.org/2005/Atom&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nt">&lt;title&gt;</span><span class="cp">&lt;![CDATA[{{ site.title }}]]&gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;subtitle&gt;</span><span class="cp">&lt;![CDATA[{{ site.subtitle }}]]&gt;</span><span class="nt">&lt;/subtitle&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/atom.xml&quot;</span> <span class="na">rel=</span><span class="s">&quot;self&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}/&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;updated&gt;</span>{{ site.time | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;id&gt;</span>{{ site.url }}/<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;author&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;name&gt;</span><span class="cp">&lt;![CDATA[{{ site.author | strip_html }}]]&gt;</span><span class="nt">&lt;/name&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/author&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;rights&gt;</span>Copyright (c) 2007-2012 {{ site.author | strip_html}}<span class="nt">&lt;/rights&gt;</span>
+</span><span class='line'>  {% for post in site.posts limit: 10 %}
+</span><span class='line'>  <span class="nt">&lt;entry&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="cp">&lt;![CDATA[{{ post.title | cdata_escape }}]]&gt;</span><span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;{{ site.url }}{{ post.url }}&quot;</span><span class="nt">/&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;updated&gt;</span>{{ post.date | date_to_xmlschema }}<span class="nt">&lt;/updated&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;id&gt;</span>{{ site.url }}{{ post.id }}<span class="nt">&lt;/id&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;content</span> <span class="na">type=</span><span class="s">&quot;html&quot;</span><span class="nt">&gt;</span><span class="cp">&lt;![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]&gt;</span><span class="nt">&lt;/content&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/entry&gt;</span>
+</span><span class='line'>  {% endfor %}
+</span><span class='line'><span class="nt">&lt;/feed&gt;</span>
+</span><span class='line'>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2><a id="sidebar_state"></a>Retaining Sidebar Collapsed State</h2>
+
+<p>The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the <a href="https://github.com/carhartl/jquery-cookie">jQuery Cookie plugin</a> and edited the addSidebarToggler function in octopress.js like so:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">function</span> <span class="nx">addSidebarToggler</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">hasClass</span><span class="p">(</span><span class="s1">&#39;sidebar-footer&#39;</span><span class="p">))</span> <span class="p">{</span>
+</span><span class='line'>    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#content&#39;</span><span class="p">).</span><span class="nx">append</span><span class="p">(</span><span class="s1">&#39;&lt;span class=&quot;toggle-sidebar&quot;&gt;&lt;/span&gt;&#39;</span><span class="p">);</span>
+</span><span class='line'>    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;.toggle-sidebar&#39;</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>      <span class="nx">e</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+</span><span class='line'>      <span class="k">if</span> <span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">hasClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">))</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">trigger</span><span class="p">(</span><span class="s2">&quot;resize&quot;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s1">&#39;sidebar_collapsed&#39;</span><span class="p">,</span> <span class="s2">&quot;0&quot;</span><span class="p">,</span> <span class="p">{</span> <span class="nx">expires</span><span class="o">:</span> <span class="mi">7</span><span class="p">,</span> <span class="nx">path</span><span class="o">:</span> <span class="s1">&#39;/&#39;</span><span class="p">,</span> <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span> <span class="p">});</span>
+</span><span class='line'>      <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="s1">&#39;collapse-sidebar&#39;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">(</span><span class="nb">window</span><span class="p">).</span><span class="nx">trigger</span><span class="p">(</span><span class="s2">&quot;resize&quot;</span><span class="p">);</span>
+</span><span class='line'>        <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s1">&#39;sidebar_collapsed&#39;</span><span class="p">,</span> <span class="s2">&quot;1&quot;</span><span class="p">,</span> <span class="p">{</span> <span class="nx">expires</span><span class="o">:</span> <span class="mi">7</span><span class="p">,</span> <span class="nx">path</span><span class="o">:</span> <span class="s1">&#39;/&#39;</span><span class="p">,</span> <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span> <span class="p">});</span>
+</span><span class='line'>      <span class="p">}</span>
+</span><span class='line'>    <span class="p">});</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">...</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Additionally I added the following code:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">jQuery</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>    <span class="kd">var</span> <span class="nx">a</span> <span class="o">=</span> <span class="nx">jQuery</span><span class="p">.</span><span class="nx">cookie</span><span class="p">(</span><span class="s2">&quot;sidebar_collapsed&quot;</span><span class="p">,</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">raw</span><span class="o">:</span> <span class="kc">true</span>
+</span><span class='line'>    <span class="p">});</span>
+</span><span class='line'>    <span class="k">if</span> <span class="p">(</span><span class="nx">a</span> <span class="o">===</span> <span class="s2">&quot;1&quot;</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s2">&quot;body&quot;</span><span class="p">).</span><span class="nx">addClass</span><span class="p">(</span><span class="s2">&quot;collapse-sidebar&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="s2">&quot;body&quot;</span><span class="p">).</span><span class="nx">removeClass</span><span class="p">(</span><span class="s2">&quot;collapse-sidebar&quot;</span><span class="p">);</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'><span class="p">});</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/go-get-some-experience/">Go Get Some Experience</a></h1>
     
     
@@ -241,61 +497,6 @@
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/dodgeball/">Dodgeball</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2012-02-16T00:45:53-08:00'><span class='date'>Feb 16</span></time>
-        
-           | <a href="/dodgeball/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/dodgeball/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Dodgeball experienced a resurgence in popularity with the release of <a href="http://amzn.to/MnBO66">Dodgeball - A True Underdog Story</a>. It encourages us to relive the days of our youth. Its success continues because it is easy to understand, requires little investment in equipment, and is fantastic fun for all ages. So pick up a <a href="http://amzn.to/NoGjuR">small</a> or <a href="http://amzn.to/MJm12S">large dodgeball set</a>, grab some friends, and have some fun!</p>
-
-<p><strong>Note</strong>: I did not take most of these pictures because I was actually playing in the tournament. Nevertheless I helped when I could, especially for the group shots. So thank my wife for the pictures.</p>
-
-<div class="galleria">
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-1_d43a622.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-1_3b8c.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-2_5e66f63.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-2_b06d.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-3_e04ced7.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-3_5399.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-5_c54645c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-5_b623.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-6_e36fb55.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-6_caab.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-7_6850971.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-7_39dc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-8_e99864c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-8_083e.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-9_2ffc94c.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-9_7ddc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-10_6c3cc69.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-10_8a7c.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-11_1f574cb.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-11_8cf1.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-12_6b962fa.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-12_a30a.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-13_366cc9d.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-13_190d.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-14_f131332.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-14_28dd.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-15_265123e.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-15_24e9.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Dodgeball-16_e1ddc8e.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_Hit_And_Run_Dodgeball/e407/Thumbs/Dodgeball-16_0351.jpg"/></a>
-</div>
-
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page7">&larr; Older</a>
@@ -323,6 +524,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/no-4-am/">No 4 AM?!</a>
+      </li>
+    
+      <li class="post">
         <a href="/i-only-nap/">I Only Nap</a>
       </li>
     
@@ -336,10 +541,6 @@
     
       <li class="post">
         <a href="/unwelcome-do-over/">Unwelcome Do-Over</a>
-      </li>
-    
-      <li class="post">
-        <a href="/shopping-and-san-diego/">Shopping and San Diego</a>
       </li>
     
   </ul>
