@@ -4,7 +4,7 @@ title: "San Diego - The Bear's First Trip"
 date: 2015-08-16 22:27:47 -0700
 comments: true
 categories: 
-- Vacation
+- Travel
 - Children
 - One-sentence week summary
 ---
