@@ -66,6 +66,80 @@
         
   <header>
     
+      <h1 class="entry-title"><a href="/up-or-down-same-difference/">Up or Down, Same Difference</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-13T09:50:21-07:00'><span class='date'>Apr 13</span></time>
+        
+           | <a href="/up-or-down-same-difference/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/up-or-down-same-difference/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Isn&rsquo;t it strange how when someone suggests something, and you can respond by saying &ldquo;I&rsquo;m <strong>up</strong> for that&rdquo; or &ldquo;I&rsquo;m <strong>down</strong> for that&rdquo; it will be interpreted with exactly the same meaning?</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
+      <h1 class="entry-title"><a href="/im-willing-if-you-are/">I&#8217;m Willing if You Are</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2007-04-12T12:56:04-07:00'><span class='date'>Apr 12</span></time>
+        
+           | <a href="/im-willing-if-you-are/#disqus_thread"
+             data-disqus-identifier="http://www.goingthewongway.com/im-willing-if-you-are/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>As many of you know, it is difficult to persuade other people to do things.  Whenever you want someone to do something for you (or for anyone for that matter), it can easily be seen that there is some opposition (small as it may be).  It doesn&rsquo;t even really matter what it is.  It&rsquo;s merely the fact that they&rsquo;re being asked to do more than they expected.</p>
+
+<p>I&rsquo;ve discovered a solution of sorts in the last few years.  So perhaps it&rsquo;s not exactly a solution so much as it&rsquo;s a <a href="http://www.goingthewongway.com/tag/tip-for-life">tip for life</a>.  Basically I have found that people are much more willing to do what you&rsquo;re asking of them if you&rsquo;re also willing to do a part.  If you want someone to drive you somewhere, they&rsquo;d be much more willing if you drove to their place and offered money for gas (which is getting ridiculously expensive, in my honest opinion).  If you want someone to clean, you are going to have to get down and dirty as well.  If you want someone to run an errand for you, they&rsquo;d be more amicable if you&rsquo;re someone who has done errands for you.  The examples go on and on, but you get the idea.</p>
+
+<p>Now this obviously will not work with everyone in the world.  But it is something that I think some people could learn from.  Nobody wants to be bossed about as if they mean nothing.  So you can&rsquo;t expect people to go 100% while you go 0%.  Think about it, and see if it works for you.</p>
+
+<p>Start to do things for yourself and thus <strong>become the better person</strong> simply because it pays off in a lifetime of independence and rewards.</p>
+</div>
+  
+  
+
+
+      </article>
+    
+  
+    
+      
+      <article>
+        
+  <header>
+    
       <h1 class="entry-title"><a href="/what-could-be/">What Could Be</a></h1>
     
     
@@ -215,104 +289,6 @@ Whatever the case, right now I am done!</p>
       </article>
     
   
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/stinking-default-template/">Stinking Default Template</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2007-04-08T19:56:44-07:00'><span class='date'>Apr  8</span></time>
-        
-           | <a href="/stinking-default-template/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/stinking-default-template/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Today (okay maybe last night) I wanted to finally fix a stupid error that I&rsquo;ve had with my Wordpress installation.  Now I think that Wordpress has been pretty great, but there was something about it that was making me a little bit irritated.  Wordpress was working great when I first started, but then one day it seemingly reverted itself back to the Default theme as <a href="http://www.xanga.com/GoDsChiLd1427">Kiki</a> so astutely pointed out <a href="http://www.goingthewongway.com/2007/03/21/coffee-distaste/">on this post</a>.</p>
-
-<p>Ever since I was simply temporarily fixing the problem by renaming the default theme to kubrick and actually making a copy of my real theme (<a href="http://www.xsized.de/wordpress-theme-not-so-fresh/">Not So Fresh</a>) and naming it default.  Thus if wordpress ever decided to revert again, it would have no effect on what people saw.</p>
-
-<p><strong>This is obviously a dumb fix</strong>.</p>
-
-<p>So last night I looked harder for the source of the bug.  I happened upon <a href="http://wordpress.org/support/topic/80523#post-415311">this page</a> and noted this:</p>
-
-<blockquote><p>&ldquo;The theme is reset to the default if the current theme appears broken with broken meaning that index.php or style.css are missing. If files are being deleted then replaced by some sync process, that could explain the theme reversion.</p></blockquote>
-
-<p>Ryan (Lead Dev)</p>
-
-<p>This indicated to me that it might not necessarily be something wrong with my theme (since mine is a &ldquo;modern&rdquo; theme that seems to conform to many of the Wordpress standards).  I then realized that I had made a backup of my Wordpress installation some time ago and left it in the same publicly accessible directory.  (Aside: that is not a smart thing to do.  I should have put it into a private directory that nobody could access.)  Anyways, I suspect (thought I didn&rsquo;t look far enough) that what happened was that someone (likely a search bot) found my backup directory and accessed the contents.  This would in turn cause the Wordpress installation to not be able to find the proper index.php and/or style.css required pages.  And this would cause the Wordpress installation to mistakingly believe that there was an error in the theme (and it would thus revert itself back to the default theme with an update command to wp_options).</p>
-
-<p>In short, I deleted the backup that I no longer needed anyways, and cleaned out all of the junk in the apache-served directory that was unnecessary.  If you are trying to solve your own similar problem, it will likely have to do with some files in your public-facing directory that reference Wordpress but are not actually in a proper Wordpress installation.  Clean up those index.php and style.css files!</p>
-
-<p>Anyways, so far the theme is holding fast, and I hope that it continues to do so because it&rsquo;s a pain in the butt looking through logs and forums posts to find out what&rsquo;s going on!  Also it&rsquo;d be nice to have a very clean and bug-free installation so that I could move on to more interesting things like perhaps hosting someone else&rsquo;s blog in the future&hellip;</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
-    
-      
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/i-want-to-share-this/">I Want to &#8216;Share This&#8217;!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2007-04-08T19:37:06-07:00'><span class='date'>Apr  8</span></time>
-        
-           | <a href="/i-want-to-share-this/#disqus_thread"
-             data-disqus-identifier="http://www.goingthewongway.com/i-want-to-share-this/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>If you use Wordpress, I recommend the very nice <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious">Gregarious</a> plugin for social bookmarking.  It has an excellent interface and the Share This button works very well.  But I was having a bug with it because the popup wouldn&rsquo;t display.</p>
-
-<p>Most of my readers won&rsquo;t care one iota about this entire post.  But I don&rsquo;t post what they want to read, I post whatever I want to post!  And onward!</p>
-
-<p>Basically I was experiencing the error where the Javascript popup would not show up for the Share This button, and I was actually getting redirected to another page. I saw that prototype.js needed to be added, but I was confused because I could see in the page source that it was being added. I also verified that wp_footer() was being called in my footer template, and I saw the akst Javascript code being appended at the bottom of the pages.</p>
-
-<p>So after some debugging (I figured that it was something that I could find) I found that I wasn’t getting the popup because I had previously removed some of the social sites through the gregarious options (mainly because I wanted to limit the sites to those that I knew well). This caused the Javascript to result in an error (in my case: $(”akst_furl”) has no properties) because I had deleted furl from my list of social sites. This subsquently left the Javascript to error out which resulted in no popup window being displayed.</p>
-
-<p>To verify what I suspected, I temporarily reset my social sites and saw that I was able to get the Javascript popup to show (because all of the Javascript properties were properly set).</p>
-
-<p>Now I can obviously go into the akst.js and comment out those that I don’t want and then de-activate them from the gregarious options.</p>
-
-<p>Fix: Add checks in the Javascript before processing so that anything changed in the gregarious options will not affect the Javascript. I looked at the option_value for greg_social_sites, and perhaps the best way is to read that string in, process it, and then overwrite the Javascript to be output into akst.js? But that’s just an idea.</p>
-
-<p>I posted feedback to the author <a href="http://dev.lipidity.com/feature/wp-plugin-gregarious#comment-4495">here</a>.  I figured that I might as well post it also in case anyone is looking for it and happens to stumble upon my blog before the author&rsquo;s (which I see as highly unlikely).</p>
-</div>
-  
-  
-
-
-      </article>
-    
-  
   <div class="pagination">
     
       <a class="prev" href="/page65">&larr; Older</a>
@@ -340,6 +316,14 @@ Whatever the case, right now I am done!</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/the-baby-is-killing-me/">The Baby Is Killing Me</a>
+      </li>
+    
+      <li class="post">
+        <a href="/san-diego-the-bears-first-trip/">San Diego - the Bear&#8217;s First Trip</a>
+      </li>
+    
+      <li class="post">
         <a href="/the-grass-is-greener-even-though-it-probably-shouldnt-be/">The Grass Is Greener (Even Though It Probably Shouldn&#8217;t Be)</a>
       </li>
     
@@ -349,14 +333,6 @@ Whatever the case, right now I am done!</p>
     
       <li class="post">
         <a href="/no-4-am/">No 4 AM?!</a>
-      </li>
-    
-      <li class="post">
-        <a href="/i-only-nap/">I Only Nap</a>
-      </li>
-    
-      <li class="post">
-        <a href="/only-work-for-the-weary/">Only Work for the Weary</a>
       </li>
     
   </ul>
