@@ -1,0 +1,37 @@
+---
+redirect_from:
+- /153/penchant/index.html
+- /2007/06/04/penchant/index.html
+comments: true
+date: 2007-06-04 18:30:45
+layout: post
+slug: penchant
+title: Penchant
+wordpress_id: 153
+categories:
+- Learn
+tags:
+- Word-Of-The-Week
+---
+
+[**pen**-ch_uh_nt]
+
+
+#### Definition:
+
+
+A strong preference, attraction to, or desire for something
+
+
+
+#### Example of usage:
+
+
+As someone who loves the outdoors, Rob has a penchant for taking picnics with his love.
+
+
+
+#### Comments:
+
+
+This is has nothing to do with pens or chants.  And it sounds more sophisticated and exact than "he really likes to do that."  

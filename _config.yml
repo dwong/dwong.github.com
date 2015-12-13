@@ -1,0 +1,34 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title/
+
+# Setup
+title:               Going The Wong Way
+tagline:             I'm ALWAYS going the Wong way
+description:         > # this means to ignore newlines until "baseurl:"
+                     Derek Wong's blog.  A combination of images and thoughts from a
+                     software engineer in southern California.
+url:                 http://www.goingthewongway.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Derek Wong
+  url:               https://www.goingthewongway.com/
+  email:             derek@goingthewongway.com
+
+# Custom vars
+version:             1.0.0
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+
+# Disqus Comments
+disqus_short_name: goingthewongway
+disqus_show_comment_count: true

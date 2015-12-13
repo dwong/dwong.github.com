@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Hawaii May 2012"
+date: 2012-10-15 21:49
+comments: true
+categories: 
+- Photos
+tags:
+- Photography
+---
+Here are some pictures from a trip that I took to Hawaii earlier this year.  It was (as usual) a rather pleasant excursion to the picturesque state.  Check out more at the [gallery](http://go.gtww.net/17hjhje).
+
+<div class="galleria">
+<a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-2_e08a965.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-2_3816.jpg" height="40" width="58"/></a>
+<a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-13_6363cde.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-13_c1c5.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-16_7009df1.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-16_5f9e.jpg" height="40" width="27"/></a>
+<a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-19_c80690b.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-19_c755.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2012/05_Hawaii/e6fa/hawaii-5_1f3b141.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2012/05_Hawaii/e6fa/Thumbs/hawaii-5_851e.jpg" height="40" width="60"/></a>
+</div>

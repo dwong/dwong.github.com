@@ -1,0 +1,31 @@
+---
+redirect_from:
+- /19/rss-2/index.html
+- /2007/02/15/rss-2/index.html
+comments: true
+date: 2007-02-15 22:19:47
+layout: post
+slug: rss-2
+title: RSS
+wordpress_id: 19
+categories:
+- Blog
+tags:
+- Blog
+- Learn
+- Wordpress
+---
+
+**Read this** (even if you think that this is going to be another nerdy entry)!
+
+You might learn something.  I have found that there are a whole lot of people who have no idea what RSS is.  That's a shame because I think that a lot of them would find it to be useful.
+
+RSS stands for **R**eally **S**imple **S**yndication and is a really easy way to view the content for dynamic (frequently changing) websites.  Good examples of websites that change frequently are news sites, blogs, etc.
+
+I'm sure that you could see the icons (like [this](http://www.feedicons.com/)) around the Internet on web pages if you really looked.  To utilize this technology, you have to understand what it is.  Basically an RSS "feed" is a special link to a website that allows you to quickly see the content that is being changed on the site.  
+
+So to start off, you obviously you need a feed reader (also called an aggregator or a news aggregator) in order to view the content of your feeds.  If you use Firefox you can try [this](https://addons.mozilla.org/firefox/424/) or even subscribe with Firefox itself using "Live Bookmarks".  There are also tons more that you can find online.  I tried one from [here](http://email.about.com/od/rssfeedreaders/Find_the_Best_RSS_Feed_Readers_News_Aggregators.htm) that worked just fine.  Once you have your reader install, you definitely need at least one site to get a feed from.  You can find the links on pages, and often times these links will be sensed by your web browser and display an icon in the address bar that makes it easy to subscribe to.  An example of a link would be:
+**http://feeds.feedburner.com/GoingTheWongWay?format=xml**
+Once you have this link, and input this into your reader in whatever way you are supposed to, you are up and running!
+
+To give you even more incentive of why you should do this, it turns out that you can use this for other blogging sites that you might not have thought of.  For the xanga readers, you are essentially doing this when you read "Your Subscriptions".  You can incorporate xanga sites into your new RSS feed reader using links like [this](http://www.xanga.com/rss.aspx?user=keleka) where you just replace the "keleka" part of that address with the user that you're subscribing to.  Add a whole bunch of those links and suddenly you have an easy way to read a whole bunch of different types of "subscriptions".  Happy reading!

@@ -1,0 +1,23 @@
+---
+redirect_from:
+- /880/acronyms/index.html
+- /2010/09/01/acronyms/index.html
+comments: true
+date: 2010-09-01 08:29:50
+layout: post
+slug: acronyms
+title: Acronyms
+wordpress_id: 880
+categories:
+- Life
+tags:
+- Life
+- Rant
+- Relationships
+---
+
+Is it just me or does it seem like there are a lot more acronyms around?  There are institutions for this, organizations for that, degrees in something else, and (especially) the forms and titles for all types of occupations.
+
+Acronyms are not inherently awful things.  In fact they are quite convenient.  They allow us to say "PC" instead of "personal computer" or "CEO" instead of "Chief Executive Officer."  They only become a problem, though, when people use more obscure acronyms as if everyone should know them.  It seems to me that people assume too much.  Perhaps people never learned that it is bad practice to use an acronym (when you are writing) without spelling it out first.  There are acceptable exceptions to the rule when words are integrated into the language (e.g., radar).  Still, it only seems blog-worthy because their use of acronyms points to a world in which everyone knows everything that is going on in your life.  In fact, it seems likely to me that your audience has no idea what you are talking about unless they are as intimate with your topic of conversation as you are.  So explain all of your acronyms usage appropriately.
+
+Really I suppose it is just a matter of society's change in communication.  It is likely that the assumption of audience understanding is indicative of a decrease in the collective communication skills of society.  There is someone's thesis topic.  Have at it.

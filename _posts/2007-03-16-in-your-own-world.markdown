@@ -1,0 +1,39 @@
+---
+redirect_from:
+- /36/in-your-own-world/index.html
+- /2007/03/16/in-your-own-world/index.html
+comments: true
+date: 2007-03-16 19:53:08
+layout: post
+slug: in-your-own-world
+title: In Your Own World
+wordpress_id: 36
+categories:
+- Humor
+- Life
+- Random
+tags:
+- Geek
+- Gross
+- Humor
+- Life
+- Profound
+---
+
+There are many people in your life.  Well, I hope that there are some anyways, otherwise you need to stop reading blogs and go make some friends.  Anyways, I have a sinking suspicion that what is true for me is true for most people out there.  I'd like to think that I'm not completely abnormal.
+
+I know that I act differently around different people.  Now you must understand, I actually don't really like it when people are like this.  Am I a hypocrite?   
+
+I'd like to think not, but I'll leave that issue for another time because I'm sure that I am.  No, the issue that I'm talking about is not necessarily hypocrisy so much as it is human nature.  There might very well be nobody out there that will act completely the same in front of other people as they would when they're by themselves.  They won't fart as much, they won't scratch themselves in the same places, or whatever it may be.  Additionally, there aren't too many people that will completely act the same.  They might not be as at ease so they won't talk as much when they're around you.  I know that this is true for me when I'm around people whom I don't really know.  But this all seems fairly natural.
+
+The thing is, I think that it's hilarious when you get a sneak peak into someone's life à la [The Truman Show](http://imdb.com/title/tt0120382/).  Do you ever think what your life would look like if there were cameras everywhere and watching you at every moment?  That would be such a trip.  Makes you re-think how you picked your nose the other day, doesn't it?  Do we resort, then, to stalker tactics?  No, we definitely do not.  That's against the law, and I won't be your friend if you start doing that.  Plus, we don't really need to.  People help us out as it is.
+
+It's amusing, but I've noticed that Computer Science people in particular are easy to spot lost in their own world.  Perhaps it's because they're deep thinking about imaginary objects in their object-oriented programming or trying to lay out in their mind their current algorithm.  Whatever the case, I've seen a few people (at least) who will do something gross.  I remember a prime example in one of my classes at [UCSD](http://www.ucsd.edu) where a guy would sit in class, play with his ear, and then smell it.  Smell it!  Now that looks disgusting, but I don't even know if the guy knew that he was doing this!  He was also at the same time seemingly intent on listening to the professor.  I never knew this guy, so I actually don't know if he was listening, but class after class, he'd do the same gross thing with his ear and smelling his fingers.  I'd imagine that there was a strong smell too, otherwise why would he smell it?
+
+Anther thing that I've noticed is that the same thing happens with people in their cars.  Apparently because they're in a (fairly) small, enclosed space, they think that they're alone.  And I must admit that it is very easy to feel that way.  Except, of course, there are windows all around you.  So people can see whatever you're doing, whether that be gross, weird, or funny.  I like seeing people do these things.  It definitely makes me laugh at them.  I especially like seeing people dance.  I hope that I also make people as amused if they see me.  :)
+
+So what can we draw from these things?
+1) We do not fart as much in front of other people as we do by ourselves.
+2) I want to have a real Truman Show for someone, any volunteers?
+3) Don't do something in your car that you don't mind other people seeing.
+4) There are a few strange Computer Science out there.  Somewhere.  Not here.  :D

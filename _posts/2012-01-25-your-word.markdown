@@ -1,0 +1,47 @@
+---
+redirect_from:
+- /898/your-word/index.html
+- /2012/01/25/your-word/index.html
+comments: true
+date: 2012-01-25 13:56:47
+layout: post
+slug: your-word
+title: Your Word
+wordpress_id: 898
+categories:
+- Life
+tags:
+- life in code
+- Python
+---
+
+```python
+# trusting_others.py
+#
+# How our words affect our interaction with others. You're only as good as your word!
+#
+# Psuedocode:
+# 
+# Maintain list of trust that others have, which is unknown to you
+# Interact with people each day
+# Alter trust with your words
+
+# Trust quotient is a quantifier for one person's trust for another 
+TRUST_REWARD = 1
+TRUST_PENALTY = 15
+
+    
+# Dictionary containing name and trust quotient values that other people have for you
+trust = {}
+    
+for day in days:
+    for person in interactions(day):
+        if person not in trust:
+            # Other people's trust depends on some variables 
+            trust[person] = default_trust(person.upbringing, person.genes)
+    
+        if speak() == 'TRUTH':
+            trust[person] += TRUST_REWARD;
+        elif speak() == 'FALSEHOOD':
+            trust[person] -= TRUST_PENALTY
+```
