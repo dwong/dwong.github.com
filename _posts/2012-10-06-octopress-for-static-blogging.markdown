@@ -28,7 +28,7 @@ Octopress includes a pretty decent stylesheet, which made it easy to get up and 
 
 ##<a id="sitemap"></a>Sitemap
 Octopress included a sitemap plugin, but I didn't like that it used the file modification time.  In theory that works great, but for some reason it always showed every post with the exact same modification time.  So I just created my own:
-```xml {% raw %}
+{% highlight xml %} {% raw %}
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -64,12 +64,12 @@ Octopress included a sitemap plugin, but I didn't like that it used the file mod
     <priority>0.2</priority>
   </url>
   {% endfor %}
-</urlset> {% raw %}
-```
+</urlset> {% endraw %}
+{% endhighlight %}
 
 ##<a id="atom"></a>Atom Feed
 I started with [this simple Jekyll feed](http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed) in order to create a custom Atom Feed that looks like this:
-```xml {% raw %}
+{% highlight xml %} {% raw %}
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
@@ -92,12 +92,11 @@ I started with [this simple Jekyll feed](http://vitobotta.com/how-to-migrate-fro
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
   {% endfor %}
-</feed>
-{% endraw %}
-```
+</feed> {% endraw %}
+{% endhighlight %}
 ##<a id="sidebar_state"></a>Retaining Sidebar Collapsed State
 The default template for Octopress includes a nifty sidebar that can be collapsed.  To improve that functionality, I included the [jQuery Cookie plugin](https://github.com/carhartl/jquery-cookie) and edited the addSidebarToggler function in octopress.js like so:
-```javascript
+{% highlight js %}
 function addSidebarToggler() {
   if(!$('body').hasClass('sidebar-footer')) {
     $('#content').append('<span class="toggle-sidebar"></span>');
@@ -116,9 +115,9 @@ function addSidebarToggler() {
   }
 ...
 }
-```
+{% endhighlight %}
 Additionally I added the following code:
-```javascript
+{% highlight js %}
 jQuery(document).ready(function () {
     var a = jQuery.cookie("sidebar_collapsed", {
         raw: true
@@ -129,4 +128,4 @@ jQuery(document).ready(function () {
         $("body").removeClass("collapse-sidebar");
     }
 });
-```
+{% endhighlight %}

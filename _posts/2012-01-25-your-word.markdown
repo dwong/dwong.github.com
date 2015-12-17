@@ -14,8 +14,9 @@ tags:
 - life in code
 - Python
 ---
+We should trust people!  If only they made it easy.
 
-```python
+{% highlight py %}
 # trusting_others.py
 #
 # How our words affect our interaction with others. You're only as good as your word!
@@ -44,4 +45,4 @@ for day in days:
             trust[person] += TRUST_REWARD;
         elif speak() == 'FALSEHOOD':
             trust[person] -= TRUST_PENALTY
-```
+{% endhighlight %}

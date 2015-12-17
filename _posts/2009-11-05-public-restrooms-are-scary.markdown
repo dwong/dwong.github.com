@@ -18,8 +18,9 @@ tags:
 - Python
 - Useful
 ---
+Anything can be put down as an algorithm.  Anything.
 
-```python
+{% highlight py %}
 # use_public_toilet.py
 #
 # Algorithm for using a public toilet.  Success will vary based on the
@@ -87,4 +88,4 @@ you.wash_hands()
 you.leave()
 if you.satisfied:             # Be happy, you're done
     you.smile()
-```
+{% endhighlight %}

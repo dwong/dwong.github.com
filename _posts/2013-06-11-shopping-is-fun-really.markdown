@@ -8,7 +8,9 @@ categories:
 tags:
 - life in code
 ---
-```python
+Is this true for all men or just myself?
+
+{% highlight py %}
 items_in_store = getAllItems()
 
 def shop_fast(user, items_to_buy):
@@ -34,4 +36,4 @@ if gender is 'Male':
     shop_fast(user, items)
 else:
     shop_slow(user, items)
-```
+{% endhighlight %}

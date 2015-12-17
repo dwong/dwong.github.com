@@ -14,8 +14,9 @@ tags:
 - life in code
 - Political
 ---
+He isn't all that, people.
 
-```python
+{% highlight py %}
 while(date < '2013-01-20')
     if (date == '2009-01-20')
         crowd.release(pomp, circumstance)
@@ -24,4 +25,4 @@ while(date < '2013-01-20')
     else
         work = BarackObama.work()
         crowd.judges(work)
-```
+{% endhighlight %}

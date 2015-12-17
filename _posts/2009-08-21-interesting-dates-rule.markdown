@@ -16,8 +16,9 @@ tags:
 - life in code
 - Seen-Around
 ---
+I date to get married.
 
-```python
+{% highlight py %}
 # Marriage_Dating.py
 #
 # A better way of dating with the purpose of getting married
@@ -67,7 +68,7 @@ you.married = True
 other_person.married = True
 you.celebrate()
 other_person.celebrate()
-```
+{% endhighlight %}
     
 #### README
 

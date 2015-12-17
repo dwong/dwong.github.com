@@ -8,7 +8,8 @@ categories:
 - Life in code
 ---
 The problem with this code is there are too many break statements!
-```python
+
+{% highlight py %}
 def sleep(person, baby):
 	start_time = getTime()
 	while person.isAsleep():
@@ -22,5 +23,4 @@ def __main__():
 		if not areThingsToDo():
 			sleep(derek, derek.getChild());	
 		
-```
-
+{% endhighlight %}
