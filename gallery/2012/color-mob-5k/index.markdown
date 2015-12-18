@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "Color Mob 5K"
 comments: true
 sharing: true

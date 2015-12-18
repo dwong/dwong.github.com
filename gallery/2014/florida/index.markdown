@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "Florida"
 date: 2014-07-05 23:00
 comments: true

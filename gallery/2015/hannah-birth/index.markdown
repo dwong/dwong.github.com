@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "hannah birth"
 date: 2015-05-15 14:08
 comments: true

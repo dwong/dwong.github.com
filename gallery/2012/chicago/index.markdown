@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "Chicago"
 comments: true
 sharing: true

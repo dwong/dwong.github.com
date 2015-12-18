@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "europe 2013"
 date: 2014-04-26 22:58
 comments: true

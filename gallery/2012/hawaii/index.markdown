@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "Hawaii"
 comments: true
 sharing: true

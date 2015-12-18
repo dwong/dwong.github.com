@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: "Noelle Pizza Party"
 comments: true
 sharing: true
