@@ -4,13 +4,40 @@
  <title>Going The Wong Way</title>
  <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
  <link href="http://www.goingthewongway.com/"/>
- <updated>2015-12-18T17:03:24-08:00</updated>
+ <updated>2015-12-24T23:43:00-08:00</updated>
  <id>http://www.goingthewongway.com</id>
  <author>
    <name>Derek Wong</name>
    <email>derek@goingthewongway.com</email>
  </author>
 
+ 
+ <entry>
+   <title>What Do Kids Do With Their Hands?</title>
+   <link href="http://www.goingthewongway.com/what-do-kids-do-with-their-hands/"/>
+   <updated>2015-12-22T16:35:05-08:00</updated>
+   <id>http://www.goingthewongway.com/what-do-kids-do-with-their-hands</id>
+   <content type="html">&lt;p&gt;She’s not even that mobile yet.  Are we doomed?  Probably, yes.&lt;/p&gt;
+
+&lt;p&gt;Things heard around my house much more now than pre-child:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hi! 😆&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Where’s the poop?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hey, get your hands out of there!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How’d you get over there?&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Migrating To Jekyll</title>

@@ -1808,6 +1808,80 @@
     
     <div class="post">
       <h1 class="post-title">
+	<a href="/interesting-dates-rule/">
+          Interesting Dates Rule
+	</a>
+      </h1>
+
+      <span class="post-date">Aug 21</span>
+
+      <p>I date to get married.</p>
+
+<figure class="highlight"><pre><code class="language-py" data-lang="py"><span class="c"># Marriage_Dating.py</span>
+<span class="c">#</span>
+<span class="c"># A better way of dating with the purpose of getting married</span>
+<span class="c">#</span>
+    
+<span class="n">too_long</span> <span class="o">=</span> <span class="mi">730</span> <span class="c"># days, which is 2 years</span>
+
+<span class="k">while</span> <span class="n">you</span><span class="o">.</span><span class="n">engaged</span> <span class="o">==</span> <span class="bp">False</span><span class="p">:</span>
+    <span class="c"># What state are you in?</span>
+    <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">==</span> <span class="bp">False</span><span class="p">:</span>
+        <span class="n">days_dating</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">'PERSON'</span><span class="p">)</span>
+            <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">True</span>
+            <span class="n">other_person</span> <span class="o">=</span> <span class="n">person_of_opposite_sex</span><span class="p">()</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">days_dating</span> <span class="o">+=</span> <span class="mi">1</span>
+
+    <span class="c"># Date day, hooray!</span>
+    <span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">have</span><span class="p">(</span><span class="s">'DATE'</span><span class="p">):</span>
+
+        <span class="c"># Here's the juice</span>
+        <span class="k">if</span> <span class="n">dating</span><span class="o">.</span><span class="n">purpose</span> <span class="o">==</span> <span class="s">'MARRIAGE'</span><span class="p">:</span>
+            <span class="n">result</span> <span class="o">=</span> <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'DATE'</span><span class="p">,</span> <span class="s">'INTERESTING'</span><span class="p">,</span> <span class="n">other_person</span><span class="p">)</span>
+            <span class="k">if</span> <span class="n">days_dating</span> <span class="o">&gt;=</span> <span class="n">too_long</span><span class="p">:</span>
+                <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">False</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">result</span> <span class="o">=</span> <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'DATE'</span><span class="p">,</span> <span class="s">'BORING'</span><span class="p">,</span> <span class="n">other_person</span><span class="p">)</span>
+
+        <span class="c"># Process the result of the date</span>
+        <span class="k">if</span> <span class="n">result</span> <span class="o">==</span> <span class="s">'WELL'</span><span class="p">:</span>
+            <span class="k">pass</span> <span class="c"># Just keep on going on those dates!</span>
+        <span class="k">elif</span> <span class="n">result</span> <span class="o">==</span> <span class="s">'ENGAGED'</span><span class="p">:</span>
+            <span class="n">you</span><span class="o">.</span><span class="n">engaged</span> <span class="o">=</span> <span class="bp">True</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">you</span><span class="o">.</span><span class="n">dating</span> <span class="o">=</span> <span class="bp">False</span>
+
+    <span class="c"># Every other day of your (obviously) interesting life</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'WORK'</span><span class="p">)</span>
+        <span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'HOME'</span><span class="p">)</span>
+
+
+<span class="n">you</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'WEDDING'</span><span class="p">)</span>
+<span class="n">other_person</span><span class="o">.</span><span class="n">go</span><span class="p">(</span><span class="s">'WEDDING'</span><span class="p">)</span>
+<span class="n">you</span><span class="o">.</span><span class="n">married</span> <span class="o">=</span> <span class="bp">True</span>
+
+<span class="n">other_person</span><span class="o">.</span><span class="n">married</span> <span class="o">=</span> <span class="bp">True</span>
+<span class="n">you</span><span class="o">.</span><span class="n">celebrate</span><span class="p">()</span>
+<span class="n">other_person</span><span class="o">.</span><span class="n">celebrate</span><span class="p">()</span></code></pre></figure>
+
+<h4 id="readme">README</h4>
+
+<p>Here’s some help for understanding this snippet of Python programming code.  While you are unmarried, you are either dating someone or you are not.  If you’re not dating and happen to find someone that you want to date, then lucky you!  The next categorization is you are either actively pursuing marriage or you are not.  If you are, I think that you should want to go on interesting dates.</p>
+
+<p>Life isn’t dinner and a movie.  Life is crazy and uncertain.  It’s hard and difficult.  Don’t you want to see how the person that you might spend the rest of your life with reacts?  When they’re fording a river, do they get angry and upset with you?  When you’re lost in the wilderness, do they get upset and frustrated?  When you get frustrated with them, do they snap back?  Find the worst in the person.  Look for it as hard as you possibly can.  Because if you can handle the worst, then you can definitely handle the best.</p>
+
+<p>If you aren’t as actively pursuing marriage then enjoy your dinner and movie.</p>
+
+<p>And if you’re not dating then good luck with being on your own and all of the issues entailed in CT’s <a href="http://www.christianitytoday.com/ct/2009/august/16.22.html">The Case For Early Marriage</a>.</p>
+
+
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
 	<a href="/unions-will-get-you-for-sure/">
           Unions Will Get You For Sure
 	</a>
@@ -1954,25 +2028,6 @@ Running on sand or grass would definitely be more comfortable, but it’s really
   <li><a href="http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html">The Painful Truth About Trainers</a></li>
   <li><a href="http://barefootrunner.org/">Barefoot Rick</a> - I enjoyed reading some of his articles and thoughts about running barefoot.</li>
 </ul>
-
-    </div>
-    
-    <div class="post">
-      <h1 class="post-title">
-	<a href="/do-it-arnold/">
-          Do It, Arnold
-	</a>
-      </h1>
-
-      <span class="post-date">Jul  1</span>
-
-      <p>The whole situation with the California budget crisis is ridiculous.  It is looking very likely that <a href="http://www.reuters.com/article/topNews/idUSTRE55T7E120090630">California will have to issue IOUs</a> as the new fiscal year rolls around.  How did we get into this pickle?  The recession!  The decreased revenue from falling property taxes and lack of state income taxes from those who are not working has left the Golden State in a huge predicament.  $24.3 BILLION??  That is ridiculous.</p>
-
-<p>In the special election on May 19, 2009, the people of this state voted against the increased taxes that were proposed.  I am a fairly modest supporter of our <a href="http://en.wikipedia.org/wiki/Arnold_Schwarzenegger">Governator</a> as he is standing against the tide.  I agree with his observation that the people of California are sick and tired of living in the most taxed state of the United States of America!  Even though he has not always been my favorite politician (really who is?), I am glad that he is attempting to stand for what he thinks that the people want.</p>
-
-<p>Democratic state politicians on the other hard are, inexplicably, ridiculous.  While they, too, are trying to stand for what they think that the people want, they are doing it in a way that is illogical.  From trying to find loopholes to pass the budget with a simple majority (since they can’t pass what they want without Republican support) to trying to pass tax increases along with budget cuts, they are not making the process extremely difficult.  They are still trying to get theirs while seeming to not understand what basic tasks they need to do in order to get the state’s finances in order.</p>
-
-<p>Let us put it simply: California <strong>needs</strong> to cut its costs.  It doesn’t have the money and at this point it is not reasonable to increase the taxes that it imposes on its population.  At some point people are going to get tired of paying so much for the privilege of wonderful weather (and horrible smog).  I wonder if the politicians know this.  Maybe good old Mr. Olympia himself knows.</p>
 
     </div>
     

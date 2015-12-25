@@ -226,6 +226,10 @@ blockquote p:last-child {
     padding-left: 1.25rem;
   }
 }
+/* 151224 Don't want large beginning space for quotes, especially single line ones */
+blockquote p {
+  margin: .2rem
+}
 
 img {
   display: block;
