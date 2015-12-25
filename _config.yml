@@ -32,3 +32,6 @@ whitelist:
 # Disqus Comments
 disqus_short_name: goingthewongway
 disqus_show_comment_count: true
+
+exclude: 
+  - Rakefile
