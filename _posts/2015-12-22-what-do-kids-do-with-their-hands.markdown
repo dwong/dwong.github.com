@@ -7,9 +7,9 @@ categories:
 - Children
 - Quotes
 ---
-She's not even that mobile yet.  Are we doomed?  Probably, yes.  
+The Bear's not even that mobile yet.  Are we doomed?  Probably, yes.  
 
-Things heard around my house much more now than pre-child:
+Things heard around my house much more now than pre-Bear:
 
 > Hi! 😆
 
