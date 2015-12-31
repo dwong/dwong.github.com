@@ -4,13 +4,25 @@
  <title>Going The Wong Way</title>
  <link href="http://www.goingthewongway.com/atom.xml" rel="self"/>
  <link href="http://www.goingthewongway.com/"/>
- <updated>2015-12-26T09:26:12-08:00</updated>
+ <updated>2015-12-30T19:55:17-08:00</updated>
  <id>http://www.goingthewongway.com</id>
  <author>
    <name>Derek Wong</name>
    <email>derek@goingthewongway.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Moving Around (Or The Crawling Mischievous Bear)</title>
+   <link href="http://www.goingthewongway.com/moving-around-or-the-crawling-mischievous-bear/"/>
+   <updated>2015-12-30T15:27:02-08:00</updated>
+   <id>http://www.goingthewongway.com/moving-around-or-the-crawling-mischievous-bear</id>
+   <content type="html">&lt;p&gt;The Bear is starting to push herself backwards.  Some might call it crawling, but others might laugh in their faces because it doesn’t look like crawling.  She is also making it difficult to get our weekly picture.  This means putting the props in her mouth, but more often it means knocking over blocks.  Bothersome?  Yes!  Amusing?  Yes, indeed!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://img.gtww.net/2015/12_Bear/b6b1/bear_7484fc0.jpg&quot; /&gt;
+&lt;img src=&quot;http://img.gtww.net/2015/12_Bear/b6b1/bear1_297ac06.jpg&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What Do Kids Do With Their Hands?</title>
@@ -67,12 +79,15 @@
    <link href="http://www.goingthewongway.com/the-baby-is-killing-me/"/>
    <updated>2015-08-22T22:20:28-07:00</updated>
    <id>http://www.goingthewongway.com/the-baby-is-killing-me</id>
-   <content type="html">&lt;p&gt;Lately we have been trying to keep 1 bottle feeding for the baby each day, but lately it’s been disastrous.  Both of these feel about right, but they’re different so I don’t understand how they can both be true:&lt;/p&gt;
+   <content type="html">&lt;p&gt;We have been trying to keep 1 bottle feeding for the baby each day, but lately it’s been disastrous.  Both of these statements feel about right, but they’re different so I don’t understand how they can both be true:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;The baby is sucking the life out of me&lt;/li&gt;
-  &lt;li&gt;The baby is killing me by beating me down emotionally&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The baby is sucking the life out of me&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The baby is killing me by beating me down emotionally&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://img.gtww.net/2015/08_San_Diego/19e9/sd-1_883ce98.jpg&quot; /&gt;&lt;/p&gt;
 </content>

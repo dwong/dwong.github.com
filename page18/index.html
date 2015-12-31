@@ -1774,6 +1774,10 @@
       
     
       
+        
+      
+    
+      
     
       
     
@@ -1805,6 +1809,88 @@
       <div class="content">
         <div class="container">
   <div class="posts">
+    
+    <div class="post">
+      <h1 class="post-title">
+	<a href="/public-restrooms-are-scary/">
+          Public Restrooms Are Scary
+	</a>
+      </h1>
+
+      <span class="post-date">Nov  5</span>
+
+      <p>Anything can be put down as an algorithm.  Anything.</p>
+
+<figure class="highlight"><pre><code class="language-py" data-lang="py"><span class="c"># use_public_toilet.py</span>
+<span class="c">#</span>
+<span class="c"># Algorithm for using a public toilet.  Success will vary based on the</span>
+<span class="c"># toilet/situation (obviously).  However, this seems to be a generally safe</span>
+<span class="c"># way to approach using a toilet.</span>
+<span class="c">#</span>
+<span class="c"># Handles both male and female needs as well as exceptional cases such as</span>
+<span class="c"># no available toilet, getting dirty, and entering the wrong gender's</span>
+<span class="c"># bathroom.</span>
+<span class="c">#</span>
+<span class="c"># Algorithm is roughly:</span>
+<span class="c"># 1) Enter bathroom</span>
+<span class="c"># 2) Find suitable toilet</span>
+<span class="c"># 3) Protect yourself if it's a stall toilet that you sit on</span>
+<span class="c"># 4) Do your business</span>
+<span class="c"># 5) Finish up</span>
+    
+<span class="kn">import</span> <span class="nn">common_sense</span>
+    
+<span class="c"># Sometimes even nature's calling cannot overrule common sense</span>
+<span class="c"># Including when you walk into the wrong bathroom</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">bathroom</span><span class="o">.</span><span class="n">is_disgusting</span> <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">is_dangerous</span>
+    <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">gender</span> <span class="o">!=</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span><span class="p">):</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">hold</span><span class="p">(</span><span class="s">'your waste'</span><span class="p">)</span>
+    <span class="k">return</span> <span class="c"># (i.e., get out of there!)    </span>
+
+<span class="n">my_toilet</span> <span class="o">=</span> <span class="bp">None</span>
+<span class="c"># Only male urinaters get to use the urinals, at least in the common case</span>
+<span class="c"># (Abnormal cases are unhandled here)</span>
+<span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">need</span><span class="p">()</span> <span class="o">==</span> <span class="s">'urinate'</span> <span class="ow">and</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span> <span class="o">==</span> <span class="s">'male'</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">urinal</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">urinals</span><span class="p">:</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">urinal</span><span class="o">.</span><span class="n">empty</span><span class="p">:</span>
+            <span class="k">continue</span>
+        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">urinal</span>    
+
+<span class="c"># If you are not a male urinating or there is no urinal available</span>
+<span class="k">if</span> <span class="n">my_toilet</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+    <span class="c"># Time to look for the stall</span>
+    <span class="k">for</span> <span class="n">stall</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">stalls</span><span class="p">:</span>
+        <span class="c"># Use an empty toilet that can also be initialized to a clean state</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">stall</span><span class="o">.</span><span class="n">empty</span> <span class="ow">or</span> <span class="p">(</span><span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">clean</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">works</span><span class="p">):</span>
+            <span class="k">continue</span>
+        <span class="n">you</span><span class="o">.</span><span class="n">enter</span><span class="p">(</span><span class="s">'Stall </span><span class="si">%</span><span class="s">s'</span> <span class="o">%</span> <span class="n">stall</span><span class="p">)</span>
+        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">stall</span>
+        <span class="k">break</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="c"># You could not find a suitable stall to use</span>
+        <span class="k">return</span>
+
+    <span class="n">you</span><span class="o">.</span><span class="n">wipe</span><span class="p">(</span><span class="s">'toilet seat'</span><span class="p">)</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">'toilet seat cover'</span><span class="p">)</span>
+    <span class="k">while</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">seat_covered</span><span class="p">():</span>
+        <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">'toilet paper'</span><span class="p">)</span>
+
+<span class="c"># Finally the time has come to get down to business</span>
+<span class="k">try</span><span class="p">:</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">sit</span><span class="p">()</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">do_your_business</span><span class="p">()</span>
+<span class="k">except</span> <span class="n">TouchDirtyException</span><span class="p">:</span>   <span class="c"># Don't touch the toilet!</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">cry</span><span class="p">()</span>
+    
+
+<span class="n">you</span><span class="o">.</span><span class="n">flush</span><span class="p">(</span><span class="n">my_toilet</span><span class="p">)</span>
+<span class="n">you</span><span class="o">.</span><span class="n">wash_hands</span><span class="p">()</span>
+<span class="n">you</span><span class="o">.</span><span class="n">leave</span><span class="p">()</span>
+<span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">satisfied</span><span class="p">:</span>             <span class="c"># Be happy, you're done</span>
+    <span class="n">you</span><span class="o">.</span><span class="n">smile</span><span class="p">()</span></code></pre></figure>
+
+
+    </div>
     
     <div class="post">
       <h1 class="post-title">
@@ -1888,32 +1974,6 @@
 <p>Humor is a strange thing.  It is not the same for everyone.  Often there is overlap.  However other times there is something funny to someone and not funny at all to someone else.  Sometimes the only way that we realize that we are alone in our humor is when we are laughing before we receive social cues that it’s not funny.  Some people don’t even have any sense of humor at all.</p>
 
 <p>I don’t have any answers.  I’m just asking the SPAM SPAM SPAM questions.</p>
-
-    </div>
-    
-    <div class="post">
-      <h1 class="post-title">
-	<a href="/garmin-cant-unlock-maps-error/">
-          Garmin - Can't Unlock Maps Error
-	</a>
-      </h1>
-
-      <span class="post-date">Sep 27</span>
-
-      <p>I was having a hard time with this recently. Maybe I’m dense or maybe this will be helpful to someone out there. If you have a Garmin GPS device, and it gives you an error that says “Can’t Unlock Maps” then try:</p>
-
-<ol>
-  <li>Register online at <a href="http://my.garmin.com/">myGarmin</a></li>
-  <li>Find your unlock codes</li>
-  <li>Connect your device to your computer</li>
-  <li>Create a file gmapprom.unl and paste the unlock codes into it, one to a line</li>
-  <li>Put the file onto the Garmin device inside of the Garmin folder</li>
-  <li>It is probably also a good idea to install and update software as necessary</li>
-</ol>
-
-<p>It was a very odd error because it seemed to happen out of nowhere. One minute the device was working fine, and then turning it off and on seemed to somehow allow that file to magically disappear. Not good, Garmin, not good. Don’t let it happen again!</p>
-
-<p>If that fix doesn’t work out for you, you can check out <a href="http://amzn.to/QO2zNz">some of the latest and greatest new Garmin devices</a> instead.  They look pretty snazzy.</p>
 
     </div>
     

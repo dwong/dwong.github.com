@@ -1774,6 +1774,10 @@
       
     
       
+        
+      
+    
+      
     
       
     
@@ -1805,6 +1809,23 @@
       <div class="content">
         <div class="container">
   <div class="posts">
+    
+    <div class="post">
+      <h1 class="post-title">
+	<a href="/namesake/">
+          Namesake
+	</a>
+      </h1>
+
+      <span class="post-date">Dec 30</span>
+
+      <p><a href="http://cbs2.com/bios/Amelia.Earhart.Reporter.9.1021097.html">Amelia Earhart</a>’s parents must not have been at all surprised by the career that she chose.  Hopefully the outcome is more positive than her namesake’s, though.  Oh well, I guess that everyone needs to have a “thing” huh?</p>
+
+<p><strong>Late breaking news!</strong> There is a huge surge in babies named Bill Gates, Steve Jobs, Oprah Winfrey, and Warren Buffet.</p>
+
+<p><strong>Later breaking news!</strong>  All of that wealth still makes it quite hard to get through the eye of that needle.</p>
+
+    </div>
     
     <div class="post">
       <h1 class="post-title">
@@ -1895,88 +1916,6 @@
       <span class="post-date">Nov 18</span>
 
       <p>[caption id=”” align=”aligncenter” width=”500” caption=”Entertainment of another variety”]<a href="http://farm4.static.flickr.com/3486/3883622144_7897e2b92d.jpg"><img src="http://farm4.static.flickr.com/3486/3883622144_7897e2b92d.jpg" alt="Entertainment of another variety" /></a>[/caption]</p>
-
-    </div>
-    
-    <div class="post">
-      <h1 class="post-title">
-	<a href="/public-restrooms-are-scary/">
-          Public Restrooms Are Scary
-	</a>
-      </h1>
-
-      <span class="post-date">Nov  5</span>
-
-      <p>Anything can be put down as an algorithm.  Anything.</p>
-
-<figure class="highlight"><pre><code class="language-py" data-lang="py"><span class="c"># use_public_toilet.py</span>
-<span class="c">#</span>
-<span class="c"># Algorithm for using a public toilet.  Success will vary based on the</span>
-<span class="c"># toilet/situation (obviously).  However, this seems to be a generally safe</span>
-<span class="c"># way to approach using a toilet.</span>
-<span class="c">#</span>
-<span class="c"># Handles both male and female needs as well as exceptional cases such as</span>
-<span class="c"># no available toilet, getting dirty, and entering the wrong gender's</span>
-<span class="c"># bathroom.</span>
-<span class="c">#</span>
-<span class="c"># Algorithm is roughly:</span>
-<span class="c"># 1) Enter bathroom</span>
-<span class="c"># 2) Find suitable toilet</span>
-<span class="c"># 3) Protect yourself if it's a stall toilet that you sit on</span>
-<span class="c"># 4) Do your business</span>
-<span class="c"># 5) Finish up</span>
-    
-<span class="kn">import</span> <span class="nn">common_sense</span>
-    
-<span class="c"># Sometimes even nature's calling cannot overrule common sense</span>
-<span class="c"># Including when you walk into the wrong bathroom</span>
-<span class="k">if</span> <span class="p">(</span><span class="n">bathroom</span><span class="o">.</span><span class="n">is_disgusting</span> <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">is_dangerous</span>
-    <span class="ow">or</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">gender</span> <span class="o">!=</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span><span class="p">):</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">hold</span><span class="p">(</span><span class="s">'your waste'</span><span class="p">)</span>
-    <span class="k">return</span> <span class="c"># (i.e., get out of there!)    </span>
-
-<span class="n">my_toilet</span> <span class="o">=</span> <span class="bp">None</span>
-<span class="c"># Only male urinaters get to use the urinals, at least in the common case</span>
-<span class="c"># (Abnormal cases are unhandled here)</span>
-<span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">need</span><span class="p">()</span> <span class="o">==</span> <span class="s">'urinate'</span> <span class="ow">and</span> <span class="n">you</span><span class="o">.</span><span class="n">gender</span> <span class="o">==</span> <span class="s">'male'</span><span class="p">:</span>
-    <span class="k">for</span> <span class="n">urinal</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">urinals</span><span class="p">:</span>
-        <span class="k">if</span> <span class="ow">not</span> <span class="n">urinal</span><span class="o">.</span><span class="n">empty</span><span class="p">:</span>
-            <span class="k">continue</span>
-        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">urinal</span>    
-
-<span class="c"># If you are not a male urinating or there is no urinal available</span>
-<span class="k">if</span> <span class="n">my_toilet</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
-    <span class="c"># Time to look for the stall</span>
-    <span class="k">for</span> <span class="n">stall</span> <span class="ow">in</span> <span class="n">bathroom</span><span class="o">.</span><span class="n">stalls</span><span class="p">:</span>
-        <span class="c"># Use an empty toilet that can also be initialized to a clean state</span>
-        <span class="k">if</span> <span class="ow">not</span> <span class="n">stall</span><span class="o">.</span><span class="n">empty</span> <span class="ow">or</span> <span class="p">(</span><span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">clean</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">works</span><span class="p">):</span>
-            <span class="k">continue</span>
-        <span class="n">you</span><span class="o">.</span><span class="n">enter</span><span class="p">(</span><span class="s">'Stall </span><span class="si">%</span><span class="s">s'</span> <span class="o">%</span> <span class="n">stall</span><span class="p">)</span>
-        <span class="n">my_toilet</span> <span class="o">=</span> <span class="n">stall</span>
-        <span class="k">break</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="c"># You could not find a suitable stall to use</span>
-        <span class="k">return</span>
-
-    <span class="n">you</span><span class="o">.</span><span class="n">wipe</span><span class="p">(</span><span class="s">'toilet seat'</span><span class="p">)</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">'toilet seat cover'</span><span class="p">)</span>
-    <span class="k">while</span> <span class="ow">not</span> <span class="n">toilet</span><span class="o">.</span><span class="n">seat_covered</span><span class="p">():</span>
-        <span class="n">you</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="s">'toilet paper'</span><span class="p">)</span>
-
-<span class="c"># Finally the time has come to get down to business</span>
-<span class="k">try</span><span class="p">:</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">sit</span><span class="p">()</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">do_your_business</span><span class="p">()</span>
-<span class="k">except</span> <span class="n">TouchDirtyException</span><span class="p">:</span>   <span class="c"># Don't touch the toilet!</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">cry</span><span class="p">()</span>
-    
-
-<span class="n">you</span><span class="o">.</span><span class="n">flush</span><span class="p">(</span><span class="n">my_toilet</span><span class="p">)</span>
-<span class="n">you</span><span class="o">.</span><span class="n">wash_hands</span><span class="p">()</span>
-<span class="n">you</span><span class="o">.</span><span class="n">leave</span><span class="p">()</span>
-<span class="k">if</span> <span class="n">you</span><span class="o">.</span><span class="n">satisfied</span><span class="p">:</span>             <span class="c"># Be happy, you're done</span>
-    <span class="n">you</span><span class="o">.</span><span class="n">smile</span><span class="p">()</span></code></pre></figure>
-
 
     </div>
     
