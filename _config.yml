@@ -26,6 +26,7 @@ version:             1.0.0
 gems:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-minifier
 whitelist:
   - jekyll-redirect-from
 
