@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Colorado 2015"
+date: 2016-01-21 22:34:34 -0800
+comments: true
+categories: 
+- Travel
+- Pictures
+---
+<div class="galleria">
+<a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-1_b343371.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-1_f568.jpg" height="40" width="33"/></a>
+<a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-2_3f90224.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-2_eb94.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-3_6445d04.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-3_8ceb.jpg" height="40" width="60"/></a>
+<a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-5_a19f7dc.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-5_baef.jpg" height="40" width="34"/></a>
+<a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-8_35f9894.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-8_0fa8.jpg" height="40" width="60"/></a>
+</div>
+
+It was our first time flying with a child, and it didn't go too badly!  Colorado had plenty of natural wonders, and it was nice to get out of the normal routine.  In any case, you can also check out a few more pictures in the [gallery](gallery/2015/colorado/).
