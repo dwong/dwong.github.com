@@ -15,4 +15,4 @@ categories:
 <a href="http://img.gtww.net/2015/11_Colorado/db3d/denver_co_springs-8_35f9894.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2015/11_Colorado/db3d/Thumbs/denver_co_springs-8_0fa8.jpg" height="40" width="60"/></a>
 </div>
 
-It was our first time flying with a child, and it didn't go too badly!  Colorado had plenty of natural wonders, and it was nice to get out of the normal routine.  In any case, you can also check out a few more pictures in the [gallery](gallery/2015/colorado/).
+It was our first time flying with a child, and it didn't go too badly!  Colorado had plenty of natural wonders, and it was nice to get out of the normal routine.  In any case, you can also check out a few more pictures in the [gallery](/gallery/2015/colorado/).
