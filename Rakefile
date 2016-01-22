@@ -90,23 +90,22 @@ end
 
 # usage rake new_gallery[my-new-page] or rake new_gallery[my-new-page.html] or rake new_gallery (defaults to "new-gallery.markdown")
 desc "Create a new gallery in (filename)/index.#{new_page_ext}"
-task :new_page, :filename do |t, args|
+task :new_gallery, :filename do |t, args|
   args.with_defaults(:filename => 'new-gallery')
-  page_dir = [source_dir]
   if args.filename.downcase =~ /(^.+\/)?(.+)/
     filename, dot, extension = $2.rpartition('.').reject(&:empty?)         # Get filename and extension
     title = filename
-    page_dir.concat($1.downcase.sub(/^\//, '').split('/')) unless $1.nil?  # Add path to page_dir Array
+    #page_dir.concat($1.downcase.sub(/^\//, '').split('/')) unless $1.nil?  # Add path to page_dir Array
     if extension.nil?
-      page_dir << filename
+      #page_dir << filename
       filename = "index"
     end
     extension ||= new_page_ext
-    page_dir = page_dir.map! { |d| d = d.to_url }.join('/')                # Sanitize path
+    #page_dir = page_dir.map! { |d| d = d.to_url }.join('/')                # Sanitize path
     filename = filename.downcase.to_url
 
-    mkdir_p page_dir
-    file = "#{page_dir}/#{filename}.#{extension}"
+    #mkdir_p page_dir
+    file = "#{filename}.#{extension}"
     if File.exist?(file)
       abort("rake aborted!") if ask("#{file} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
     end
