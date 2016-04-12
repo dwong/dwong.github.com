@@ -21,6 +21,7 @@ author:
 
 # Custom vars
 version:             1.0.0
+emailSubscription:   https://feedburner.google.com/fb/a/mailverify?uri=GoingTheWongWay&amp;loc=en_US
 
 # Plugins
 gems:
