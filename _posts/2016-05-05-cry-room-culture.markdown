@@ -13,6 +13,6 @@ We don't go on plane rides too often, but we do need to alter our social interac
 
 The problem is that while it separates the babies from the congregation, it also separates the parents.  This creates its own culture that is different from everyone else.  It's a culture where people don't stand when everyone else stands, and people can talk when only the pastor is talking.
 
-I can understand the thinking behind the cry room, but if I'm going to a church service then it's not so that I can hear other parents chat.  It's really hard to concentrate or participate when you're in the cry room (even if you _want_ to).  I'm not saying that I can always pay attention now that I'm out of the cry room, but at least now I won't be tempted to blame other people now.
+I can understand the thinking behind the cry room, but if I'm going to a church service then it's not so that I can hear other parents chat.  It's really hard to concentrate or participate when you're in the cry room (even if you _want_ to).  I'm not saying that I can always pay attention now that I'm out of the cry room, but at least I won't be tempted to blame other people now.
 
 On the other hand, I have no idea if going to a church service where the children sit with the parents is any better since I can only comment on what I've seen or experienced.  And I'm sure that no matter what church you go to you will find people who will try to not participate (see [Everybody Loves Raymond season 4, episode 14 "Prodigal Son"](http://amzn.to/1T3DTaj)).
