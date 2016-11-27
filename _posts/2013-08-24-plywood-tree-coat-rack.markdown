@@ -9,8 +9,8 @@ categories:
 ---
 Here is a fun and very functional little add on that I recently did:
 
-![Full Plywood Tree](http://img.gtww.net/2013/08_Tree_Hooks/1397/tree-1_0df0f71.jpg)
-![Hook Closeup](http://img.gtww.net/2013/08_Tree_Hooks/1397/tree-2_6688327.jpg)
+![Full Plywood Tree](https://img.gtww.net/2013/08_Tree_Hooks/1397/tree-1_0df0f71.jpg)
+![Hook Closeup](https://img.gtww.net/2013/08_Tree_Hooks/1397/tree-2_6688327.jpg)
 
 On top of all of that, it was super cheap to do (especially compared with just buying a premade set of hooks).  The cost breakdown was something like:
 

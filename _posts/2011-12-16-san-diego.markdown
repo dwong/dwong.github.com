@@ -17,11 +17,11 @@ tags:
 This was a trip to San Diego, CA that included the zoo, Hash House A Go Go, and a little beach time.
 
 <div class="galleria">
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/1_dfd5551.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/1_55cc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/2_7568022.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/2_9d4b.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/3_9053fa6.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/3_0c80.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/4_7cabf53.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/4_82ca.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/5_543546f.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/5_badc.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/6_61b4c64.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/6_315b.jpg"/></a>
-<a href="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/7_717b211.jpg"><img data-title="" data-description="" src="http://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/7_4bf9.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/1_dfd5551.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/1_55cc.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/2_7568022.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/2_9d4b.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/3_9053fa6.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/3_0c80.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/4_7cabf53.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/4_82ca.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/5_543546f.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/5_badc.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/6_61b4c64.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/6_315b.jpg"/></a>
+<a href="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/7_717b211.jpg"><img data-title="" data-description="" src="https://img.gtww.net/2011/10_SanDiego_Zoo/dec3/Thumbs/7_4bf9.jpg"/></a>
 </div>
