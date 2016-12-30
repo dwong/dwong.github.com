@@ -32,7 +32,7 @@ Here is the breakdown of the different types (at least in my mind):
   * **Nerd - intelligent, industrious, understands things**
 
 
-<div style="float:right;margin-left:20px;"><img style="display:block;" src="http://farm3.static.flickr.com/2261/2263814806_705169093b_o.jpg" alt="computer programming"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/mjryall/">Matt Ryall</a></em></div>
+<div style="float:right;margin-left:20px;"><img style="display:block;" src="https://farm3.static.flickr.com/2261/2263814806_705169093b_o.jpg" alt="computer programming"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/mjryall/">Matt Ryall</a></em></div>
 
 
 By day I'm a software engineer. (By night a superhero, but that's another matter.) So I'm obviously a little biased if I give a good definition for a word and also remind everyone that it can describe me. But whatever, it's what I actually think.
@@ -44,7 +44,7 @@ Some of them might not be like that, but those are the kind that will end up not
 In a general sense, nerds can be from all different backgrounds. But I think that they can generally be described as someone who is willing to study and do the work in order to learn the stuff. I'm not quite sure that someone who is naturally gifted with intelligence but who doesn't utilize it can be categorized as a nerd. No, I take that back. They cannot be categorized as a nerd. They're just smart and lazy. Really, how much worse can you get? I think that most people would rather be dumb and hard-working than smart and lazy.
 
 
-<div style="float:right;margin-left:20px;"><img style="display:block;" src="http://farm3.static.flickr.com/2042/2263025755_b6b8488e2f_o.jpg" alt="studying"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/sveinhal/">Pragmagraphr</a></em></div>
+<div style="float:right;margin-left:20px;"><img style="display:block;" src="https://farm3.static.flickr.com/2042/2263025755_b6b8488e2f_o.jpg" alt="studying"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/sveinhal/">Pragmagraphr</a></em></div>
 
 
 Nerds can often be found in libraries, hunched over books, or wondering aloud about their surroundings. "Nerd" seems to be used most often in a complimentary way when describing others.
@@ -61,7 +61,7 @@ Basically, nerds rule. They're even better when they know that they're nerds and
 So I mentioned before when talking about nerds that there are computer programmers who will end up not being very good at programming. Unlike the more kindly description that I have above about nerdy computer programmers, these geek programmers fall into another category. And yeah, that category is lower.
 
 
-<div style="float:right;margin-left:20px;"><img style="display:block;" src="http://farm3.static.flickr.com/2084/2263025783_bf718f63e3_o.jpg" alt="star trek guy"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/clausmorell/">ClausM</a></em></div>
+<div style="float:right;margin-left:20px;"><img style="display:block;" src="https://farm3.static.flickr.com/2084/2263025783_bf718f63e3_o.jpg" alt="star trek guy"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/clausmorell/">ClausM</a></em></div>
 
 
 In their work they will do things that they have no idea the meaning of. Unfortunately, they will sometimes correctly stab in the dark and get something right. That will only reinforce their thinking that their way is working. Stumbling, somehow they manage to get others to help them so that they eventually finish whatever it is that they're doing.
@@ -82,7 +82,7 @@ Still, geeks have their strong points. They are dedicated to what they like. The
 There's not really any two-ways about it, "dork" is not too good of a term. Obviously if someone is using it in an endearing fashion, it's not too bad. And if someone says it about themselves, it's usually in an amusing and self-deprecating way. But the term itself doesn't have too much positive spin on it.
 
 
-<div style="float:right;margin-left:20px;"><img style="display:block;" src="http://farm3.static.flickr.com/2374/2263963848_a332a98b72_o.jpg" alt="dork"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/crankymediaguy/">Cranky Media Guy</a></em></div>
+<div style="float:right;margin-left:20px;"><img style="display:block;" src="https://farm3.static.flickr.com/2374/2263963848_a332a98b72_o.jpg" alt="dork"></img><em style="font-size:.8em;">Courtesy of Flickr user <a href="http://flickr.com/photos/crankymediaguy/">Cranky Media Guy</a></em></div>
 
 
 Dorks are the type of people who will do silly things. That's not to say that they'll necessarily be the ones making grand gestures to make people laugh. But they are comfortable enough with themselves to do things like put a "dork" box on their head and laugh at themselves.
