@@ -10,7 +10,7 @@ categories:
 ---
 It's probably rare to have a manual transmission in this day and age, but I enjoy it.  Its scarcity probably also means that I wasn't able to find too much help online with a recent issue where my 2005 Toyota Tacoma was popping out of gear.  This would cause the RPMs to spike dramatically since I would unexpectedly be in neutral.  I eventually realized that I needed to change the shifter seat and bushing.
 
-1. Seat and bushing, respectively
+1. Seat and bushing, respectively.  I purchased mine at a local Toyota dealer for around $25 for both parts, but I found [one on Amazon](http://amzn.to/2kpad8j) that seems like it would work as well.
 ![Step 1](//img.gtww.net/2016/09_Tacoma_shifter/dfao/shifter-1-1-0a1fef8.jpg)
 2. Before any changes
 ![Step 2](//img.gtww.net/2016/09_Tacoma_shifter/dfao/shifter-2-1-363494f.jpg)
@@ -47,6 +47,5 @@ It's probably rare to have a manual transmission in this day and age, but I enjo
 
 References:
 
-- [Amazon - Toyota Tacoma shifter seat](http://amzn.to/2kpad8j)
 - [Instructable (for previous generation Tacoma)](http://www.instructables.com/id/Toyota-Tacoma-manual-transmission-pop-out-of-gear/)
 - [Tutorial to install short shifter (PDF)](http://www.gadgetonline.com/shifter.pdf)
