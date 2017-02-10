@@ -12,6 +12,7 @@ It's probably rare to have a manual transmission in this day and age, but I enjo
 
 1. Seat and bushing, respectively.  I purchased mine at a local Toyota dealer for around $25 for both parts, but I found [one on Amazon](http://amzn.to/2kpad8j) that seems like it would work as well.
 ![Step 1](//img.gtww.net/2016/09_Tacoma_shifter/dfao/shifter-1-1-0a1fef8.jpg)
+<!-- more -->
 2. Before any changes
 ![Step 2](//img.gtww.net/2016/09_Tacoma_shifter/dfao/shifter-2-1-363494f.jpg)
 3. Removed knob

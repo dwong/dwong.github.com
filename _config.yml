@@ -5,13 +5,13 @@ permalink:           /:title/
 
 # Setup
 title:               Going The Wong Way
-tagline:             I'm ALWAYS going the Wong way
-description:         > # this means to ignore newlines until "baseurl:"
-                     Derek Wong's blog.  A combination of images and thoughts from a
-                     software engineer in southern California.
+tagline:             "I'm ALWAYS going the Wong way"
+description:         "Derek Wong's blog.  A combination of images and thoughts from a
+                     software engineer in southern California."
 url:                 http://www.goingthewongway.com
 baseurl:             ''
 paginate:            5
+excerpt_separator:   <!-- more -->
 
 # About/contact
 author:
