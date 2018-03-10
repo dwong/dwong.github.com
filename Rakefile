@@ -6,7 +6,8 @@ require "stringex"
 ## -- Misc Configs -- ##
 
 public_dir      = "public"    # compiled site directory
-source_dir      = "source"    # source file directory
+source_dir      = "."    # source file directory
+gallery_dir      = "gallery"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
@@ -92,20 +93,21 @@ end
 desc "Create a new gallery in (filename)/index.#{new_page_ext}"
 task :new_gallery, :filename do |t, args|
   args.with_defaults(:filename => 'new-gallery')
+  page_dir = [gallery_dir]
   if args.filename.downcase =~ /(^.+\/)?(.+)/
     filename, dot, extension = $2.rpartition('.').reject(&:empty?)         # Get filename and extension
     title = filename
-    #page_dir.concat($1.downcase.sub(/^\//, '').split('/')) unless $1.nil?  # Add path to page_dir Array
+    page_dir.concat($1.downcase.sub(/^\//, '').split('/')) unless $1.nil?  # Add path to page_dir Array
     if extension.nil?
-      #page_dir << filename
+      page_dir << filename
       filename = "index"
     end
     extension ||= new_page_ext
-    #page_dir = page_dir.map! { |d| d = d.to_url }.join('/')                # Sanitize path
+    page_dir = page_dir.map! { |d| d = d.to_url }.join('/')                # Sanitize path
     filename = filename.downcase.to_url
 
-    #mkdir_p page_dir
-    file = "#{filename}.#{extension}"
+    mkdir_p page_dir
+    file = "#{page_dir}/#{filename}.#{extension}"
     if File.exist?(file)
       abort("rake aborted!") if ask("#{file} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
     end
