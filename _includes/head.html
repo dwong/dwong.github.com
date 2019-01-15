@@ -29,12 +29,18 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   
   <!-- JS -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1606076-1"></script>
   <script>
-    var _gaq=[["_setAccount","{{ site.google_analytics_tracking_id }}"],["_trackPageview"]],
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-1606076-1');
+  </script>
+  <script>
     disqus_shortname="{{ site.disqus_short_name }}",{% if page.comments == true %}disqus_identifier="{{ site.url }}{{ page.url }}",{% endif %}
     sc_project=2375202,sc_invisible=1,sc_security="1b55b1d6";
     function a(b){
       var c=document,d=c.createElement("script");d.async=true;d.src=b;c.getElementsByTagName('head')[0].appendChild(d);}
-    a("//www.google-analytics.com/ga.js");
   </script>
 </head>
