@@ -8,6 +8,9 @@ layout: default
     <span class="post-date">{{ page.date | date: "%b %e" }}</span>
     {{ content }}
   </div>
+  <section>
+    {% include post/amazon_ads.html %}
+  </section>
   {% if site.disqus_short_name and page.comments == true %}
   <section>
     <h1>Comments</h1>
