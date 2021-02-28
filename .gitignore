@@ -1,1 +1,6 @@
 _site
+# library management
+Gemfile.lock
+
+# cache
+.jekyll-cache
