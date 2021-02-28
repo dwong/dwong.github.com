@@ -11,7 +11,7 @@ As a software engineer, I get to write code and tell computers what to do.  Over
 
 I hung out with some friends, and they played bingo on the hour to pass the time.  A fun and engaging activity for adults and children to participate in no doubt.  I don't really remember how they generated the values, but they seemed to use a computer.  I tried searching online to see what else was available.  Lo and behold I didn't find a lot of great solutions.  So I built one!
 
-I present to you the [Bingo Number Generator](https://bingogenerator.app)!  I shouldn't take so much satisfaction from such a tiny web app, I'm just happy that I got it done and pushed live even while living a normal life with family and a day job.
+I present to you the [Bingo Number Generator](https://github.com/dwong/bingo-number-generator)!  I shouldn't take so much satisfaction from such a tiny web app, I'm just happy that I got it done and pushed live even while living a normal life with family and a day job.
 
 Happy bingo-playing!  (bingo-ing?)
 <div class="galleria">
