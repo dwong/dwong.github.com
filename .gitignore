@@ -43,3 +43,6 @@ bower_components
 
 # library management
 Gemfile.lock
+
+# cache
+.jekyll-cache
